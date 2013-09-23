@@ -1,0 +1,1229 @@
+
+CITY AND COUNTY OF SAN FRANCISCO
+MUNICIPAL CODE
+
+PARK CODE
+The San Francisco Municipal Code is current through Ordinance 190-13, File No. 130653, approved August 7, 2013, effective September 6, 2013.
+The Park Code was last amended by Ordinance 173-13, File No. 130548, approved August 2, 2013, effective September 1, 2013.
+
+
+The San Francisco Municipal Code:Charter
+Administrative Code
+Building, Electrical, Housing, Mechanical and Plumbing Codes
+Business and Tax Regulations Code
+Campaign and Governmental Conduct CodeEnvironment Code
+Fire Code
+Health Code
+Municipal Elections Code
+Park Code
+Planning Code
+Police CodePort Code
+Public Works Code
+Subdivision Code
+Transportation Code
+Zoning Maps
+Comprehensive Ordinance Table
+AMERICAN LEGAL PUBLISHING CORPORATION
+432 Walnut Street, Suite 1200
+Cincinnati, Ohio  45202-3909
+(800) 445-5588
+Fax: (513) 763-3562
+Email: customerservice@amlegal.com
+www.amlegal.com
+PREFACE TO THE PARK CODE
+	This electronic version of the City and County of San Francisco Municipal Code is updated as amending legislation is approved. New Ordinance Notices are inserted where applicable to call the user's attention to material that has been affected by legislation that has been passed but is not yet effective. Any references to such legislation are also compiled in a table at the end of this Code. The amendments are then incorporated into the Code when they become effective.
+	Beginning with ordinances passed in 2011, all ordinances affecting this Code are summarized in a table that lists the identifying information (ordinance and file numbers), effective date, short title, and sections affected for each such ordinance. Users should note that the operative date of an ordinance may be later than the effective date of the ordinance. A delayed operative date will be noted in the ordinance.
+	This Code may contain various Editor's Notes (explaining the disposition of or cross referencing various provisions), and/or Codification Notes (documenting scrivener's errors and the like found in the underlying ordinances). Such notes have been inserted by the publisher for the convenience of the user or as historical references. They have not been approved or adopted by the City and County of San Francisco, and are of no legal force or effect.
+Article1.TITLE2.DEFINITIONS3.REGULATIONS4.DISORDERLY CONDUCT5.ANIMALS6.TRAFFIC REGULATIONS7.PERMITS8.LAKE MERCED FISHING8B.UNITED NATIONS PLAZA8C.HALLIDIE PLAZA9.SEVERABILITY10.PENALTIES11.YERBA BUENA GARDENS12.FEES13.IMPLEMENTATION OF CHARTER SECTION 16.107
+ARTICLE 1:
+TITLE AND GENERAL PROVISIONS
+Sec. 1.01.Title.Sec. 1.05.Sutro Dunes.
+SEC. 1.01.  TITLE.
+	This Chapter, known as the "Park Code," is a portion of the San Francisco Municipal Code, and will be referred to in this Chapter as "this Code." 
+(Added by Ord. 603-81, App. 12/18/81)
+SEC. 1.05.  SUTRO DUNES.
+	The area known as "Parcel 4" located at the junction of the Great Highway and Balboa Street extending east to La Playa and north to join with Sutro Heights Park, shall be known as Sutro Dunes. 
+(Added by Ord. 46-10, File No. 091407, App. 3/12/2010)
+ARTICLE 2:
+DEFINITIONS
+Sec. 2.01."Park" Defined.Sec. 2.02."Commission" Defined.Sec. 2.03."General Manager" Defined.Sec. 2.04."Superintendent of Recreation and Superintendent of Parks" Defined.Sec. 2.05."Person" Defined.Sec. 2.06."Sign" Defined.Sec. 2.07."Vehicle" Defined.Sec. 2.08."Sightseeing Bus" Defined.Sec. 2.09."Park Patrol" Defined.
+SEC. 2.01.  "PARK" DEFINED.
+	(a)	When used in this Code, the word "park" shall mean and include all grounds, roadways, avenues, squares, recreation facilities, and other property placed under the control, management and direction of the Recreation and Park Commission by the Charter of the City and County of San Francisco, and the open space on the blocks bounded by Market, Folsom, Third and Fourth Streets which is under the control, management and direction of the Redevelopment Agency of the City and County of San Francisco, otherwise known as the "Yerba Buena Gardens," unless such word is otherwise defined within the section in which it appears. 
+	(b)	When used in Articles 3, 4 and 7 of this Code, the word "park" shall also include the area comprising Fulton Street between Hyde and Market Streets and Leavenworth Street between McAllister and Fulton Streets, which area was closed to vehicular traffic by San Francisco Board of Supervisors Resolution No. 373-73 and is otherwise known as United Nations Plaza, and the area that is bounded by the northwesterly line of Market Street, the southerly line of Eddy Street and the westerly line of Lot 13, Assessor's Block 341, and is otherwise known as Hallidie Plaza. The designation of United Nations Plaza and Hallidie Plaza as parks for purposes of Articles 3, 4 and 7 of this Code does not effect a jurisdictional transfer of these plazas, does not place these plazas under the jurisdiction and control of the Recreation and Park Commission and does not render these plazas "park land" or "park property" as those terms are used in any provision of the San Francisco Charter. 
+	(c)	When used in this Code, the word "park" also shall include portions of property owned by the State of California immediately under and adjacent to the portions of the Central Freeway located between Otis and Stevenson Streets and between Valencia and Stevenson Streets and partially bounded by Duboce Avenue referred to as "SoMa West Skatepark and Dog Park," to the extent such property is (1) leased by the City under leases with the State of California, acting by and through its Department of Transportation, authorized under San Francisco Board of Supervisors Resolution No. 160-13 and Resolution No. 161-13, and (2) depicted in such leases as the "skatepark" and the "dog park." The word "park" shall not include the portion of the leased property depicted in such leases as the "parking area." In designating SoMa West Skatepark and Dog Park as a "park" for purposes of this Code, the Board of Supervisors does not intend to place the leased property under the jurisdiction and control of the Recreation and Park Commission within the meaning of Charter Section 4.113, dedicate any of the leased property as "park land" or "park property" as those terms are used in any provision of the San Francisco Charter, or impose this Code on the State of California or its employees, agents, or contractors while engaging in the course and scope of their employment on the leased property. Rather, the intent is to authorize the Recreation and Park Department to manage the SoMa West Skatepark and Dog Park for the Real Estate Division for recreational use by the public and enforce the provisions of this Code on uses of the SoMa West Skatepark and Dog Park by the public, only while the leases referred to herein remain in effect.
+(Added by Ord. 603-81, App. 12/18/81; amended by Ord. 370-94, App. 11/4/94; Ord. 17-99, App. 2/12/99; Ord. 103-13, File No. 130226, App. 6/13/2013, Eff. 7/13/2013)
+Editor's Note:
+	Division (c) was added to this section by Ord. 103-13. Section 6(b) of that ordinance provides that "[t]his Ordinance shall become operative only upon approval by the Board of Supervisors of the resolutions referenced in Section 3 of this Ordinance on file with the Clerk of the Board of Supervisors in File No. 130384 and File No. 130385." Those resolutions, under the numbers 160-13 and 161-13, were adopted by the Board of Supervisors on May 21, 2013.
+SEC. 2.02.  "COMMISSION" DEFINED.
+	When used in this Code, the word "Commission" refers to the Recreation and Park Commission of the City and County of San Francisco. 
+(Added by Ord. 603-81, App. 12/18/81)
+SEC. 2.03.  "GENERAL MANAGER" DEFINED.
+	When used in this Code, the words "General Manager" refer to the General Manager appointed by the Recreation and Park Commission pursuant to the Charter of the City and County of San Francisco or to a person designated by the General Manager to act on his or her behalf. 
+(Added by Ord. 603-81, App. 12/18/81)
+SEC. 2.04.  "SUPERINTENDENT OF RECREATION AND SUPERINTENDENT OF PARKS" DEFINED.
+	When used in this Code, the words "Superintendent of Recreation" and "Superintendent of Parks" refer to the Superintendent of Recreation and Superintendent of Parks appointed by the General Manager, subject to the approval of the Commission, pursuant to the Charter of the City and County of San Francisco, or to persons designated to act on behalf of the Superintendent of Recreation or the Superintendent of Parks. 
+(Added by Ord. 603-81, App. 12/18/81)
+SEC. 2.05.  "PERSON" DEFINED.
+	The word "person" when used in this Code shall mean and include any person, association, partnership, firm or corporation. 
+(Added by Ord. 603-81, App. 12/18/81)
+SEC. 2.06.  "SIGN" DEFINED.
+	The word "sign" when used in this Code shall mean any literal, pictorial or symbolic representation, including, but not limited to, a written, printed, photocopied or painted message on any paper, cardboard, wood, metal, cloth, or other flat surface. 
+(Added by Ord. 603-81, App. 12/18/81)
+SEC. 2.07.  "VEHICLE" DEFINED.
+	When used in this Code, the word "vehicle" shall mean any device, in, upon, or by which a person or property is or may be propelled, moved or drawn upon a highway, excepting a device moved by human power or used exclusively upon stationary rails or tracks, and shall include, but not be limited to, the following: automobile, truck, motorcycle, motor-driven cycle, animal-drawn carriage, buckboard, cart, and minibike or bicycle when operated under engine power. 
+(Added by Ord. 603-81, App. 12/18/81)
+SEC. 2.08.  "SIGHTSEEING BUS" DEFINED.
+	When used in this Code, the words "sightseeing bus" shall mean any motor-propelled passenger-carrying vehicle for hire (other than a vehicle operated by the San Francisco Municipal Railway), used in the conveyance, for hire, of tourists and sightseers, over the public streets, for the purpose of a sightseeing trip or tour in the visiting and viewing of places of interest. 
+(Added by Ord. 603-81, App. 12/18/81)
+SEC. 2.09.  "PARK PATROL" DEFINED.
+	When used in this Code, the words "Park Patrol" refer to persons hired as employees of the Recreation and Park Department to patrol the areas under the jurisdiction of the Commission or any other areas that the Recreation and Park Department is managing for recreational purposes. 
+(Added by Ord. 603-81, App. 12/18/81; amended by Ord. 103-13, File No. 130226, App. 6/13/2013, Eff. 7/13/2013)
+Editor's Note:
+	This section was amended by Ord. 103-13. Section 6(b) of that ordinance provides that "[t]his Ordinance shall become operative only upon approval by the Board of Supervisors of the resolutions referenced in Section 3 of this Ordinance on file with the Clerk of the Board of Supervisors in File No. 130384 and File No. 130385." Those resolutions, under the numbers 160-13 and 161-13, were adopted by the Board of Supervisors on May 21, 2013.
+ARTICLE 3:
+REGULATIONS
+Sec. 3.01.Rules of Park Commission to Be Obeyed.Sec. 3.02.Signs To Be Obeyed.Sec. 3.03.Public May Be Excluded.Sec. 3.04.Bridle Paths.Sec. 3.05.Athletic Activities Prohibited in Certain Areas.Sec. 3.06.Launching Boats Prohibited. Sec. 3.07.Restrictions on Posting of Signs. Sec. 3.08.Personal Services. Sec. 3.09.Airplanes, Helicopters, Hot Air Balloons, etc. Prohibited. Sec. 3.10.Peddling and Vending Merchandise or Printed Material. Sec. 3.12.Camping Prohibited. Sec. 3.13.Sleeping Prohibited During Certain Hours. Sec. 3.14.Performance of Labor. Sec. 3.15.Building Materials. Sec. 3.16.Ground To Be Restored to Condition.Sec. 3.17.Warning Signals at Danger Points.Sec. 3.18.Periodic Assessment of City Parks and City Recreation Programs.Sec. 3.19.Water Use Efficiency and Recycled Water.Sec. 3.20.Sharp Park.
+SEC. 3.01.  RULES OF PARK COMMISSION TO BE OBEYED.
+	No person shall willfully disobey or violate any of the rules or regulations of the Recreation and Park Commission governing the use and enjoyment by the public of any park or of any building, structure, equipment, apparatus or appliance in any park, which rules or regulations, at the time, are posted in some conspicuous place in that area of the park or in or near the building, structure, equipment, apparatus or appliance to which the rule or regulation applies. 
+(Added by Ord. 603-81, App. 12/18/81)
+SEC. 3.02.  SIGNS TO BE OBEYED.
+	No person shall willfully disobey the notices, prohibitions or directions on any sign posted by the Recreation and Park Commission or the Recreation and Park Department. 
+(Added by Ord. 603-81, App. 12/18/81)
+SEC. 3.03.  PUBLIC MAY BE EXCLUDED.
+	In case of an emergency, or when in the judgment of the Recreation and Park Commission or the General Manager the public interest demands it, any portion of any park or park building therein may be closed to the public until such park area or building is reopened to the public by the Recreation and Park Commission or the General Manager; provided, however, that nothing in this Section shall authorize the General Manager to close any portion of any park building because of activities, existing or anticipated, engaged in for the purpose of expressing ideas or causes, which activities are protected by the First Amendment to the United States Constitution. 
+(Added by Ord. 603-81, App. 12/18/81)
+SEC. 3.04.  BRIDLE PATHS.
+	The bridle paths are maintained for the primary use of horses and riders and any person who walks, jogs, runs or otherwise makes use of a bridle path, or who propels or conveys a vehicle or a bicycle, cart, wagon or other object on a bridle path, or who allows any animal within his or her custody on a bridle path, must leave the bridle path or remove the vehicle, object or animal from the path whenever such action or removal is necessary in order to give way to horses and riders. This Section is not applicable to members of the Police Department in the performance of their duties. 
+(Added by Ord. 603-81, App. 12/18/81)
+SEC. 3.05.  ATHLETIC ACTIVITIES PROHIBITED IN CERTAIN AREAS.
+	In those areas of Golden Gate Park known as the Japanese Tea Garden, the Arboretum, and Conservatory Valley, no person shall participate in any athletic activity, including, but not limited to running, jogging, volleyball, baseball, soccer, football, roller skating, bicycle riding, skateboarding, or frisbee. The prohibition contained in this Section applies to running or jogging only when the person running or jogging does not remain on pedestrian paths. 
+(Added by Ord. 603-81, App. 12/18/81)
+SEC. 3.06.  LAUNCHING BOATS PROHIBITED.
+	No person shall launch a boat nor any type of watercraft in any lake in any park, except persons operating a boat concession pursuant to an agreement with the Recreation and Park Commission and the employees of such person; persons launching sailboats in Lake Merced; persons participating in special events organized by an educational institution with the permission of the Recreation and Park Department; and any other person acting pursuant to permission granted by the Recreation and Park Commission or the Recreation and Park Department. This Section shall not apply to the launching of toy or model boats. 
+(Added by Ord. 603-81, App. 12/18/81)
+SEC. 3.07.  RESTRICTIONS ON POSTING OF SIGNS.
+	(a)	No person shall post or affix to any tree, shrub, plant, fence, building, monument, wall, post, vehicle or other physical object in any park any written or printed material, including, but not limited to, signs, notices, handbills, circulars and pamphlets. 
+	(b)	Notwithstanding Section 3.07(a), signs may be posted in the following circumstances:
+		(1)	The California Academy of Sciences and the Fine Arts Museums of San Francisco may post signs concerning their operations, provided that the signs are posted in the immediate vicinity of the buildings under the control of these institutions and that the location or locations selected for the posting of the signs have been designated by the Recreation and Park Department as appropriate for such use by these institutions; 
+		(2)	Any person who has scheduled an event in any park pursuant to a permit from the Recreation and Park Department may erect or post signs on the day that the event is scheduled to occur giving directions to such event, provided that such person receive prior approval from the Department; 
+		(3)	Any person leasing Candlestick Park, Kezar Stadium or Pavilion, or Balboa Stadium may post signs on or about the premises leased informing the public of the event scheduled to occur, provided that the locations selected for such posting have been designated by the Recreation and Park Department as appropriate for such use, which designated location or locations for each facility shall be applicable to all lessees of such facility, and provided further, that such signs not be posted earlier than one week before the event is scheduled to occur nor later than one week after the event is over; 
+		(4)	Persons and organizations maintaining and operating recreational facilities on park property on a daily basis may post signs which identify the facilities which provide information pertaining to recreational activities, or which inform the public of events sponsored by such persons and organizations or of regulations governing such facilities, provided (A) that such signs are posted only on the facilities so operated and maintained, whether inside or outside and (B) that if they are posted outside, the organization receive prior approval from the Recreation and Park Department; 
+		(5)	The Recreation and Park Department may post signs in any park or in any facility in any park governing the public use of park property or informing the public of events sponsored by the Department. 
+	(c)	When a person or organization is required to obtain the prior approval of the Recreation and Park Department in order to post a sign in a park, the Department may withhold such approval only if it finds that the location of such sign or signs would harm public or private property, or inconvenience or endanger the public, or unduly cover or block park facilities. 
+	(d)	No sign which is posted pursuant to this Section shall be affixed to any tree, shrub or plant.
+(Added by Ord. 603-81, App. 12/18/81)
+SEC. 3.08.  PERSONAL SERVICES.
+	No person shall use any of the facilities or areas of any park for the purpose of providing tennis, golf, sailing, boating, baseball, jogging, horseback riding or other athletic instruction for compensation without first having obtained a permit, concession, license or lease from the Recreation and Park Commission. 
+(Added by Ord. 603-81, App. 12/18/81)
+SEC. 3.09.  AIRPLANES, HELICOPTERS, HOT AIR BALLOONS, ETC. PROHIBITED.
+	No person shall launch nor land any airplane, helicopter, parachute, hang glider, hot air balloon, nor any other machine or apparatus of aviation in any park, nor shall any person bring into any park any balloon with a diameter of more than six feet or a gas capacity of more than 115 cubic feet, without permission of the Recreation and Park Department. This Section shall not be applicable to a helicopter being used to transport persons or supplies because of an emergency situation. 
+(Added by Ord. 603-81, App. 12/18/81)
+SEC. 3.10.  PEDDLING AND VENDING MERCHANDISE OR PRINTED MATERIAL.
+	No person shall bring, or cause to be brought, for the purposes of sale or barter, or have for sale, or sell or exchange, or offer for sale or exchange any goods, wares, or merchandise in any park without first having obtained a permit, concession, license or lease from the Recreation and Park Department or Commission. 
+(Added by Ord. 603-81, App. 12/18/81)
+SEC. 3.12.  CAMPING PROHIBITED.
+	No person shall construct or maintain or inhabit any structure, tent or any other thing in any park that may be used for housing accommodations or camping, nor shall any person construct or maintain any device that can be used for cooking, except by permission from the Recreation and Park Department or Commission. 
+	No person shall modify the landscape in any way in order to create a shelter, or accumulate household furniture or appliances or construction debris in any park. 
+(Added by Ord. 603-81, App. 12/18/81; Ord. 12-08, File No. 071136, § 1, App. 1/31/2008)
+SEC. 3.13.  SLEEPING PROHIBITED DURING CERTAIN HOURS.
+	No person shall remain in any park for the purpose of sleeping between the hours of 8:00 p.m. and 8:00 a.m., except that special permission may be granted by the Recreation and Park Department to persons providing security services between said hours in any park or for other unusual events. 
+	A person cited under this section shall not be in violation of this section if: 1) he or she does not have an outstanding citation for violation of this section; and, 2) within 30 hours of issuance of the citation, her or she accepts Social Services offered by the City, another public entity, or a private, non-profit agency. For the purpose of this section, the term "Social Services" shall mean temporary or permanent housing, residential substance abuse treatment, Homeless Outreach Team Case Management services, or admission to a hospital or other residential facility for medical treatment. For purposes of this section, "outstanding citation" shall mean a citation that is not paid or that is under appeal. 
+(Added by Ord. 603-81, App. 12/18/81; Ord. 12-08, File No. 071136, § 1, App. 1/31/2008)
+SEC. 3.14.  PERFORMANCE OF LABOR.
+	No person, other than duly authorized personnel, shall perform any labor, on or upon any park, including, but not limited to, taking up or replacing soil, turf, ground, pavement, structure, tree, shrub, plant, grass, flower and the like, without permission of the Recreation and Park Department. 
+(Added by Ord. 603-81, App. 12/18/81)
+SEC. 3.15.  BUILDING MATERIALS.
+	No person shall place, pile, deposit or leave any building material in any park without first having obtained a permit to do so from the Recreation and Park Department. 
+(Added by Ord. 603-81, App. 12/18/81)
+SEC. 3.16.  GROUND TO BE RESTORED TO CONDITION.
+	Where work has been done in any park pursuant to a permit, the permittee shall repair, reconstruct, and put the ground in as good condition in all respects when the work shall have been completed or terminated or such permit shall have expired, as said ground was in when said permit was granted or said work commenced; the condition of the ground, site or place in the park where the work has been done pursuant to any permit shall be made satisfactory to the Superintendent of Parks, and on the completion of said work the permittee shall forthwith remove all buildings, structures, machinery or equipment used in connection with said work from the park. 
+(Added by Ord. 603-81, App. 12/18/81)
+SEC. 3.17.  WARNING SIGNALS AT DANGER POINTS.
+	Every person who does any act in any park, whether the act is done by that person or by an agent or at the person's direction, and whether the person is acting as principal, contractor, or employer, and by that act makes the park or any portion of it dangerous must erect and, so long as the danger continues, maintain around the portion of the park so made dangerous a good and substantial barrier, and shall maintain at appropriate places along such barrier, during every night, from sunset until daylight, flashing lights, flares or some other suitable light sufficient to give warning of said danger. 
+(Added by Ord. 603-81, App. 12/18/81)
+SEC. 3.18.  PERIODIC ASSESSMENT OF CITY PARKS AND CITY RECREATION PROGRAMS.
+	(a)	Beginning in the fiscal year 2003-2004, every five years the Recreation and Park Department shall conduct a survey of the public's opinion of the programs offered by the Recreation and Park Department, the condition of City parks and City recreational facilities under the jurisdiction of the Recreation and Park Department, and the need for changes to existing programs, parks, and recreational facilities. The Recreation and Park Department shall use the survey as a guide in its planning for park and facility renovation, acquisition and improvement, and for determining how to modify and expand its recreational programming. 
+	(b)	Within 90 days of completion of the survey, the Recreation and Park Department shall transmit to the Board of Supervisors a report of the results of the survey and the actions, if any, that the Department plans to take in response to the survey results. 
+	(c)	The Recreation and Park Department shall include the cost of the survey in its budget estimate for the fiscal year in which the survey will be conducted. 
+(Added by Ord. 247-98, App. 7/31/98)
+SEC. 3.19.  WATER USE EFFICIENCY AND RECYCLED WATER.
+	(a)	The Recreation and Park Department shall work with the San Francisco Public Utilities Commission (SFPUC) to maximize water use efficiency and non-potable water use on all property under the jurisdiction of the Recreation and Park Commission. The Department shall develop a schedule and identify funding sources to convert all Park facility Irrigation Systems to water efficient systems and non-potable water use, such as storm water and Recycled Water or Reclaimed Water, as those terms are defined in S.F. Public Works Code Article 22, in designated Recycled Water Use Areas as set forth in Public Works Code Section 1209. Subject to the availability of funds, such conversion is to be completed by 2013. 
+	(b)	Upon the effective date of this ordinance, the Department shall ensure that the design and construction of all renovation and/or rehabilitation of Park Irrigation Systems in areas designated as Recycled Water Use Areas are compatible with the delivery of Recycled Water. Additionally, the Department shall assess all Park Irrigation Systems for repairs and/or rehabilitation necessary to avoid waste and maximize water use efficiency. 
+	(c)	The Department shall install and maintain irrigation water meters at all Parks and golf courses to monitor water use and facilitate payment by the Department or golf course operator or lessee for all irrigation water used on each golf course. The Department shall ensure that each Park golf course uses Recycled Water made available to Park golf course facilities. The cost of potable or Recycled Water provided to golf course irrigation shall be included in the green fees established by the Department. 
+	(d)	No later than September 2009, the Department shall develop a Park Water Conservation Plan that identifies the top water consuming parks in the City, excluding park lands identified for recycled water and artificial turf conversion, and to develop measures and recommendations to install water use efficiency measures, such as retrofits to existing irrigation systems, new irrigation systems, automatic controllers and climate-appropriate plants. The Plan will include a schedule for implementation and budget recommendations. 
+	(e)	No later than December 2009, the Department shall prepare an "Irrigation System Retrofits" report that addresses the retrofits to Park Irrigation Systems, and associated capital costs, and identifies funding sources, that are required under Title 22 of the California Code of Regulations to enable SFRPD to irrigate city parks and golf courses with recycled water. 
+(Added by Ord. 52-09, File No. 081400, App. 4/8/2009)
+SEC. 3.20.  SHARP PARK.
+	(a)	No later than July 21, 2009, the Recreation and Park Department shall develop a plan, schedule and budget for restoring the habitat for the California red-legged frog (rana draytonii) and the San Francisco garter snake (Thamnophis sirtalis tetrataenia) in conformance with the Endangered Species Act, 16 U.S.C. 1531, et seq., and all other regulatory requirements; and for transferring Sharp Park to, or developing a joint management agreement with, the Golden Gate National Recreation Area, and the City of Pacifica and/or the County of San Mateo, in accordance with the deed granting Sharp Park to the City and County of San Francisco and San Francisco Administrative Code Section 23.41. The Department shall base such restoration plans on the best scientific information available, and shall include alternatives that (1) retain or redesign the golf course and (2) eliminate the golf course. 
+	(b)	No later than August 31, 2009. the Department shall provide to the Clerk of the Board of Supervisors a report detailing the steps taken, and the progress made, to achieve the goals set forth in subsection (a) above. 
+(Added by 85-09, File No. 090329, App. 5/21/2009)
+ARTICLE 4:
+DISORDERLY CONDUCT
+Sec. 4.01.Disorderly Conduct.Sec. 4.02.Swimming Restrictions.Sec. 4.03.Polluting Waters Prohibited.Sec. 4.04.Littering and Dumping of Waste Matter Prohibited.Sec. 4.05.Malicious Destruction of Property.Sec. 4.06.Removal of Trees, Wood, Etc.Sec. 4.07.Penalties for Violation of Section 4.06.Sec. 4.08.Interference with Recreation and Park Employees.Sec. 4.09.Certain Acts Prohibited—Candlestick, Kezar.Sec. 4.10.Alcoholic Beverages.Sec. 4.11.Persons Intoxicated by Alcohol or Drugs May Be Excluded.Sec. 4.12.Persons May Be Excluded Under Certain Circumstances.Sec. 4.13.Refusal to Obey Lawful Order.Sec. 4.14.Fighting, Disturbing Peace, Offensive Words.Sec. 4.15.Intoxication by Alcohol or Drugs.Sec. 4.16.Minors, Parents and Guardians of.Sec. 4.17.Skateboard Safety Requirements.
+SEC. 4.01.  DISORDERLY CONDUCT.
+	No person shall, in any park without permission of the Recreation and Park Department: 
+	(a)	Throw or propel objects of a potentially dangerous nature, including, but not limited to, stones, bottles, glass, cans or crockery; 
+	(b)	Fire or carry firearms of any size or description, or possess any instrument, appliance or substance designed, made or adopted for use primarily as a weapon, including, but not limited to, slingshots, clubs, swords, razors, billies, explosives, dirk knives, bowie knives or similar knives, except that this subsection shall not apply to a police or other peace officer; 
+	(c)	Fire or carry any firecracker, rocket, torpedo or other fireworks of any description (this subsection shall not be deemed to contradict any provisions contained in Chapter VIII (Police Code) of the San Francisco Municipal Code); 
+	(d)	Carry or use a model airplane which is powered by liquid fuel or designed to be used with such fuel;
+	(e)	Make, kindle, maintain or in any way use a fire except at places provided, designated and maintained by the Recreation and Park Department for such use; 
+	(f)	Climb or lie upon any tree, shrub, monument, wall, fence, shelter, fountain, statute, building, construction or structure;
+	(g)	Emit, eject, or cause to be deposited any excreta of the human body, except in proper receptacles designated for such purposes;
+	(h)	Expose his or her genitals, public hair, buttocks, perineum, anal region or public hair region or any portion of the female breast at or below the areola thereof, except that this section shall not apply to children under the age of five years; 
+	(i)	Enter a restroom or toilet set apart for use of the opposite sex, except children under the age of five years accompanied by a parent or guardian and duly authorized personnel for the purpose of inspection, maintenance or repair; 
+	(j)	Gain or attempt admittance to facilities in any park where a charge is made, without paying that charge;
+	(k)	Play any percussion instrument, including drums, at any time or location prohibited by resolution of the Recreation and Park Commission when a sign has been posted in the area affected to give notice of this prohibition, provided that such resolution does not unreasonably curtail the playing of such instruments in any area of the city; 
+	(l)	Enter into, or attempt to enter into, any animal enclosure or habitat at the San Francisco Zoological Gardens, or at the bison paddock in Golden Gate Park, without specific authorization by Zoo staff; 
+	(m)	Fail to follow all rules of the San Francisco Zoological Gardens, or any directions or instructions given by Zoo staff.
+(Added by Ord. 603-81, App. 12/18/81; Ord. 38-10, File No. 091441, App. 2/18/2010)
+SEC. 4.02.  SWIMMING RESTRICTIONS.
+	No person shall enter, wade or swim in the waters of any lake, pond, pool, tank, fountain or reservoir in any park except where permitted by regulation or special permission of the Recreation and Park Department. 
+(Added by Ord. 603-81, App. 12/18/81)
+SEC. 4.03.  POLLUTING WATERS PROHIBITED.
+	No person shall throw or place, or cause to be thrown or placed, any garbage, trash, refuse, paper, container, or nauseous or offensive matter into any pool, pond, tank, or fountain in any park. 
+	In addition, attention is called the fact that state law prohibits the littering or dumping of waste into lakes and other bodies of water. 
+(Added by Ord. 603-81, App. 12/18/81)
+SEC. 4.04.  LITTERING AND DUMPING OF WASTE MATTER PROHIBITED.
+	Attention is called to the fact that state law prohibits the littering or dumping of waste matter in any public park. 
+(Added by Ord. 603-81, App. 12/18/81)
+SEC. 4.05.  MALICIOUS DESTRUCTION OF PROPERTY.
+	Attention is called to the fact that state law prohibits the malicious defacement, damage or destruction of real or personal property. 
+(Added by Ord. 603-81, App. 12/18/81)
+SEC. 4.06.  REMOVAL OF TREES, WOOD, ETC.
+	No person shall remove or take away any tree, wood, bush, turf, shrub, flower, plant, grass, soil, rock, or anything of like kind from any park without permission of the Recreation and Park Department. 
+(Added by Ord. 603-81, App. 12/18/81)
+SEC. 4.07.  PENALTIES FOR VIOLATION OF SECTION 4.06.
+	(a)	Any person convicted of a violation of Section 4.06 of this Code shall be punished by a mandatory fine of not less than $50 nor more than $500 upon a first conviction, by a mandatory fine of not less than $100 nor more than $500 upon a second conviction and by a mandatory fine of not less than $150 nor more than $500 upon a third or subsequent conviction. 
+	(b)	The court shall, in addition, impose a civil penalty of an amount necessary to reimburse the Recreation and Park Department for the value of the tree, wood, bush, turf, shrub, flower, plant, grass, soil. compost, rock, water or other material removed as well as any labor expended to replant or otherwise restore the area affected. Any revenue collected as a civil penalty pursuant to this Section shall be credited to the Recreation and Park Department. 
+(Added by Ord. 603-81, App. 12/18/81)
+SEC. 4.08.  INTERFERENCE WITH RECREATION AND PARK EMPLOYEES.
+	No person shall, with malice, interfere with or in any manner hinder any employee of the Recreation and Park Department, the Department of Public Works or a duly authorized contractor while that person is engaged in constructing, repairing, or caring for any portion of the park or is otherwise engaged in the discharge of such employee's duties. 
+(Added by Ord. 603-81, App. 12/18/81)
+SEC. 4.09.  CERTAIN ACTS PROHIBITED—CANDLESTICK, KEZAR.
+	(a)	No person shall bring into or have in his possession within Candlestick Park Stadium, Kezar Stadium or Kezar Pavilion, any canned or bottled beverages or beer tappers, other than any vacuum bottle or other similar reusable container. This provision shall not apply to persons authorized by the Recreation and Park Commission to sell or otherwise make use of canned or bottled beverages within the areas described. 
+	(b)	No person shall throw, kick or cause to be thrown or kicked or otherwise placed in motion any ice, liquid, paper, can, bottle, container, cushion or other object within Candlestick Park Stadium, Kezar Stadium or Kezar Pavilion wherein a regularly scheduled athletic contest, exhibition or other special event is being presented. 
+(Added by Ord. 603-81, App. 12/18/81)
+SEC. 4.10.  ALCOHOLIC BEVERAGES.
+	(a)	Except as provided in Subsection 4.10(b), no person shall consume alcoholic beverages of any kind in any building, children's areas, swimming pool, restroom, or any of the following parks or portions of parks: 
+		Alice Chalmers Playground; 
+		Argonne Park; 
+		Bayview Playground; 
+		Bernal Playground; 
+		Boeddeker Park; 
+		Buchanan Street Mall; 
+		Buena Vista Park; 
+		Cayuga Playground; 
+		Chinese Playground; 
+		Civic Center Plaza; 
+		Crocker Amazon Playground; 
+		Duboce Park; 
+		Eureka Valley Recreation Center; 
+		Excelsior Playground; 
+		Franklin Square; 
+		Fulton Park; 
+		Garfield Square; 
+		Gilman Playground; 
+		The areas of Golden Gate Park consisting of: 
+			The Panhandle (bordered by Fell, Baker, Oak and Stanyan Streets), 
+			Stanyan Meadow Area (bordered by JFK Drive, Stanyan Street, Waller Street and Kezar Drive), 
+			Kezar Stadium Park (bordered by Waller Street, Stanyan Street, Frederick Street, Martin Luther King Junior Drive and Kezar Drive); 
+			Sharon Meadow north to John F. Kennedy, Jr. Drive, east to Kezar Drive, south to Kezar Drive, west to the tennis courts and the lawn bowling area; 
+		Hallidie Plaza; 
+		Hamilton Recreation Center; 
+		Hayes Valley Playground; 
+		Holly Park; 
+		Jefferson Square; 
+		Jose Coronado Playground; 
+		Joseph Conrad Square; 
+		Joseph Lee Recreation Center; 
+		Juri Commons Mini Park; 
+		Kimball Playground; 
+		Lang Field; 
+		Laurel Hill Playground; 
+		Lessing Sears Mini Park; 
+		Margaret Hayward Playground; 
+		McKinley Square; 
+		Merced Heights Playground; 
+		Mission Dolores Park; 
+		Mission Playground and Recreation Center; 
+		North Beach Playground; 
+		Oceanview Playground; 
+		Pine Lake Park; 
+		Pioneer Park; 
+		Portsmouth Square; 
+		Potrero del Sol Park; 
+		St. Mary's Recreation Center; 
+		St. Mary's Square; 
+		Silver Terrace Park; 
+		South Park; 
+		Sunnyside Conservatory; 
+		Union Square Park; 
+		United Nations Plaza; 
+		Upper Noe Recreation Center; 
+		Washington Square Park; 
+		Wawona Clubhouse; 
+		West Sunset Playground; 
+		Youngblood Coleman. 
+	(b)	The General Manager of the Recreation and Park Department or the Recreation and Park Commission may grant permission to consume alcohol in the parks and portions of parks where such activity is prohibited by Subsection (a), above, if the General Manager or the Commission determines that the consumption of alcohol will not interfere with the public's use and enjoyment of the park. However, neither the General Manager nor the Commission may grant permission to consume alcohol in children's play areas. 
+(Added by Ord. 603-81, App. 12/18/81; amended by Ord. 370-98, App. 12/18/98; Ord. 238-99, File No. 990682, App. 9/3/99; Ord. 170-00, File No. 000628, App. 7/7/2000; Ord. 228-01, File No. 010589, App. 11/30/2001; Ord. 54-07, File No. 061646, App. 3/23/2007; Ord. 2-08, File No. 070508, § 1, App. 1/14/2008) 
+SEC. 4.11.  PERSONS INTOXICATED BY ALCOHOL OR DRUGS MAY BE EXCLUDED.
+	Members of the San Francisco Police Department and Recreation and Park Department Employees, including members of the Park Patrol, are authorized to order persons to stay out of, or to leave, any park, or any facility, building or structure therein, when such officers or employees have reasonable cause to conclude that the person so ordered is under the influence of intoxicating liquor, any drug, or any "controlled substance" as that term is defined and described in the California Health and Safety Code, or any combination of any intoxicating liquor, drug, or controlled substance, and is in such a condition that he or she is unable to exercise care for his or her own safety or the safety of others or interferes with or obstructs or prevents the free use of park property. 
+(Added by Ord. 603-81, App. 12/18/81)
+SEC. 4.12.  PERSONS MAY BE EXCLUDED UNDER CERTAIN CIRCUMSTANCES.
+	Members of the San Francisco Police Department and Recreation and Park Department employees, including members of the Park Patrol, are authorized to order any person to stay out of or to leave any park, or any facility, building or structure therein, when such officers or employees have reasonable cause to conclude that the person: 
+	(a)	Is consuming alcoholic beverages in violation of Section 4.10 of this Code;
+	(b)	Is using any drug or controlled substance, as defined above, or any combination of any intoxicating liquor, drug, or controlled substance; or 
+	(c)	Is doing any act injurious to any park or any building, structure or facility therein;
+	(d)	While using any athletic facility or area, disobeys any rule or regulation governing such area or facility after being warned not to do so by a Recreation and Park Department employee, including members of the Park Patrol, when the employee has reasonable cause to conclude that such behavior damages or risks damage to park property or interferes with the use and enjoyment of such area or facility by other persons; or 
+	(e)	Behaves in so noisy, boisterous or rowdy a manner as to disturb spectators or participants at an athletic event.
+(Added by Ord. 603-81, App. 12/18/81; amended by Ord. 79-00, File No. 981556, App. 5/5/2000)
+SEC. 4.13.  REFUSAL TO OBEY LAWFUL ORDER.
+	It shall be unlawful for any person to refuse to obey the lawful order of a police officer or an employee of the Recreation and Park Department made pursuant to Section 4.14 of this Code. 
+(Added by Ord. 603-81, App. 12/18/81)
+SEC. 4.14.  FIGHTING, DISTURBING PEACE, OFFENSIVE WORDS.
+	Attention is called to the fact that State law prohibits unlawful fighting in public places, the malicious and wilful disturbance of others by loud and unreasonable noise, and the use of offensive words in a public place which are inherently likely to provoke an immediate violent reaction. 
+(Added by Ord. 603-81, App. 12/18/81)
+SEC. 4.15.  INTOXICATION BY ALCOHOL OR DRUGS.
+	Attention is called to the fact that State law provides that any person in a public place who is under the influence of intoxicating liquor, drugs, or certain specified substances and endangers himself or others or interferes with the free use of a public way is guilty of disorderly conduct. 
+(Added by Ord. 603-81, App. 12/18/81)
+SEC. 4.16.  MINORS, PARENTS AND GUARDIANS OF.
+	No parent, guardian or custodian of a minor shall permit or allow such minor to do any act or thing in any park prohibited by the provisions of this Code. 
+(Added by Ord. 603-81, App. 12/18/81)
+SEC. 4.17.  SKATEBOARD SAFETY REQUIREMENTS.
+	Any person riding a skateboard in any facility owned or operated by the City and County that is designed and maintained for the purpose of recreational skateboard use ("skateboard facility") must wear a helmet, elbow pads, and knee pads. At each skateboard facility the Recreation and Park Department shall post signs affording reasonable notice of the requirements of this section. 
+(Added by Ord. 123-00, File No. 000531, App. 6/2/2000)
+ARTICLE 5:
+ANIMALS
+Sec. 5.01.Dogs, Cats, Horses Only Allowed.Sec. 5.02.Animals Prohibited from Certain Areas.Sec. 5.03.Cats Must Be on Leash or in Transport Box. Sec. 5.04.Horses. Sec. 5.05.Vicious Animals Prohibited.Sec. 5.06.Abandonment of Animals Prohibited.Sec. 5.07.Feeding Animals Prohibited. Sec. 5.08.Disturbing Animals, Birds, Fish Prohibited; Exceptions. Sec. 5.09.Keeping of Elephants
+SEC. 5.01.  DOGS, CATS, HORSES ONLY ALLOWED.
+	No person shall lead, drive, conduct or otherwise bring or allow to remain in any park any animal, bird, fish or reptile other than horses, dogs and domestic cats. This Section shall not apply to duly authorized employees performing duties for the Zoological Park or the Aquarium, nor to persons acting pursuant to a permit from the Recreation and Park Department or the Recreation and Park Commission when the permit allows the presence of such animal, bird, fish or reptile. 
+(Added by Ord. 603-81, App. 12/18/81)
+SEC. 5.02.  ANIMALS PROHIBITED FROM CERTAIN AREAS.
+	No person, other than members of the Police Mounted Detail when on duty, shall, in any park, allow any animal in his or her custody to enter any building, the Zoological Gardens, or those areas of Golden Gate Park known as the Arboretum, Japanese Tea Garden and Conservatory Valley, or any playground, sandbox or other area reserved for children, or to enter or drink the water of any drinking fountain, lake or pond, except at places designated and maintained for such purpose. Notwithstanding the above provision, a blind person may enter buildings, the Arboretum, Japanese Tea Garden and Conservatory Valley with a guide dog. 
+(Added by Ord. 603-81, App. 12/18/81)
+SEC. 5.03.  CATS MUST BE ON LEASH OR IN TRANSPORT BOX.
+	No person shall carry, lead, conduct or otherwise bring or allow to remain in any park a domestic cat unless the animal is on leash not exceeding six feet in length or in an animal transport box equipped with vent holes capable of providing the animal with sufficient air. 
+(Added by Ord. 603-81, App. 12/18/81)
+SEC. 5.04.  HORSES.
+	No person shall: 
+	(a)	Lead, drive, entice, conduct or otherwise bring any horse into any park other than horses attached to vehicles being driven by the person in charge or horses being used for riding purposes; 
+	(b)	Ride, drive or conduct a horse in any park except upon designated bridle paths and roadways;
+	(c)	Ride, drive or conduct a horse in a reckless manner;
+	(d)	Let loose or permit a horse to run at large.
+	Attention is called to Part II, Chapter VIII of the San Francisco Municipal Code (Police Code), pertaining to the regulation of horseback riding in public places. 
+(Added by Ord. 603-81, App. 12/18/81)
+SEC. 5.05.  VICIOUS ANIMALS PROHIBITED.
+	No person shall keep or permit to remain in any park a noisy, vicious, or dangerous animal or an animal which unduly disturbs other persons in the park. 
+(Added by Ord. 603-81, App. 12/18/81)
+SEC. 5.06.  ABANDONMENT OF ANIMALS PROHIBITED.
+	No person shall abandon any animal in any park. 
+(Added by Ord. 603-81, App. 12/18/81)
+SEC. 5.07.  FEEDING ANIMALS PROHIBITED.
+	(a)	It shall be unlawful for any person to feed or offer to any animal in any park any substance which would be likely to be harmful to it. 
+	(b)	It shall be unlawful for any person to feed, or offer food or any substance to any animal in any park which is wild by nature and not customarily domesticated in the City and County of San Francisco. However, the Recreation and Park Commission may authorize the feeding of certain animals or birds in specified areas. 
+	(c)	It shall unlawful for any person to feed, or offer food or any substance to any animal in the San Francisco Zoological Gardens without specific authorization from Zoo staff. 
+(Added by Ord. 603-81, App. 12/18/81); Ord. 38-10, File No. 091441, App. 2/18/2010)
+SEC. 5.08.  DISTURBING ANIMALS, BIRDS, FISH PROHIBITED, EXCEPTIONS.
+	Except as provided in Article 7, Chapter VIII (Police Code) of the San Francisco Municipal Code, it shall be unlawful for any person, including City and County of San Francisco, its officers, employees or agents, to hunt, chase, shoot, trap, discharge or throw missiles at, harass, disturb, taunt, endanger, capture, injure, or destroy any animal in any park, including the bison paddock, and the San Francisco Zoological Gardens, or to permit any animal in such person's custody or control to do so; provided, however, that any mole or any gopher, mouse, rat or other rodent which is determined by the Superintendent of Parks to be a nuisance may be destroyed by said Superintendent or a designated representative; and provided, further, that any animal other than a mole or a gopher, mouse, rat or other rodent which is determined by said Superintendent to be a nuisance or a hazard to persons using said areas or to be a hazard to plants or other horticulture, may, in a humane manner, be live trapped by said Superintendent and delivered to the Animal Control Officer for disposition pursuant to the provisions of Sections 41.7 through 41.9, inclusive, of Article 1, Chapter V (Health Code) of the San Francisco Municipal Code. The provisions of this Section are intended to prohibit fishing in any park other than fishing in Lake Merced pursuant to a license obtained pursuant to Article 8 of this Code or in any other area designated by Commission resolution as a fishing area. 
+	The provisions of this Section shall not be applicable to the destruction of any animal in any park where such animal poses an immediate and serious threat to persons or property or is suffering excessively. 
+(Added by Ord. 603-81, App. 12/18/81; Ord. 38-10, File No. 091441, App. 2/18/2010)
+SEC. 5.09.  KEEPING OF ELEPHANTS.
+	Before any City department or contractor may keep one or more African (Loxodonta africana) or Asian (Elephas maximus) elephant(s) at the SanFrancisco Zoo, the department or contractor must request permission from the City (by resolutions approved by the Recreation and Park Commission and the Board of Supervisors) to keep such elephant(s). In such resolutions the department or contractor must also obtain approval by the Commission and Board of a plan submitted by the department or contractor for Elephant Habitat Standards that includes an area of at least 15 acres, and the department or contractor must agree to complete the Commission and Board approved plan before bringing any elephants to the Zoo. The City department or contractor shall, before requesting such permission: 
+	1.	Complete refurbishments to the bear, rhinoceros and hippopotamus housing facilities, these improvements having been identified by the Budget Analyst as a priority in his 2003 Performance Audit of the Zoo; and 
+	2.	Complete refurbishments to the grey seal and sea lion exhibits, these improvements having been identified by the Budget Analyst as a priority in his 2003 Performance Audit of the Zoo. 
+	In addition, the City department or contractor shall provide annual updates to the Board of Supervisors and the Recreation and Park Commission on the status of improvement at the Zoo, beginning in November of 2005. 
+(Added by Ord. 305-04, File No. 041461, App. 12/24/2004)
+ARTICLE 6:
+TRAFFIC REGULATIONS
+Sec. 6.01.Operation and Parking of Vehicles.Sec. 6.01.1.Limitation on travel lanes for motor vehicles over portions of Martin Luther King Jr. Drive and Ninth Avenue in Golden Gate Park.Sec. 6.02.Towing of Vehicles.Sec. 6.03.Parking of Customer's Vehicles in Golden Gate Park.Sec. 6.04.Certain Business Vehicles Prohibited from Golden Gate Park.Sec. 6.05.Commercial Vehicles Prohibited.Sec. 6.06.Parking of Sightseeing Buses.Sec. 6.07.Funeral Procession Routes.Sec. 6.08.Transportation of Residential or Commercial Garbage.Sec. 6.09.Soliciting Passengers for Vehicles Prohibited.Sec. 6.10.Penalties.Sec. 6.11.Exceptions.Sec. 6.12.Disability Access Standards and Authorized Vehicular Traffic Use for Golden Gate Park During Sunday Road Closures.Sec. 6.13.Prohibition on Motor Vehicle Traffic in Golden Gate Park on Saturdays.Sec. 6.14.Authorization of the San Francisco Municipal Transportation Agency.
+SEC. 6.01.  OPERATION AND PARKING OF VEHICLES.
+	(a)	No person shall drive or propel any vehicle within any park except upon the paved roads, driveways, and highways provided or unpaved roads designated by sign or signal for use by such vehicular traffic; 
+	(b)	All persons operating vehicles must drive or propel them in a careful manner, at a lawful rate of speed, and in accordance with the rules and regulations of the Recreation and Park Commission, San Francisco Traffic Code and California Vehicle Code; 
+	(c)	No person shall drive or propel any vehicle on any planted area or on any access road or unpaved service road or firetrail in any park; 
+	(d)	No person shall park any vehicle on any lawn, or planted area, or unimproved area or on any pedestrian or equestrian lane, or on any access road or unpaved service road or firetrail or in any manner so as to block access to or exit from any service road or access road or firetrail, or in any other place in the park where the rules and regulations of the Recreation and Park Commission prohibit vehicular parking, unless allowed otherwise by permit; 
+	(e)	No person shall wash, grease, or repair any vehicle in any park except insofar as repairs may be necessary for the immediate removal of any damaged or disabled vehicle from the park; 
+	(f)	No vehicle shall be parked on any road, place or highway in any park except on the extreme right side of said road, place or highway and immediately adjacent to any curb or any planted portion of the park; provided, however, that the Recreation and Park Commission shall have full power and authority to set aside suitable space for the parking of any vehicle off any road, place or highway. The extreme right side of said road, place or highway shall be deemed to be the right-hand side of any road, place or highway as measured or applied in the direction in which any vehicle is traveling. Nothing in this Section shall be deemed to prohibit parking on the extreme left side of any one-way road or highway, provided such parking is otherwise permitted, which side shall be deemed to be the left-hand side of any road or highway as measured or applied in the direction in which any vehicle is traveling. 
+	(g)	No person shall park any automobile or any other vehicle, including a house trailer, whether attended or unattended, in any park, other than the Marina Green, between the hours of 10:00 p.m. and 6:00 a.m., except (1) when attending an event or function authorized by the Recreation and Park Department, and then only when the person parks the vehicle in an area specifically designated for such parking in connection with said event or function; (2) when such parking is necessary because of an emergency, such as a flat tire or other mechanical failure, in which case the vehicle shall not be parked any longer than necessary; or (3) when a sign is posted or notice is otherwise provided that parking is permitted in a designated area between 10:00 p.m. and 6:00 a.m., or some portion of those hours. 
+	(h)	No person shall park any automobile or any other vehicle, including a house trailer, whether attended or unattended, at the Marina Green between the hours of 10:00 p.m. and 6:00 a.m., unless (1) such person has watercraft moored at Yacht Harbor and has displayed on the vehicle an official permit authorizing such parking from the Recreation and Park Department or (2) such parking is necessary because of an emergency, such as a flat tire or other mechanical failure, in which case the vehicle shall not be parked any longer than necessary. 
+	(i)	No person shall, in any park, allow any automobile or other vehicle to remain parked in any parking lot which is open for public use and for which a fee is charged for parking, including, but not limited to Kezar Parking Lot, for a period of more than 24 hours after the expiration of the period for which a fee is charged, unless otherwise allowed by permit. 
+	(j)	No person shall park any "oversized vehicle," defined herein as any vehicle longer than 19 feet and/or wider than seven feet, eight inches, whether attended or unattended in Kezar Parking Lot, unless allowed otherwise by permit. 
+	(k)	No person shall, in any park, allow any automobile or any other vehicle that is disabled to remain parked in any parking lot which is open for public use and for which a fee is charged for parking, including but not limited to Kezar Parking Lot, unless otherwise allowed by permit. 
+(Added by Ord. 603-81, App. 12/18/81; amended by Ord. 428-86, App. 10/31/86; Ord. 192-88, App. 5/5/88)
+SEC. 6.01.1.  LIMITATION ON TRAVEL LANES FOR MOTOR VEHICLES OVER PORTIONS OF MARTIN LUTHER KING JR. DRIVE AND NINTH AVENUE IN GOLDEN GATE PARK.
+	The portions of the streets in Golden Gate Park, now known as Martin Luther King, Jr. Drive and Ninth Avenue, commencing at the entrance to Golden Gate Park at Ninth Avenue and Lincoln Way and extending to the intersection of Martin Luther King Jr. Drive and Concourse Drive in the vicinity of the Music Concourse, shall not provide for more than one lane in each direction for motor vehicle through traffic. Nothing in this Section shall be deemed to prohibit the use of the remainder of such street for any combination of parking for motor vehicles or bicycle- or public transit-only traffic. 
+(Added by Proposition G, 11/8/2005)
+SEC. 6.02.  TOWING OF VEHICLES.
+	Whenever any member of the San Francisco Police Department, employee or lessee authorized by the Recreation and Park Department or Commission finds any vehicle parked in violation of Sections 601(d), (e), (f), (g), (h), (i), (j), or (k) of this Code, such officer, employee or lessee may provide for the removal of such vehicle, so long as signs have been posted to inform the public that vehicles so parked are subject to removal and, with respect to Section 601(i), so long as there is an attendant on duty or other facilities permitting the patron to pay or remit the parking charges at the time the vehicle is first parked. 
+	The procedure for removal and impounding of vehicles shall be as is provided for in applicable provisions of the San Francisco Traffic Code and Sections 22850 to 22855 of the California Vehicle Code. 
+	Moreover, any vehicle stopped, parked or left standing in such a manner as to violate Sections 6.01(d), (e), (f), (g), (h), (i), (j), or (k) of this Code is an obstruction to the free use of property and a nuisance within the meaning of Part III of the Civil Code of California relating to nuisances and the abatement thereof. 
+(Added by Ord. 603-81, App. 12/18/81; amended by Ord. 428-86, App. 10/31/86)
+SEC. 6.03.  PARKING OF CUSTOMER'S VEHICLES IN GOLDEN GATE PARK.
+	It is unlawful for any person who operates or is employed by a business, including but not limited to, an auto repair business, which has custody of vehicles belonging to persons other than those who own or are employed by the business, to park any such vehicle in Golden Gate Park. 
+(Added by Ord. 603-81, App. 12118/81)
+SEC. 6.04.  CERTAIN BUSINESS VEHICLES PROHIBITED FROM GOLDEN GATE PARK.
+	It shall be unlawful for any person who operates or is employed by a business which is located within one mile of Golden Gate Park to park in Golden Gate Park within one mile of such business location a vehicle having thereon or attached thereto any exposed matter advertising such business or containing the name of such business. 
+(Added by Ord. 603-81, App. 12/18/81)
+SEC. 6.05.  COMMERCIAL VEHICLES PROHIBITED.
+	No person shall bring or cause to be brought into any park any vehicle designed, used or maintained primarily for the transportation of goods, wares, merchandise, soil, building material or other article or thing of commerce or trade, except by (1) the transverse road across Golden Gate Park between Lincoln Way at Nineteenth Avenue and Fulton Street at Park-Presidio Boulevard and/or Twenty-fifth Avenue, or (2) upon Stanyan Street between Fell Street and Oak Street, unless such person is bringing such vehicle into a park by permission of the Recreation and Park Department. 
+(Added by Ord. 603-81, App. 12/18/81)
+SEC. 6.06.  PARKING OF SIGHTSEEING BUSES.
+	No person shall park a sightseeing bus in Golden Gate Park unless such person (1) has obtained a permit from the Recreation and Park Department and paid any fee which may be required by the Department for the issuance of such permit and (2) parks in an area which has been designated by the Commission as a parking area for sightseeing buses, either by the posting of a sign or by written notice kept on file with the Secretary of the Commission and made available to any interested person upon request. 
+(Added by Ord. 603-81, App. 12/18/81)
+SEC. 6.07.  FUNERAL PROCESSION ROUTES.
+	No funeral precession, hearse, nor any vehicle designed for or carrying the body of a deceased person shall enter Golden Gate park except (1) by the transverse road across Golden Gate Park between Lincoln Way at Nineteenth Avenue and Fulton Street at Park-Presidio Boulevard and/or Twenty-fifth Avenue, or (2) upon Stanyan Street between Fell Street and Oak Street or (3) upon Main Drive from the Stanyan Street entrance to the park to Kezar Drive and along Kezar Drive to Lincoln Way. 
+(Added by Ord. 603-81, App. 12/18/81)
+SEC. 6.08.  TRANSPORTATION OF RESIDENTIAL OR COMMERCIAL GARBAGE.
+	It is unlawful to transport residential or commercial garbage in any vehicle within the confines of any park. "Garbage" shall include, but not be limited to, the following: Dry or wet fill, emptied food containers, metallic machinery parts, auto parts, refuse, offal, vegetables, paper, dirt, remains of food, newspapers, filth or rubbish. This Section shall not apply to an authorized scavenger service which is servicing any facility or area in any park. 
+(Added by Ord. 603-81, App. 12/18/81)
+SEC. 6.09.  SOLICITING PASSENGERS FOR VEHICLES PROHIBITED.
+	No person shall solicit or arrange or contract or make any agreement for or establish or maintain any stand or other equipment for procuring customers or passengers for any carriage, coach, automobile, bus or other vehicle, let or used for hire, in any park without first having obtained a permit to do so from the Recreation and Park Commission. Nor shall any person drive or park a taxicab in any park for the purpose of procuring customers unless such person is responding to a call for a taxicab. 
+(Added by Ord. 603-81, App. 12/18/81)
+SEC. 6.10.  PENALTIES.
+	A person who violates Section 6.01(c), (d), (e), (f) or (g) of this Code shall be guilty of an infraction and upon conviction thereof shall be punished for the first offense by a fine not to exceed $50; for the second offense committed within a one-year period by a fine not to exceed $100; for a third and each additional offense committed within a one-year's period by a fine not to exceed $250. 
+	This Section shall not be deemed to contradict Section 6.02 of this Code concerning the towing of vehicles in violation of Section 601(d), (f) or (g). 
+(Added by Ord. 603-81, App. 12/18/81)
+SEC. 6.11.  EXCEPTIONS.
+	The provisions of this Article shall not apply to any person employed by the City and County of San Francisco, the State of California, or the United States Government while in the discharge of authorized duties and while operating an official vehicle or any other vehicle with an appropriate permit displayed. 
+(Added by Ord. 603-81, App. 12/18/81)
+SEC. 6.12.  DISABILITY ACCESS STANDARDS AND AUTHORIZED VEHICULAR TRAFFIC USE FOR GOLDEN GATE PARK DURING SUNDAY ROAD CLOSURES.
+	(a)	Findings and Purpose.
+		(i)	Golden Gate Park was created more than 100 years ago to provide a sanctuary from the pressures of urban life. Golden Gate Park remains an irreplaceable resource of open space for visitors to and residents of San Francisco, especially those families for whom it is difficult to travel out of the City for recreation. 
+		(ii)	For more than 30 years, Sunday and holiday closure to motor vehicles of a portion of John F. Kennedy Drive, approximately 1.5 miles in length, between Kezar Drive and Transverse Drive, and closure of portions of adjacent roads connecting with that portion of John F. Kennedy Drive, has been one of the most popular attractions in Golden Gate Park, attracting hundreds of thousands of people each year from every neighborhood, racial/ethnic group, age category, and income level. 
+		(iii)	Proposition J. the Golden Gate Park Revitalization Act of 1998, adopted by San Francisco voters on June 2, 1998, has as one of its primary purposes to take steps to reduce the impact of automobiles in Golden Gate Park while still providing long-term assurance of safe, reliable, and convenient access for visitors to the Park. This goal remains of paramount importance in ensuring that Golden Gate Park is scenically beautiful, environmentally sensitive, culturally diverse, and accessible to all. 
+		(iv)	Concerns about ensuring automobile access to the cultural institutions in the Golden Gate Park Concourse area, including the M.H. de Young Memorial Museum and the California Academy of Sciences ("CAS"), have been addressed by the construction of an underground parking garage in the Concourse area pursuant to the aforementioned Proposition J. 
+	(b)	Disability Access Standards. The following disability access standards shall apply to the Sunday and holiday road closures of John K. Kennedy Drive and related roads. 
+		(i)	Disability access to Golden Gate Park shall comply with the Americans with Disabilities Act and the Golden Gate Park Revitalization Act of 1998. 
+		(ii)	All vehicular access points to the areas of closure shall contain directional signage that describes all access points and accessible surface parking areas for people with disabilities and provides directions to the underground parking facility in the Music Concourse. Signage also shall include telephone and TTY/TDD contact numbers where callers can obtain information on disability access during the road closure periods. 
+		(iii)	The Department, in consultation with the Department of Parking and Traffic, Fine Arts Museums, Golden Gate Park Concourse Authority, and Mayor's Office on Disability, shall explore and adopt disability access measures. Such measures may include, but are not limited to: 
+			(A)	The provision of eight (8) accessible parking spaces on 8th Avenue between Fulton Street and John F. Kennedy Drive during the closure period. 
+			(B)	An additional ten (10) accessible parking spaces to assist with access to the road closure areas.
+			(C)	A signed drop-off zone for people with disabilities on Bowling Green Drive as close as practicable to its intersection with John F. Kennedy Drive. 
+			(D)	An authorized intra-park transit shuttle that is accessible and operates frequently on the closed sections of John F. Kennedy Drive, additional accessible parking spaces and additional signed drop-off zones for people with disabilities outside of the area of closure. 
+	(c)	Exempt Motor Vehicles. The following motor vehicles are exempt from the Sunday road closures: 
+		(i)	Emergency vehicles, including but not limited to police and fire vehicles;
+		(ii)	Official City, State, or federal vehicles, or any other authorized vehicle, being used to perform official City, State, or federal business pertaining to Golden Gate Park or any property or facility therein, including but not limited to vehicles of the Recreation and Park Department and construction vehicles authorized by the Recreation and Park Department; and 
+		(iii)	Authorized intra-park transit shuttle buses or similar authorized vehicles used to transport persons within Golden Gate Park.
+	(d)	Emergency Authority. The General Manager of the Recreation and Park Department shall have the authority to allow traffic on roads that would otherwise be closed in accordance with this Section in circumstances which in the General Manager's judgment constitute an emergency such that the benefit to the public from the street closure is outweighed by traffic burden or public safety hazard created by the emergency circumstances. 
+(Added by Ord. 229-06, File No. 060701, App. 9/14/2006)
+SEC. 6.13.  PROHIBITION ON MOTOR VEHICLE TRAFFIC IN GOLDEN GATE PARK ON SATURDAYS.
+	(a)	Findings and Purpose.
+		(i)	This legislation supports and is in furtherance of the findings set forth in Section 6.12.
+		(ii)	The public interest will be served by a Saturday closure of John F. Kennedy Drive, between Transverse Drive and the western side of Hagiwara Tea Garden Drive, and closure of Stow Lake Drive East connecting with that portion of John F. Kennedy Drive. 
+		(iii)	Saturday road closures are necessary for the safety and protection of persons who would use these roads during the closures.
+	(b)	Saturday Road Closures. The following roads in Golden Gate Park shall be closed to motor vehicle traffic on Saturdays, from 6:00 a.m. to 6:00 p.m. Pacific Standard Time and Pacific Daylight Time, subject to the inclement weather condition protocols that apply to the current Sunday road closures: John F. Kennedy Drive between Transverse Drive and the western side of Hagiwara Tea Garden Drive and Stow Lake Drive between Stow Lake Drive East and John F. Kennedy Drive. The Recreation and Park Department, with the assistance, as needed, of other City departments, shall arrange for appropriate barriers to motor vehicles to be placed within Golden Gate Park so as to effectuate the aforementioned street closures. The Saturday road closures mandated in this subsection (b) shall be in effect from the first Saturday in April through the last Saturday in September. 
+	(c)	The disability access standards, exempt motor vehicles provision, and the emergency authority of the General Manager, as set forth in Sections 6.12(b), (c), and (d), respectively, shall apply to the Saturday road closures established herein. The Saturday closures established herein also shall be subject to the following additional conditions: 
+		(i)	Prior to the annual starting date for the closures set forth in subsection (b), the Director of the Mayor's Office on Disability, in consultation with the Recreation and Park Department and the DeYoung Museum Access Division, shall determine whether physical accessibility is provided through the closure area compliant with the Americans with Disabilities Act. 
+		(ii)	Vehicle deliveries to the DeYoung Museum loading dock during the Saturday and Sunday closure are specifically acknowledged and authorized herein. Such vehicles shall have unimpeded access to the Museum's loading dock from John F. Kennedy Drive through the road closure area. The DeYoung Museum shall develop appropriate protocols that provide for unencumbered delivery access to its loading dock and maintain safety of individuals within the road closure area. The Museum shall evaluate such protocols and delivery activities on a regular basis to ensure that adequate delivery access and public safety are maintained. If necessary, the Recreation and Park Department, in consultation with the Mayor's Office, shall institute additional or modified methods that ensure adequate delivery access to the Museum and public safety. 
+		(iii)	The Recreation and Park Department, in consultation with the Mayor's Office on Disability, shall develop appropriate signage for the Saturday Road closure to minimize any traffic disruption. 
+	(d)	Effect on Sunday and Holiday Road Closures. This Section is not intended to have any effect on street closures in Golden Gate Park on Sundays and holidays except for the provisions of subsection (c)(ii) concerning delivery access to the DeYoung Museum's loading dock. 
+	(e)	Conflict With Other Provisions of Law. If any provision of this Section conflicts with an earlier enacted provision of this Article or of any other earlier enacted provision of law, and the conflict cannot be reasonably reconciled, the provision of this Section shall govern. 
+	(f)	Severability. If any provision, sentence, clause, or other part of this Section is held to be invalid or unlawful, such a holding shall not limit or abrogate other parts of this Section that can be given effect independently of the invalid or unlawful provision, sentence, clause, or part. If the application of a provision, sentence, clause, or other part of this Section to a person or class of persons, or to a specific circumstance, is held to be invalid or unlawful, such a holding shall not limit or abrogate other applications of the same provision, sentence, clause, or part that can be given effect independently of the invalid or unlawful application. 
+(Added by Ord. 98-07, File No. 070269, App. 5/4/2007; Ord. 271-07, File No. 070489, App. 11/26/2007)
+SEC. 6.14.  AUTHORIZATION OF THE SAN FRANCISCO MUNICIPAL TRANSPORTATION AGENCY.
+	(a)	The San Francisco Municipal Transportation Agency (SFMTA) is authorized, in conformance with Charter Article VIIIA, to work with Recreation and Park Department staff to: 
+		(1)	Identify locations suitable for the establishment of paid parking areas or zones on property under the jurisdiction of the Recreation and Park Commission, including, but not limited to, the use of pay stations and parking permits; 
+		(2)	Set rates for paid parking on park property that are closely comparable to the rates set for similarly situated paid parking;
+		(3)	Develop and implement a parking management plan for park property.
+	(b)	The implementation of any parking restrictions, parking rates and/or parking management plan by the SFMTA under this section shall be subject to the approval of the Commission; the location of paid parking areas and parking restrictions are subject to the approval of the Board of Supervisors. 
+	(c)	The Commission shall retain authority to grant or deny permits for the use or closure of park roads in conformance with S.F. Municipal Code and Commission policies. 
+(Added by Ord. 178-09, File No. 090716, App. 7/27/2009)
+ARTICLE 7:
+PERMITS
+Sec. 7.01.Permits – Purpose. Sec. 7.02.Definitions. Sec. 7.03.Permits Required. Sec. 7.04.Additional Activities Requiring Permits.Sec. 7.05.Permit Procedure.Sec. 7.06.Conditions.Sec. 7.07.Permits – Basis for Denial.Sec. 7.08.Petitioning, Leafletting, Picketing, Soliciting. Sec. 7.09.Reservation of Buildings and Stadiums. Sec. 7.10.Yacht Harbor. Sec. 7.11.Sales Prohibited at Art Shows. Sec. 7.12.Commercial Photography, Filming, Recording. Sec. 7.13.Permits – Athletic Events. Sec. 7.14.Permit Requests by Governmental Units. Sec. 7.15.Permits – Rights Granted. Sec. 7.16.Duties of Permittee. Sec. 7.17.Permits – Failure to Obtain. Sec. 7.18.Procedure for Billing Costs. Sec. 7.19.Violation of Permit Conditions.Sec. 7.20.Appeal.Sec. 7.21.Farmers' Markets.
+SEC. 7.01.  PERMITS – PURPOSE.
+	Although the First Amendment of the U.S. Constitution and Article 1, Section 9 of the California Constitution guarantee freedom of speech and association, the City and County of San Francisco is authorized to impose reasonable restrictions on the time, place and manner of such expression. In accordance with this right, the City requires permits for certain activities which occur on park property in order (1) to coordinate activities planned by different groups so that as many people as possible can use and enjoy the park at the same time; (2) to learn the details of the proposed activity in order to establish rules aimed at preventing inconvenience or harm to the public or the park; (3) to require appropriate insurance in order to relieve the City of liability from any harm that occurs; and (4) to insure that recreational facilities most suited for the activity are used. 
+(Added by Ord. 603-81, App. 12/18/81)
+SEC. 7.02.  DEFINITIONS.
+	For the purposes of this Article, the following terms shall be defined as indicated below: 
+	(a)	Amusement Park Rides—Rides of the type normally found in amusement parks or carnivals, such as ferris wheels. 
+	(b)	Animal Show—The formal exhibition of animals to the public or to a group of 25 or more persons for entertainment or competition. 
+	(c)	Art Shows—The exhibition or display of paintings, sculptures or other works of art, but not activities performed by street artists licensed pursuant to Part II, Chapter VIII (Police Code) of the San Francisco Municipal Code. 
+	(d)	Band—A group of musicians playing acoustical instruments normally played in a brass band. 
+	(e)	Demonstration—Carrying or wearing a sign or signs, singing, talking in unison or in any other manner expressing ideas, advocating causes or conveying a message to the public at large or to a particular person or persons. 
+	(f)	Exhibition—Public display of manufactured goods, plants or other objects but not displays by street artists licensed pursuant to Part II, Chapter VIII (Police Code) of the San Francisco Municipal Code. 
+	(g)	Leafletting—Distributing leaflets, handbills, notices or any written material to the public. 
+	(h)	Music Concourse Area of Golden Gate Park—This area is comprised of (1) the area bounded by Tea Garden Drive, South Drive and Academy Drive; (2) the entire area in front of the Academy of Sciences, the de Young Museum and the Fine Arts Museum; (3) the interior of the Japanese Tea Garden; and (4) the entire area in front of the Japanese Tea Garden. 
+	(i)	Orchestra—A group of musicians playing string, percussion, brass and woodwind instruments. 
+	(j)	Parade—Any march or other organized movement or persons from place to place or about a place. 
+	(k)	Petitioning—Requesting persons to sign a petition. 
+	(1)	Publicize—To inform the public of a planned event by means of newspaper articles or notices, radio or television stories or notices, announcements in public places, leafletting, posting signs or written notices in places viewed by the public, or by other means calculated to notify the public of an event. 
+	(m)	Soliciting—Requesting persons to contribute money or anything else of value for a charitable, religious or political cause. 
+(Added by Ord. 603-81, App. 12/18/81)
+SEC. 7.03.  PERMITS REQUIRED.
+	No person shall, without a permit, perform any of the following acts in any park: 
+	(a)	Conduct or sponsor a parade involving (1) 50 or more persons; (2) the use of any street in any park; or (3) vehicles.
+	(b)	Conduct or sponsor an event in which persons engage in petitioning, leafletting, demonstrating or soliciting when the number of petitioners, leafletters, demonstrators, or solicitors engaging in one or more of these activities involves 50 or more such persons at the same time within an area circumscribed by a 500 foot radius. 
+	(c)	Engage in soliciting in the Music Concourse Area of Golden Gate Park. This subsection shall not preclude the Commission from prohibiting persons from soliciting inside the Japanese Tea Garden. 
+	(d)	Sell or offer for sale books, newspapers. periodicals or other printed material.
+	(e)	Conduct or sponsor any exhibit, promotion, dramatic performance, theatrics, pantomime, dance, fair, circus, festival, juggling or other acrobatics or show of any kind or nature which has been publicized four hours or more in advance. 
+	(f)	Perform any feat of skill or produce any amusement show, movie or entertainment which has been publicized four hours or more in advance. 
+	(g)	Make a speech which has been publicized four hours or more in advance.
+	(h)	Conduct or sponsor a religious event involving 50 or more persons;
+	(i)	Conduct or sponsor a concert or musical performance which (1) has been publicized four hours or more in advance, or (2) utilizes sound amplification equipment, or (3) involves a band or orchestra. 
+	(j)	Participate in a picnic, dance or other social gathering involving 25 or more persons.
+	(k)	Sell or provide food to persons, except that no permit is required when a person participating in a picnic or social gathering of 25 or fewer persons provides food to others who are also participating in the picnic or social gathering. 
+	(1)	Conduct or sponsor a race or marathon which involves 25 or more persons as participants or which obstructs or interferes with the normal flow of vehicular or pedestrian traffic. 
+	(m)	Conduct or sponsor any event which utilizes sound amplification equipment, as defined in Part II, Chapter VIII (Police Code) of the San Francisco Municipal Code. 
+	(n)	Conduct or sponsor an exhibition.
+	(o)	Conduct or sponsor an animal show.
+	(p)	Conduct a wedding ceremony.
+	(q)	Conduct or sponsor an art show.
+	(r)	Operate any amusement park device. The Commission may prohibit the operation of such devices in any park or, if it allows such operation, may designate those locations where such operation is permitted. 
+	(s)	Conduct or sponsor an organized kite-flying event of any club or organization.
+	(t)	Station or erect any table, scaffold, stage, platform, rostrum, tower, stand, bandstand, building, fence, wall, monument, dome or other structure. 
+	(u)	Park any vehicle in any park in an area not normally used for parking vehicles or in an area normally used for parking vehicles when the vehicle is used in conjunction with an activity for which a permit is obtained pursuant to a provisions of this Code other than this Subsection. 
+(Added by Ord. 603-81, App. 12/18/81)
+SEC. 7.04.  ADDITIONAL ACTIVITIES REQUIRING PERMITS.
+	(a)	Attention is called to other provisions of this Code which require persons engaging in certain activities to obtain a permit, including, but not limited to, the following: 
+		(1)	Launching or landing any airplane, helicopter, parachute, hang glider, hot air balloon or other machine or apparatus of aviation, in any park, or bringing into a park any balloon with a diameter of more than six feet or a gas capacity of more than 115 cubic feet (See Section 3.09); 
+		(2)	Bringing, or causing to be brought, for the purposes of sale or barter, or having for sale, or selling or exchanging, or offering for sale or exchange any goods, wares or merchandise (See Section 3.10); 
+		(3)	Constructing or maintaining any building, structure, tent or any other thing in any park that may be used for housing accommodations or camping (See Section 3.12); 
+		(4)	Remaining in any park for the purpose of sleeping between the hours of 10:00 p.m. and 6:00 am. in order to provide security services between said hours in any park (See Section 3.13). 
+	(b)	The Recreation and Park Commission may by resolution require a permit for additional activities when such a requirement furthers the purposes set forth in Section 7.01 of this Code. A list of the additional activities for which permits are required shall be posted at McLaren Lodge in Golden Gate Park and filed with the Secretary of the Recreation and Park Commission and the Clerk of the Board of Supervisors, and shall be made available to the public upon request. 
+(Added by Ord. 603-81, App. 12/18/81)
+SEC. 7.05.  PERMIT PROCEDURE.
+	The Recreation and Park Commission shall by resolution adopt procedures for the filing and processing of permit applications, which resolution shall be filed with the Clerk of the Board of Supervisors and the Secretary of the Recreation and Park Commission and shall be made available to the public upon request. The resolution required by this Section, as well as any amendment thereto, is subject to the prior approval of the City Attorney. 
+(Added by Ord. 603-81, App. 12/18/81)
+SEC. 7.06.  CONDITIONS.
+	(a)	The General Manager or the Recreation and Park Commission may impose reasonable conditions on approval of a permit application in order to insure that public or private property is not damaged and that the comfort, convenience, safety or welfare of the public is not disturbed. Such conditions may be imposed on a permittee after the permit application has been approved if information is received by the General Manager after such approval which would provide reasonable grounds for the conclusion that further conditions are necessary, including the condition that the location of the proposed activity be changed. The provisions of this Section are designed to secure for permit holders an opportunity fully to exercise the rights conferred upon them by the permit without unreasonably interfering with the rights of other members of the public to use park property and adjacent areas or to engage in First Amendment activities. The General Manager shall in no event impose conditions pursuant to this Section which are designed to limit the content of First Amendment expression engaged in by persons affected by the permit or which unreasonably interfere with the right of free speech. 
+	(b)	The conditions which may be imposed on permit applicants include the following: (1) posting a performance bond to insure that property is restored and cleaned at the conclusion of the permitted activity; (2) providing insurance to protect the City from liability from any harm that such activity might cause; and (3) agreeing to reimburse the Recreation and Park Department for any costs incurred by it in restoring damage to property, caused by the actions of the permittee, its officers, employees, or agents, or any person who was, or reasonably should have been, under the permittee's control and to defend the City against, and indemnify and hold the City harmless from, any liability to any person resulting from any damage or injury caused by the actions of the permittee, its officers, employees, or agents, or any person who was or reasonably should have been, under the permittee's control. 
+	(c)	When an applicant for a permit to perform an activity which is protected by the First Amendment to the U.S. Constitution and for which a performance bond must be posted produces evidence that providing a cash performance bond would be impossible or so financially burdensome that it would preclude the applicant from using park property for the proposed activity, the General Manager shall accept property in lieu of a cash performance bond so long as the property offered is of a type which will reasonably insure restoration and cleaning of the property to be used by the applicant at the conclusion of the permitted activity. 
+	(d)	No applicant shall be required to comply with the provisions of Subsection (b)(2) pertaining to insurance if the activity proposed is protected by the First Amendment of the U.S. Constitution and the applicant produces evidence that complying with those provisions is impossible or so financially burdensome that it would preclude the applicant from using park property for the proposed activity. 
+(Added by Ord. 603.81, App. 12/18/81)
+SEC. 7.07.  PERMITS – BASIS FOR DENIAL.
+	The General Manager shall approve a permit application unless: 
+	(a)	A prior application for a permit to use the same location at the same time has been received and such application has been or will be approved authorizing an activity which does not reasonably permit multiple occupancy of the area; 
+	(b)	The proposed activity would conflict with a previously planned program sponsored by the Recreation and Park Department or Commission and scheduled for the same location as that requested by the applicant; 
+	(c)	The General Manager has reasonable cause to conclude that the applicant or any person or persons participating in the proposed activity will, in connection with that activity, cause physical injury to person or substantial damage to property; provided, however, that in determining whether such reasonable cause exists the General Manager shall not consider the content of expression which is proposed or anticipated; 
+	(d)	The proposed activity is inconsistent with the purpose for which the facility or area has been established or designated;
+	(e)	The location selected is inappropriate because (1) the nature of the proposed activity or the number of persons expected in connection with the activity would be likely to damage trees, plants or other vegetation; (2) the activity would unduly disturb adjacent neighborhoods because of the nature of the proposed activity or the number of persons expected to be involved; or (3) other activities have been scheduled in an area or areas near the location proposed by the applicant, or they normally occur in such area or areas, and permitting the proposed activity to occur in the proposed location would unreasonably interfere with park use and enjoyment by participants in such activities; 
+	(f)	The applicant fails to obtain necessary approvals, permits, or licenses from other governmental departments or agencies;
+	(g)	The applicant has not complied with the procedural requirements established by Commission resolution for the filing of permit applications; 
+	(h)	The applicant fails or refuses to pay a processing fee or a user fee, or both, which the Recreation and Park Commission has established by resolution; 
+	(i)	The applicant fails or refuses to post a performance bond when required to do so by the Recreation and Park Commission;
+	(j)	The applicant fails or refuses to provide insurance when required to do so by the Recreation and Park Commission;
+	(k)	The applicant fails or refuses to execute an agreement to reimburse the Recreation and Park Department for any costs incurred by it in restoring damage to the property occasioned by, or arising out of, the permitted activity, and to defend the City against and indemnify and hold the City harmless from, any liability to any person occasioned by, or arising out of, the permitted activity, when such an agreement is required by the Recreation and Park Commission; 
+	(l)	The application contains misrepresentations of material fact;
+	(m)	The proposed activity is prohibited by law;
+	(n)	The applicant refuses to comply with conditions reasonably imposed on approval of the permit application by the General Manager or the Recreation and Park Commission in order to insure that public or private property is not damaged and that the comfort, convenience, safety and welfare of the public are not disturbed. 
+	Whenever a permit application is denied, the General Manager shall inform the applicant of the reason for the denial and when a change in location would allow approval, shall offer alternative suitable locations. 
+(Added by Ord. 603-81, App. 12/18/81)
+SEC. 7.08.  PETITIONING, LEAFLETTING, PICKETING, SOLICITING.
+	(a)	No permit may be required to engage in petitioning, leafletting, demonstrating or soliciting so long as engaging in any of these activities, or any combination of these activities, does not involve 50 or more petitioners, leafletters, demonstrators, or solicitors at the same time within an area circumscribed by a 500-foot radius, provided, however, that a permit is required to solicit in the Music Concourse Area of Golden Gate Park. 
+	(b)	It shall be unlawful for any person to engage in petitioning, leafletting, demonstrating or soliciting in such a manner as to substantially obstruct any traffic of pedestrians or vehicles after being warned by a peace officer or a member of the Park Patrol not to do so. 
+	(c)	No person may engage in petitioning, leafletting, demonstrating or soliciting inside the San Francisco Zoological Gardens.
+(Added by Ord. 603-81, App. 12/18/81; amended by Ord. 210-12, File No. 120819, App. 9/28/2012, Eff. 10/28/2012)
+SEC. 7.09.  RESERVATION OF BUILDINGS AND STADIUMS.
+	The procedure for reserving the use of any building or stadium in any park shall be established by the Recreation and Park Department and shall be kept on file with the Secretary of the Recreation and Park Commission and made available to the public upon request. 
+(Added by Ord. 603-81, App. 12/18/81)
+SEC. 7.10.  YACHT HARBOR.
+	Mooring space at Yacht Harbor is reserved by applying for a permit from the Harbormaster at Yacht Harbor. A permittee granted use of Yacht Harbor shall enter and use only the mooring space designated in the permit and shall at all times be subject to and shall obey all rules and regulations of the Recreation and Park Department governing Yacht Harbor. 
+(Added by Ord. 603-81, App. 12/18/81)
+SEC. 7.11.  SALES PROHIBITED AT ART SHOWS.
+	When conducting or participating in an art show in any park, no person shall sell or offer for sale any work of art. 
+(Added by Ord. 603-81, App. 12/18/81)
+SEC. 7.12.  COMMERCIAL PHOTOGRAPHY, FILMING, RECORDING.
+	No person shall engage in commercial photography, filming or recording in any park without first having obtained a permit. The procedure for obtaining such permits shall be established by the Recreation and Park Department and shall be kept on file with the Secretary of the Recreation and Park Commission and made available to the public upon request. 
+(Added by Ord. 603-81, App. 12/18/81)
+SEC. 7.13.  PERMITS – ATHLETIC EVENTS.
+	Athletic areas and structures, such as baseball diamonds, soccer pitches, football fields, and swimming pools may be reserved by obtaining a permit from the Recreation and Park Department. 
+(Added by Ord. 603-81, App. 12/18/81)
+SEC. 7.14.  PERMIT REQUESTS BY GOVERNMENTAL UNITS.
+	Any processing or user fee established by the Recreation and Park Commission for the use of park property may be waived where the applicant is the United States of America, the State of California or subdivision thereof, an agency or commission of the City and County of San Francisco, or other governmental unit. 
+(Added by Ord., 603-81, App. 12/18/81)
+SEC. 7.15.  PERMITS – RIGHTS GRANTED.
+	Any person possessing a valid permit, which states that an area has been reserved for such person's use, has the exclusive right to use the area or facility specified in the permit for the time specified. It shall be unlawful for any person to refuse to leave an area or facility which has been reserved by a valid permit when asked to do so by the person or party displaying such permit, by a Recreation and Park Department employee, by a police officer, or by a member of the Park Patrol, and no person shall in any manner disturb or interfere with any person or party occupying the area under such a permit, nor with the belongings of such person or party. 
+(Added by Ord. 603-81, App. 12/18/81)
+SEC. 7.16.  DUTIES OF PERMITTEE.
+	(a)	It shall be the duty of every permittee:
+		(1)	To obey all laws and the terms and conditions of the permit;
+		(2)	To clean the area used after the permitted activity is over and to restore the area and property used to the same condition as existed prior to the activity; and 
+		(3)	To reimburse the Recreation and Park Department for any expenses incurred by it, including the cost of labor, in cleaning or restoring the park or making repairs to property and equipment, which expenses may be occasioned by the permitted activity. 
+	(b)	The Recreation and Park Department shall, as determined appropriate by the General Manager, or a designee, charge a cleaning or security deposit in an amount sufficient to cover the costs, including staff time, of cleaning or restoring park property if permittee fails to do so. 
+(Added by Ord. 603-8 1, App. 12/18/81; amended by Ord. 47-03, File No. 030095, App. 4/3/2003)
+SEC. 7.17.  PERMITS – FAILURE TO OBTAIN.
+	It shall be unlawful for any person to conduct or sponsor any activity which requires a permit without first having obtained the appropriate permit and, when requested to do so by a Recreation and Park Department employee, a member of the Park Patrol, or by a police officer, displaying such permit. Furthermore, it shall be unlawful to participate in such an activity with knowledge that it is being conducted without a permit when a permit is required pursuant to this Code. 
+(Added by Ord. 603-81, App. 12/18/81)
+SEC. 7.18.  PROCEDURE FOR BILLING COSTS.
+	Within 30 days of the exercise of any permit, the General Manager shall determine and transmit to the permittee a bill for all costs above and beyond any retained security or cleaning deposits which are or will be incurred by the Recreation and Park Department in cleaning or restoring any park or making repairs to property and equipment. which costs were occasioned by, or arose out of, the activity engaged in pursuant to the permit. The permittee shall have 30 days from the transmission of such bill in which to pay or request adjustment of the same. Any request for adjustment shall be transmitted in writing to the General Manager, who shall determine whether an adjustment is proper. The permittee shall pay the bill or adjusted bill promptly upon transmission to the permittee of a statement of the determination of the General Manager with respect to the adjustment. Any request for adjustment shall be deemed waived if not timely or if not transmitted in writing. 
+(Added by Ord. 603-81, App. 12/18/81; amended by Ord. 47-03, File No. 030095, App. 4/3/2003)
+SEC. 7.19.  VIOLATION OF PERMIT CONDITIONS.
+	Whenever a permittee or those under the control of the permittee violate any condition contained in the permit, a member of the San Francisco Police Department may revoke the permit. It shall be unlawful for any person to continue to engage in an activity for which a permit was required and issued after the permit has been revoked pursuant to this Section, provided, however, that no person shall be in violation of this Section until notice has been given that the permit has been revoked. 
+(Added by Ord. 603-81, App. 12/18/81)
+SEC. 7.20.  APPEAL.
+	The Recreation and Park Commission shall by resolution adopt procedures for the appeal of the denial of a permit application to the Commission or, in those instances when a quorum of the Commission cannot be convened in a timely manner, to the General Manager. The Commission or General Manager shall afford the applicant an opportunity for a hearing and may reverse, affirm or modify in any regard the determination of the General Manager concerning the denial of a permit application. When the Commission affirms the denial of a permit application such a decision shall be based on one or more of the reasons listed in Section 7.07 of this Code. Notwithstanding Section 2.03 of this Code, the duty imposed on the General Manager by this subsection may not be delegated. 
+(Added by Ord. 603-81, App. 12/18/81)
+SEC. 7.21.  FARMERS' MARKETS.
+	(a)	The Commission may permit the location of a Farmers' Market, that meets the requirements of Administrative Code Chapter 9A. or any successor provisions, as certified by the Agricultural Commissioner, on park land upon findings that such a use: 
+		(1)	Is appropriate for the crowd capacity of the particular location;
+		(2)	Does not adversely affect park grounds or facilities beyond the regular usage of the particular location; and,
+		(3)	Does not significantly interfere with the public's use and enjoyment of other areas of the park, including, but not limited to, children's play areas or athletic courts or fields. 
+	(b)	The permit fee shall be $475 per location of market, for each six (6) months of operation, where the market is operating at the location no more than one day a week. If the market operates at the location more than one day a week at any time during the six-month permit period, the permit fee shall be multiplied by the number of days of operation during a week. For example, a market that at any time during the six-month period operates at the location two days a week shall pay a permit fee of $950 for the six-month permit period. In addition to the permit fee, the permittee shall reimburse the Department for staff costs directly incurred by the operation of the market at the location. 
+(Added by Ord. 29-07, File No. 061112, App. 2/16/2007; amended by Ord. 217-09, File No. 090992, App. 10/29/2009; Ord. 111-13, File No. 130340, App. 6/21/2013, Eff. 7/21/2013)
+ARTICLE 8:
+LAKE MERCED FISHING
+Sec. 8.01.Sport Fishing Permit – Persons To Whom Issuable.Sec. 8.02.Term of Sport Fishing License – Class A and Class B – Fees.Sec. 8.03.Permits Issued and Delivered by Whom.Sec. 8.04.Compensation for Sale of Permits.Sec. 8.05.Disposition of Money Collected.Sec. 8.06.Posting of Area Signs Required.Sec. 8.07.California Fish and Game Code.Sec. 8.08.Enforcement of Article – Rules and Regulations.Sec. 8.09.Violations, a Misdemeanor.
+SEC. 8.01.  SPORT FISHING PERMIT – PERSONS TO WHOM ISSUABLE.
+	The Recreation and Park Department shall issue a sport fishing permit, granting the privilege to take fish for purposes other than profit from Lake Merced, to any person having attained the age of 16 years and having a valid sport fishing license issued under the provisions of the California Fish and Game Code. The permit shall be issued only upon payment of a fee, the amount of which shall be determined by the Recreation and Park Commission. The amount of the fee may vary depending upon the class of permit issued, the age of the applicant, or any other factor considered relevant by the Recreation and Park Commission. 
+(Added by Ord. 603-81, App. 12/18/81)
+SEC. 8.02.  TERM OF SPORT FISHING LICENSE – CLASS A AND CLASS B – FEES.
+	A sport fishing permit shall authorize the person to whom issued to take fish for purposes other than profit from Lake Merced, in accordance with this ordinance, as follows: 
+	Class A. For a calendar year, or, if issued after the beginning of each year, for the remainder thereof. 
+	Class B. For the specific day of which issued. 
+(Added by Ord. 603-81, App. 12/18/81)
+SEC. 8.03.  PERMITS ISSUED AND DELIVERED BY WHOM.
+	Permits granting the privilege to take fish for purposes other than profit from Lake Merced shall be issued and delivered, upon application, by the Recreation and Park Department or by any person, firm or corporation currently issuing California State sporting fishing licenses and appointed and authorized by the Recreation and Park Department. 
+(Added by Ord. 603-81, App. 12/18/81)
+SEC. 8.04.  COMPENSATION FOR SALE OF PERMITS.
+	Any person, firm or corporation, except a person employed by the Recreation and Park Department, issuing current California State sport fishing licenses may be allowed, as compensation for each permit sold by him, a percentage not to exceed five percent of the amount accounted for, which percentage shall be determined by the Recreation and Park Department. 
+(Added by Ord. 603-81, App. 12/18/81)
+SEC. 8.05.  DISPOSITION OF MONEY COLLECTED.
+	All money collected under the provisions of this Article shall be paid into the Recreation and Park Department fund. Such money may be appropriated annually by the Board of Supervisors for the purpose of enforcing this Article and other laws pertaining to sport fishing activities. The Recreation and Park Commission may, through the Purchaser of Supplies, enter into such contracts as may be required for the enforcement of the provisions of this Article. 
+(Added by Ord. 603-81, App. 12/18/81)
+SEC. 8.06.  POSTING OF AREA SIGNS REQUIRED.
+	The Recreation and Park Department shall post the shoreline of Lake Merced with signs warning persons of the forbidden areas and notifying them of those areas in which fishing shall be allowed. Said signs shall be placed at intervals of not less than three each lineal mile of shoreline and at the entrance of all roadways leading to said lake. Such signs shall be white with black lettering thereon, not less than two feet high by three feet wide in size, and the main lettering thereon shall not be less than two inches in height. 
+(Added by Ord. 603-81, App. 12/18/81)
+SEC. 8.07.  CALIFORNIA FISH AND GAME CODE.
+	The provisions of the California Fish and Game Code, insofar as they are pertinent to the provisions of this Article, shall apply to the taking of fish from Lake Merced. 
+(Added by Ord. 603-81, App. 12/18/81)
+SEC. 8.08.  ENFORCEMENT OF ARTICLE – RULES AND REGULATIONS.
+	The Recreation and Park Commission shall provide for the enforcement of the provisions of this Article and Article 4 of this Chapter, and is authorized to adopt, promulgate and enforce such rules and regulations regarding the taking of fish from Lake Merced as will carry out the meaning and intent of this Article and said ordinance. 
+(Added by Ord. 603-81, App. 12/18/81)
+SEC. 8.09.  VIOLATIONS, A MISDEMEANOR.
+	Any person violating any of the provisions of this Article shall be guilty of a misdemeanor, and shall be punishable therefor by a fine of not more than $500 or by imprisonment in the County Jail for a period of not more than six months or by both such fine and imprisonment. Each such person shall be guilty of a separate offense for each and every day during any portion of which any violation of any provision of this Article is committed, continued, or permitted by such person and shall be punishable accordingly. In addition to the penalties hereinabove provided, the Recreation and Park Department is hereby authorized to revoke the permit issued such person under the provision of this Article. 
+(Added by Ord. 603-81, App. 12/18/81)
+ARTICLE 8A:
+[RESERVED]
+ARTICLE 8B:
+UNITED NATIONS PLAZA
+Sec. 8B.01.Authority of the Director of the Department of Public Works. Sec. 8B.02.Rules and Regulations Governing Use of United Nations Plaza. Sec. 8B.03.Additional Activities Requiring Permits.
+SEC. 8B.01.  AUTHORITY OF THE DIRECTOR OF THE DEPARTMENT OF PUBLIC WORKS.
+	With respect to United Nations Plaza, the Director of the Department of Public Works, or his or her designee, shall have the authority to manage the Plaza and to perform all functions with respect to United Nations Plaza that would otherwise be performed by the Recreation and Park Department, the Recreation and Park Commission, the General Manager of the Recreation and Park Department, the Superintendent of Parks or the employees of the Recreation and Park Department under Sections 3.03, 3.07, 3.16, 4.01, 4.12 and 4.13 of this Code. The Recreation and Park Department or Commission and the Board of Supervisors shall issue all permits and other authorizations required by Articles 3, 4, and 7 of this Code pursuant to Section 1.58 of the San Francisco Administrative Code. 
+(Added by Ord. 17-99, App. 2/12/99; amended by Ord. 148-00, File No. 000633, App. 6/30/2000)
+SEC. 8B.02.  RULES AND REGULATIONS GOVERNING USE OF UNITED NATIONS PLAZA.
+	The Director of Public Works shall have jurisdiction to set the rules and regulations for United Nations Plaza pursuant to Sections 3.01 and 3.02 of this Code, violation of which rules and regulations, when posted in United Nations Plaza, shall constitute a misdemeanor or an infraction pursuant to Article 10 of this Code. The signs posted to advise the public of rules and regulations for United Nations Plaza shall inform the public where a copy of the full text of the rule or regulation can be obtained. Any such rule or regulation shall be consistent with Articles 3, 4 and 7 of this Code and shall be adopted after a noticed public hearing upon a finding by the Director of Public Works or his or her designee that violation of the proposed rule or regulation would be detrimental to the health, safety, or welfare of members of the public using or passing through United Nations Plaza or using adjoining property. 
+(Added by Ord. 17-99, App. 2/12/99)
+SEC. 8B.03.  ADDITIONAL ACTIVITIES REQUIRING PERMITS.
+	The Director of Public Works shall have the authority to require a permit for additional activities in United Nations Plaza not enumerated in Articles 3, 4 and 7 of this Code when such a requirement furthers the purposes set forth in Section 7.01 of this Code. A list of the additional activities for which permits are required shall be posted at McLaren Lodge in Golden Gate Park and filed with the Secretary of the Recreation and Park Commission and the Clerk of the Board of Supervisors and shall be made available to the public upon request. 
+(Added by Ord. 17-99, App. 2/12/99)
+ARTICLE 8C:
+HALLIDIE PLAZA
+Sec. 8C.01.Authority of the Director of Property.Sec. 8C.02.Rules and Regulations Governing Use of Hallidie Plaza.Sec. 8C.03.Additional Activities Requiring Permits.
+SEC. 8C.01.  AUTHORITY OF THE DIRECTOR OF PROPERTY.
+	With respect to Hallidie Plaza, the Director of Property, or his or her designee, shall have the authority to manage the Plaza and to perform all functions with respect to Hallidie Plaza that would otherwise be performed by the Recreation and Park Department, the Recreation and Park Commission, the General Manager of the Recreation and Park Department, the Superintendent of Parks, or the employees of the Recreation and Park Department under Sections 3.03, 3.07, 3.16, 4.11, 4.12 and 4.13 of this Code. The Recreation and Park Department or Commission and the Board of Supervisors shall issue all other permits and authorizations required by Articles 3, 4 and 7 of this Code pursuant to Section 1.58 of the San Francisco Administrative Code. 
+(Added by Ord. 17-99, App. 2/12/99; amended by Ord. 148-00, File No. 000633, App. 6/30/2000)
+SEC. 8C.02.  RULES AND REGULATIONS GOVERNING USE OF HALLIDIE PLAZA.
+	The Director of Property shall have jurisdiction to set the rules and regulations for Hallidie Plaza pursuant to Sections 3.01 and 3.02 of this Code, violation of which rules and regulations, when posted in Hallidie Plaza, shall constitute a misdemeanor or an infraction pursuant to Article 10 of this Code. The signs posted to advise the public of rules and regulations for Hallidie Plaza shall inform the public where a copy of the full text of the rule or regulation can be obtained. Any such rule or regulation shall be consistent with Articles 3, 4 and 7 of this Code and shall be adopted after a noticed public hearing upon a finding by the Director of Property or his or her designee that violation of the proposed rule or regulation will be detrimental to the health, safety, or welfare of members of the public using or passing through Hallidie Plaza or using adjacent property. 
+(Added by Ord. 17-99, App. 2/12/99)
+SEC. 8C.03.  ADDITIONAL ACTIVITIES REQUIRING PERMITS.
+	The Director of Property shall have the authority to require a permit for additional activities in Hallidie Plaza not enumerated in Articles 3, 4 and 7 of this Code when such a requirement furthers the purposes set forth in Section 7.01 of this Code. A list of the additional activities for which permits are required shall be posted at McLaren Lodge in Golden Gate Park and filed with the Secretary of the Recreation and Park Commission and the Clerk of the Board of Supervisors and shall be made available to the public upon request. 
+(Added by Ord. 17-99, App. 2/12/99)
+ARTICLE 9:
+SEVERABILITY
+Sec. 9.01.Severability.
+SEC. 9.01.  SEVERABILITY.
+	If any of the provisions of this Code, or the application of such provisions to any person or circumstance, shall be held invalid, the remainder of this Code, or the application of such provisions to persons or circumstances other than those to which it is held to be invalid, shall not be affected thereby. 
+(Added by Ord. 603-81, App. 12/18/81)
+ARTICLE 10:
+PENALTIES
+Sec. 10.01.Penalties.
+SEC. 10.01.  PENALTIES.
+	Unless otherwise specified in this Code, any person violating any section of this Code shall be deemed guilty of a misdemeanor or an infraction. The complaint charging such violation shall specify whether the violation is a misdemeanor or infraction, which decision shall be that of the District Attorney; provided, however, that whenever a person has been arrested and incarcerated based solely on the violation or violations of this Code, he or she shall retain the right at the time of arraignment or plea to object to the offense being made an infraction, in which event the complaint shall be amended to charge the misdemeanor and the case shall proceed on the misdemeanor complaint. 
+	Upon conviction of a violation charged as an infraction, the person so convicted shall be punished for the first offense by a fine of not more than $100, and for a second offense within one year by a fine of not more than $200, and for each additional offense within one year by a fine of not more than $500. 
+	Upon conviction of a violation charged as a misdemeanor, the person so convicted shall be punished by a fine of not more than $1000 or by imprisonment in the County Jail for a period of not more than six months, or by both such fine and imprisonment. 
+(Added by Ord. 603-81, App. 12/18/81; Ord. 38-10, File No. 091441, App. 2/18/2010)
+ARTICLE 11:
+YERBA BUENA GARDENS
+Sec. 11.01.Authority of Redevelopment Agency Commission.Sec. 11.02.Certain Athletic Activities Prohibited.Sec. 11.03.Animals Prohibited.Sec. 11.04.Wheeled Equipment Prohibited.
+SEC. 11.01.  AUTHORITY OF REDEVELOPMENT AGENCY COMMISSION.
+	Notwithstanding any other provision of this Code, the governing body of the Redevelopment Agency of the City and County of San Francisco shall have the exclusive authority to set rules for Yerba Buena Gardens pursuant to Article 3 of this Code, to issue permits for Yerba Buena Gardens pursuant to Article 7 of this Code, and to designate persons who shall perform all other functions for Yerba Buena Gardens which would be performed by the General Manager, Superintendent of Recreation and Superintendent of Parks for any other park under this Code. 
+(Added by Ord. 370-94, App. 11/4/94)
+SEC. 11.02.  CERTAIN ATHLETIC ACTIVITIES PROHIBITED.
+	No person shall participate in any team athletic activity in the Yerba Buena Gardens, including but not limited to volleyball, baseball, soccer, football or lacrosse, nor in the individual activities of roller skating, roller blading, bicycle riding, kite flying or skateboarding, except when acting pursuant to a permit issued by the Commission or its designee. 
+(Added by Ord. 370-94, App. 11/4/94)
+SEC. 11.03.  ANIMALS PROHIBITED.
+	No person, other than members of the San Francisco Police Department when on duty, shall bring any animals, including but not limited to dogs, cats and horses, into the Yerba Buena Gardens except when acting pursuant to a permit issued by the Commission or its designee. Notwithstanding the above provision, a person with a disability may enter the Yerba Buena Gardens with a guide or signal dog without a permit. 
+(Added by Ord. 370-94, App. 11/4/94)
+SEC. 11.04.  WHEELED EQUIPMENT PROHIBITED.
+	No person, other than employees or agents of the Commission or its contractors when on duty, shall bring any wheeled conveyances, including but not limited to trucks, cars and skateboards, into the Yerba Buena Gardens except when acting pursuant to a permit issued by the Commission or its designee. Notwithstanding the above provision, wheelchairs, strollers and toys appropriate for preschool children, such as wagons and tricycles, may be brought into Yerba Buena Gardens without a permit. Bicycles may be walked through the gardens or locked in designated locations without a permit. 
+(Added by Ord. 370-94, App. 11/4/94)
+ARTICLE 12:
+FEES
+Sec. 12.01.Camp Mather Cabin and Tent Site Usage Fees. Sec. 12.02.Camp Mather Day Use Fees. Sec. 12.03.Camp Mather Meal Fees. Sec. 12.04.Camp Mather Low Income Fee Reductions.Sec. 12.05. Japanese Tea Garden.Sec. 12.06.Coit Tower.Sec. 12.07.Wedding Fees.Sec. 12.08.Parking Fees on Recreation and Park Property. Sec. 12.09.Carrousel Fees.Sec. 12.11.Marina Fees.Sec. 12.12.Golf Fees – General.Sec. 12.12.1.Harding Park Golf Course.Sec. 12.12.2.Fleming Golf Course.Sec. 12.12.3.Lincoln Park Golf Course.Sec. 12.12.4.Sharp Park Golf Course.Sec. 12.12.5.Golden Gate Park Golf Course.Sec. 12.12.6.Mclaren Park (Gleneagles) Golf Course.Sec. 12.15.Day Camp Fees.Sec. 12.20.Adjustment of Fees.Sec. 12.21.Clubhouses; Lake Merced Boathouse. Sec. 12.22.Events. Sec. 12.23.Picnics.Sec. 12.24.Photography and Film. Sec. 12.25.Encroachment. Sec. 12.27.Sharon Arts Studio.Sec. 12.28.Reduction or Waiver of Fees. Sec. 12.29.Photography Center. Sec. 12.30.Latch Key and Afterschool Programs.Sec. 12.34.Conservatory of Flowers Fees. Sec. 12.35.Golden Gate Park Concourse Underground Parking Facility.Sec. 12.36.Athletic Field Fees.Sec. 12.38.Lake Merced Boat Storage.Sec. 12.39.Tiny Tot/Child Development Program Fees. Sec. 12.40.Aquatic Fees. Sec. 12.41.Professional Tennis Lesson Rates.Sec. 12.42.Stadium Rentals.Sec. 12.44.Recreation Program Fees. Sec. 12.45.Reservation Administrative Fees.Sec. 12.46.County Fair Building and Botanical Garden Facility Rental Fees.Sec. 12.47.Facility Fees. Sec. 12.48.Athletic Leagues.Sec. 12.49.Ratification of Prior Fees.
+SEC. 12.01.  CAMP MATHER CABIN AND TENT SITE USAGE FEES.
+	(a)	The following use fees, which reflect a discount from the standard fee for nonresidential usage, shall be charged to San Francisco residents for use of cabin and tent sites at Camp Mather. The following fees do not include State occupancy tax. 
+Cabin SizeWeekly RateNightly Rate2 person$379$693 person$514$914 person$635$1145 person$741$1366 person$832$166
+Tent SizeWeekly RateNightly Rate4 person$150$306 person$196$40 
+	(b)	The following use fees shall be charged to non-San Francisco residents for use of cabin and tent sites at Camp Mather. The following use fees do not include State occupancy tax. 
+Cabin SizeWeekly RateNightly Rate2 person$454$763 person$629$1064 person$756$1295 person$885$1516 person$1,014$175
+Tent SizeWeekly RateNightly Rate4 person$197$396 person$264$50
+	(c)	Senior (age 55+) Camp includes cabin accommodations and meals for four days/nights, and round trip transportation from San Francisco.
+		San Francisco Residents (per person)	$230 
+		Non-residents (per person)		$258
+	(d)	Cancellation and Processing Fees
+		(1)	Cancellation at least 30 days prior to the arrival date at camp: Deposit is refundable minus a $50.00 processing fee.
+		(2)	Cancellation 30 days or less prior to the arrival date at camp: No refund of deposit.
+		(3)	Cancellation after final payment: 50 percent of the fees are refundable, no refund of deposit.
+		(4)	A five percent late payment penalty on the total amount due shall be charged to all guests who pay camp and tent site use fees after the final payment due date.
+		(5)	Each change of a reservation			$15.00
+		(6)	Each unauthorized overnight stay at camp	$75.00
+		(7)	Late check-out					$75.00 ;
+(Added by Ord. 182-98, App. 6/5/98; amended by Ord. 52-05, File No. 050189, App. 4/1/2005; Ord. 191-06, File No. 060776, App. 7/21/2006) 
+SEC. 12.02.  CAMP MATHER DAY USE FEES.
+	The following use fees shall be charged to all individuals for day use of Camp Mather. 
+Age CategoryRateAdult (Age 13 years plus)$12Youth (Ages 2 to 12 years)$6Infant (Under age 2)$0
+(Added by Ord. 182-98, App. 6/5/98; amended by Ord. 52-05, File No. 050189, App. 4/1/2005)
+SEC. 12.03.  CAMP MATHER MEAL FEES.
+	(a)	The following meal fees shall be charged to all overnight guests of Camp Mather. The following fees do not include meals tax.
+Age CategoryWeekly RateDaily RateAdult (Age 13 years plus)$190$30Youth (Ages 2 to 12 years)$110$16Infant (Under age 2)$0$0
+	(b)	A five percent late payment penalty on the total amount due shall be charged to all guests who pay meal fees after the final payment due date. 
+	(c)	An administrative processing fee of $15.00 shall be charged each time a change is made to the number of meals purchased after the reservation is final. 
+	(d)	The following meal fees shall be charged to all transient guests of Camp Mather. The following fees do not include meals tax.
+Age CategoryBreakfastLunchDinnerAdult (Age 13 plus)$12$12$16Youth (Ages 2 to years)$7$7$11Infant (Under age 2)$0$0$0
+(Added by Ord. 182-98, App. 6/5/98; amended by Ord. 52-05, File No. 050189, App. 4/1/2005; Ord. 191-06, File No. 060776, App. 7/21/2006) 
+SEC. 12.04.  CAMP MATHER LOW INCOME FEE REDUCTIONS.
+	The Recreation and Park Commission is authorized to establish programs offering a 50 percent reduction of fees at Camp Mather for families residing in San Francisco who meet low income eligibility requirements adopted by the Commission. 
+(Added by Ord. 182-98, App. 6/5/98)
+SEC. 12.05.  JAPANESE TEA GARDEN.
+	The following fees shall be charged for admission to the Japanese Tea Garden: 
+Age/CategoryS.F. ResidentsNon-ResidentsAdult$5.00$7.00Senior (65+)$3.00$5.00Youth (12—17 years)$3.00$5.00Child (5—11 years)$1.50$2.00Child (4 years and under)$0.00$0.00 
+	(b)	Audio Tours: Upon development, and approval by the Commission, of an audio tour for the facility, the entrance fee for the facility shall be increased by $1.00 to cover the cost of rental of the tour. 
+	(c)	Recreation and Park Commission is authorized to designate three free hours per week for entry to the Japanese Tea Garden.
+	(d)	The Recreation and Park Commission is authorized to establish programs offering:
+		(1)	Bulk purchase admission tickets for groups of over 20 people at a discount of no more than 50 cents from the standard individual admission fee; 
+		(2)	Special time-limited promotions to change admission fees (including, but not limited to, joint marketing promotions, coupons, free hours or days). Promotional discounts will be limited to the equivalent of 20,000 full price admissions annually. 
+		(3)	The Department will report within 90 days of the end of any promotion, or annually for ongoing promotions, to the Recreation and Park Commission of the efficacy of any promotion in increasing visitation and the impact on revenues to the Department. 
+	(e)	The following fees shall be charged for weddings in the Japanese Tea Garden:
+Reservation fee$300.00Hourly rate, minimum 2 hours$100.00
+(Added by Ord. 228-98, App. 7/2/98; amended by Ord. 47-03, File No. 030095, App. 4/3/2003; Ord. 192-06, File No. 060777, App. 7/21/2006; Ord. 157-08, File No. 080755, App. 7/30/2008; Ord. 159-09, File No. 090718, App. 7/15/2009) 
+SEC. 12.06.  COIT TOWER.
+	(a)	The following fees shall be charged for admission to Coit Tower:
+Age CategoryAdmission FeeElevator Fee
+Non-San Francisco ResidentsAdult$5.00$7.00Senior (65+)$3.00$5.00Youth (12—17 years)$3.00$5.00Child (5—11 years)$1.50$2.00Child (4 years and under)$0.00$0.00
+	(b)	Audio tours: Upon development, and approval by the Commission, of an audio tour for Coit Tower, the entrance fee for the facility shall be increased by $1.00 to cover the cost of rental of the tour. The rental fee for the audio tour without admission to the rest of the facility will be $3.00. 
+(Added by Ord. 228-98, App. 7/2/98; Ord. 190-06, File No. 060775, App. 7/21/2006; Ord. 166-08, File No. 080754, App. 7/30/2008; Ord. 118-10, File No. 100488, App. 6/14/2010)) 
+SEC. 12.07.  WEDDING FEES.
+	The following fees shall be charged for weddings: 
+SiteReservation FeeHourly Rate*Chain of Lakes (Middle Lake)$200.00$50.00Fuschia Garden200.0050.00Portals of the Past/Lloyd's Lake200.0050.00Rose Garden200.0050.00Chinese Pavilion350.00100.00Queen Wilhelmina Garden350.00100.00Shakespeare Garden350.00100.00Palace of Fine Arts Rotunda350.00100.00
+*All sites require a two-hour minimum rental. 
+(Added by Ord. 228-98, App. 7/2/98; amended by Ord. 47-03, File No. 030095, App. 4/3/2003; Ord. 181-07, File No. 070822, App. 8/3/2007) 
+SEC. 12.08.  PARKING FEES ON RECREATION AND PARK PROPERTY.
+	(a)	The following fees shall be charged for parking at the Kezar Parking Lot.
+		(1)	Hourly Parking Rates.
+0—1 hour$2.501—2 hours$5.002—3 hours$7.003—4 hours$10.004—5 hours$12.005—6 hours$14.006—7 hours$16.007—24 hours$18.00Special Event Parking$10.00Validation$1.25
+		(2)	Monthly Parking Rates.
+Resident$160.00Seniors$60.00Commercial (Monday—Friday)$185.00
+		(3)	Other Rates.
+Lost Ticket Fee$18.00Validated Ticket Books (100 stickers)$150.00
+	(b)	Candlestick Parking Lots.
+		(1)	The daily fee for vehicles and trailers parking in the television compound during football season and for televised soccer events shall be $1,000.00 per day. 
+		(2)	The fee for automobile and tire manufacturer and/or dealer shows shall be $2,500.00 per day for set-up and breakdown and $5,000.00 per day for the show. 
+		(3)	The fee for car clubs shall be $2,500.00 per day plus an additional $1,250.00 for use of the entire lot which includes the RV section. 
+		(4)	The fee for photography shoots shall be $2,500.00 per day for use of the parking lot, and $4,000.00 per day for use of the stadium. 
+	(c)	Other Recreation and Park Property. The daily fee for parking on other Recreation and Park property, except for garages and specifically designated parking lots subject to separate fee-setting procedures, shall be from $0.50 (fifty cents) to $1.00 per hour, the amount to be determined by the Recreation and Park Commission after considering the costs of parking in the areas adjacent to the park property. 
+(Added by Ord. 203-99, File No. 990857, App. 7/9/99; amended by Ord. 132-03, File No. 030626, App. 5/30/2003; Ord. 188-06, File No. 060772, App. 7/21/2006; Ord. 158-09, File No. 090714, App. 7/15/2009; Ord. 41-11, File No. 101483, App. 3/10/2011) 
+SEC. 12.09.  CARROUSEL FEES.
+	The following fees shall be charged for rides on the Golden Gate Park Carrousel: 
+Children 5 and underno fees if accompanied
+by an adultChildren 12 and under$.50Adults$1.50
+(Added by Ord. 126-00, File No. 000629, App. 6/7/2000; amended by Ord. 132-03, File No. 030626, App. 5/30/2003)
+SEC. 12.11.  MARINA FEES.
+	The following fees shall be charged for goods and services at the San Francisco Marina Small Craft Harbor: 
+	(a)	Berthing License Fees. The following monthly charges shall be based on the length of the berth. 
+		(1)	East Harbor for Fiscal Year 2013-2014:
+
+Berth LengthFee Per Foot/Per Month20'$8.6425'8.6430'8.7635'8.76
+		(2)	West Harbor for Fiscal Year 2012-2013, or upon completion of the West Harbor renovation as certified in writing by the General Manager, whichever occurs later:
+
+Berth LengthFee Per Foot/Per Month25'$11.6130'11.7735'11.7740'14.2845'14.2850'14.6060'14.6070'14.9180'14.9190'14.91
+	(b)	Surcharge for Electricity. The Recreation and Park Department may meter the use of electricity and may charge the berth holder the utility provider’s standard rates for usage over 264KW per month.
+	(c)	Deposits, refundable if there is no loss, damage or need to clean the item. 
+
+(1)	Berth  One Month's Monthly Berthing License Fee(2)	Electrical Adapter$125.00(3)	Hazardous Material or Removal Fee150.00(4)	Key for Visiting Boaters, per key50.00
+	(d)	Guest Dock.
+		(1)	Short Term Dock Fee – $1.50 per foot, per day.
+		(2)	Pick Up/Drop Off Fee – $2.50 per foot and $1.00 per person, per day.
+	(e)	Parking.
+(1)	Berth Parking, for Owners and Partners Only:	Two stickersFree	Each additional sticker, annually$120.00(2)	Daily Parking, Allows Permit Holder to Park in Marina Spaces if Available:	Crew, per day7.50	Non-Owner, per day7.50(3)	Special Event Parking, per day7.50(4)	Trailer/Dingy Parking, for Regatta etc., per day7.50
+	(f)	Purchase Fees.
+Key Purchase (Berth holders, Partners and Families), per key$25.00
+	(g)	Services.
+(1)	Chain Fee (delinquent fees, unauthorized vessels), per incident$50.00(2)	Dock Box Cleaning Fee (from Haz Mat deposit)$50.00(3)	Impound, per incident$150.00(4)	Harbor Line Installation, per line$30.00(5)	Labor, per incident$50.00 flat fee or $75.00/hour, whichever is greater.
+$100/hour for after-hours.(6)	Late Fees10% of initial fee(7)	Pump-Out	Water, for first incident$75.00	For subsequent incident(s)$125.00
+		(8)	Transfer Fees. Berthing licenses may not be transferred, sold or assigned, except to the extent and on the terms and conditions specifically provided in the Rules and Regulations of the San Francisco Marina Small Craft Harbor ("Marina Rules") as adopted by the Commission.
+			(A)	Except as specified in (B), transfers expressly authorized by the Marina Rules shall be subject to a $50 administrative fee.
+			(B)	The one-time transfer opportunity authorized by the Marina Rules, as adopted by the Commission on April 19, 2012, to effect a transfer of a berthing license and berth with the sale of vessel within the berth to a new owner from the wait list shall be subject to a transfer fee of:
+				(1)	$150 per linear foot of the berth for berths 35 feet and under
+				(2)	$200 per linear foot of the berth for berths 40 and 45 feet, and 
+				(3)	$325 per linear foot of the berth for berths 50 feet and longer.
+			(C)	Nothing in this subsection (g)(8) or in the Marina Rules shall be construed to
+				(1)	convey a vested right to transfer a berthing license or berth, or 
+				(2)	prevent the Commission from amending or abolishing the transfer opportunities recognized in this subsection (g)(8).
+	(h)	Storage.
+(1)	Dock Box	OneFree	Each additional, per month$15.00(2)	Reserved(3)	Multihull Surcharge – Additional 40% of monthly Berth Fee(4)	Skiff, less than 20 feet and no power or dock box, per month100.00(5)	Small Boat Rack (Dingy, kayak, or canoe), per month25.00(6)	Storage Lockers, per month25.00
+	(i)	Wait List Fee.
+Per year$75.00
+	(j)	Adjustment of Fees. The fees set forth herein shall be adjusted in accordance with Section 12.20 of this article.
+	(k)	Berthing Licenses.
+		(1)	A person may not berth a vessel in the Marina without having secured a berthing license from the Harbormaster. Berthing licenses are subject to the Rules and Regulations of the San Francisco Marina Small Craft Harbor ("Marina Rules") as adopted by the Commission, and any subsequent amendments thereto. All berthing licenses, regardless of when granted, constitute a privilege and are not the property of the bertholder. This provision is declaratory of existing law.
+		(2)	The Harbormaster may renew berthing licenses annually in accordance with the procedures set forth in the Marina Rules. There shall be no limit to the number of times that the Harbormaster may renew a berthing license.
+		(3)	The Commission may decide at any time to amend, suspend or terminate the berthing license program for the San Francisco Marina Small Craft Harbor, and the privileges bertholders derive from the program.
+(Added by Ord. 252-00, File No. 001492, App. 10/27/2000; amended by Ord. 162-05, File No. 050602, App. 7/21/2005; Ord. 307-08, File No. 081328, App. 12/16/2008; Ord. 111-12, File No. 120435, App. 6/18/2012, Eff. 7/18/2012; Ord. 173-13, File No. 130548, App. 8/2/2013, Eff. 9/1/2013) 
+SEC. 12.12.  GOLF FEES – GENERAL.
+	(a)	Authorization. The Recreation and Park Department (the "Department") is hereby authorized to charge fees at the San Francisco municipal golf courses at Harding Park, Fleming, Lincoln Park, Sharp Park, Golden Gate Park, and McLaren Park (collectively, the "Golf Courses") in the manner and in conformance with the standards set forth herein. The Department and the Controller shall adjust golf fees in accordance with Section 12.20 of this Article.
+	(b)	Discount Fee Categories.
+		(1)	Bay Area Rates shall apply to residents of the following Bay Area counties who provide proof of residency: San Francisco (for residents without a valid Resident Golf Card), Alameda, Contra Costa, Marin, Napa, San Mateo, Santa Clara, Santa Cruz, Solano and Sonoma.
+		(2)	Junior Rates shall apply to persons 17 years of age and under.
+		(3)	Resident Rates shall apply to persons holding Resident Golf Cards per subsection (c) below.
+		(4)1	Resident Senior Rates shall apply to persons 65 years of age and above holding Resident Golf Cards per subsection (c) below.
+		(5)1	Tournament Rates.
+			(i)	Residents shall pay Tournament Rates, not Resident Rates, for tournament play.
+			(ii)	A Junior Tournament Rate, applicable to a group of 16 or more players aged 17 years and under, shall be 50 percent of the regular Tournament Rate for the applicable course. The Junior Tournament Rate shall apply to juniors participating in the Family Tournament held at Golden Gate Park, and the City Championship held at Lincoln Park and Harding Park.
+		(6)1	Twilight Rates shall apply to rounds commencing no earlier than four hours before sunset, as determined by the Department.
+	(c)	Resident Golf Cards.
+		(1)	The Department shall charge a fee of $90.00 for a San Francisco Resident Golf Card, entitling the holder to discounts (Resident Rates) on the Golf Courses for two years from the date of issuance. Cards shall be available to San Francisco residents and/or San Francisco property owners only upon presentation of valid proof of residency or ownership.
+		(2)	The Department shall charge a fee of $60.00 for a Pacifica Resident Golf Card entitling the holder to discounts (Resident Rates) at the Sharp Park Golf Course only for two years from the date of issuance. Cards shall be available to Pacifica residents only upon presentation of valid proof of residency.
+		(3)	The Department shall charge a fee of $25.00 for replacement of San Francisco and Pacifica Resident Golf Cards.
+		(4)	If a San Francisco or Pacifica resident card application is returned to the applicant because the information on the application is incorrect or incomplete, there shall be an additional administrative fee of $5.00.
+	(d)	Flexible Pricing. At Harding Park, Sharp Park and Lincoln Park golf courses only, the Department's General Manager or his or her designee may approve temporary fee increases and/or decreases from time to time based on fluctuations in customer demand at those three courses as follows: 
+		(1)	discounts of not more than 25 percent for greens fees; 
+		(2)	increases of up to 50 percent for all non-resident fees and tournament fees; and 
+		(3)	increases of up to 25 percent for resident fees.
+	(e)	Motorized Golf Carts.
+		(1)	Subject to subsection (2) below, the rental fees for motorized golf carts shall be $26.00 for carts at Lincoln Park, McLaren Park (Gleneagles) and Sharp Park, and $40.00 for carts at Harding Park.
+		(2)	There shall be no fee for a motorized golfcart for 
+			(i)	persons paying Tournament Rates at any of the Golf Courses, and
+			(ii)	persons paying either Standard or Tournament Rates at Harding Park.
+	(f)	Reservations. A $1.00 per person fee shall be charged for reservations made by phone or online seven days or less in advance of the reserved tee time for any of the Golf Courses.
+(Added by Ord. 170-12, File No. 120608, App. 7/27/2012, Eff. 8/26/2012) 
+(Former Sec. 12.12 added by Ord. 52-02, File No. 020198, App. 4/26/2002; amended by Ord. 180-05, File No. 050987, App. 7/29/2005; Ord. 184-06, File No. 060771, App. 7/21/2006; Ord. 186-07, File No. 070816, App. 8/3/2007; Ord. 157-10, File No. 100360, App. 7/1/2010; Ord. 151-11, File No. 110549, App. 8/1/2011, Eff. 8/31/2011; repealed by Ord. 170-12, File No. 120608, App. 7/27/2012, Eff. 8/26/2012) 
+CODIFICATION NOTE
+1.	The numbering of divisions (b)(4), (b)(5), and (b)(6) was corrected by the codifier.
+Editor's Note:
+	For current provisions relating to Harding Park and Fleming Golf Courses, see Secs. 12.12.1 and 12.12.2, respectively.
+SEC. 12.12.1.  HARDING PARK GOLF COURSE.
+	(a)	Greens Fees.
+
+Fee CategoryWeekday (6:00 a.m. Mon.-Fri. noon) WeekendStandard $155 $175Standard Twilight $85 $100Standard Junior $77 $88Bay Area $90 $100Bay Area Twilight $71 $80Bay Area Junior $45 $50Resident $52 $66Resident Twilight $41 $50Resident Junior $20 $25Resident Senior $37 $66Tournament $125 $135
+	(b)	Replay Rate. A same-day replay rate is available to golfers who complete an 18-hole round for the following fee categories only: Standard, Bay Area and Resident. The replay rate shall be 30 percent of the originally purchased round. The replay round must be used by the purchaser of the full price round. Replay rounds may not be reserved in advance.
+	(c)	Reservation Premiums. A $10.00 per person fee shall be charged for advance tee times scheduled eight days or more in advance of the tee time.
+	(d) 	Practice Range. The following fees shall be charged for a bucket of balls for use at the Driving Range:
+
+Small bucket (25-30 balls) $7.00Medium bucket (45-50 balls) $9.00Large bucket (70-75 balls) $12.00
+	(e)	Shotgun Tournament (120 players or more). The following fees shall apply in addition to the regular Tournament Rate:
+		(1)	Weekday Shotgun (per player) - $10.00
+		(2)	Weekend Shotgun (per player) - $15.00
+	(f)	Accompanying Rider Rate. The fee for non-golfers riding in a motorized cart shall be $25.00 per person.
+(Added by Ord. 170-12, File No. 120608, App. 7/27/2012, Eff. 8/26/2012) 
+SEC. 12.12.2.  FLEMING GOLF COURSE.
+Fee CategoryWeekday (6:00 a.m. Mon.-Fri. noon) WeekendStandard $27$32Resident $22$24Resident Senior $16$21Resident Junior$12$15Tournament$32$43Replay$12$12
+(Added by Ord. 170-12, File No. 120608, App. 7/27/2012, Eff. 8/26/2012) 
+SEC. 12.12.3.  LINCOLN PARK GOLF COURSE.
+Fee CategoryWeekday (6:00 a.m. Mon.-Fri. noon) WeekendStandard $38$42Standard Junior $19$21Resident $24$29Resident Senior$14$22Resident Junior $12$17Back Nine$13$18Twilight$22$28Tournament $44$54
+(Added by Ord. 170-12, File No. 120608, App. 7/27/2012, Eff. 8/26/2012) 
+SEC. 12.12.4.  SHARP PARK GOLF COURSE.
+Fee CategoryWeekday (6:00 a.m. Mon.-Fri. noon) WeekendStandard $41$45Standard Junior $21$23Resident $25$30Resident Senior$15$23Resident Junior $13$18Back Nine$14$19Twilight$23$29Tournament $47$57
+(Added by Ord. 170-12, File No. 120608, App. 7/27/2012, Eff. 8/26/2012) 
+SEC. 12.12.5.  GOLDEN GATE PARK GOLF COURSE.
+	(a)	Greens Fees.
+
+Fee CategoryWeekday (6:00 a.m. Mon.-Fri. noon) WeekendStandard $16$20Standard Junior $8$10Resident $12$14Resident Senior$9$12Resident Junior $6$8Twilight$9$10Tournament $19$27
+	(b)	Practice Range. The following fees shall be charged for a bucket of balls for use at the Driving Cage:
+
+Small bucket (approx. 35 balls) $4.00Large bucket (approx. 75 balls) $6.00
+	(c)	The Family Tournament. The Family Tournament has been hosted at Golden Gate Park Golf Course for over 50 years and is open to everyone. The Family Tournament is a group of 16 or more players composed of two family members alternating shots, playing two rounds of nine holes. The Junior Tournament Rate shall be applicable only to team members 17 years old and younger. The fee per team shall be the sum of the fees for one round of the applicable Tournament Rate per person per day.
+(Added by Ord. 170-12, File No. 120608, App. 7/27/2012, Eff. 8/26/2012) 
+SEC. 12.12.6.  MCLAREN PARK (GLENEAGLES) GOLF COURSE.
+Fee CategoryWeekday (Mon.-Thurs.) Weekend (Fri.-Sun.)Standard – 9 holes$19.00$22.50Standard – 18 holes$27.00$34.50Senior$15.00N/AJunior$15.00N/A
+(Added by Ord. 170-12, File No. 120608, App. 7/27/2012, Eff. 8/26/2012) 
+SEC. 12.13.  [REPEALED.]
+(Added by Ord. 157-02, File No. 021081, App. 7/12/2002; amended by Ord. 152-11, File No. 110550, App. 8/1/2011, Eff. 8/31/2011; repealed by Ord. 170-12, File No. 120608, App. 7/27/2012, Eff. 8/26/2012)
+Editor's Note:
+	For current provisions relating to Lincoln Park Golf Course, see Sec. 12.12.3.
+SEC. 12.14.  [REPEALED.]
+(Added by Ord. 157-02, File No. 021081, App. 7/12/2002; amended by Ord. 153-11, File No. 110551, App. 8/1/2011, Eff. 8/31/2011; repealed by Ord. 170-12, File No. 120608, App. 7/27/2012, Eff. 8/26/2012)
+Editor's Note:
+	For current provisions relating to Sharp Park Golf Course, see Sec. 12.12.4.
+SEC. 12.15.  DAY CAMP FEES.
+	The following fees shall be charged for Recreation and Park Department day camps, per week. Half-day camps are half of the amount shown. 
+	(a)	Program.
+S.F.
+ResidentsNon-S.F.
+ResidentsStandard Camps$115.00$168.00Specialty Camps$230.00$336.00Camps$192.00Harvey Milk Center$176.00
+	(b)	Randall Museum Camps.
+Day Camps$195.00Mather Youth Camp 
+(5 days, 4 nights)$300.00$345.00
+	(c)	Priority will be given to San Francisco residents.
+	(d)	The Recreation and Park Commission shall adopt policies and procedures to offer a 50% reduction in fees for low-income San Francisco residents, and to determine a discount for families with two or more children attending Recreation and Park Department Day Camps. 
+(Added by Ord. 168-02, File No. 021127, App. 8/2/2002; amended by Ord. 132-03, File No. 030626, App. 5/30/2003; Ord. 157-09, File No. 090713, App. 7/15/2009) 
+SEC. 12.16.  [REPEALED.]
+(Added by Ord. 157-02, File No. 021081, App. 7/12/2002; amended by Ord. 180-05, File No. 050987, App. 7/29/2005; Ord. 154-11, File No. 110552, App. 8/1/2011, Eff. 8/31/2011; repealed by Ord. 170-12, File No. 120608, App. 7/27/2012, Eff. 8/26/2012) 
+Editor's Notes:
+	This section was originally numbered 12.12 due to a clerical error which was corrected by the publisher.
+	For current provisions relating to Golden Gate Park Golf Course, see Sec. 12.12.5.
+SEC. 12.20.  ADJUSTMENT OF FEES.
+	(a)	Beginning with fiscal year 2003-2004, fees set forth in this Article 12, unless otherwise specified, may be adjusted each year, without further action by the Board of Supervisors, to reflect changes in the relevant Consumer Price Index (CPI), as determined by the Controller. 
+		No later than April 15th of each year, the Recreation and Parks Department shall submit its current fee schedule to the Controller, who shall apply the price index adjustment to produce a new fee schedule for the following year. 
+		No later than May 15th of each year, the Controller shall file a report with the Board of Supervisors (i) reporting the new fee schedule, and (ii) identifying any fees that produce revenue which is significantly more than the costs of providing the services for which each fee is assessed and describing how such revenue is used by the Department or the City.
+	(b)	All golf fees for San Francisco residents, juniors, seniors may be increased annually by the CPI, or up to $1.00, upon approval of the Recreation and Park Commission. All golf fees for non-S.F. residents and tournaments may be increased by two times (2X) the CPI, or up to $1.00, whichever is greater, upon approval of the Recreation and Park Commission. 
+(Added by Ord. 157-02, File No. 021081, App. 7/12/2002; amended by Ord. 47-03, File No. 030095, App. 4/3/2003; Ord. 180-05, File No. 050987, App. 7/29/2005; Ord. 208-05, File No. 051258, App. 8/12/2005; Ord. 93-12, File No. 120274, App. 5/21/2012, Eff. 6/20/2012) 
+SEC. 12.21.  CLUBHOUSES; LAKE MERCED BOATHOUSE.
+	(a)	The following fees shall be charged for use of clubhouses:
+
+Hourly Rate*Stern Grove (Trocadero)Monday - Thursday$120.00Friday - Sunday$140.00Legal Holidays$140.00*Six hour minimum rentalClass AAA Clubhouses$70.00Class A Recreation Center$45.00Class B Large Clubhouse$35.00Class C Small Clubhouse$25.00*Two hour minimum rental plus staff time at prevailing rate.
+	(b)	The following fees shall be charged for use of gymnasiums:
+
+Hourly Rate*Class AA Gyms$125.00Class A Gyms$100.00Class B Gyms$75.00Class C Gyms$50.00*Two hour minimum, plus staff time at prevailing rate. 
+	(c)	Lake Merced Boathouse. The following fees shall be charged for rental of a room in the Lake Merced Boathouse. For purposes of this subsection (c), "Nonprofit" shall mean any entity that qualifies for tax-exempt status under 26 U.S.C. § 501(c)(3) and seeks to rent the Boathouse for community or social activities in which there are no monetary transactions (i.e., admission charge, donation, ticket sales, or product sales) during or in connection with the rental, and "Private" shall mean all other users who do not meet this definition of "Nonprofit." For purposes of this subsection (c), "Event" shall mean a gathering where food and/or drink is served, and "Meeting" shall mean a gathering where neither food nor drink is served.
+
+Hourly Rate*Non-profit Meeting Monday-Thursday$40.00Non-profit Meeting Friday-Sunday$100.00Non-profit Event Monday-Thursday$75.00Non-profit Event Friday-Sunday$100.00Private Meeting or Event Monday-Thursday$125.00Private Meeting or Event Friday-Sunday$200.00* A booking from 8 am to 4 pm or from 5 pm to midnight shall be charged a maximum of 6 hours.
+(Added by Ord. 47-03, File No. 030095, App. 4/3/2003; amended by Ord. 187-07, File No. 070817, App. 8/3/ 2007; Ord. 156-09, File No. 090711, App. 7/15/2009; Ord. 173-13, File No. 130548, App. 8/2/2013, Eff. 9/1/2013) 
+SEC. 12.22.  EVENTS.
+	The following fees shall be charged for use of the parks for events: 
+	(a)	Special and Athletic Event permit fees per day.
+PARK VENUECOMMERCIAL FEENON-PROFIT FEE*2008-09
+25%2009-10
+35%2010-11
+50%GGP Lindley Meadow$10,000$2,500$3,500$5,000GGP Speedway Meadow$18,000$4,500$6,300$9,000GGP Marx Meadow$2,500$625$875$1,250GGP Sharon Meadow$12,000$3,000$4,200$6,000GGP Polo Field$50,000$12,500$17,500$25,000GGP Music Concourse$2,500$625$875$1,250Civic Center Plaza$25,000$6,250$8,750$12,500Justin Herman Plaza$7,000$1,750$2,450$3,500Marina Green East$7,500$1,875$2,625$3,750Marina Green West$800$200$280$400Jerry Garcia Amphitheater$3,200$800$1,120$1,600Portsmouth Square$500$125$175$250Union Square$7,500$1,875$2,625$3,750Washington Square$3,200$800$1,120$1,600Mission Dolores Park$12,000$3,000$4,200$6,000Precita Park$5,000$1,250$1,750$2,500Other sites$1.00/person times venue capacity*
+*Non-profit fees will be phased in at the following rate: 25% of the Commercial Fee in Fiscal Year (FY) 2008-2009: 35% of the Commercial Fee in FY2009-2010. and 50% of the Commercial Fee in FY2010-2011 and thereafter. 
+	(b)	Gated Events - Applicable venue permit fee or 25% of the gate receipts, whichever is greater.
+	(c)	Elementary, Middle or High School Outdoor Events, including sports field days:
+		(1)	Four hours or less$100.00		(2)	Each additional hour$25.00
+	(d)	Athletic Events requiring a road closure - $1.00 per participant.
+	(e)	Concession Fee - An amount equal to 5% of the gross sales receipts as determined by sales tax documentation that is provided by the Permittee to the California State Board of Equalization to be paid within 30 days following the event. 
+	(f)	Amateur Productions of performing arts, no charge to the public:
+		(1)	Weekdays (Monday—Friday)$150.00
+per day		(2)	Weekdays, two consecutive days at same site$250.00/
+two days		(3)	Non-holiday weekends$200.00
+per day		(4)	Non-holiday weekends, two consecutive days, same site$350.00/
+two days		(5)	Holiday weekends, two consecutive days, same site$500.00/
+two days
+	(g)	Impact Fees to compensate the Department for the anticipated impact on park property and/ or services, the disruption of normal park usage and the inconvenience to the public, because of the type of event, the location, the number of expected participants and other similar factors. 
+	(h)	The Recreation and Park Commission shall consider a fee waiver for all non-profit organizations with 501(c)(3) status whose annual gross revenues do not exceed $100,000.00. The applicant shall submit a request for a fee waiver concurrently with the initial request to reserve park space. The Commission shall have the authority to grant a fee waiver or partial reduction at its sole discretion. 
+(Added by Ord. 47-03, File No. 030095, App. 4/3/2003; Ord. 190-08, File No. 080880, App. 8/7/2008)
+SEC. 12.23.  PICNICS.
+	The following fees shall be charged for use of the parks for picnics per day 
+	(a)	Picnics at Pioneer Log Cabin, Pine Lake Picnic Area and Stern Grove East Meadow:
+		(1)	1—50 participants		$50.00
+		(2)	51—100 participants		$75.00
+		(3)	101—200 participants		$100.00
+		(4)	201—300 participants		$150.00
+	(b)	Picnics at all other park locations:
+		(1)	1—50 participants		$25.00
+		(2)	51—100 participants		$50.00
+		(3)	101—200 participants		$75.00
+		(4)	201—400 participants		$125.00
+		(5)	more than 400 participants	$250.00
+	(c)	Picnics hosted by a company or business for their employees at any location:
+		(1)	1—200 participants		$200.00
+		(2)	201—300 participants		$250.00
+		(3)	301—500 participants		$350.00
+		(4)	501—750 participants		$500.00
+		(5)	over 750 participants		$750.00
+		(6)	with special events		$1,000.00
+(Added by Ord. 47-03, File No. 030095, App. 4/3/2003)
+SEC. 12.24.  PHOTOGRAPHY AND FILM.
+	The following fees shall be charged for use of the parks for commercial photography and filming: 
+	(a)	Photography shoots, per day, per site:
+		(1)	Simple				$200.00
+		(2)	Large crew			minimum of $500.00,
+		plus any additional fees determined by the General Manager, or a designee, to be necessary to compensate the Department for the anticipated impact on park property and/or services, the disruption of normal park usage and the inconvenience to the public, because of the type of event, the location, the number of expected participants and other similar factors. 
+	(b)	Filming, per day, per site:
+		(1)	Documentary			$200.00
+		(2)	Outdoor, simple		$500.00
+		(3)	Large productions		$1,000.00
+		(4)	Facility, property usage	minimum of $5,000.00,
+		plus any additional fees determined by the General Manager, or a designee, to be necessary to compensate the Department for the anticipated impact on park property and/or services, the disruption of normal park usage and the inconvenience to the public, because of the type of event, the location, the number of expected participants and other similar factors. 
+(Added by Ord. 47-03, File No. 030095, App. 4/3/2003)
+SEC. 12.25.  ENCROACHMENT.
+	The fee to erect any structure or to park any vehicle that encroaches on park property in order to obtain access to adjacent property for construction or other purposes shall be a minimum of $500.00, plus any additional fees and/or costs that the General Manager, or a designee, determines appropriate based on the anticipated impact on park property and/or services, because of the type of activity, number of workers, type and amount of equipment to be placed or transported over park property, and other similar factors. 
+(Added by Ord. 47-03, File No. 030095, App. 4/3/2003)
+SEC. 12.26.  [REPEALED.]
+(Added by Ord. 47-03, File No. 030095, App. 4/3/2003; repealed by Ord. 173-13, File No. 130548, App. 8/2/2013, Eff. 9/1/2013)
+SEC. 12.27.  SHARON ARTS STUDIO.
+	The fees for adult classes at the Sharon Arts Studio shall be as follows: 
+	(a)	Ceramics		$149.00
+	(b)	Glass			$108.00
+	(c)	Jewelry—general	$108.00
+	(d)	Jewelry—enamel	$84.00
+	(e)	Drawing—general	$78.00
+	(f)	Mosaics		$60.00
+	(g)	Life drawing		$48.00
+(Added by Ord. 47-03, File No. 030095, App. 4/3/2003)
+SEC. 12.28.  REDUCTION OR WAIVER OF FEES.
+	The Recreation and Park Commission may adopt policies and regulations authorizing the General Manager to reduce or waive any fees and/or costs imposed under this Park Code in cases of demonstrated financial hardship when a permit applicant meets all other permit requirements. 
+(Added by Ord. 47-03, File No. 030095, App. 4/3/2003)
+SEC. 12.29.  PHOTOGRAPHY CENTER.
+	(a)	The following fees shall be charged for use of the Photography Center for fiscal year 2003-2004:
+Adult Annual Membership$250.00/year, unlimited useYouth Annual Membership$125.00/year, unlimited useAdult$50.00/six months plus $5.00/visitYouth$25.00/six months plus $5.00/visitSenior$25.00/six months plus $5.00/visit
+(Added by Ord. 132-03, File No. 030626)
+SEC. 12.30.  LATCH KEY AND AFTERSCHOOL PROGRAMS.
+	The following fees shall be charged for Latch Key and Afterschool programs: 
+(Monday—Friday)$3.60 per day
+(Added by Ord. 132-03, File No. 030626, App. 5/30/2003; Ord. 165-09, File No. 090719, App. 7/15/2009)
+SEC. 12.31.  [REPEALED.]
+(Added by Ord. 132-03, File No. 030626, App. 5/30/2003; repealed by Ord. 173-13, File No. 130548, App. 8/2/2013, Eff. 9/1/2013)
+SEC. 12.32.  [REPEALED.]
+(Added by Ord. 132-03, File No. 030626, App. 5/30/2003; Ord. 191-07, File No. 070821, App. 8/3/2007; repealed by Ord. 170-12, File No. 120608, App. 7/27/2012, Eff. 8/26/2012)
+Editor's Note:
+	For current provisions relating to Resident Golf Cards, see Sec. 12.12(b) and (c).
+SEC. 12.33.  [REPEALED.]
+(Added by Ord. 132-03, File No. 030626, App. 5/30/2003; amended by Ord. 180-05, File No. 050987, App. 7/29/2005; repealed by Ord. 170-12, File No. 120608, App. 7/27/2012, Eff. 8/26/2012)
+Editor's Note:
+	For current provisions relating to golf cart rental, see Sec. 12.12(e).
+SEC. 12.34.  CONSERVATORY OF FLOWERS FEES.
+	(a)	Admission Fees. The following fees shall be charged for admission to the Conservatory of Flowers: 
+Age/CategoryS.F.ResidentsNon-ResidentsAdults$5.00$7.00Youth 12—17 and Seniors 65 and over$3.00$5.00Children 5—11$1.50$2.00Children 4 and underNo feeNo feeSan Francisco school groups K—12 with prior schedulingNo fee
+	(b)	In addition, the Conservatory of Flowers will be open without charge one day each month and on sponsored special event days.
+	(c)	Facility Rental Fees. The following fees shall be charged for rental of Conservatory of Flowers facilities: 
+Rental AreaHourly RateMinimum HoursConservatory Only:After Hours Tours$600.002Event$1,250.002Garden Club, Botanical Garden, or University Botanical Program Tours$3.00 per personNoneConservatory & Reception Space:Wedding Ceremony$3,000.002Wedding Ceremony and Reception$1,450.006Corporate Event*$1,500.004All Other Events$1,250.002Children's (Ages 5—13) Birthday Party$200.003
+* "Corporate Event" means any rental by, on behalf of or in connection with any corporate entity, except for any entity qualifying for tax-exempt status under 26 U.S.C. § 501(c)(3). 
+(Added by Ord. 231-03, File No. 031274, App. 9/26/2003; Ord. 158-08, File No. 080757, App. 7/30/2008; Ord. 160-09, File No. 090720, App. 7/15/2009) 
+SEC. 12.35.  GOLDEN GATE PARK CONCOURSE UNDERGROUND PARKING FACILITY.
+	(a)	The rates for parking in the Golden Gate Park Underground Parking Facility shall be as follows:
+Each hourMaximumWeekdays$4.50$25.00Weekends$5.00$28.00Flat Rate After 6:00 p.m.$15.00Monthly Rate (daytime)$200.00
+	(b)	The deposit and expenditure of all amounts collected from this facility are subject to the provisions of the "Golden Gate Park Revitalization Act of 1998," Appendix 41 of the Administrative Code. 
+(Added by Ord. 262-03, File No. 031320, App. 11/25/2003; amended by Ord. 188-10, File No. 100708, App. 7/23/2010; Ord. 93-12, File No. 120274, App. 5/21/2012, Eff. 6/20/2012)
+SEC. 12.36.  ATHLETIC FIELD FEES.
+	(a)	Fees for Adults.
+		(1)	Facility Fee Per Hour:
+			S.F. Residents		$25.00 
+			Non-resident		$65.00 
+			Not-for-Profit		$25.00 
+			Profit			$65.00 
+		(2)	Additional Charges:
+			Lighted, per hour						$10.00 
+			Exclusive Use/Tournaments, per day				$45.00 
+			Baselines: Softball, Baseball, per booking			$60.00 
+			Fieldlines: Soccer, Football, Rugby, Lacrosse, per booking	$120.00 
+			Gaelic Football, per booking					$180.00 
+			Football (5 yards), per booking				$160.00
+		(3)	Not for Profit Fees are available to organized programs that serve San Francisco residents, and that do not generate income or compensation to the organizers and/or sponsors. The Commission shall establish criteria for the determination of organizations eligible for this fee. Organizations shall pay an application fee of $250.00 for certification for eligibility for Not For Profit Fees. 
+		(4)	For Profit Fees apply to organized programs, that generate income or compensation to organizers, fundraisers or subsidies to other programs. The Commission shall establish criteria for the determination of organizations subject to this fee. 
+	(b)	Fees for For-Profit Youth Programs and Camps.
+		(1)	For Profit Fees in Section 12.36(a)(1) apply to any youth program that does not meet the standard for Not For Profit Fees in Section 12.36(a)(3). 
+		(2)	S.F. Resident Fees will apply to any youth summer camp or vacation camp except that any camp charging less than $3.00 per hour per child will pay no fee. 
+(Added by Ord. 182-05, File No. 050990, App. 7/29/2005; Ord. 185-07, File No. 070815, App. 8/3/2007; Ord. 170-08, File No. 080750, App. 7/30/2008; Ord. 164-09, File No. 090717, App. 7/15/2009) 
+SEC. 12.37.  [REPEALED.]
+(Added by Ord. 208-05, File No. 051258, App. 8/12/2005; repealed by Ord. 170-12, File No. 120608, App. 7/27/2012, Eff. 8/26/2012)
+Editor's Note:
+	For current provisions relating to McLaren Park (Gleneagles) Golf Course, see Sec. 12.12.6.
+SEC. 12.38.  LAKE MERCED BOAT STORAGE.
+	The fee for storing boats at the Lake Merced boathouse is $25.00 per boat per month. 
+(Added by Ord. 184-05, File No. 050992, App. 7/29/2005)
+SEC. 12.39.  TINY TOT/CHILD DEVELOPMENT PROGRAM FEES.
+	The following fees shall be charged for the Department's tiny Tot/Child Development Program: 
+	(a)	Traditional Tiny Tots	$30.00 for 10 visits
+	(b)	Play Groups		$3.00 for drop in or $20.00 for 10 visits
+	(c)	Kids' Gym		$4.00 for drop in or $30.00 for 10 visits
+	(d)	Arts and Crafts	$4.00 for drop in or $30.00 for 10 visits
+	(e)	Special Programs	$3.00 for drop in or $20.00 for 10 visits
+(Added by Ord. 181-05, File No. 050989, App. 7/29/2005)
+SEC. 12.40.  AQUATIC FEES.
+	The following fees shall be charged for use of aquatic facilities and other aquatic related activities. 
+	(a)	Entry Fees.
+		(1)Children 17 yrs and underRecreation Swim$1.00Lap Swim$1.00Monthly Swim Pass * **$16.00Summer Recreation Pass (10 weeks beginning the Monday after the SFUSD school year ends and ends the day before SFUSD school year begins)* ** $20.00Yearly Swim Pass (12 months)* **$170.00Water Exercise Scrip for 10 classes$20.00		(2)Adults (18+ yrs)Recreation Swim$5.00Lap Swim$5.00Water Exercise$7.00Monthly Swim Pass * **$66.00Recreation Swim Scrip Ticket for 10 sessions**$45.00Yearly Swim Pass (12 months)* **$600.00Water Exercise Scrip for 10 classes$60.00		(3)Seniors (65+ yrs)Recreation Swim$4.00Lap Swim$4.00Monthly Swim Pass* **$35.00Recreation Scrip Ticket for 10 sessions**$21.00Yearly Swim Pass (12 months)* **$400.00Water Exercise Scrip for 10 classes$31.00		(4)Economic NeedScrip Ticket for 10 swims$21.00Water Exercise Scrip for 10 classes$31.00Monthly Swim Pass* **$37.00Yearly Swim Pass (12 months)* **$400.00
+* Monthly and yearly passes will have a picture ID and a replacement fee will be charged for lost or stolen passes. 
+** Does not include lessons or water exercise. 
+	(b)	Lessons.
+		(1)Pre-school/tiny tots (with parent) (10 sessions)$53.00		(2)Learning to swimYouth (6 yrs & 48" tall) Summer Program (10 classes/30 minutes)$25.00Youth (6 yrs & 48" tall) (10 classes/40 minutes)$42.00Adult (10 classes/45 minutes)$67.00		(3)Water Exercise (all ages, one class)$7.00		(4)Semi-private (3 students per instructor) (5 classes/30 minutes)$105.00 per person		(5)Private lessons (5 classes/30 minutes)$160.00		(6)Pre-competitive Swim Teams (10 classes/60 minutes)$50.00
+	(c)	Classes (fees do not include cost of materials or certification costs).
+		(1)CPR$63.00		(2)First Aid$53.00		(3)Lifeguard Training$105.00		(4) Lifeguard Training — Challenge$50.00		(5) Title 22$105.00		(6)Pet First Aid$37.00		(7)Water Safety Instructor$105.00		(8)Stroke Clinic$125.00
+	(d)	Swim Team Pool Rental*** per hour.
+		(1)MOU + Age Group Teams/Marionettes$24.00		(2)MOU Masters Swim Teams+$46.00		(3)MOU additional lanes$6.00		(4)Swim Teams/Schools/Masters Pool Rentals$95.00 per hour or $20.00 per lane per hour
++Requires certification of Red Cross safety training for swim coaches and certification as a swim coach by the applicable sanctioning organization. 
+	(e)	Pool Rental*** (minimum 2 hours).
+Special Events (1-20 people)$175.00 per hourSpecial Events (every additional 10 people)$50.00 per hour
+*** For entire pool except: Sava = 4 lanes; and MLK, Jr. = 8 lanes 
+	(f)	Birthday Package (includes 1 hour pool program, 1.5 hours community room).
+MLK Pool
+Sava Pool1-20 people$315.00 Residents, $415 Non ResidentsHamilton Pool1-20 people$400 Resident, $550 Non Resident$17.00 each additional participant (maximum 10)Hamilton Pool with Recreation Director Activities$550 Resident, $650 Non Residents$22.00 each additional participant (maximum 10)
+(Added by Ord. 183-05, File No. 050991, App. 7/29/2005; Ord. 169-08, File No. 080751, App. 7/30/2008; Ord. 163-09, File No. 090712, App. 7/15/2009) 
+SEC. 12.41.  PROFESSIONAL TENNIS LESSON RATES.
+	(a)	Definitions. The following definitions shall apply to this section:
+		"Director of Tennis" means a Professional Tennis Instructor who demonstrates to the satisfaction of the Recreation and Park Department that he or she has experience in all of the following areas: (1) pro shop management, (2) training competitive tennis players at a sectional or national level, (3) supervising employees, (4) managing a variety of tennis programs, and (5) other business management activities including human relations, hiring. budgets. communications and professional management team skills.
+		"Head Tennis Professional" means a Professional Tennis Instructor who demonstrates to the satisfaction of the Recreation and Park Department that he or she has experience in all of the following areas: (1) instructing all tennis students at all levels, (2) conducting group and private tennis lessons for all students at all levels, (3) assisting and developing competitive tennis players, (4) designing and implementing tennis lesson plans, (5) organizing and implementing tennis programs, and (6) assisting with and/or directing pro shop management and facility maintenance.
+		"Professional Tennis Instructor" means a person who is certified by the United States Professional Tennis Association ("USPTA").
+		"Tier One Instructor" means a Professional Tennis Instructor who is either (1) USPTA Certified Level 1, or (2) USPTA Certified Level 2 and a Director of Tennis or a Head Tennis Professional.
+		"Tier Two Instructor" means a Professional Tennis Instructor who is either (1) USPTA Certified Level 2, or (2) USPTA Certified Level 3.
+	(b)	Rates. The following rates shall be charged for tennis lessons that are provided on Recreation and Park Department property by third-party Professional Tennis Instructors who have obtained authorization from the Department to conduct such lessons. After August 31, 2014, these rates may be adjusted each year in accordance with Section 12.20 of this Article 12.
+
+Lesson TypeRates - September 1, 2012-August 31, 2013  Rates - September 1, 2013-August 31, 2014½ Hour Private - Tier One Instructor $40 $45½ Hour Private - Tier Two Instructor$35$401 Hour Private - Tier One Instructor$70$751 Hour Private - Tier Two Instructor$65$701 Hour - 2 person (rate is per person)$35$401 Hour - Group (minimum 3 people and maximum 6 people; rate is per person)$22$221 Hour-Youth Group (minimum 3 people and maximum 6 people; rate is per person)$18$20Cancellation Fees (less than 24 hour notice)25% of lesson cost25% of lesson cost
+(Added by Ord. 189-06, File No. 060773, App. 7/21/2006; amended by Ord. 171-12, File No. 120609, App. 7/27/2012, Eff. 8/26/2012)
+SEC. 12.42.  STADIUM RENTALS.
+	The General Manager is authorized to enter into short-term, not to exceed 14 cumulative days, revocable license agreements, for the use of Kezar Stadium, Kezar Pavilion, Boxer Stadium and the Stadium at Candlestick Point at rates that reflect market rates for comparable events at comparable Bay Area venues, provided that prior to the commencement of the license the licensee shall tender in full all sums due under the license and shall provide to the City a sufficient security deposit, in the form of cash, a letter of credit or other instrument, to protect the City in the event of loss or damage to the City in connection with the license. 
+(Ord. 208-06, File No. 060770, App. 8/2/2006)
+SEC. 12.43.  [REPEALED.]
+(Added by Ord. 188-07, File No. 070818, App. 8/3/2007; repealed by Ord. 170-12, File No. 120608, App. 7/27/2012, Eff. 8/26/2012)
+Editor's Note:
+	For current provisions regarding golf tournaments, see Secs. 12.12(b)(5) and 12.12.1 et seq.
+SEC. 12.44.  RECREATION PROGRAM FEES.
+	(a)	The following hourly fees will be charged for recreation programs.
+LevelOneTwoThreeFourStep 1$0.25$1.50$4.00$12.00Step 2$0.50$1.75$5.00$16.00Step 3$0.75$2.00$6.00$20.00Step 4$1.00$2.25$7.00$24.00Step 5$1.25$3.00$8.00$28.00
+(Added by Ord. 189-07, File No. 070819, App. 8/3/2007)
+SEC. 12.45.  RESERVATION ADMINISTRATIVE FEES.
+	The following administrative fees are applicable to all reservations for Recreation and Park Department programs, activities and facilities, unless otherwise specified: 
+	(a)	A refund processing fee of $10.00 or 20 percent of the fee, whichever is greater, will be charged when a person requests a refund of program fees. 
+	(b)	A program withdrawal fee of $10.00 or 20 percent of the fee, whichever is greater, will be charged when a person withdraws from a program or activity. 
+	(c)	There will be a cancellation fee of $20.00 or 20 percent of the rental fee, whichever is greater, for the cancellation of facility rental reservations. 
+	(d)	There will be a non-refundable application fee of $50.00 for special event permits.
+	(e)	There will be a $25.00 fee when a reservation for use of an athletic field is rescheduled or canceled.
+(Added by Ord. 190-07, File No. 070820, App. 8/3/2007; Ord. 167-08, File No. 080753, App. 7/30/2008) 
+SEC. 12.46.  COUNTY FAIR BUILDING AND BOTANICAL GARDEN FACILITY RENTAL FEES.
+	(a)	Definitions.
+		1.	"Corporate Event" means any rental by, on behalf of, or in connection with any corporate entity, except for Garden Clubs or Nonprofit Organizations as defined below. 
+		2.	"Garden Club" means any garden club or flower society engaged in horticultural activities in which there are no monetary transactions (admission charge, donation, ticket sales, or product sales) during or in connection with the activity. 
+		3.	"Individual or Nonprofit Organization" means (a) any person renting the County Fair Building or Botanical Garden in his or her individual capacity for private use, or (b) any entity qualifying for tax-exempt status under 26 U.S.C. § 501(c)(3), engaged in community or social activities in which there are no monetary transactions (admission charge, donation, ticket sales, or product sales) during or in connection with the activity, or (c) any garden club or flower society using the County Fair Building or Botanical Garden for fundraising activities. 
+	(b)	County Fair Building Facility Rental Fees. All spaces must be rented for a minimum of two hours. 
+
+Rental AreaReser-
+vation FeeHourly RateGarden Club Room   Garden Club$10.00$5.00   Individual or Nonprofit Organization$25.00$10.00   Corporate Event$100.00$30.00Recreation Room   Garden Club$10.00$10.00   Individual or Nonprofit Organization$25.00$20.00   Corporate Event$100.00$60.00Auditorium   Garden Club$25.00$20.00   Individual or Nonprofit Organization$50.00$40.00   Corporate Event$150.00$90.00Gallery   Garden Club$25.00$30.00   Individual or Nonprofit Organization$50.00$75.00   Corporate Event$150.00$180.00Entire Facility   Garden Club$35.00$60.00   Individual or Nonprofit Organization $75.00$140.00   Corporate Event$150.00$390.00Commercial Kitchen*    Garden ClubNone$5.00   Individual or Nonprofit Organization None$10.00   Corporate EventNone$30.00Patio*   Garden ClubNone$5.00   Individual or Nonprofit Organization None$15.00   Corporate EventNone$30.00Courtyard*   Garden ClubNone$10.00   Individual or Nonprofit Organization None$30.00   Corporate EventNone$90.00
+		* May only be rented in conjunction with other space in the building. 
+	(c)	Botanical Garden Facility Rental Fees. All spaces must be rented for a minimum of two hours. 
+
+Rental AreaReser-
+vation FeeHourly RateDemonstration Garden   Individual or Nonprofit Organization $250.00$375.00   Corporate Event$500.00$750.00Fragrance Garden   Individual or Nonprofit Organization$250.00$375.00   Corporate Event$500.00$750.00Redwood Grove   Individual or Nonprofit Organization$250.00$375.00   Corporate Event$500.00$750.00Rhododendron Garden   Individual or Nonprofit Organization$250.00$375.00   Corporate Event$500.00$750.00Fountain Plaza   Individual or Nonprofit Organization$750.00$875.00   Corporate Event$1,500.00$1,750.00Great Meadow   Individual or Nonprofit Organization$750.00$875.00   Corporate Event$1,500.00$1,750.00Zellerbach Garden   Individual or Nonprofit Organization$750.00$875.00   Corporate Event$1,500.00$1,750.00
+	(d)	The Department shall charge the following fees for entrance to the Botanical Garden:
+
+Age/CategoryNon-San Francisco ResidentsAdults$7.00Youth 12-17 and Seniors 65 and over$5.00Children 5-11$2.00Children 4 and underNo chargeFamilies (2 adults and all children 17 years and under residing in the same household)$15.00
+		The Department shall provide annual reports to the Budget and Finance Committee on the collection of the non-resident fee for entrance to the Botanical Gardens, such reports shall include the following information: 1. Attendance figures for San Francisco residents, Members of San Francisco Botanical Garden Society, and Non-San Francisco residents; 2. Capital improvements and operating costs of the Botanical Gardens; 3. Capital improvements and operating costs incurred by the Department and the Botanical Garden Society associated with the collection of all fees; 4. Revenue from the new non-resident fee, separated into (a) point of sale gate tickets and (b) actual attendance from packaged sales with other Park sites, and revenue from all other fees; 5. The numbers of San Francisco Botanical Garden Society members; and 6. Gifts, donations and services-in-kind received by the Department and the Botanical Garden Society for the Botanical Garden. 
+(Added by Ord. 178-08, File No. 080422, App. 7/30/2008; amended by Ord. 161-10, File No. 100469, App. 7/1/2010; Ord. 70-11, File No. 110225, App. 4/20/2011, Eff. 5/20/2011; Ord. 173-13, File No. 130548, App. 8/2/2013, Eff. 9/1/2013)
+SEC. 12.47.  FACILITY FEES.
+	(a)	Definitions.
+	Group 1. Non-profit groups aligned with the facility's mission, and provide programs to enhance the facility's ability to deliver services to the public. 
+	Group 2. Non-profit groups that are not aligned with the facility's mission, and provide programs or services primarily to their members. 
+	Group 3. Private functions. 
+	(b)	Harvey Milk Center (per hour, four (4) hour minimum).
+Group 1Group 2Group 3Ball Room$31.25$62.50$125.00Rehearsal Room$15.00$30.00$60.00Exhibit Room$12.50$25.00$50.00Portrait Studio$18.75$37.50$75.00
+	(c)	Randall Museum.
+Group 1Group 2Group 3Auditorium$31.25$62.50$125.00Buckley Room$15.00$30.00$60.00Randall Room$12.50$25.00$50.00Art Studio/Patio$18.75$37.50$75.00Terrace Room$12.50$25.00$50.00East Deck$18.75$37.50$75.00Lobby$25.00$50.00$100.00Kitchen$12.50$25.00$50.00Parking Lot$12.50$12.50$12.50
+(Added by Ord. 168-08, File No. 080752, App. 7/30/2008)
+SEC. 12.48.  ATHLETIC LEAGUES.
+	(a)	Definitions.
+		(1)	Public Benefit Program - the activity is offered to low income communities and only nominal fees are charged to ensure commitment to participation. 
+		(2)	Revenue Program. - Fees are charged in order to offset the direct costs of the program.
+		(3)	For Profit Program - Fees are charged in order to cover the direct and indirect costs of the program.
+	(b)	The following fees shall be charged for participation in athletic leagues. The Recreation and Park Department is authorized to set specific fees within each range based on the type of sport, hours of participation, duration of season, and other Department cost factors. 
+Type of League	Youth (17 yrs and under)	Adults
+Public Benefit	$10—25.00 per player	$30—50.00 per player
+Revenue Program	$25—50.00 per player	$50—70.00 per player
+For Profit Program	$55—85.00 per player	$85—100.00 per player
+	(c)	The following fees shall be charged per team per season for participation in Department leagues:
+Activity	Youth (17 yrs and under)	Adults
+Futsol	$250.00	$450.00
+Seven-A-Side Soccer	$250.00	$450.00
+Women's Volleyball		$310.00
+Women's Basketball		$500.00
+(Added by Ord. 174-08, File No. 080756, App. 7/30/2008)
+SEC. 12.49.  RATIFICATION OF PRIOR FEES.
+	All fees previously set under this Article 12, and all prior adjustments made thereto pursuant to Section 12.20, are hereby ratified.
+(Added by Ord. 93-12, File No. 120274, App. 5/21/2012, Eff. 6/20/2012)
+ARTICLE 13:
+IMPLEMENTATION OF CHARTER SECTION 16.107
+Sec. 13.01.Citizens' Advisory Committee.Sec. 13.02.Planning and Accountability.Sec. 13.03.Capital Implementation Program.Sec. 13.04.Definitions.
+SEC. 13.01.  CITIZENS' ADVISORY COMMITTEE.
+	(a)	Membership. There is hereby established a Park, Recreation and Open Space Advisory Committee ("Committee") comprised of twenty-three members. Twenty-two members shall be appointed by the members of the Board of Supervisors and approved by the full Board, with one member appointed by each Supervisor from his or her supervisorial district and one member appointed by each Supervisor from a list, maintained by the Recreation and Park Commission ("Commission") of individuals nominated by organizations having as a primary focus park, environmental, recreational, cultural, sports, youth or senior citizen issues. Four of the members chosen from the list maintained by the Commission shall be individuals nominated by an environmental organization. If the system of district elections set forth in Charter Section 13.110 is discontinued, each Supervisor shall appoint one member of the Committee from the list maintained by the Commission and one member without restriction. One member of the Committee shall be appointed by the Mayor. 
+	(b)	Terms. The Committee members shall serve for terms of two years, at the will of the appointing authority, except that at the first meeting of the Committee the General Manager of the Recreation and Park Department ("Department") shall, by lot, designate twelve members to serve terms of one year. Thereafter, all members shall be appointed to two-year terms and no member shall serve more than four consecutive terms. 
+	(c)	Transition Period. From the effective date of Proposition C, which appeared on the March 7, 2000 ballot and until January 31, 2001, the Open Space Advisory Committee created by former Charter Section 16.107 shall serve as the Committee created in section (a) above. During this transition period the Open Space Advisory Committee shall take all steps necessary to ensure a smooth transition to the new Committee. The Mayor and the members of the Board of Supervisors may fill vacancies on the Committee that occur during this transition period according to the requirements of former Administrative Code Section 590(a). By July 1, 2000, the Commission shall prepare, and the Board of Supervisors shall approve or modify, a list of organizations qualified to nominate individuals for Committee membership. Changes to the list shall be made by the Commission and approved or modified by the Board of Supervisors annually. The Board of Supervisors and the Mayor shall make their first appointments to the Committee by February 1, 2001. 
+	(d)	Duties. The Committee shall have the following duties: 
+		(1)	The Committee shall submit written comments to the Department on its proposed Strategic, Capital and Operational Plans, and all updates to such plans. The Committee shall submit comments on each such plan within 30 days after the plan is delivered to the Committee. 
+		(2)	The Committee shall assist the Department in conducting at least two public hearings on evenings or on weekends to permit the public to comment on the Department's full budget and programming allocations prior to adoption by the Commission. 
+		(3)	Members of the Committee appointed from supervisorial districts shall serve as liaisons between the Commission and the residents, neighborhood groups and organizations dedicated to park and recreational issues in their districts. Members may also serve as liaisons to the public at large and to citywide organizations that are concerned with park and recreational issues, and may assist the Department to arrange meetings with neighborhood groups, citywide organizations and the public at large to discuss such issues. 
+		(4)	The Committee shall select a representative of the Committee to make the Committee's quarterly report to the Commission on all significant park and recreational issues that have come to the attention of the Committee or its members. 
+		(5)	The Committee shall hold meetings at least once a month and shall adopt its own rules of procedure.
+		(6)	In addition to the duties described in Charter Section 16.107 and set forth below, the Committee shall have such duties as maybe fixed by the Commission or the Board of Supervisors. 
+(Added by Ord. 118-00, File No. 000478, App. 6/2/2000)
+SEC. 13.02.  PLANNING AND ACCOUNTABILITY.
+	(a)	Strategic Plan. By December 1, 2000, with input from the Committee, the Department shall prepare, for Commission consideration and approval, a five-year Strategic Plan, to be updated annually, that establishes or reaffirms the mission, vision, goals and objectives for the Department. The Department shall consider using an independent planning consultant to assist with preparation of the Strategic Plan. 
+	(b)	Capital Plan. By December 1, 2000, with input from the Committee, the Department shall prepare, for Commission consideration and approval, a five-year Capital Plan, to be updated annually, for the development, renovation, replacement and maintenance of capital assets, and the acquisition of real property. In its Capital Plan the Department shall propose specific properties to be acquired for open space, recreation facilities, significant natural areas, and other recreational purposes and shall prioritize capital and maintenance improvements and provide budgets associated with such improvements. In identifying properties for acquisition under the Capital Plan the Department shall consider, among other things, the following criteria, in this order: 
+		(1)	Acquisition of open space, facilities and other real property in neighborhoods designated as "high need areas" in the "Recreation and Open Space Element" of the City's General Plan; 
+		(2)	Acquisition of open space, facilities and other real property in neighborhoods that are experiencing a significant increase in residential population and that have few open space or recreational resources; and 
+		(3)	Acquisition of significant natural areas that are not otherwise protected from degradation or development. Commencing on July 1, 2000, the Department shall make a monthly report to the Commission on the status of all capital projects. 
+	(c)	Operational Plan. By December 1, 2001, with input from the Committee, the Department shall prepare, for Commission consideration and approval, a five-year Operational Plan, to be updated annually, detailing proposed improvements to the Department's services and responsiveness to customer needs. The annual Operational Plan will serve as a tool for improving the operational efficiency of the Department and will include measurable performance standards for the Department. In developing its performance standards the Department shall consider, among other matters, the following issues: 
+		(1)	Public safety, which shall include the reduction of environmental and other hazards, safe equipment operations and safe pesticide use; 
+		(2)	Detailed maintenance work plans for each facility, including preventative maintenance;
+		(3)	Arboreal maintenance and reforestation of all parks;
+		(4)	Facility and landscape cleanliness, including timely graffiti removal;
+		(5)	Availability and cleanliness of restrooms; and
+		(6)	Maintenance of park and facility signage, furniture and amenities.
+	(d)	Environmental and Design Guidelines. The Commission shall adopt written environmental and design guidelines for new facilities, parks, and open spaces and the renovation or rehabilitation of existing facilities, parks, and open spaces. In developing its guidelines, the Commission shall consider measures that will accomplish the following goals, among others: 
+		(1)	Maximizing the visual appeal and natural values of the landscape as appropriate;
+		(2)	Utilizing low-maintenance, long-lived, water-conserving plant materials where possible without compromising the aesthetic values of sound landscape design and public preferences; 
+		(3)	Encouraging the use of ecologically-appropriate landscape materials to expand and enhance habitat for wildlife;
+		(4)	Providing consistent, attractive and durable furniture, signage, and park amenities; and
+		(5)	Incorporating environmentally-efficient building design materials, operation, and maintenance for all new construction and buildings renovation. 
+(Added by Ord. 118-00, File No. 000478, App. 6/2/2000)
+SEC. 13.03.  CAPITAL IMPLEMENTATION PROGRAM.
+	(a)	Preparation of the Program. Annually and prior to the submission of their fiscal year budgets, the Department of Public Works ("DPW") and the Recreation and Park Department ("Department") will convene a committee ("Capital Implementation Committee") to prepare and/or revise a written, Capital Implementation Program. The Capital Implementation Committee, which will include a representative of the Open Space Advisory Committee, will determine the best method of project delivery for capital projects and the roles and responsibilities of each department and its staff. To make that determination, the Capital Implementation Committee will consider the following factors, among others: 
+		(1)	The Department's Strategic Plan and the scope, schedule and cost of projects included in the Department's Capital Plan;
+		(2)	The staffing levels in each department, the workload of staff in each department, and the ability of that staff to ensure that long-term projects are fully constructed within five years of the budget allocation for design and construction and that all other projects are fully constructed within three years of such allocation; 
+		(3)	The work or projects to be performed in-house by each department's maintenance or repair staff;
+		(4)	The availability of other resources, including, but not limited to, existing as-needed professional service or construction contracts; and 
+		(5)	Any project or group of projects that would be best delivered by contracting with consultants or contractors in accordance with City contracting requirements and policies. 
+	(b)	Modifications to the Program. DPW shall consult with the Department quarterly to review the operation of the Capital Implementation Program and to recommend to the Commission any necessary modifications or adjustments to the Program. 
+(Added by Ord. 118-00, File No. 000478, App. 6/2/2000)
+SEC. 13.04.  DEFINITIONS.
+	After review and comment by the Advisory Committee, the Commission shall adopt such definitions of word and phrases as the Commission deems necessary for the consistent implementation of these provisions. 
+(Added by Ord. 118-00, File No. 000478, App. 6/2/2000)
+
+References to Ordinances
+Ordinances Affecting the Park Code
+Publisher's Note:  The following table lists all ordinances affecting the Park Code passed by the Board of Supervisors beginning in 2011. The table includes links to the ordinances (as maintained in PDF format on the Board of Supervisors' web site) and to the code sections affected. For other legislation, including older ordinances and those affecting other codes, please refer to the Comprehensive Ordinance Table or the Board's "Legislation Passed" web site.
+Jump to:
+2011 Ordinances
+2012 Ordinances
+2013 Ordinances
+
+New Ordinances
+2011
+Ord. No.File No.Eff. DateShort Title and Code Sections Affected41-1110148304/09/11Park Code - Kezar Parking Fees
+
+Sections Affected:
+12.08 (Amended)70-1111022505/20/11Park Code - Botanical Garden Non-Resident Fees
+
+Sections Affected:
+12.46 (Amended)151-1111054908/31/11Park Code - Harding Park and Fleming Golf Courses Fees
+
+Sections Affected:
+12.12 (Amended)152-1111055008/31/11Park Code - Lincoln Park Golf Fees
+
+Sections Affected:
+12.13 (Amended)153-1111055108/31/11Park Code - Sharp Park Golf Fees
+
+Sections Affected:
+12.14 (Amended) 154-1111055208/31/11Park Code - Golden Gate Park Golf Fees
+
+Sections Affected:
+12.16 (Amended)
+2012
+Ord. No.File No.Eff. DateShort Title and Code Sections Affected93-1212027406/20/12Park Code - Amending Golden Gate Park Concourse Underground Parking Facility and Other Certain Fees; and Changing Controller Reporting Requirements
+
+Sections Affected:
+12.49 (Added); 12.20, 12.35 (Amended)111-1212043507/18/12Park Code - Marina Small Craft Harbor Fees and Licenses
+
+Sections Affected:
+12.11 (Amended)170-1212060808/26/12Park Code - Consolidating Golf Course Provisions and Increasing Certain Golf Fees
+
+Sections Affected:
+12.12, 12.12.1, 12.12.2, 12.12.3, 12.12.4, 12.12.5, 12.12.6 (Added); 12.12, 12.13, 12.14, 12.16, 12.32, 12.33, 12.37, 12.43 (Repealed)171-1212060908/26/12Park Code - Professional Tennis Lesson Rates
+
+Sections Affected:
+12.41 (Amended)210-1212081910/28/12Park Code - Petitioning, Leafleting, Picketing, and Soliciting in City Parks
+
+Sections Affected:
+7.08 (Amended)
+2013
+Ord. No.File No.Eff. DateShort Title and Code Sections Affected103-1313022607/13/13Park Code - South of Market West Skatepark and Dog Park
+
+Sections Affected:
+2.01, 2.09 (Amended)111-1313034007/21/13Park Code - Farmers’ Market Permits
+
+Sections Affected:
+7.21 (Amended)173-1313054809/01/13Park Code - Various Fees 
+
+Sections Affected:
+12.11, 12.21, 12.46 (Amended); 12.26, 12.31 (Repealed)
+New Ordinances
+Publisher's Note:  The following table lists all ordinances affecting the Park Code that have been passed by the Board of Supervisors but that are not yet effective. The table includes links to the amending ordinances (as maintained in PDF format on the Board of Supervisors' web site) and to the code sections affected. For other legislation, including older ordinances and those affecting other codes, please refer to the Comprehensive Ordinance Table or the Board's "Legislation Passed" web site.
+
+Ord. No.File No.Eff. DateShort Title and Code Sections Affected[None]

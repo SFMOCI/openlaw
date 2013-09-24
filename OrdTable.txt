@@ -30,7 +30,7 @@ Sections Affected:
 Environment Code:  310 (Added); 300 to 306, 308 (Amended); 307 (Repealed)8-1110100602/06/11Administrative Code - Revisions to Local Business Enterprise Ordinance
 
 Sections Affected:
-Administrative Code:  14B.2, 14B.3, 14B.7, 14B.8, 14B.15, 14B.16 (Amended)9-1110100702/08/11Administrative Code - Revising Requirements for Purchasing Goods and Services
+Administrative Code:  14B.2, 14B.3, 14B.7, 14B.8, 14B.15, 14B.16 (Amended)9-1110100702/06/11Administrative Code - Revising Requirements for Purchasing Goods and Services
 
 Sections Affected:
 Administrative Code:  21.02, 21.03, 21.3, 21.5, 21.8, 21.32, 21.35, 21C.1, 21C.2, 21C.3, 21C.4, 21C.5, 21C.6 (Amended); 21.24, 21.25, 21.25-1, 21.25-2, 21.25-3, 21.25-5, 21.25-x (Repealed)10-1110146301/07/11Settlement of Lawsuit - Lexington Insurance - City to Receive $2,750,000; Appropriating Settlement Proceeds11-1110144401/07/11Accept and Expend Grant - Chinatown Broadway Streetscape Improvement Design Plan - $250,00012-1110004102/13/11Public Works Code, Administrative Code - Personal Wireless Service Facility Site Permits and Associated Fees
@@ -236,7 +236,7 @@ Sections Affected:
 Transportation Code:  7.2.52 (Added); 8.1 (Amended)170-1111059209/07/11Planning Code - Inner Clement, Outer Clement, and Geary Neighborhood Commercial Controls
 
 Sections Affected:
-Planning Code:  263.20, 712.1, 716.1, 781.4 (Amended)171-1111059110/12/11Settlement of Lawsuit - T-Mobile West Corporation172-1111050610/12/11Police Code, Planning Code, and Business and Tax Regulations Code - Limited Live Performance Permits
+Planning Code:  263.20, 712.1, 716.1, 781.4 (Amended)171-1111059108/08/11Settlement of Lawsuit - T-Mobile West Corporation172-1111050610/12/11Police Code, Planning Code, and Business and Tax Regulations Code - Limited Live Performance Permits
 
 Sections Affected:
 Business and Tax Regulations Code:  8 (Amended)
@@ -259,7 +259,7 @@ Sections Affected:
 Administrative Code:  11.84 (Repealed)179-1110157410/21/11Elections Code - E-mailing the Voter Information Pamphlet
 
 Sections Affected:
-Municipal Elections Code:  502 (Added); 500 (Amended)180-1111090209/22/11Public Employment - Amendment to the Annual Salary Ordinance for Adult Probation, District Attorney, and Public Defender - FY2011-2012181-1111090709/22/11Appropriating State Assembly Bill 109 Realignment Fund to Support Expenditures at the Adult Probation and Other Departments for FY2011-2012 - $5,787,176182-1111049609/26/11License Agreement - NonStop Music Library, L.C.183-1111078209/26/11Setting San Francisco Community College District’s Property Tax Rate to be Included in the City’s Overall Property Tax Rate - FY2011-2012184-1111078309/26/11Setting San Francisco Unified School District’s Property Tax Rate to be Included in the City’s Overall Property Tax Rate - FY2011-2012185-1111078409/26/11Setting San Francisco Bay Area Rapid Transit District’s Property Tax Rate to be Included in the City’s Overall Property Tax Rate - FY2011-2012186-1111084709/26/11Memorandum of Understanding, Amendment No. 5 - San Francisco Firefighters, Local 798 (Unit 2)187-1111084909/26/11Memorandum of Understanding, Amendment No. 4 - San Francisco Police Officers’ Association (Units P1 & P2A)188-1111085009/26/11Memorandum of Understanding, Amendment No. 4 - Municipal Executives’ Association, Fire189-1111085109/26/11Memorandum of Understanding, Amendment No. 4 - San Francisco Police Officers’ Association (Unit P2B)190-1111084809/26/11Memorandum of Understanding, Amendment No. 5 - San Francisco Firefighters, Local 798 (Unit 1)191-1111085209/27/11Memorandum of Understanding, Amendment No. 4 - Municipal Executives’ Association, Police192-1111078109/27/11Setting San Francisco’s Property Tax Rate and Establishing Pass-Through Rate for Residential Tenants - FY2011-2012193-1111050310/27/11Administrative Code - Regulating Overtime Available for City Employees
+Municipal Elections Code:  502 (Added); 500 (Amended)180-1111090209/22/11Public Employment - Amendment to the Annual Salary Ordinance for Adult Probation, District Attorney, and Public Defender - FY2011-2012181-1111090709/22/11Appropriating State Assembly Bill 109 Realignment Fund to Support Expenditures at the Adult Probation and Other Departments for FY2011-2012 - $5,787,176182-1111049609/26/11License Agreement - NonStop Music Library, L.C.183-1111078209/26/11Setting San Francisco Community College District’s Property Tax Rate to be Included in the City’s Overall Property Tax Rate - FY2011-2012184-1111078309/26/11Setting San Francisco Unified School District’s Property Tax Rate to be Included in the City’s Overall Property Tax Rate - FY2011-2012185-1111078409/26/11Setting San Francisco Bay Area Rapid Transit District’s Property Tax Rate to be Included in the City’s Overall Property Tax Rate - FY2011-2012186-1111084709/26/11Memorandum of Understanding, Amendment No. 5 - San Francisco Firefighters, Local 798 (Unit 2)187-1111084909/26/11Memorandum of Understanding, Amendment No. 4 - San Francisco Police Officers’ Association (Units P1 & P2A)188-1111085009/26/11Memorandum of Understanding, Amendment No. 4 - Municipal Executives’ Association, Fire189-1111085109/26/11Memorandum of Understanding, Amendment No. 4 - San Francisco Police Officers’ Association (Unit P2B)190-1111084809/26/11Memorandum of Understanding, Amendment No. 5 - San Francisco Firefighters, Local 798 (Unit 1)191-1111085209/26/11Memorandum of Understanding, Amendment No. 4 - Municipal Executives’ Association, Police192-1111078109/27/11Setting San Francisco’s Property Tax Rate and Establishing Pass-Through Rate for Residential Tenants - FY2011-2012193-1111050310/27/11Administrative Code - Regulating Overtime Available for City Employees
 
 Sections Affected:
 Administrative Code:  18.13-1 (Amended)194-1111076610/29/11Administrative Code - Overtime Appropriations
@@ -368,7 +368,7 @@ Sections Affected:
 Administrative Code:  16.900, 16.901, 16.902, 16.903, 16.904, 16.905, 21.02 (Amended)4-1211128201/12/12Accept and Expend Grant - Reentry SF Program and Amendment to the Annual Salary Ordinance - $747,8185-1211099402/11/12Transportation Code - Clipper Card Regulations
 
 Sections Affected:
-Transportation Code:  7.2.104 (Added)6-1211084502/11/12Zoning Map - Rezoning - 312 Connecticut Street7-1211120902/11/12Mission Bay South - Storm Water Pump Station No. 4 Public Infrastructure Improvements8-1211128701/12/12Settlement of Lawsuit - Mitchell Engineering/Obayashi Corporation, JV - $14,950,0009-1211128801/12/12Waiving the Competitive Bid Requirements and Approving Modified Indemnification Clause for the Design of a Runway Safety Area Engineered Material Arresting System10-1211105003/03/12Administrative Code - San Francisco Sentencing Commission and Recidivism Reduction Ordinance of 2011
+Transportation Code:  7.2.104 (Added)6-1211084502/11/12Zoning Map - Rezoning - 312 Connecticut Street7-1211120902/11/12Mission Bay South - Storm Water Pump Station No. 4 Public Infrastructure Improvements8-1211128701/12/12Settlement of Lawsuit - Mitchell Engineering/Obayashi Corporation, JV - $14,950,0009-1211128801/26/12Waiving the Competitive Bid Requirements and Approving Modified Indemnification Clause for the Design of a Runway Safety Area Engineered Material Arresting System10-1211105003/03/12Administrative Code - San Francisco Sentencing Commission and Recidivism Reduction Ordinance of 2011
 
 Sections Affected:
 Administrative Code:  Ch. 5, Art. XXV, Secs. 5.250, 5.250-1, 5.250-2, 5.250-3 (Added)11-1211108003/03/12Zoning Map - 676 Howard Street and 935 Folsom Street (SFMOMA Expansion/Fire Station No. 1 Relocation and Housing Project)12-1211119003/03/12Administrative, Police Codes - Prevailing Rate of Wages Under City Contracts for Specified Services
@@ -431,7 +431,7 @@ Sections Affected:
 Planning Code:  713.1 (Amended)48-1212012003/16/12Appropriating $706,500 of Fund Balance to the Department of Public Works - Jefferson Street Streetscape Improvement  FY2011-201249-1212012203/16/12Appropriating $3,448,350 Consisting of Fund Balance and Reappropriating $1,800,000 to the Port Commission in FY2011-201250-1212004404/25/12Administrative Code - Reporting Responsibilities Relating to the Centralized and Publicly Accessible Online Database of Appointments to Advisory Bodies
 
 Sections Affected:
-Administrative Code:  1.57-2, 1.57-3, 1.57-4, 1.57-5 (Amended)51-1212019003/26/12Accept and Expend Grant - 2011 Homeland Security Grant Program and Amendment to Annual Salary Ordinance - $1,434,64452-1212004905/11/12Appropriating $1,000,000 for the Small Business Revolving Loan Fund Program - Office of Economic and Workforce Development53-1212028205/11/12Contract Approval - Certain Improvements to Port Property for 34th America's Cup Event; Authorizing Waiver of Certain Bidding and Contracting Requirements54-1212022204/12/12North Beach Branch Library - Environmental Findings and Bond Proceeds55-1212022304/12/12Appropriating $6,259,742 of Fund Balance and General Obligation Bond Proceed Interest Earnings to the Public Library in FY2011- 201256-1212018904/12/12Memorandum of Understanding, Amendment 2 - Service Employees International Union, Local 102157-1211135405/19/12Administrative Code - San Francisco Municipal Transportation Agency Revenue Bond
+Administrative Code:  1.57-2, 1.57-3, 1.57-4, 1.57-5 (Amended)51-1212019003/26/12Accept and Expend Grant - 2011 Homeland Security Grant Program and Amendment to Annual Salary Ordinance - $1,434,64452-1212004905/11/12Appropriating $1,000,000 for the Small Business Revolving Loan Fund Program - Office of Economic and Workforce Development53-1212028205/12/12Contract Approval - Certain Improvements to Port Property for 34th America's Cup Event; Authorizing Waiver of Certain Bidding and Contracting Requirements54-1212022204/12/12North Beach Branch Library - Environmental Findings and Bond Proceeds55-1212022304/12/12Appropriating $6,259,742 of Fund Balance and General Obligation Bond Proceed Interest Earnings to the Public Library in FY2011- 201256-1212018904/12/12Memorandum of Understanding, Amendment 2 - Service Employees International Union, Local 102157-1211135405/19/12Administrative Code - San Francisco Municipal Transportation Agency Revenue Bond
 
 Sections Affected:
 Administrative Code:  Ch. 43, Art. XIII, Secs. 43.13.1, 43.13.2, 43.13.3, 43.13.4, 43.13.5, 43.13.6, 43.13.7, 43.13.8 (Added)58-1212024204/19/12Appropriating $46,935,000 of 2012 Series A Refunding Revenue Bonds, and De-Appropriating $2,431,363 for the Municipal Transportation Agency in FY2011-201259-1212024304/19/12Appropriating $28,300,000 of 2012 Series B Revenue Bonds for Transit Projects and Parking Garage Projects, for the Municipal Transportation Agency in FY2011-201260-1212012405/19/12Agreement - BAE Systems - Shoreside Power at Drydock #2 - Pier 70 - Not to Exceed $5,700,00061-1211133705/19/12Planning Code - Extension of Time for Legitimization of Existing Eastern Neighborhoods Uses
@@ -519,7 +519,7 @@ Sections Affected:
 Business and Tax Regulations Code:  906.5 (Added)161-1212052507/24/12General Obligation Bond Election - San Francisco Clean and Safe Neighborhood Parks - $195,000,000162-1212040408/23/12Administrative Code - Urban Agriculture Program
 
 Sections Affected:
-Administrative Code:  Ch. 53, Secs. 53.1, 53.2, 53.3, 53.4 (Added)163-1212067008/26/12Street Vacation Order - San Francisco Wholesale Produce Market - Portions of Jerrold and Kirkwood Avenues, Selby, Rankin, and Milton I. Ross Streets, and Lettuce Lane164-1212059107/27/12Proposed Budget and Annual Appropriation Ordinance FYs 2012-2013 and 2013-2014165-1212059207/27/12Annual Salary Ordinance - FYs 2012-2013 and 2013-2014166-1212059708/26/12Police Code - Increase Permit and License Fees
+Administrative Code:  Ch. 53, Secs. 53.1, 53.2, 53.3, 53.4 (Added)163-1212067008/24/12Street Vacation Order - San Francisco Wholesale Produce Market - Portions of Jerrold and Kirkwood Avenues, Selby, Rankin, and Milton I. Ross Streets, and Lettuce Lane164-1212059107/27/12Proposed Budget and Annual Appropriation Ordinance FYs 2012-2013 and 2013-2014165-1212059207/27/12Annual Salary Ordinance - FYs 2012-2013 and 2013-2014166-1212059708/26/12Police Code - Increase Permit and License Fees
 
 Sections Affected:
 Police Code:  2.26, 2.27 (Amended)167-1212060408/26/12Health Code - Patient Rates
@@ -607,7 +607,7 @@ Sections Affected:
 Administrative Code:  10.100-372, 10.100-373 (Added)201-1212035310/27/12Planning Code - Mechanical Car Wash Facilities on 19th Avenue
 
 Sections Affected:
-Planning Code:  187.2 (Added)202-1212083609/27/12Settlement of Lawsuit - Saeed Ibrahim - $35,000.00203-1212083709/28/12Settlement of Lawsuit - Lepakshi Nadh Jilakara - $40,000204-1212084509/28/12Settlement of Lawsuit - Brian Navarro - $225,000205-1212084609/28/12Settlement of Lawsuit - Fred Broussard - $125,000206-1212085309/28/12Settlement of Lawsuit - Raymond Quinn - $75,000207-1212085509/28/12Settlement of Lawsuit - Yim Bing Kwong - $60,000208-1212085609/28/12Settlement of Lawsuit - James Wilson - $77,072.75209-1212063110/28/12Business and Tax Regulations, Police, and Planning Codes - Parking Tax Simplification for Residential Properties
+Planning Code:  187.2 (Added)202-1212083609/28/12Settlement of Lawsuit - Saeed Ibrahim - $35,000.00203-1212083709/28/12Settlement of Lawsuit - Lepakshi Nadh Jilakara - $40,000204-1212084509/28/12Settlement of Lawsuit - Brian Navarro - $225,000205-1212084609/28/12Settlement of Lawsuit - Fred Broussard - $125,000206-1212085309/28/12Settlement of Lawsuit - Raymond Quinn - $75,000207-1212085509/28/12Settlement of Lawsuit - Yim Bing Kwong - $60,000208-1212085609/28/12Settlement of Lawsuit - James Wilson - $77,072.75209-1212063110/28/12Business and Tax Regulations, Police, and Planning Codes - Parking Tax Simplification for Residential Properties
 
 Sections Affected:
 Business and Tax Regulations Code:  609 (Added); 2219.7 (Amended)
@@ -939,7 +939,7 @@ Administrative Code:  Ch. 5, Art. VIII, Secs. 5.70, 5.71 (Added)158-1313041308/2
 Sections Affected:
 Municipal Elections Code:  500 (Amended) 159-1313053507/24/13Proposed Budget and Annual Appropriation Ordinance - FYs 2013-2014 and 2014-2015 160-1313053607/24/13Annual Salary Ordinance - FYs 2013-2014 and 2014-2015161-1312101908/25/13
 
-[Oper. TBD*]Administrative Code - California Environmental Quality Act Procedures, Appeals, and Public Notice Requirements 
+[Oper. 09/25/13*]Administrative Code - California Environmental Quality Act Procedures, Appeals, and Public Notice Requirements 
 
 Sections Affected:
 Administrative Code:  31.04, 31.05, 31.06, 31.08, 31.09, 31.10, 31.11, 31.12, 31.13, 31.14, 31.15, 31.16, 31.19 (Amended)
@@ -999,7 +999,7 @@ EnvironmentCode:  2101, 2102, 2103, 2104, 2105, 2106, 2107, 2108, 2109 (Repealed
 Sections Affected:
 Planning Code:  249.60, 726.1, 790.55 (Amended)181-1313046409/01/13
 
-[Oper. TBD*]Administrative Code - California Environmental Quality Act Procedures, Appeal of Exempt Project Modification
+[Oper. 09/25/13*]Administrative Code - California Environmental Quality Act Procedures, Appeal of Exempt Project Modification
 
 Sections Affected:
 Administrative Code:  31.08 (Amended)
@@ -1014,5 +1014,8 @@ Sections Affected:
 Administrative Code:  Ch. 5, Art. XXVII, Secs. 5.270, 5.271, 5.272, 5.273, 5.274, 5.275 (Added)185-1313050708/07/13Settlement of Lawsuit - Local Search Association - $85,000186-1313052908/07/13Settlement of Lawsuit - Paulette Adams-Irving - $350,000 187-1313053008/07/13Settlement of Lawsuit - Maria Camacho - $50,000188-1313064308/07/13Settlement of Lawsuit - Maria D'Agostino - $135,000 189-1313064408/07/13Settlement of Lawsuit - Wei Vivian Cui - $30,000 190-1313065309/06/13Administrative Code - Health Service System Plans and Contribution Rates - Calendar Year 2014 
 
 Sections Affected:
-Administrative Code:  16.703 (Amended)191-1313033608/07/13Settlement of Lawsuit - Rosemary Bosque - $49,505.70192-1313044908/07/13Settlement of Lawsuit - Jesse J. Byrd - $75,000
+Administrative Code:  16.703 (Amended)191-1313033608/07/13Settlement of Lawsuit - Rosemary Bosque - $49,505.70192-1313044908/07/13Settlement of Lawsuit - Jesse J. Byrd - $75,000193-1312096610/09/13Administrative Code - Healthy Food Retailer Incentives Program
+
+Sections Affected:
+Administrative Code:  Ch. 59, Secs. 59.1, 59.2, 59.3, 59.4, 59.5, 59.6, 59.7, 59.8, 59.9 (Added)194-1313070709/09/13Appropriation - FY2013-2014 Refunding Certificates of Participation - $241,014,548
 Ordinances that amend the Municipal Code and are not yet effective have their identifiying information highlighted in yellow. Changes made by those ordinances are not incorporated into the text of the Code until the amending ordinances are effective.

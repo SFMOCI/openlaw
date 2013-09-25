@@ -1,0 +1,428 @@
+@charset "utf-8";
+/* CSS Document */
+
+* {
+    -webkit-font-smoothing: antialiased;
+}
+
+body{
+	margin:0px;
+	font-family: "Lato", sans-serif;
+    font-weight: normal;
+}
+
+.container p,
+.container li {
+    font-size: 1.2em;
+    line-height: 1.48;
+}
+
+/* Navbar */
+
+.navbar {
+    box-shadow: none;
+    -webkit-box-shadow: none;
+    width:100%;
+    background: #eeeeee;
+}
+
+.navbar .navbar-nav > .active > a {
+    background: none;
+    color: #00AEEF;
+}
+
+.navbar-nav > li > a {
+    font-weight: normal;
+    text-decoration:none;
+    color:#000;
+    text-transform: uppercase;
+    font-family:'Montserrat', sans-serif;
+    font-size: 14px;
+    height: 100%;
+    padding-top: 23px;
+}
+
+.navbar-nav > li {
+    padding: 0;
+    vertical-align: baseline;
+}
+
+#nav_cont{
+    width:950px;
+    height:84px;
+    margin:0px auto;
+}
+
+#nav_cont ul{
+    margin:0px;
+    padding:0px;
+    list-style:none;
+    margin-left: 12px;
+}
+
+#nav_cont ul li{
+    float:left;
+    font-weight:700;
+    font-size:24px;
+    line-height:63px;
+    text-align:center;
+}
+
+#nav_cont ul li a{
+    float:left;
+    padding:0px 34px;
+    text-decoration:none;
+    color:#3b3b3b;
+    display:block;
+    font-family:'Montserrat', sans-serif;
+    font-size: 21px;
+}
+
+#nav_cont ul li a:hover, #nav_cont ul li.active a{
+    border-bottom: #267FFF thick solid;
+}
+
+/*******/
+
+.header {
+    background: #3D85C6;
+}
+
+li {
+    line-height: inherit;
+}
+
+ol.para li,
+ul.para li {
+    margin-bottom: 10px;
+}
+
+a {
+	text-decoration: none;
+	color: #4299CE;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+.jumbotron {
+    background: none;
+}
+
+.jumbotron > .container {
+    padding-bottom: 15px;
+}
+
+.jumbotron h1 {
+   font-family: "Fjalla One", sans-serif;
+    text-transform: uppercase;
+    line-height: 1.5;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.jumbotron h2 {
+    text-align: center;
+    font-size: 20px;
+    text-transform: uppercase;
+    font-family: "Montserrat", sans-serif;
+    color: #FFFFFF;
+}
+
+#downloads {
+    text-align: center;
+    margin-top: 20px;
+}
+
+@media screen and (min-width: 768px) {
+    .jumbotron h1 {
+        font-size: 80px;
+    }
+    .jumbotron h2 {
+        font-size: 	30px;
+    }
+    .navbar {
+        min-height: 69px;
+    }
+    .navbar-nav {
+        float: right;
+    }
+}
+
+.office-of-mayor {
+    text-align: left;
+    padding-top: 40px;
+}
+
+.mayor-tag-line {
+    text-align: right;
+    padding-top: 50px;
+}
+
+@media screen and (max-width: 500px) {
+    .jumbotron {
+        padding: 30px 0;
+    }
+    .office-of-mayor {
+        text-align: center;
+        padding:0;
+    }
+    .mayor-tag-line {
+        text-align: center;
+        padding: 0;
+    }
+    h1 {
+        font-size: 26px;
+    }
+    h2 {
+        font-size: 20px;
+    }
+    h3.deadline {
+        font-size: 16px;
+    }
+    h1.office-brand {
+        font-size: 18px;
+    }
+}
+
+.bio-img {
+    margin-right: 15px;
+    margin-bottom: 15px;
+}
+
+.photo-credit{
+    float: right;
+    color: #FFF;
+    font-size:14px;
+    text-shadow: 2px 2px rgba(0,0,0,.5);
+}
+
+.photo-credit a {
+    color: #eeeeee;
+    text-decoration: underline;
+}
+
+.brand-wrapper a:hover {
+    text-decoration: none;
+}
+
+.brand-outer-wrapper a img {
+    margin-right: 3%;
+    margin-top: 5%;
+}
+
+h1.office-brand {
+    text-align: left;
+    color: #FFF;
+    padding: 0;
+    margin: 0;
+    font-size: 15px;
+    font-family: "Montserrat", sans-serif;
+    text-transform: uppercase;
+    font-weight: normal;
+    line-height: 21px;
+}
+
+h3.deadline {
+    font-size: 20px;
+    font-family: "Lato", sans-serif;
+    line-height: 1;
+}
+
+.brand-outer-wrapper {
+    float: left;
+    z-index: 100;
+    position: relative;
+    width: 70%;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+.office-brand-lead {
+    margin: 0;
+    padding-top: 6%;
+    color: #FFF;
+}
+
+h1{
+	font-size:37px;
+	color:#3b3b3b;	
+	font-family:"Montserrat", sans-serif;
+    text-transform: uppercase   ;
+	font-weight: normal;
+	text-align: center;
+	padding-bottom: 10px;
+}
+
+h2{
+	color:#00AEEF;
+	font-weight:normal;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+
+h3{
+	font-size:30px;
+	color:#fff;
+	font-weight:normal;
+	text-align:center;
+}
+
+h4 {
+	font-size: 28px;
+	font-weight: 700;
+	color: #00AEEF;
+	margin-bottom: 20px;
+}
+
+h5 {
+	font-size:28px;
+	font-weight:normal;	
+}
+
+h5 a{
+	text-decoration:none;
+	color:#3b3b3b;	
+}
+
+.button {
+	width:240px;
+	height:65px;
+	font-size: 28px;
+	font-family: "Lato", 'Helvetica Neue', 'Helvetica Neue Medium', 'HelveticaNeue LT 65 Medium';;
+	text-align:center;
+	font-weight:bold;
+	cursor:pointer;	
+	clear:both;
+	color: #333333;
+	margin-top:20px;
+	margin-right:4px;
+	background: #FFEE59;
+	border-radius: 6px;
+	-moz-border-radius: 6px;
+	-webkit-border-radius: 6px;
+	border: 1px solid #FFE50D;
+	text-shadow:
+		0px -1px 0px rgba(000,000,000,0.2),
+		0px 1px 0px rgba(255,255,255,0.3);
+}
+
+.button:hover {
+	width:240px;
+	height:65px;
+	font-size: 28px;
+	font-family: "Lato", 'Helvetica Neue', 'Helvetica Neue Medium', 'HelveticaNeue LT 65 Medium';;
+	text-align:center;
+	font-weight:bold;
+	cursor:pointer;	
+	clear:both;
+	color: #333333;
+	margin-top:20px;
+	margin-right:4px;
+	background: #FFE50D;
+	border-radius: 6px;
+	-moz-border-radius: 6px;
+	-webkit-border-radius: 6px;
+	border: 1px solid #FFE50D;
+	text-shadow:
+		0px -1px 0px rgba(000,000,000,0.2),
+		0px 1px 0px rgba(255,255,255,0.3);
+}
+
+#wrapper{
+	float:left;
+	width:100%;
+	height:auto;
+	margin-top:72px; /* need to account for the size of the nav */
+}
+
+#main_container{
+	margin:20px auto 0px;
+	width:870px;
+	height:auto;
+}
+
+#footer {
+    background: #3D85C6;
+}
+
+#footer .container {
+    text-align: center;
+}
+
+.divider {
+	float:left;
+	width:100%;
+	height:60px;
+	background:url(../images/finishing_line.png) center no-repeat;
+	margin:0px 0px 15px;	
+}
+
+
+blockquote {
+    font-size: 2em;
+    background:#f9f9f9;
+    border-left:10px solid #ccc;
+    margin:1.5em 10px;
+    padding:.5em 10px;
+    quotes:"\201C""\201D""\2018""\2019";
+}
+blockquote:before {
+    color:#ccc;
+    font-family: Georgia, serif;
+    content:"\201C";
+    font-size:4em;
+    line-height:.1em;
+    margin-right:.25em;
+    vertical-align:-.4em;
+}
+
+blockquote cite {
+    color: #999999;
+    font-size: .75em;
+    display: block;
+    margin-top: 5px;
+    text-align: right;
+}
+
+blockquote cite:before {
+    content: "\2014 \2009";
+}
+
+#application {
+	overflow: hidden;
+}
+
+#application #wrapper {
+	margin-top: 0px;
+}
+
+#information {
+	overflow: hidden;
+}
+
+.program-summary {
+ text-align: center;
+ color: #fff;
+ padding-top: 30px;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.program-summary p {
+    font-size: 1.1em;
+}
+
+.program-summary img {
+    padding-bottom: 20px;
+}
+
+a img:hover{
+    filter:alpha(opacity=90);
+    -moz-opacity:0.9;
+    -khtml-opacity: 0.9;
+    opacity: 0.9;
+}

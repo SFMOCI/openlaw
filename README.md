@@ -21,7 +21,7 @@ The City and County of San Francisco offers these files with no warranty as to a
 ## Attribution Requirements
 If you are using these files to produce an application on any platform (mobile, web, or desktop), you must indicate on every page of the application in either a footer or sidebar or other prominent place that users should reference the American Legal hosted official municipal codes. These will contain the most up to date legal reference for the City and County of San Francisco.  Please use the following text in your attribution:
  
-This is not an official copy of the Municipal Codes of San Francisco and should not be relied upon for legal or other official purposes.  Please refer to the Official Codes hosted by American Legal Publishing for the verified and official codes.
+> This is not an official copy of the Municipal Codes of San Francisco and should not be relied upon for legal or other official purposes.  Please refer to the Official Codes hosted by American Legal Publishing for the verified and official codes.
  
 If you republish these files on your own servers, you must maintain this notice in its original form for the benefit of others. 
  

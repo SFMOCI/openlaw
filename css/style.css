@@ -275,6 +275,11 @@ h3{
 	text-align:center;
 }
 
+h3.panel-title {
+    color: #000;
+    text-align: left;
+}
+
 h4 {
 	font-size: 28px;
 	font-weight: 700;
@@ -431,4 +436,15 @@ a img:hover{
     -moz-opacity:0.9;
     -khtml-opacity: 0.9;
     opacity: 0.9;
+}
+
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus {
+    background-color: #eeeeee;
+}
+
+
+.section {
+    margin-bottom: 30px;
 }

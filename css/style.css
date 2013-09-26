@@ -148,6 +148,9 @@ a:hover {
     .navbar-nav {
         float: right;
     }
+    #icon-docs {
+        padding-top: 30px;
+    }
 }
 
 .office-of-mayor {
@@ -171,6 +174,9 @@ a:hover {
     .mayor-tag-line {
         text-align: center;
         padding: 0;
+    }
+    .jumbotron h1 {
+        font-size: 60px;
     }
     h1 {
         font-size: 26px;
@@ -263,7 +269,7 @@ h2{
 }
 
 h3{
-	font-size:30px;
+	font-size:26px;
 	color:#fff;
 	font-weight:normal;
 	text-align:center;
@@ -412,12 +418,12 @@ blockquote cite:before {
 
 }
 
-.program-summary p {
-    font-size: 1.1em;
+.program-summary div.col-md-4{
+    padding-bottom: 20px;
 }
 
-.program-summary img {
-    padding-bottom: 20px;
+.program-summary p {
+    font-size: 1.1em;
 }
 
 a img:hover{

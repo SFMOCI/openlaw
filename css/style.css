@@ -266,7 +266,6 @@ h2{
 	font-weight:normal;
     font-family: 'Montserrat', sans-serif;
     text-align: center;
-
 }
 
 h3{
@@ -444,7 +443,6 @@ a img:hover{
 .navbar-default .navbar-nav > .active > a:focus {
     background-color: #eeeeee;
 }
-
 
 .section {
     margin-bottom: 30px;

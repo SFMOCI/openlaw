@@ -243,24 +243,24 @@ SEC. 5.8.  EXCEPTIONS.
 (Added by Ord. 92-00, File No. 000634, App. 5/19/2000) 
 ARTICLE 6:
 PERMITS 
-Sec. 6.1.Permits뾒urpose. Sec. 6.2.Definitions. Sec. 6.3.Permits Required.Sec. 6.4.Additional Activities Requiring Permits.Sec. 6.5.Permit Procedure.Sec. 6.6.Conditions.Sec. 6.7.Permits뾄asis for Denial. Sec. 6.8.Petitioning, Leafletting, Picketing, Soliciting. Sec. 6.9.Reservations of Buildings. Sec. 6.10.Sales Prohibited at Art Shows.Sec. 6.11.Commercial Photography, Filming, Recording.Sec. 6.12.Permits뾃thletic Events.Sec. 6.13.Permit Requests by Governmental Units.Sec. 6.14.Permits뾕ights Granted. Sec. 6.15.Duties of Permittee.Sec. 6.16.Permits뾈ailure to Obtain.Sec. 6.17.Procedure for Billing Costs.Sec. 6.18.Violation of Permit Conditions.Sec. 6.19.Appeal. 
+Sec. 6.1.Permits혰Purpose. Sec. 6.2.Definitions. Sec. 6.3.Permits Required.Sec. 6.4.Additional Activities Requiring Permits.Sec. 6.5.Permit Procedure.Sec. 6.6.Conditions.Sec. 6.7.Permits혰Basis for Denial. Sec. 6.8.Petitioning, Leafletting, Picketing, Soliciting. Sec. 6.9.Reservations of Buildings. Sec. 6.10.Sales Prohibited at Art Shows.Sec. 6.11.Commercial Photography, Filming, Recording.Sec. 6.12.Permits혰Athletic Events.Sec. 6.13.Permit Requests by Governmental Units.Sec. 6.14.Permits혰Rights Granted. Sec. 6.15.Duties of Permittee.Sec. 6.16.Permits혰Failure to Obtain.Sec. 6.17.Procedure for Billing Costs.Sec. 6.18.Violation of Permit Conditions.Sec. 6.19.Appeal. 
 SEC. 6.1.  PERMITS-PURPOSE. 
 	Although the First Amendment of the U.S. Constitution and Article 1, Section 9 of the California Constitution guarantee freedom of speech and association, the City and County of San Francisco is authorized to impose reasonable restrictions on the time, place and manner of such expression. In accordance with this right, the Commission requires permits for certain activities which occur on park property in order (1) to coordinate activities planned by different groups so that as many people as possible can use and enjoy the park at the same time; (2) to learn the details of the proposed activity in order to establish rules aimed at preventing inconvenience or harm to the public or the park; (3) to require appropriate insurance in order to relieve the Commission of liability from any harm that occurs; and (4) to insure that recreational facilities most suited for the activity are used.
 (Added by Ord. 92-00, File No. 000634, App. 5/19/2000) 
 SEC. 6.2.  DEFINITIONS. 
 	For the purposes of this Article, the following terms shall be defined as indicated below: 
-	(A)	Amusement Park Rides뾕ides of the type normally found in amusement parks or carnivals, such as ferris wheels.
-	(B)	Animal Show뾗he formal exhibition of animals to the public or to a group of 25 or more persons for entertainment or competition.
-	(C)	Art Shows뾗he exhibition or display of paintings, sculptures or other works of art, but not activities performed by street artists licensed pursuant to Part II, Chapter VIII (Police Code) of the San Francisco Municipal Code.
-	(D)	Band뾃 group of musicians playing acoustical instruments normally played in a brass band.
-	(E)	Demonstration뾅arrying or wearing a sign or signs, singing, talking in unison or in any other manner expressing ideas, advocating causes or conveying a message to the public at large or to a particular person or persons.
-	(F)	Exhibition뾒ublic display of manufactured goods, plants or other objects but not displays by street artists licensed pursuant to Part II, Chapter VIII (Police Code) of the San Francisco Municipal Code.
-	(G)	Leafletting뾆istributing leaflets, handbills, notices or any written material to the public.
-	(H)	Orchestra뾃 group of musicians playing string, percussion, brass and wood wind instruments.
-	(I)	Parade뾃ny march or other organized movement or person from place to place or about a place.
-	(J)	Petitioning뾕equesting persons to sign a petition.
-	(K)	Publicize뾗o inform the public of a planned event by means of newspaper articles or notices, radio or television stories or notices, announcements in public places, leafletting, posting signs or written notices in places viewed by the public, or by other means calculated to notify the public of an event.
-	(L)	Soliciting뾕equesting persons to contribute money or anything else of value for charitable, religious or political cause.
+	(A)	Amusement Park Rides혰Rides of the type normally found in amusement parks or carnivals, such as ferris wheels.
+	(B)	Animal Show혰The formal exhibition of animals to the public or to a group of 25 or more persons for entertainment or competition.
+	(C)	Art Shows혰The exhibition or display of paintings, sculptures or other works of art, but not activities performed by street artists licensed pursuant to Part II, Chapter VIII (Police Code) of the San Francisco Municipal Code.
+	(D)	Band혰A group of musicians playing acoustical instruments normally played in a brass band.
+	(E)	Demonstration혰Carrying or wearing a sign or signs, singing, talking in unison or in any other manner expressing ideas, advocating causes or conveying a message to the public at large or to a particular person or persons.
+	(F)	Exhibition혰Public display of manufactured goods, plants or other objects but not displays by street artists licensed pursuant to Part II, Chapter VIII (Police Code) of the San Francisco Municipal Code.
+	(G)	Leafletting혰Distributing leaflets, handbills, notices or any written material to the public.
+	(H)	Orchestra혰A group of musicians playing string, percussion, brass and wood wind instruments.
+	(I)	Parade혰Any march or other organized movement or person from place to place or about a place.
+	(J)	Petitioning혰Requesting persons to sign a petition.
+	(K)	Publicize혰To inform the public of a planned event by means of newspaper articles or notices, radio or television stories or notices, announcements in public places, leafletting, posting signs or written notices in places viewed by the public, or by other means calculated to notify the public of an event.
+	(L)	Soliciting혰Requesting persons to contribute money or anything else of value for charitable, religious or political cause.
 (Added by Ord. 92-00, File No. 000634, App. 5/19/2000) 
 SEC. 6.3.  PERMITS REQUIRED. 
 	No person shall, without a permit, perform any of the following acts in any park: 

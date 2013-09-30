@@ -124,11 +124,11 @@ SEC. 3.10.  PEDDLING AND VENDING MERCHANDISE OR PRINTED MATERIAL.
 SEC. 3.12.  CAMPING PROHIBITED.
 	No person shall construct or maintain or inhabit any structure, tent or any other thing in any park that may be used for housing accommodations or camping, nor shall any person construct or maintain any device that can be used for cooking, except by permission from the Recreation and Park Department or Commission. 
 	No person shall modify the landscape in any way in order to create a shelter, or accumulate household furniture or appliances or construction debris in any park. 
-(Added by Ord. 603-81, App. 12/18/81; Ord. 12-08, File No. 071136, § 1, App. 1/31/2008)
+(Added by Ord. 603-81, App. 12/18/81; Ord. 12-08, File No. 071136, Â§ 1, App. 1/31/2008)
 SEC. 3.13.  SLEEPING PROHIBITED DURING CERTAIN HOURS.
 	No person shall remain in any park for the purpose of sleeping between the hours of 8:00 p.m. and 8:00 a.m., except that special permission may be granted by the Recreation and Park Department to persons providing security services between said hours in any park or for other unusual events. 
 	A person cited under this section shall not be in violation of this section if: 1) he or she does not have an outstanding citation for violation of this section; and, 2) within 30 hours of issuance of the citation, her or she accepts Social Services offered by the City, another public entity, or a private, non-profit agency. For the purpose of this section, the term "Social Services" shall mean temporary or permanent housing, residential substance abuse treatment, Homeless Outreach Team Case Management services, or admission to a hospital or other residential facility for medical treatment. For purposes of this section, "outstanding citation" shall mean a citation that is not paid or that is under appeal. 
-(Added by Ord. 603-81, App. 12/18/81; Ord. 12-08, File No. 071136, § 1, App. 1/31/2008)
+(Added by Ord. 603-81, App. 12/18/81; Ord. 12-08, File No. 071136, Â§ 1, App. 1/31/2008)
 SEC. 3.14.  PERFORMANCE OF LABOR.
 	No person, other than duly authorized personnel, shall perform any labor, on or upon any park, including, but not limited to, taking up or replacing soil, turf, ground, pavement, structure, tree, shrub, plant, grass, flower and the like, without permission of the Recreation and Park Department. 
 (Added by Ord. 603-81, App. 12/18/81)
@@ -159,7 +159,7 @@ SEC. 3.20.  SHARP PARK.
 (Added by 85-09, File No. 090329, App. 5/21/2009)
 ARTICLE 4:
 DISORDERLY CONDUCT
-Sec. 4.01.Disorderly Conduct.Sec. 4.02.Swimming Restrictions.Sec. 4.03.Polluting Waters Prohibited.Sec. 4.04.Littering and Dumping of Waste Matter Prohibited.Sec. 4.05.Malicious Destruction of Property.Sec. 4.06.Removal of Trees, Wood, Etc.Sec. 4.07.Penalties for Violation of Section 4.06.Sec. 4.08.Interference with Recreation and Park Employees.Sec. 4.09.Certain Acts Prohibited—Candlestick, Kezar.Sec. 4.10.Alcoholic Beverages.Sec. 4.11.Persons Intoxicated by Alcohol or Drugs May Be Excluded.Sec. 4.12.Persons May Be Excluded Under Certain Circumstances.Sec. 4.13.Refusal to Obey Lawful Order.Sec. 4.14.Fighting, Disturbing Peace, Offensive Words.Sec. 4.15.Intoxication by Alcohol or Drugs.Sec. 4.16.Minors, Parents and Guardians of.Sec. 4.17.Skateboard Safety Requirements.
+Sec. 4.01.Disorderly Conduct.Sec. 4.02.Swimming Restrictions.Sec. 4.03.Polluting Waters Prohibited.Sec. 4.04.Littering and Dumping of Waste Matter Prohibited.Sec. 4.05.Malicious Destruction of Property.Sec. 4.06.Removal of Trees, Wood, Etc.Sec. 4.07.Penalties for Violation of Section 4.06.Sec. 4.08.Interference with Recreation and Park Employees.Sec. 4.09.Certain Acts ProhibitedÂ—Candlestick, Kezar.Sec. 4.10.Alcoholic Beverages.Sec. 4.11.Persons Intoxicated by Alcohol or Drugs May Be Excluded.Sec. 4.12.Persons May Be Excluded Under Certain Circumstances.Sec. 4.13.Refusal to Obey Lawful Order.Sec. 4.14.Fighting, Disturbing Peace, Offensive Words.Sec. 4.15.Intoxication by Alcohol or Drugs.Sec. 4.16.Minors, Parents and Guardians of.Sec. 4.17.Skateboard Safety Requirements.
 SEC. 4.01.  DISORDERLY CONDUCT.
 	No person shall, in any park without permission of the Recreation and Park Department: 
 	(a)	Throw or propel objects of a potentially dangerous nature, including, but not limited to, stones, bottles, glass, cans or crockery; 
@@ -199,7 +199,7 @@ SEC. 4.07.  PENALTIES FOR VIOLATION OF SECTION 4.06.
 SEC. 4.08.  INTERFERENCE WITH RECREATION AND PARK EMPLOYEES.
 	No person shall, with malice, interfere with or in any manner hinder any employee of the Recreation and Park Department, the Department of Public Works or a duly authorized contractor while that person is engaged in constructing, repairing, or caring for any portion of the park or is otherwise engaged in the discharge of such employee's duties. 
 (Added by Ord. 603-81, App. 12/18/81)
-SEC. 4.09.  CERTAIN ACTS PROHIBITED—CANDLESTICK, KEZAR.
+SEC. 4.09.  CERTAIN ACTS PROHIBITEDÂ—CANDLESTICK, KEZAR.
 	(a)	No person shall bring into or have in his possession within Candlestick Park Stadium, Kezar Stadium or Kezar Pavilion, any canned or bottled beverages or beer tappers, other than any vacuum bottle or other similar reusable container. This provision shall not apply to persons authorized by the Recreation and Park Commission to sell or otherwise make use of canned or bottled beverages within the areas described. 
 	(b)	No person shall throw, kick or cause to be thrown or kicked or otherwise placed in motion any ice, liquid, paper, can, bottle, container, cushion or other object within Candlestick Park Stadium, Kezar Stadium or Kezar Pavilion wherein a regularly scheduled athletic contest, exhibition or other special event is being presented. 
 (Added by Ord. 603-81, App. 12/18/81)
@@ -265,7 +265,7 @@ SEC. 4.10.  ALCOHOLIC BEVERAGES.
 		West Sunset Playground; 
 		Youngblood Coleman. 
 	(b)	The General Manager of the Recreation and Park Department or the Recreation and Park Commission may grant permission to consume alcohol in the parks and portions of parks where such activity is prohibited by Subsection (a), above, if the General Manager or the Commission determines that the consumption of alcohol will not interfere with the public's use and enjoyment of the park. However, neither the General Manager nor the Commission may grant permission to consume alcohol in children's play areas. 
-(Added by Ord. 603-81, App. 12/18/81; amended by Ord. 370-98, App. 12/18/98; Ord. 238-99, File No. 990682, App. 9/3/99; Ord. 170-00, File No. 000628, App. 7/7/2000; Ord. 228-01, File No. 010589, App. 11/30/2001; Ord. 54-07, File No. 061646, App. 3/23/2007; Ord. 2-08, File No. 070508, § 1, App. 1/14/2008) 
+(Added by Ord. 603-81, App. 12/18/81; amended by Ord. 370-98, App. 12/18/98; Ord. 238-99, File No. 990682, App. 9/3/99; Ord. 170-00, File No. 000628, App. 7/7/2000; Ord. 228-01, File No. 010589, App. 11/30/2001; Ord. 54-07, File No. 061646, App. 3/23/2007; Ord. 2-08, File No. 070508, Â§ 1, App. 1/14/2008) 
 SEC. 4.11.  PERSONS INTOXICATED BY ALCOHOL OR DRUGS MAY BE EXCLUDED.
 	Members of the San Francisco Police Department and Recreation and Park Department Employees, including members of the Park Patrol, are authorized to order persons to stay out of, or to leave, any park, or any facility, building or structure therein, when such officers or employees have reasonable cause to conclude that the person so ordered is under the influence of intoxicating liquor, any drug, or any "controlled substance" as that term is defined and described in the California Health and Safety Code, or any combination of any intoxicating liquor, drug, or controlled substance, and is in such a condition that he or she is unable to exercise care for his or her own safety or the safety of others or interferes with or obstructs or prevents the free use of park property. 
 (Added by Ord. 603-81, App. 12/18/81)
@@ -429,25 +429,25 @@ SEC. 6.14.  AUTHORIZATION OF THE SAN FRANCISCO MUNICIPAL TRANSPORTATION AGENCY.
 (Added by Ord. 178-09, File No. 090716, App. 7/27/2009)
 ARTICLE 7:
 PERMITS
-Sec. 7.01.Permits – Purpose. Sec. 7.02.Definitions. Sec. 7.03.Permits Required. Sec. 7.04.Additional Activities Requiring Permits.Sec. 7.05.Permit Procedure.Sec. 7.06.Conditions.Sec. 7.07.Permits – Basis for Denial.Sec. 7.08.Petitioning, Leafletting, Picketing, Soliciting. Sec. 7.09.Reservation of Buildings and Stadiums. Sec. 7.10.Yacht Harbor. Sec. 7.11.Sales Prohibited at Art Shows. Sec. 7.12.Commercial Photography, Filming, Recording. Sec. 7.13.Permits – Athletic Events. Sec. 7.14.Permit Requests by Governmental Units. Sec. 7.15.Permits – Rights Granted. Sec. 7.16.Duties of Permittee. Sec. 7.17.Permits – Failure to Obtain. Sec. 7.18.Procedure for Billing Costs. Sec. 7.19.Violation of Permit Conditions.Sec. 7.20.Appeal.Sec. 7.21.Farmers' Markets.
-SEC. 7.01.  PERMITS – PURPOSE.
+Sec. 7.01.Permits Â– Purpose. Sec. 7.02.Definitions. Sec. 7.03.Permits Required. Sec. 7.04.Additional Activities Requiring Permits.Sec. 7.05.Permit Procedure.Sec. 7.06.Conditions.Sec. 7.07.Permits Â– Basis for Denial.Sec. 7.08.Petitioning, Leafletting, Picketing, Soliciting. Sec. 7.09.Reservation of Buildings and Stadiums. Sec. 7.10.Yacht Harbor. Sec. 7.11.Sales Prohibited at Art Shows. Sec. 7.12.Commercial Photography, Filming, Recording. Sec. 7.13.Permits Â– Athletic Events. Sec. 7.14.Permit Requests by Governmental Units. Sec. 7.15.Permits Â– Rights Granted. Sec. 7.16.Duties of Permittee. Sec. 7.17.Permits Â– Failure to Obtain. Sec. 7.18.Procedure for Billing Costs. Sec. 7.19.Violation of Permit Conditions.Sec. 7.20.Appeal.Sec. 7.21.Farmers' Markets.
+SEC. 7.01.  PERMITS Â– PURPOSE.
 	Although the First Amendment of the U.S. Constitution and Article 1, Section 9 of the California Constitution guarantee freedom of speech and association, the City and County of San Francisco is authorized to impose reasonable restrictions on the time, place and manner of such expression. In accordance with this right, the City requires permits for certain activities which occur on park property in order (1) to coordinate activities planned by different groups so that as many people as possible can use and enjoy the park at the same time; (2) to learn the details of the proposed activity in order to establish rules aimed at preventing inconvenience or harm to the public or the park; (3) to require appropriate insurance in order to relieve the City of liability from any harm that occurs; and (4) to insure that recreational facilities most suited for the activity are used. 
 (Added by Ord. 603-81, App. 12/18/81)
 SEC. 7.02.  DEFINITIONS.
 	For the purposes of this Article, the following terms shall be defined as indicated below: 
-	(a)	Amusement Park Rides—Rides of the type normally found in amusement parks or carnivals, such as ferris wheels. 
-	(b)	Animal Show—The formal exhibition of animals to the public or to a group of 25 or more persons for entertainment or competition. 
-	(c)	Art Shows—The exhibition or display of paintings, sculptures or other works of art, but not activities performed by street artists licensed pursuant to Part II, Chapter VIII (Police Code) of the San Francisco Municipal Code. 
-	(d)	Band—A group of musicians playing acoustical instruments normally played in a brass band. 
-	(e)	Demonstration—Carrying or wearing a sign or signs, singing, talking in unison or in any other manner expressing ideas, advocating causes or conveying a message to the public at large or to a particular person or persons. 
-	(f)	Exhibition—Public display of manufactured goods, plants or other objects but not displays by street artists licensed pursuant to Part II, Chapter VIII (Police Code) of the San Francisco Municipal Code. 
-	(g)	Leafletting—Distributing leaflets, handbills, notices or any written material to the public. 
-	(h)	Music Concourse Area of Golden Gate Park—This area is comprised of (1) the area bounded by Tea Garden Drive, South Drive and Academy Drive; (2) the entire area in front of the Academy of Sciences, the de Young Museum and the Fine Arts Museum; (3) the interior of the Japanese Tea Garden; and (4) the entire area in front of the Japanese Tea Garden. 
-	(i)	Orchestra—A group of musicians playing string, percussion, brass and woodwind instruments. 
-	(j)	Parade—Any march or other organized movement or persons from place to place or about a place. 
-	(k)	Petitioning—Requesting persons to sign a petition. 
-	(1)	Publicize—To inform the public of a planned event by means of newspaper articles or notices, radio or television stories or notices, announcements in public places, leafletting, posting signs or written notices in places viewed by the public, or by other means calculated to notify the public of an event. 
-	(m)	Soliciting—Requesting persons to contribute money or anything else of value for a charitable, religious or political cause. 
+	(a)	Amusement Park RidesÂ—Rides of the type normally found in amusement parks or carnivals, such as ferris wheels. 
+	(b)	Animal ShowÂ—The formal exhibition of animals to the public or to a group of 25 or more persons for entertainment or competition. 
+	(c)	Art ShowsÂ—The exhibition or display of paintings, sculptures or other works of art, but not activities performed by street artists licensed pursuant to Part II, Chapter VIII (Police Code) of the San Francisco Municipal Code. 
+	(d)	BandÂ—A group of musicians playing acoustical instruments normally played in a brass band. 
+	(e)	DemonstrationÂ—Carrying or wearing a sign or signs, singing, talking in unison or in any other manner expressing ideas, advocating causes or conveying a message to the public at large or to a particular person or persons. 
+	(f)	ExhibitionÂ—Public display of manufactured goods, plants or other objects but not displays by street artists licensed pursuant to Part II, Chapter VIII (Police Code) of the San Francisco Municipal Code. 
+	(g)	LeaflettingÂ—Distributing leaflets, handbills, notices or any written material to the public. 
+	(h)	Music Concourse Area of Golden Gate ParkÂ—This area is comprised of (1) the area bounded by Tea Garden Drive, South Drive and Academy Drive; (2) the entire area in front of the Academy of Sciences, the de Young Museum and the Fine Arts Museum; (3) the interior of the Japanese Tea Garden; and (4) the entire area in front of the Japanese Tea Garden. 
+	(i)	OrchestraÂ—A group of musicians playing string, percussion, brass and woodwind instruments. 
+	(j)	ParadeÂ—Any march or other organized movement or persons from place to place or about a place. 
+	(k)	PetitioningÂ—Requesting persons to sign a petition. 
+	(1)	PublicizeÂ—To inform the public of a planned event by means of newspaper articles or notices, radio or television stories or notices, announcements in public places, leafletting, posting signs or written notices in places viewed by the public, or by other means calculated to notify the public of an event. 
+	(m)	SolicitingÂ—Requesting persons to contribute money or anything else of value for a charitable, religious or political cause. 
 (Added by Ord. 603-81, App. 12/18/81)
 SEC. 7.03.  PERMITS REQUIRED.
 	No person shall, without a permit, perform any of the following acts in any park: 
@@ -490,7 +490,7 @@ SEC. 7.06.  CONDITIONS.
 	(c)	When an applicant for a permit to perform an activity which is protected by the First Amendment to the U.S. Constitution and for which a performance bond must be posted produces evidence that providing a cash performance bond would be impossible or so financially burdensome that it would preclude the applicant from using park property for the proposed activity, the General Manager shall accept property in lieu of a cash performance bond so long as the property offered is of a type which will reasonably insure restoration and cleaning of the property to be used by the applicant at the conclusion of the permitted activity. 
 	(d)	No applicant shall be required to comply with the provisions of Subsection (b)(2) pertaining to insurance if the activity proposed is protected by the First Amendment of the U.S. Constitution and the applicant produces evidence that complying with those provisions is impossible or so financially burdensome that it would preclude the applicant from using park property for the proposed activity. 
 (Added by Ord. 603.81, App. 12/18/81)
-SEC. 7.07.  PERMITS – BASIS FOR DENIAL.
+SEC. 7.07.  PERMITS Â– BASIS FOR DENIAL.
 	The General Manager shall approve a permit application unless: 
 	(a)	A prior application for a permit to use the same location at the same time has been received and such application has been or will be approved authorizing an activity which does not reasonably permit multiple occupancy of the area; 
 	(b)	The proposed activity would conflict with a previously planned program sponsored by the Recreation and Park Department or Commission and scheduled for the same location as that requested by the applicant; 
@@ -525,13 +525,13 @@ SEC. 7.11.  SALES PROHIBITED AT ART SHOWS.
 SEC. 7.12.  COMMERCIAL PHOTOGRAPHY, FILMING, RECORDING.
 	No person shall engage in commercial photography, filming or recording in any park without first having obtained a permit. The procedure for obtaining such permits shall be established by the Recreation and Park Department and shall be kept on file with the Secretary of the Recreation and Park Commission and made available to the public upon request. 
 (Added by Ord. 603-81, App. 12/18/81)
-SEC. 7.13.  PERMITS – ATHLETIC EVENTS.
+SEC. 7.13.  PERMITS Â– ATHLETIC EVENTS.
 	Athletic areas and structures, such as baseball diamonds, soccer pitches, football fields, and swimming pools may be reserved by obtaining a permit from the Recreation and Park Department. 
 (Added by Ord. 603-81, App. 12/18/81)
 SEC. 7.14.  PERMIT REQUESTS BY GOVERNMENTAL UNITS.
 	Any processing or user fee established by the Recreation and Park Commission for the use of park property may be waived where the applicant is the United States of America, the State of California or subdivision thereof, an agency or commission of the City and County of San Francisco, or other governmental unit. 
 (Added by Ord., 603-81, App. 12/18/81)
-SEC. 7.15.  PERMITS – RIGHTS GRANTED.
+SEC. 7.15.  PERMITS Â– RIGHTS GRANTED.
 	Any person possessing a valid permit, which states that an area has been reserved for such person's use, has the exclusive right to use the area or facility specified in the permit for the time specified. It shall be unlawful for any person to refuse to leave an area or facility which has been reserved by a valid permit when asked to do so by the person or party displaying such permit, by a Recreation and Park Department employee, by a police officer, or by a member of the Park Patrol, and no person shall in any manner disturb or interfere with any person or party occupying the area under such a permit, nor with the belongings of such person or party. 
 (Added by Ord. 603-81, App. 12/18/81)
 SEC. 7.16.  DUTIES OF PERMITTEE.
@@ -541,7 +541,7 @@ SEC. 7.16.  DUTIES OF PERMITTEE.
 		(3)	To reimburse the Recreation and Park Department for any expenses incurred by it, including the cost of labor, in cleaning or restoring the park or making repairs to property and equipment, which expenses may be occasioned by the permitted activity. 
 	(b)	The Recreation and Park Department shall, as determined appropriate by the General Manager, or a designee, charge a cleaning or security deposit in an amount sufficient to cover the costs, including staff time, of cleaning or restoring park property if permittee fails to do so. 
 (Added by Ord. 603-8 1, App. 12/18/81; amended by Ord. 47-03, File No. 030095, App. 4/3/2003)
-SEC. 7.17.  PERMITS – FAILURE TO OBTAIN.
+SEC. 7.17.  PERMITS Â– FAILURE TO OBTAIN.
 	It shall be unlawful for any person to conduct or sponsor any activity which requires a permit without first having obtained the appropriate permit and, when requested to do so by a Recreation and Park Department employee, a member of the Park Patrol, or by a police officer, displaying such permit. Furthermore, it shall be unlawful to participate in such an activity with knowledge that it is being conducted without a permit when a permit is required pursuant to this Code. 
 (Added by Ord. 603-81, App. 12/18/81)
 SEC. 7.18.  PROCEDURE FOR BILLING COSTS.
@@ -562,11 +562,11 @@ SEC. 7.21.  FARMERS' MARKETS.
 (Added by Ord. 29-07, File No. 061112, App. 2/16/2007; amended by Ord. 217-09, File No. 090992, App. 10/29/2009; Ord. 111-13, File No. 130340, App. 6/21/2013, Eff. 7/21/2013)
 ARTICLE 8:
 LAKE MERCED FISHING
-Sec. 8.01.Sport Fishing Permit – Persons To Whom Issuable.Sec. 8.02.Term of Sport Fishing License – Class A and Class B – Fees.Sec. 8.03.Permits Issued and Delivered by Whom.Sec. 8.04.Compensation for Sale of Permits.Sec. 8.05.Disposition of Money Collected.Sec. 8.06.Posting of Area Signs Required.Sec. 8.07.California Fish and Game Code.Sec. 8.08.Enforcement of Article – Rules and Regulations.Sec. 8.09.Violations, a Misdemeanor.
-SEC. 8.01.  SPORT FISHING PERMIT – PERSONS TO WHOM ISSUABLE.
+Sec. 8.01.Sport Fishing Permit Â– Persons To Whom Issuable.Sec. 8.02.Term of Sport Fishing License Â– Class A and Class B Â– Fees.Sec. 8.03.Permits Issued and Delivered by Whom.Sec. 8.04.Compensation for Sale of Permits.Sec. 8.05.Disposition of Money Collected.Sec. 8.06.Posting of Area Signs Required.Sec. 8.07.California Fish and Game Code.Sec. 8.08.Enforcement of Article Â– Rules and Regulations.Sec. 8.09.Violations, a Misdemeanor.
+SEC. 8.01.  SPORT FISHING PERMIT Â– PERSONS TO WHOM ISSUABLE.
 	The Recreation and Park Department shall issue a sport fishing permit, granting the privilege to take fish for purposes other than profit from Lake Merced, to any person having attained the age of 16 years and having a valid sport fishing license issued under the provisions of the California Fish and Game Code. The permit shall be issued only upon payment of a fee, the amount of which shall be determined by the Recreation and Park Commission. The amount of the fee may vary depending upon the class of permit issued, the age of the applicant, or any other factor considered relevant by the Recreation and Park Commission. 
 (Added by Ord. 603-81, App. 12/18/81)
-SEC. 8.02.  TERM OF SPORT FISHING LICENSE – CLASS A AND CLASS B – FEES.
+SEC. 8.02.  TERM OF SPORT FISHING LICENSE Â– CLASS A AND CLASS B Â– FEES.
 	A sport fishing permit shall authorize the person to whom issued to take fish for purposes other than profit from Lake Merced, in accordance with this ordinance, as follows: 
 	Class A. For a calendar year, or, if issued after the beginning of each year, for the remainder thereof. 
 	Class B. For the specific day of which issued. 
@@ -586,7 +586,7 @@ SEC. 8.06.  POSTING OF AREA SIGNS REQUIRED.
 SEC. 8.07.  CALIFORNIA FISH AND GAME CODE.
 	The provisions of the California Fish and Game Code, insofar as they are pertinent to the provisions of this Article, shall apply to the taking of fish from Lake Merced. 
 (Added by Ord. 603-81, App. 12/18/81)
-SEC. 8.08.  ENFORCEMENT OF ARTICLE – RULES AND REGULATIONS.
+SEC. 8.08.  ENFORCEMENT OF ARTICLE Â– RULES AND REGULATIONS.
 	The Recreation and Park Commission shall provide for the enforcement of the provisions of this Article and Article 4 of this Chapter, and is authorized to adopt, promulgate and enforce such rules and regulations regarding the taking of fish from Lake Merced as will carry out the meaning and intent of this Article and said ordinance. 
 (Added by Ord. 603-81, App. 12/18/81)
 SEC. 8.09.  VIOLATIONS, A MISDEMEANOR.
@@ -649,7 +649,7 @@ SEC. 11.04.  WHEELED EQUIPMENT PROHIBITED.
 (Added by Ord. 370-94, App. 11/4/94)
 ARTICLE 12:
 FEES
-Sec. 12.01.Camp Mather Cabin and Tent Site Usage Fees. Sec. 12.02.Camp Mather Day Use Fees. Sec. 12.03.Camp Mather Meal Fees. Sec. 12.04.Camp Mather Low Income Fee Reductions.Sec. 12.05. Japanese Tea Garden.Sec. 12.06.Coit Tower.Sec. 12.07.Wedding Fees.Sec. 12.08.Parking Fees on Recreation and Park Property. Sec. 12.09.Carrousel Fees.Sec. 12.11.Marina Fees.Sec. 12.12.Golf Fees – General.Sec. 12.12.1.Harding Park Golf Course.Sec. 12.12.2.Fleming Golf Course.Sec. 12.12.3.Lincoln Park Golf Course.Sec. 12.12.4.Sharp Park Golf Course.Sec. 12.12.5.Golden Gate Park Golf Course.Sec. 12.12.6.Mclaren Park (Gleneagles) Golf Course.Sec. 12.15.Day Camp Fees.Sec. 12.20.Adjustment of Fees.Sec. 12.21.Clubhouses; Lake Merced Boathouse. Sec. 12.22.Events. Sec. 12.23.Picnics.Sec. 12.24.Photography and Film. Sec. 12.25.Encroachment. Sec. 12.27.Sharon Arts Studio.Sec. 12.28.Reduction or Waiver of Fees. Sec. 12.29.Photography Center. Sec. 12.30.Latch Key and Afterschool Programs.Sec. 12.34.Conservatory of Flowers Fees. Sec. 12.35.Golden Gate Park Concourse Underground Parking Facility.Sec. 12.36.Athletic Field Fees.Sec. 12.38.Lake Merced Boat Storage.Sec. 12.39.Tiny Tot/Child Development Program Fees. Sec. 12.40.Aquatic Fees. Sec. 12.41.Professional Tennis Lesson Rates.Sec. 12.42.Stadium Rentals.Sec. 12.44.Recreation Program Fees. Sec. 12.45.Reservation Administrative Fees.Sec. 12.46.County Fair Building and Botanical Garden Facility Rental Fees.Sec. 12.47.Facility Fees. Sec. 12.48.Athletic Leagues.Sec. 12.49.Ratification of Prior Fees.
+Sec. 12.01.Camp Mather Cabin and Tent Site Usage Fees. Sec. 12.02.Camp Mather Day Use Fees. Sec. 12.03.Camp Mather Meal Fees. Sec. 12.04.Camp Mather Low Income Fee Reductions.Sec. 12.05. Japanese Tea Garden.Sec. 12.06.Coit Tower.Sec. 12.07.Wedding Fees.Sec. 12.08.Parking Fees on Recreation and Park Property. Sec. 12.09.Carrousel Fees.Sec. 12.11.Marina Fees.Sec. 12.12.Golf Fees Â– General.Sec. 12.12.1.Harding Park Golf Course.Sec. 12.12.2.Fleming Golf Course.Sec. 12.12.3.Lincoln Park Golf Course.Sec. 12.12.4.Sharp Park Golf Course.Sec. 12.12.5.Golden Gate Park Golf Course.Sec. 12.12.6.Mclaren Park (Gleneagles) Golf Course.Sec. 12.15.Day Camp Fees.Sec. 12.20.Adjustment of Fees.Sec. 12.21.Clubhouses; Lake Merced Boathouse. Sec. 12.22.Events. Sec. 12.23.Picnics.Sec. 12.24.Photography and Film. Sec. 12.25.Encroachment. Sec. 12.27.Sharon Arts Studio.Sec. 12.28.Reduction or Waiver of Fees. Sec. 12.29.Photography Center. Sec. 12.30.Latch Key and Afterschool Programs.Sec. 12.34.Conservatory of Flowers Fees. Sec. 12.35.Golden Gate Park Concourse Underground Parking Facility.Sec. 12.36.Athletic Field Fees.Sec. 12.38.Lake Merced Boat Storage.Sec. 12.39.Tiny Tot/Child Development Program Fees. Sec. 12.40.Aquatic Fees. Sec. 12.41.Professional Tennis Lesson Rates.Sec. 12.42.Stadium Rentals.Sec. 12.44.Recreation Program Fees. Sec. 12.45.Reservation Administrative Fees.Sec. 12.46.County Fair Building and Botanical Garden Facility Rental Fees.Sec. 12.47.Facility Fees. Sec. 12.48.Athletic Leagues.Sec. 12.49.Ratification of Prior Fees.
 SEC. 12.01.  CAMP MATHER CABIN AND TENT SITE USAGE FEES.
 	(a)	The following use fees, which reflect a discount from the standard fee for nonresidential usage, shall be charged to San Francisco residents for use of cabin and tent sites at Camp Mather. The following fees do not include State occupancy tax. 
 Cabin SizeWeekly RateNightly Rate2 person$379$693 person$514$914 person$635$1145 person$741$1366 person$832$166
@@ -686,7 +686,7 @@ SEC. 12.04.  CAMP MATHER LOW INCOME FEE REDUCTIONS.
 (Added by Ord. 182-98, App. 6/5/98)
 SEC. 12.05.  JAPANESE TEA GARDEN.
 	The following fees shall be charged for admission to the Japanese Tea Garden: 
-Age/CategoryS.F. ResidentsNon-ResidentsAdult$5.00$7.00Senior (65+)$3.00$5.00Youth (12—17 years)$3.00$5.00Child (5—11 years)$1.50$2.00Child (4 years and under)$0.00$0.00 
+Age/CategoryS.F. ResidentsNon-ResidentsAdult$5.00$7.00Senior (65+)$3.00$5.00Youth (12Â—17 years)$3.00$5.00Child (5Â—11 years)$1.50$2.00Child (4 years and under)$0.00$0.00 
 	(b)	Audio Tours: Upon development, and approval by the Commission, of an audio tour for the facility, the entrance fee for the facility shall be increased by $1.00 to cover the cost of rental of the tour. 
 	(c)	Recreation and Park Commission is authorized to designate three free hours per week for entry to the Japanese Tea Garden.
 	(d)	The Recreation and Park Commission is authorized to establish programs offering:
@@ -699,7 +699,7 @@ Reservation fee$300.00Hourly rate, minimum 2 hours$100.00
 SEC. 12.06.  COIT TOWER.
 	(a)	The following fees shall be charged for admission to Coit Tower:
 Age CategoryAdmission FeeElevator Fee
-Non-San Francisco ResidentsAdult$5.00$7.00Senior (65+)$3.00$5.00Youth (12—17 years)$3.00$5.00Child (5—11 years)$1.50$2.00Child (4 years and under)$0.00$0.00
+Non-San Francisco ResidentsAdult$5.00$7.00Senior (65+)$3.00$5.00Youth (12Â—17 years)$3.00$5.00Child (5Â—11 years)$1.50$2.00Child (4 years and under)$0.00$0.00
 	(b)	Audio tours: Upon development, and approval by the Commission, of an audio tour for Coit Tower, the entrance fee for the facility shall be increased by $1.00 to cover the cost of rental of the tour. The rental fee for the audio tour without admission to the rest of the facility will be $3.00. 
 (Added by Ord. 228-98, App. 7/2/98; Ord. 190-06, File No. 060775, App. 7/21/2006; Ord. 166-08, File No. 080754, App. 7/30/2008; Ord. 118-10, File No. 100488, App. 6/14/2010)) 
 SEC. 12.07.  WEDDING FEES.
@@ -710,9 +710,9 @@ SiteReservation FeeHourly Rate*Chain of Lakes (Middle Lake)$200.00$50.00Fuschia 
 SEC. 12.08.  PARKING FEES ON RECREATION AND PARK PROPERTY.
 	(a)	The following fees shall be charged for parking at the Kezar Parking Lot.
 		(1)	Hourly Parking Rates.
-0—1 hour$2.501—2 hours$5.002—3 hours$7.003—4 hours$10.004—5 hours$12.005—6 hours$14.006—7 hours$16.007—24 hours$18.00Special Event Parking$10.00Validation$1.25
+0Â—1 hour$2.501Â—2 hours$5.002Â—3 hours$7.003Â—4 hours$10.004Â—5 hours$12.005Â—6 hours$14.006Â—7 hours$16.007Â—24 hours$18.00Special Event Parking$10.00Validation$1.25
 		(2)	Monthly Parking Rates.
-Resident$160.00Seniors$60.00Commercial (Monday—Friday)$185.00
+Resident$160.00Seniors$60.00Commercial (MondayÂ—Friday)$185.00
 		(3)	Other Rates.
 Lost Ticket Fee$18.00Validated Ticket Books (100 stickers)$150.00
 	(b)	Candlestick Parking Lots.
@@ -736,13 +736,13 @@ Berth LengthFee Per Foot/Per Month20'$8.6425'8.6430'8.7635'8.76
 		(2)	West Harbor for Fiscal Year 2012-2013, or upon completion of the West Harbor renovation as certified in writing by the General Manager, whichever occurs later:
 
 Berth LengthFee Per Foot/Per Month25'$11.6130'11.7735'11.7740'14.2845'14.2850'14.6060'14.6070'14.9180'14.9190'14.91
-	(b)	Surcharge for Electricity. The Recreation and Park Department may meter the use of electricity and may charge the berth holder the utility provider’s standard rates for usage over 264KW per month.
+	(b)	Surcharge for Electricity. The Recreation and Park Department may meter the use of electricity and may charge the berth holder the utility providerÂ’s standard rates for usage over 264KW per month.
 	(c)	Deposits, refundable if there is no loss, damage or need to clean the item. 
 
 (1)	Berth  One Month's Monthly Berthing License Fee(2)	Electrical Adapter$125.00(3)	Hazardous Material or Removal Fee150.00(4)	Key for Visiting Boaters, per key50.00
 	(d)	Guest Dock.
-		(1)	Short Term Dock Fee – $1.50 per foot, per day.
-		(2)	Pick Up/Drop Off Fee – $2.50 per foot and $1.00 per person, per day.
+		(1)	Short Term Dock Fee Â– $1.50 per foot, per day.
+		(2)	Pick Up/Drop Off Fee Â– $2.50 per foot and $1.00 per person, per day.
 	(e)	Parking.
 (1)	Berth Parking, for Owners and Partners Only:	Two stickersFree	Each additional sticker, annually$120.00(2)	Daily Parking, Allows Permit Holder to Park in Marina Spaces if Available:	Crew, per day7.50	Non-Owner, per day7.50(3)	Special Event Parking, per day7.50(4)	Trailer/Dingy Parking, for Regatta etc., per day7.50
 	(f)	Purchase Fees.
@@ -760,7 +760,7 @@ $100/hour for after-hours.(6)	Late Fees10% of initial fee(7)	Pump-Out	Water, for
 				(1)	convey a vested right to transfer a berthing license or berth, or 
 				(2)	prevent the Commission from amending or abolishing the transfer opportunities recognized in this subsection (g)(8).
 	(h)	Storage.
-(1)	Dock Box	OneFree	Each additional, per month$15.00(2)	Reserved(3)	Multihull Surcharge – Additional 40% of monthly Berth Fee(4)	Skiff, less than 20 feet and no power or dock box, per month100.00(5)	Small Boat Rack (Dingy, kayak, or canoe), per month25.00(6)	Storage Lockers, per month25.00
+(1)	Dock Box	OneFree	Each additional, per month$15.00(2)	Reserved(3)	Multihull Surcharge Â– Additional 40% of monthly Berth Fee(4)	Skiff, less than 20 feet and no power or dock box, per month100.00(5)	Small Boat Rack (Dingy, kayak, or canoe), per month25.00(6)	Storage Lockers, per month25.00
 	(i)	Wait List Fee.
 Per year$75.00
 	(j)	Adjustment of Fees. The fees set forth herein shall be adjusted in accordance with Section 12.20 of this article.
@@ -769,7 +769,7 @@ Per year$75.00
 		(2)	The Harbormaster may renew berthing licenses annually in accordance with the procedures set forth in the Marina Rules. There shall be no limit to the number of times that the Harbormaster may renew a berthing license.
 		(3)	The Commission may decide at any time to amend, suspend or terminate the berthing license program for the San Francisco Marina Small Craft Harbor, and the privileges bertholders derive from the program.
 (Added by Ord. 252-00, File No. 001492, App. 10/27/2000; amended by Ord. 162-05, File No. 050602, App. 7/21/2005; Ord. 307-08, File No. 081328, App. 12/16/2008; Ord. 111-12, File No. 120435, App. 6/18/2012, Eff. 7/18/2012; Ord. 173-13, File No. 130548, App. 8/2/2013, Eff. 9/1/2013) 
-SEC. 12.12.  GOLF FEES – GENERAL.
+SEC. 12.12.  GOLF FEES Â– GENERAL.
 	(a)	Authorization. The Recreation and Park Department (the "Department") is hereby authorized to charge fees at the San Francisco municipal golf courses at Harding Park, Fleming, Lincoln Park, Sharp Park, Golden Gate Park, and McLaren Park (collectively, the "Golf Courses") in the manner and in conformance with the standards set forth herein. The Department and the Controller shall adjust golf fees in accordance with Section 12.20 of this Article.
 	(b)	Discount Fee Categories.
 		(1)	Bay Area Rates shall apply to residents of the following Bay Area counties who provide proof of residency: San Francisco (for residents without a valid Resident Golf Card), Alameda, Contra Costa, Marin, Napa, San Mateo, Santa Clara, Santa Cruz, Solano and Sonoma.
@@ -834,7 +834,7 @@ Small bucket (approx. 35 balls) $4.00Large bucket (approx. 75 balls) $6.00
 	(c)	The Family Tournament. The Family Tournament has been hosted at Golden Gate Park Golf Course for over 50 years and is open to everyone. The Family Tournament is a group of 16 or more players composed of two family members alternating shots, playing two rounds of nine holes. The Junior Tournament Rate shall be applicable only to team members 17 years old and younger. The fee per team shall be the sum of the fees for one round of the applicable Tournament Rate per person per day.
 (Added by Ord. 170-12, File No. 120608, App. 7/27/2012, Eff. 8/26/2012) 
 SEC. 12.12.6.  MCLAREN PARK (GLENEAGLES) GOLF COURSE.
-Fee CategoryWeekday (Mon.-Thurs.) Weekend (Fri.-Sun.)Standard – 9 holes$19.00$22.50Standard – 18 holes$27.00$34.50Senior$15.00N/AJunior$15.00N/A
+Fee CategoryWeekday (Mon.-Thurs.) Weekend (Fri.-Sun.)Standard Â– 9 holes$19.00$22.50Standard Â– 18 holes$27.00$34.50Senior$15.00N/AJunior$15.00N/A
 (Added by Ord. 170-12, File No. 120608, App. 7/27/2012, Eff. 8/26/2012) 
 SEC. 12.13.  [REPEALED.]
 (Added by Ord. 157-02, File No. 021081, App. 7/12/2002; amended by Ord. 152-11, File No. 110550, App. 8/1/2011, Eff. 8/31/2011; repealed by Ord. 170-12, File No. 120608, App. 7/27/2012, Eff. 8/26/2012)
@@ -874,7 +874,7 @@ Hourly Rate*Stern Grove (Trocadero)Monday - Thursday$120.00Friday - Sunday$140.0
 	(b)	The following fees shall be charged for use of gymnasiums:
 
 Hourly Rate*Class AA Gyms$125.00Class A Gyms$100.00Class B Gyms$75.00Class C Gyms$50.00*Two hour minimum, plus staff time at prevailing rate. 
-	(c)	Lake Merced Boathouse. The following fees shall be charged for rental of a room in the Lake Merced Boathouse. For purposes of this subsection (c), "Nonprofit" shall mean any entity that qualifies for tax-exempt status under 26 U.S.C. § 501(c)(3) and seeks to rent the Boathouse for community or social activities in which there are no monetary transactions (i.e., admission charge, donation, ticket sales, or product sales) during or in connection with the rental, and "Private" shall mean all other users who do not meet this definition of "Nonprofit." For purposes of this subsection (c), "Event" shall mean a gathering where food and/or drink is served, and "Meeting" shall mean a gathering where neither food nor drink is served.
+	(c)	Lake Merced Boathouse. The following fees shall be charged for rental of a room in the Lake Merced Boathouse. For purposes of this subsection (c), "Nonprofit" shall mean any entity that qualifies for tax-exempt status under 26 U.S.C. Â§ 501(c)(3) and seeks to rent the Boathouse for community or social activities in which there are no monetary transactions (i.e., admission charge, donation, ticket sales, or product sales) during or in connection with the rental, and "Private" shall mean all other users who do not meet this definition of "Nonprofit." For purposes of this subsection (c), "Event" shall mean a gathering where food and/or drink is served, and "Meeting" shall mean a gathering where neither food nor drink is served.
 
 Hourly Rate*Non-profit Meeting Monday-Thursday$40.00Non-profit Meeting Friday-Sunday$100.00Non-profit Event Monday-Thursday$75.00Non-profit Event Friday-Sunday$100.00Private Meeting or Event Monday-Thursday$125.00Private Meeting or Event Friday-Sunday$200.00* A booking from 8 am to 4 pm or from 5 pm to midnight shall be charged a maximum of 6 hours.
 (Added by Ord. 47-03, File No. 030095, App. 4/3/2003; amended by Ord. 187-07, File No. 070817, App. 8/3/ 2007; Ord. 156-09, File No. 090711, App. 7/15/2009; Ord. 173-13, File No. 130548, App. 8/2/2013, Eff. 9/1/2013) 
@@ -892,7 +892,7 @@ PARK VENUECOMMERCIAL FEENON-PROFIT FEE*2008-09
 	(d)	Athletic Events requiring a road closure - $1.00 per participant.
 	(e)	Concession Fee - An amount equal to 5% of the gross sales receipts as determined by sales tax documentation that is provided by the Permittee to the California State Board of Equalization to be paid within 30 days following the event. 
 	(f)	Amateur Productions of performing arts, no charge to the public:
-		(1)	Weekdays (Monday—Friday)$150.00
+		(1)	Weekdays (MondayÂ—Friday)$150.00
 per day		(2)	Weekdays, two consecutive days at same site$250.00/
 two days		(3)	Non-holiday weekends$200.00
 per day		(4)	Non-holiday weekends, two consecutive days, same site$350.00/
@@ -904,21 +904,21 @@ two days
 SEC. 12.23.  PICNICS.
 	The following fees shall be charged for use of the parks for picnics per day 
 	(a)	Picnics at Pioneer Log Cabin, Pine Lake Picnic Area and Stern Grove East Meadow:
-		(1)	1—50 participants		$50.00
-		(2)	51—100 participants		$75.00
-		(3)	101—200 participants		$100.00
-		(4)	201—300 participants		$150.00
+		(1)	1Â—50 participants		$50.00
+		(2)	51Â—100 participants		$75.00
+		(3)	101Â—200 participants		$100.00
+		(4)	201Â—300 participants		$150.00
 	(b)	Picnics at all other park locations:
-		(1)	1—50 participants		$25.00
-		(2)	51—100 participants		$50.00
-		(3)	101—200 participants		$75.00
-		(4)	201—400 participants		$125.00
+		(1)	1Â—50 participants		$25.00
+		(2)	51Â—100 participants		$50.00
+		(3)	101Â—200 participants		$75.00
+		(4)	201Â—400 participants		$125.00
 		(5)	more than 400 participants	$250.00
 	(c)	Picnics hosted by a company or business for their employees at any location:
-		(1)	1—200 participants		$200.00
-		(2)	201—300 participants		$250.00
-		(3)	301—500 participants		$350.00
-		(4)	501—750 participants		$500.00
+		(1)	1Â—200 participants		$200.00
+		(2)	201Â—300 participants		$250.00
+		(3)	301Â—500 participants		$350.00
+		(4)	501Â—750 participants		$500.00
 		(5)	over 750 participants		$750.00
 		(6)	with special events		$1,000.00
 (Added by Ord. 47-03, File No. 030095, App. 4/3/2003)
@@ -944,9 +944,9 @@ SEC. 12.27.  SHARON ARTS STUDIO.
 	The fees for adult classes at the Sharon Arts Studio shall be as follows: 
 	(a)	Ceramics		$149.00
 	(b)	Glass			$108.00
-	(c)	Jewelry—general	$108.00
-	(d)	Jewelry—enamel	$84.00
-	(e)	Drawing—general	$78.00
+	(c)	JewelryÂ—general	$108.00
+	(d)	JewelryÂ—enamel	$84.00
+	(e)	DrawingÂ—general	$78.00
 	(f)	Mosaics		$60.00
 	(g)	Life drawing		$48.00
 (Added by Ord. 47-03, File No. 030095, App. 4/3/2003)
@@ -959,7 +959,7 @@ Adult Annual Membership$250.00/year, unlimited useYouth Annual Membership$125.00
 (Added by Ord. 132-03, File No. 030626)
 SEC. 12.30.  LATCH KEY AND AFTERSCHOOL PROGRAMS.
 	The following fees shall be charged for Latch Key and Afterschool programs: 
-(Monday—Friday)$3.60 per day
+(MondayÂ—Friday)$3.60 per day
 (Added by Ord. 132-03, File No. 030626, App. 5/30/2003; Ord. 165-09, File No. 090719, App. 7/15/2009)
 SEC. 12.31.  [REPEALED.]
 (Added by Ord. 132-03, File No. 030626, App. 5/30/2003; repealed by Ord. 173-13, File No. 130548, App. 8/2/2013, Eff. 9/1/2013)
@@ -973,11 +973,11 @@ Editor's Note:
 	For current provisions relating to golf cart rental, see Sec. 12.12(e).
 SEC. 12.34.  CONSERVATORY OF FLOWERS FEES.
 	(a)	Admission Fees. The following fees shall be charged for admission to the Conservatory of Flowers: 
-Age/CategoryS.F.ResidentsNon-ResidentsAdults$5.00$7.00Youth 12—17 and Seniors 65 and over$3.00$5.00Children 5—11$1.50$2.00Children 4 and underNo feeNo feeSan Francisco school groups K—12 with prior schedulingNo fee
+Age/CategoryS.F.ResidentsNon-ResidentsAdults$5.00$7.00Youth 12Â—17 and Seniors 65 and over$3.00$5.00Children 5Â—11$1.50$2.00Children 4 and underNo feeNo feeSan Francisco school groups KÂ—12 with prior schedulingNo fee
 	(b)	In addition, the Conservatory of Flowers will be open without charge one day each month and on sponsored special event days.
 	(c)	Facility Rental Fees. The following fees shall be charged for rental of Conservatory of Flowers facilities: 
-Rental AreaHourly RateMinimum HoursConservatory Only:After Hours Tours$600.002Event$1,250.002Garden Club, Botanical Garden, or University Botanical Program Tours$3.00 per personNoneConservatory & Reception Space:Wedding Ceremony$3,000.002Wedding Ceremony and Reception$1,450.006Corporate Event*$1,500.004All Other Events$1,250.002Children's (Ages 5—13) Birthday Party$200.003
-* "Corporate Event" means any rental by, on behalf of or in connection with any corporate entity, except for any entity qualifying for tax-exempt status under 26 U.S.C. § 501(c)(3). 
+Rental AreaHourly RateMinimum HoursConservatory Only:After Hours Tours$600.002Event$1,250.002Garden Club, Botanical Garden, or University Botanical Program Tours$3.00 per personNoneConservatory & Reception Space:Wedding Ceremony$3,000.002Wedding Ceremony and Reception$1,450.006Corporate Event*$1,500.004All Other Events$1,250.002Children's (Ages 5Â—13) Birthday Party$200.003
+* "Corporate Event" means any rental by, on behalf of or in connection with any corporate entity, except for any entity qualifying for tax-exempt status under 26 U.S.C. Â§ 501(c)(3). 
 (Added by Ord. 231-03, File No. 031274, App. 9/26/2003; Ord. 158-08, File No. 080757, App. 7/30/2008; Ord. 160-09, File No. 090720, App. 7/15/2009) 
 SEC. 12.35.  GOLDEN GATE PARK CONCOURSE UNDERGROUND PARKING FACILITY.
 	(a)	The rates for parking in the Golden Gate Park Underground Parking Facility shall be as follows:
@@ -1028,7 +1028,7 @@ SEC. 12.40.  AQUATIC FEES.
 	(b)	Lessons.
 		(1)Pre-school/tiny tots (with parent) (10 sessions)$53.00		(2)Learning to swimYouth (6 yrs & 48" tall) Summer Program (10 classes/30 minutes)$25.00Youth (6 yrs & 48" tall) (10 classes/40 minutes)$42.00Adult (10 classes/45 minutes)$67.00		(3)Water Exercise (all ages, one class)$7.00		(4)Semi-private (3 students per instructor) (5 classes/30 minutes)$105.00 per person		(5)Private lessons (5 classes/30 minutes)$160.00		(6)Pre-competitive Swim Teams (10 classes/60 minutes)$50.00
 	(c)	Classes (fees do not include cost of materials or certification costs).
-		(1)CPR$63.00		(2)First Aid$53.00		(3)Lifeguard Training$105.00		(4) Lifeguard Training — Challenge$50.00		(5) Title 22$105.00		(6)Pet First Aid$37.00		(7)Water Safety Instructor$105.00		(8)Stroke Clinic$125.00
+		(1)CPR$63.00		(2)First Aid$53.00		(3)Lifeguard Training$105.00		(4) Lifeguard Training Â— Challenge$50.00		(5) Title 22$105.00		(6)Pet First Aid$37.00		(7)Water Safety Instructor$105.00		(8)Stroke Clinic$125.00
 	(d)	Swim Team Pool Rental*** per hour.
 		(1)MOU + Age Group Teams/Marionettes$24.00		(2)MOU Masters Swim Teams+$46.00		(3)MOU additional lanes$6.00		(4)Swim Teams/Schools/Masters Pool Rentals$95.00 per hour or $20.00 per lane per hour
 +Requires certification of Red Cross safety training for swim coaches and certification as a swim coach by the applicable sanctioning organization. 
@@ -1048,7 +1048,7 @@ SEC. 12.41.  PROFESSIONAL TENNIS LESSON RATES.
 		"Tier Two Instructor" means a Professional Tennis Instructor who is either (1) USPTA Certified Level 2, or (2) USPTA Certified Level 3.
 	(b)	Rates. The following rates shall be charged for tennis lessons that are provided on Recreation and Park Department property by third-party Professional Tennis Instructors who have obtained authorization from the Department to conduct such lessons. After August 31, 2014, these rates may be adjusted each year in accordance with Section 12.20 of this Article 12.
 
-Lesson TypeRates - September 1, 2012-August 31, 2013  Rates - September 1, 2013-August 31, 2014½ Hour Private - Tier One Instructor $40 $45½ Hour Private - Tier Two Instructor$35$401 Hour Private - Tier One Instructor$70$751 Hour Private - Tier Two Instructor$65$701 Hour - 2 person (rate is per person)$35$401 Hour - Group (minimum 3 people and maximum 6 people; rate is per person)$22$221 Hour-Youth Group (minimum 3 people and maximum 6 people; rate is per person)$18$20Cancellation Fees (less than 24 hour notice)25% of lesson cost25% of lesson cost
+Lesson TypeRates - September 1, 2012-August 31, 2013  Rates - September 1, 2013-August 31, 2014Â½ Hour Private - Tier One Instructor $40 $45Â½ Hour Private - Tier Two Instructor$35$401 Hour Private - Tier One Instructor$70$751 Hour Private - Tier Two Instructor$65$701 Hour - 2 person (rate is per person)$35$401 Hour - Group (minimum 3 people and maximum 6 people; rate is per person)$22$221 Hour-Youth Group (minimum 3 people and maximum 6 people; rate is per person)$18$20Cancellation Fees (less than 24 hour notice)25% of lesson cost25% of lesson cost
 (Added by Ord. 189-06, File No. 060773, App. 7/21/2006; amended by Ord. 171-12, File No. 120609, App. 7/27/2012, Eff. 8/26/2012)
 SEC. 12.42.  STADIUM RENTALS.
 	The General Manager is authorized to enter into short-term, not to exceed 14 cumulative days, revocable license agreements, for the use of Kezar Stadium, Kezar Pavilion, Boxer Stadium and the Stadium at Candlestick Point at rates that reflect market rates for comparable events at comparable Bay Area venues, provided that prior to the commencement of the license the licensee shall tender in full all sums due under the license and shall provide to the City a sufficient security deposit, in the form of cash, a letter of credit or other instrument, to protect the City in the event of loss or damage to the City in connection with the license. 
@@ -1073,7 +1073,7 @@ SEC. 12.46.  COUNTY FAIR BUILDING AND BOTANICAL GARDEN FACILITY RENTAL FEES.
 	(a)	Definitions.
 		1.	"Corporate Event" means any rental by, on behalf of, or in connection with any corporate entity, except for Garden Clubs or Nonprofit Organizations as defined below. 
 		2.	"Garden Club" means any garden club or flower society engaged in horticultural activities in which there are no monetary transactions (admission charge, donation, ticket sales, or product sales) during or in connection with the activity. 
-		3.	"Individual or Nonprofit Organization" means (a) any person renting the County Fair Building or Botanical Garden in his or her individual capacity for private use, or (b) any entity qualifying for tax-exempt status under 26 U.S.C. § 501(c)(3), engaged in community or social activities in which there are no monetary transactions (admission charge, donation, ticket sales, or product sales) during or in connection with the activity, or (c) any garden club or flower society using the County Fair Building or Botanical Garden for fundraising activities. 
+		3.	"Individual or Nonprofit Organization" means (a) any person renting the County Fair Building or Botanical Garden in his or her individual capacity for private use, or (b) any entity qualifying for tax-exempt status under 26 U.S.C. Â§ 501(c)(3), engaged in community or social activities in which there are no monetary transactions (admission charge, donation, ticket sales, or product sales) during or in connection with the activity, or (c) any garden club or flower society using the County Fair Building or Botanical Garden for fundraising activities. 
 	(b)	County Fair Building Facility Rental Fees. All spaces must be rented for a minimum of two hours. 
 
 Rental AreaReser-
@@ -1105,9 +1105,9 @@ SEC. 12.48.  ATHLETIC LEAGUES.
 		(3)	For Profit Program - Fees are charged in order to cover the direct and indirect costs of the program.
 	(b)	The following fees shall be charged for participation in athletic leagues. The Recreation and Park Department is authorized to set specific fees within each range based on the type of sport, hours of participation, duration of season, and other Department cost factors. 
 Type of League	Youth (17 yrs and under)	Adults
-Public Benefit	$10—25.00 per player	$30—50.00 per player
-Revenue Program	$25—50.00 per player	$50—70.00 per player
-For Profit Program	$55—85.00 per player	$85—100.00 per player
+Public Benefit	$10Â—25.00 per player	$30Â—50.00 per player
+Revenue Program	$25Â—50.00 per player	$50Â—70.00 per player
+For Profit Program	$55Â—85.00 per player	$85Â—100.00 per player
 	(c)	The following fees shall be charged per team per season for participation in Department leagues:
 Activity	Youth (17 yrs and under)	Adults
 Futsol	$250.00	$450.00
@@ -1216,7 +1216,7 @@ Sections Affected:
 Ord. No.File No.Eff. DateShort Title and Code Sections Affected103-1313022607/13/13Park Code - South of Market West Skatepark and Dog Park
 
 Sections Affected:
-2.01, 2.09 (Amended)111-1313034007/21/13Park Code - Farmers’ Market Permits
+2.01, 2.09 (Amended)111-1313034007/21/13Park Code - FarmersÂ’ Market Permits
 
 Sections Affected:
 7.21 (Amended)173-1313054809/01/13Park Code - Various Fees 

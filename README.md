@@ -13,6 +13,9 @@ Open Law is the first, necessary step to making these kinds of applications. We 
 
 You can learn more about the initiative [here](http://sfmoci.github.io/openlaw).
 
+## Structured Data (JSON) and API
+If you would like to develop on top of structured data, you can access both bulk downloads and an API endpoint at [SanFranciscoCode.org](http://www.sanfranciscocode.org/api-key/) provided by the [Open Gov Foundation](http://opengovfoundation.org/).
+
 ## Disclaimer
 The files contained herein are raw data representations of certain Municipal Codes of the City and County of San Francisco for reuse in applications by anyone who chooses to do so.  This is not the official copy of the City and County of San Francisco’s Code and should not be relied upon for legal or any other official purposes.  Please refer to the [Official Codes hosted by American Legal Publishing](http://www.amlegal.com/library/ca/sfrancisco.shtml).
  

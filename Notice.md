@@ -1,3 +1,6 @@
+Terms of use
+============
+
 ## Disclaimer
 The files contained herein are raw data representations of certain Municipal Codes of the City and County of San Francisco for reuse in applications by anyone who chooses to do so.  This is not the official copy of the City and County of San Francisco’s Code and should not be relied upon for legal or any other official purposes.  Please refer to the [Official Codes hosted by American Legal Publishing](http://www.amlegal.com/library/ca/sfrancisco.shtml).
  

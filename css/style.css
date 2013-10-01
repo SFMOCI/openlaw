@@ -372,13 +372,13 @@ h5 a{
 
 
 blockquote {
-    font-size: 2em;
     background:#f9f9f9;
     border-left:10px solid #ccc;
     margin:1.5em 10px;
     padding:.5em 10px;
     quotes:"\201C""\201D""\2018""\2019";
 }
+
 blockquote:before {
     color:#ccc;
     font-family: Georgia, serif;
@@ -446,4 +446,9 @@ a img:hover{
 
 .section {
     margin-bottom: 30px;
+}
+
+.back-home a {
+    margin-top: 90px;
+    color: #ffffff;
 }

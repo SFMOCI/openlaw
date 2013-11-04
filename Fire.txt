@@ -3,26 +3,14 @@ CITY AND COUNTY OF SAN FRANCISCO
 MUNICIPAL CODE 
 
 FIRE CODE
-The San Francisco Municipal Code is current through Ordinance 190-13, File No. 130653, approved August 7, 2013, effective September 6, 2013.
+ New Ordinance Notice
+Publisher's Note: The 2010 San Francisco Fire Code, as set forth below, is to be repealed in its entirety and replaced by the 2013 San Francisco Fire Code as of January 1, 2014. See Ord. 200-13, File No. 130786, approved October 3, 2013.
+	Additionally, Ord. 200-13 amends Sec. 511.2 of this Code, with the amended version of the section to be effective between November 2, 2013, and its repeal on January 1, 2014.
+
+The San Francisco Municipal Code is current through Ordinance 193-13, File No. 120966, approved September 9, 2013, effective October 9, 2013.
 The Fire Code was last amended by Ordinance 171-13, File No. 130546, approved August 2, 2013, effective September 1, 2013.
 
 
-The San Francisco Municipal Code:Charter
-Administrative Code
-Building, Electrical, Housing, Mechanical and Plumbing Codes
-Business and Tax Regulations Code
-Campaign and Governmental Conduct CodeEnvironment Code
-Fire Code
-Health Code
-Municipal Elections Code
-Park Code
-Planning Code
-Police CodePort Code
-Public Works Code
-Subdivision Code
-Transportation Code
-Zoning Maps
-Comprehensive Ordinance Table
 AMERICAN LEGAL PUBLISHING CORPORATION
 432 Walnut Street, Suite 1200
 Cincinnati, Ohio  45202-3909
@@ -30,6 +18,35 @@ Cincinnati, Ohio  45202-3909
 Fax: (513) 763-3562
 Email: customerservice@amlegal.com
 www.amlegal.com
+
+THE SAN FRANCISCO CODES
+The following San Francisco Codes are published by American Legal:
+The Municipal Code:
+1996 Charter
+Administrative Code
+Business and Tax Regulations Code
+Campaign and Governmental Conduct Code
+Environment Code
+Fire Code
+Health Code
+Municipal Elections Code
+Park Code
+Planning Code (including Zoning Maps)
+Police Code
+Port Code
+Public Works Code
+Subdivision Code
+Transportation Code
+
+Building Industry Commission Codes:
+Building Code
+Electrical Code
+Housing Code
+Mechanical Code
+Plumbing Code
+
+Comprehensive Ordinance List
+
 PREFACE TO THE FIRE CODE 
 Ordinance 277-10 (File No. 100878, approved November 5, 2010, effective January 1, 2011) provides in part as follows:
 	Ordinance repealing the San Francisco Fire Code in its entirety and replacing that code with a new 2010 San Francisco Fire Code consisting of the 2010 California Fire Code and portions of the 2009 International Fire Code together with San Francisco amendments; adopting findings of local conditions pursuant to California Health and Safety Code Section 17958.7 and directing the Clerk of the Board to forward San Francisco's amendments to the California Building Standards Commission and State Fire Marshal; and making environmental findings.
@@ -43,6 +60,7 @@ Ordinance 277-10 (File No. 100878, approved November 5, 2010, effective January 
 CHAPTER 1SAN FRANCISCO GENERAL CODE PROVISIONSDivision 1San Francisco Administration1.1.1[For SF] Title1.1.2.1[For SF] Promotion of General Welfare1.1.8.1[For SF] Adoption of New CodeDivision IIAdministration Part 1General Provisions Section 104General Authority and Responsibilities104.1.1[For SF] Administrative Bulletins104.1.2[For SF] New Administrative Bulletins; revisions to existing Administrative Bulletins 104.5.1[For SF] Unauthorized tampering104.6.2.1[For SF] Photographs104.10.2[For SF] Photographs104.10.3[For SF] RewardSection 105Permits 105.1.1[For SF] Permits required105.1.3[For SF] Permits for the same location105.2.3[For SF] Time limitation of application105.2.5[For SF] Hearing for certain permits105.3.1[For SF] Expiration105.3.9[For SF] License105.4.1[For SF] Submittals105.4.6[For SF] Retention of construction documents105.6.23[For SF] Hot work operations 105.6.27[For SF] LP-gas 105.6.31[For SF] Open flame and torches105.6.48.[For SF] Battery systems105.7.15[For SF] Car stacking parking systems 105.7.16[For SF] Radio coverage systems Section 109Violations 109.1[For SF] Unlawful acts 109.2[For SF] Person responsible 109.3[For SF] Remedies available 109.4[For SF] Notice of violation 109.4.1[For SF] Service of notice of violation 109.4.2[For SF] Re-inspection fee109.4.3[For SF] Hearing on notice of violation109.4.4[For SF] Civil action and penalties 109.4.5[For SF] Presumption of noncompliance109.5[For SF] Administrative citations 109.5.1[For SF] City employees who may issue administrative citations 109.5.2[For SF] Fines for administrative citations for specific code violations109.5.3[For SF] Allocation of administrative citation fines109.6[For SF] Criminal charges 109.7[For SF] Designated officers and employees 109.8[For SF] Civil action to recover costs Section 111Stop Work Order111.4[For SF] Failure to complySection 112Service Utilities112.1[For SF] Authority to disconnect service utilitiesSection 113Fees 113.1[For SF] General113.2[For SF] Operational permit filing fees113.2.1[For SF] Consolidation of permits fee 113.2.2[For SF] Posting fee 113.2.3[For SF] Permit fees for vendors at street fairs involving temporary street closures (ISCOTT)113.3[For SF] Construction permit fees113.4[For SF] Plan review fees 113.5[For SF] Field inspection fees 113.6[For SF] Pre-application plan review113.7[For SF] Re-inspection of violation fees 113.8[For SF] High-rise inspection fees 113.8.1[For SF] Gross floor area113.9[For SF] Referral fees 113.10[For SF] Overtime fee 113.11[For SF] Collection of other fees113.12[For SF] Water flow request fee 113.13[For SF] False alarm fees 113.14[For SF] Residential apartment/hotel inspection fee113.15[For SF] Voluntary seismic retrofit fee waiver113.16[For SF] Cost recovery related to vehicle incidents 113.21[For SF] Fee-setting procedure Section 114[For Sf] - Fee Collection114.1[For SF] Collection of fees114.1.1[For SF] First notice 114.1.2[For SF] Second notice114.1.3[For SF] Report to Bureau of Delinquent Revenue Collection CHAPTER 3GENERAL PRECAUTIONS AGAINST FIRESection 308Open Flames 308.1.3[For SF] Torches for removing paint 308.1.6.2[For SF] Portable fueled open-flame devicesSection 315Miscellaneous Combustible Materials Storage 315.2.3.1[For SF] Elevator machine rooms 315.2.3.1.1[For SF] Elevator machine room sign Section 316Hazards to Firefighters 316.3.1[For SF] Barbed or razor wire316.6[For SF] Roof obstructions 316.7[For SF] Signage for buildings with certain types of construction CHAPTER 4EMERGENCY PLANNING AND PREPAREDNESS404.1[For SF] State of California requirements 404.2[For SF] Fire safety director 404.3[For SF] Emergency procedures information CHAPTER 5FIRE SERVICE FEATURESSection 503Fire Apparatus Access Roads503.4[For SF] Obstruction of fire apparatus access roads.Section 504Access to Building Openings and Roofs 504.2.1[For SF] Breakable window marking504.3.1[For SF] Access to roof504.4[For SF] Identification on steel doorsSection 506Key Boxes 506.2.1[For SF] Key box installation and maintenance Section 507Fire Protection Water Supplies507.4[For SF] Water supply information507.6[For SF] Other water suppliesSection 508Fire Command Center 508.1.5.1[For SF] Local additional featuresSection 510Emergency Responder Radio Coverage 510.4[For SF] Emergency responder radio coverage systems installation and maintenance 510.5[For SF] Construction plansSection 511Local Fire Safety Feature Requirements 511.1[For SF] Local elevator standards for buildings 200 feet or more in height; special elevator requirement 511.2[For SF] Local standards for high-rise buildings and tunnels CHAPTER 6BUILDING SERVICES AND SYSTEMS Section 605Electrical Equipment, Wiring and Hazards 605.11[For SF] Solar photovoltaic systems Section 607Elevator Recall and Maintenance 607.6[For SF] Maintenance of elevators CHAPTER 8INTERIOR FINISHESCHAPTER 9FIRE-PROTECTION SYSTEMSSection 901General 901.8.2[For SF] Subsurface constructionSection 902Definitions Section 903Automatic Sprinkler Systems 903.2.15.2[For SF] Automatic sprinkler system - existing high-rise buildings 903.2.19[For SF] Automatic sprinkler system - existing SRO hotel buildings903.2.20[For SF] Automatic sprinkler system - existing residential hotel buildings 903.3.6.1[For SF] Fire Department connection type Section 904Alternative Automatic Fire-Extinguishing Systems 904.11.6.2[For SF] Extinguishing system service Section 905Standpipe Systems 905.2.1[For SF] Local installation standard 905.3.4[For SF] Stages905.3.10[For SF] Fixed guideway transit systems905.3.11[For SF] Buildings with limited Fire Department access 905.4.3[For SF] Local requirement for location of Class I standpipe hose connectionsSection 907Fire Alarm and Detection Systems 907.1.2[For SF] Fire alarm shop drawings907.2.9.4[For SF] Automatic smoke detection system907.6.2.2.5[For SF] Local requirements for emergency voice alarm-signaling system 907.7.3.1.2[For SF] Local annunciation requirement 907.7.3.1.3[For SF] Graphic annunciation907.7.3.2.1[For SF] High-rise building fire alarm annunciation 907.7.5.3[For SF] Termination of service 907.8.4[For SF] Fire alarm certification required907.9.4[For SF] Maintenance, inspection, and testing 907.9.5[For SF] Certificated fire alarm system for existing buildingsSection 914Fire Protection Based on Special Detailed Requirements of Use and Occupancy 914.3.1.1[For SF] Number of sprinkler risers and system design914.3.1.3[For SF] Fire Department connections 914.3.1.4[For SF] Fire pumps 914.3.1.5[For SF] Elevator machine rooms and hoistways in high-rise buildings914.12[For SF] Piers914.13[For SF] Building with car parking stacking systems CHAPTER 10MEANS OF EGRESS Section 1030Maintenance of the Means of Egress 1030.2.1[For SF] Fire escape obstructions CHAPTER 26HOT WORK Section 2610Hot Work on Piers 2610.1[For SF] Scope2610.2[For SF] Repairs on Vessels 2610.3[For SF] Repairs on Piers 2610.4[For SF] Requirements for Hot WorkCHAPTER 33EXPLOSIVES AND FIREWORKSSection 3301General 3301.2[For SF] Insurance 3301.3[For SF] Explosives, explosive materials, fireworks, and pyrotechnics3301.4[For SF] PermitsCHAPTER 46CONSTRUCTION REQUIREMENTS FOR EXISTING BUILDINGSSection 4603Fire Safety Requirements for Existing Buildings4603.4[For SF] Sprinkler systems4603.4.1[For SF] Automatic sprinkler system for existing SRO hotel buildings4603.4.2[For SF] Automatic sprinkler system for existing high-rise buildings4603.4.3[For SF] Automatic sprinkler system for existing hotels4603.6.10[For SF] Certificated fire alarm systems for existing buildingsCHAPTER 50[For SF] - PARKING LOTS AND GARAGES5001[For SF] - Scope5002[For SF] - Definitions5003[For SF] General Requirements5003.1[For SF] Aisles5003.2[For SF] Exit width 5003.3[For SF] Vehicle barriers 5003.4[For SF] Illumination 5003.5[For SF] Sign5003.6[For SF] Vehicle servicing APPENDIX DFIRE APPARATUS ACCESS ROADS Section D105Aerial Fire Apparatus Access RoadsD105.1[For SF] Where required 
 CHAPTER 1
 SAN FRANCISCO GENERAL CODE PROVISIONS
+[Repealed as of 1/1/2014]*
 The following sections supplement, modify, amend or delete specified provisions of the California Fire Code and the 2009 International Fire Code, as follows: 
 DIVISION 1  SAN FRANCISCO ADMINISTRATION
 The following San Francisco section replaces the corresponding California Fire Code section. 
@@ -262,6 +280,7 @@ This section does not exist in the California Fire Code.
 	If the Department does not receive payment within 30 days following mailing of the second notice, the Department shall report all accounts receivable over $300 to the Bureau of Delinquent Revenue Collection in accordance with San Francisco Administrative Code, Chapter 10, Article V. Accounts receivable under $300 shall be administered in accordance with Administrative Code Section 10.41-1. 
 CHAPTER 3
 GENERAL PRECAUTIONS AGAINST FIRE
+[Repealed as of 1/1/2014]*
 SECTION 308-OPEN FLAMES
 The following San Francisco section replaces the corresponding International Fire Code section. 
 308.1.3  [For SF] Torches for removing paint.
@@ -289,6 +308,7 @@ SECTION 316-HAZARDS TO FIREFIGHTERS
 	If a building has roofs or floors of composite wood joist or truss construction, the owner shall post a sign specifying this type of construction. The sign shall be located adjacent to the main entrance door or in a location(s) as required by the fire code official. The sign shall comply with San Francisco Fire Department Administrative Bulletin 5.05. 
 CHAPTER 4
 EMERGENCY PLANNING AND PREPAREDNESS
+[Repealed as of 1/1/2014]*
 Sections 404, 405, 406, and 408 of the International Fire Code Chapter are deleted. The following San Francisco sections replace the corresponding International Fire Code sections. 
 404.1  [For SF] State of California requirements.
 	Emergency plans and preparedness shall be provided in accordance with Title 19, California Code of Regulations, and California Health and Safety Code, Section 13220. 
@@ -298,6 +318,10 @@ Sections 404, 405, 406, and 408 of the International Fire Code Chapter are delet
 	Emergency procedures information required by the California Code of Regulations, Title 19, Section 3.09, shall comply with San Francisco Fire Department Administrative Bulletin 2.11. 
 CHAPTER 5
 FIRE SERVICE FEATURES
+[Repealed as of 1/1/2014]*
+ New Ordinance Notice
+Publisher's Note: This Chapter includes sections affected by new ordinances. Click here for a list of all new ordinances affecting sections of this Code.
+
 SECTION 503-FIRE APPARATUS ACCESS ROADS
 503.4  [For SF] Obstruction of fire apparatus access roads.
 	Fire apparatus access roads shall not be obstructed in any manner, including the parking of vehicles. Subject to Health and Safety Code Sections 13104, 13108, 13114, 18941.5, and California Fire Code Sections 104.l, 1.11.2, and 503, the portion of the sidewalk or median, immediately adjoining and extending into a roadway, that has no utility pole, street light, street furniture, fire hydrant, trees, shrubbery, or other structure or natural growth attached thereto and that has a height that does not exceed six inches above the roadway shall not constitute an obstruction of a fire apparatus access road. The minimum widths and clearances established in Section 503.2.1 shall be maintained at all times.
@@ -350,11 +374,14 @@ This section does not exist in the California Fire Code.
 	EXCEPTION: Buildings with multiple bank elevators that serve no more than 20 consecutive floors each, whereby firefighters may ascend the building in 20 floor intervals in separated hoistways. 
 	An elevator required under this Section shall be designed to divert water, smoke, and heat from the elevator shaft during fire conditions, and shall comply with San Francisco Fire Department Administrative Bulletin 5.08. 
 511.2  [For SF] Local standards for high-rise buildings and tunnels.
+ New Ordinance Notice
+Publisher's Note: This section has been AMENDED by a new ordinance (Ord. 200-13, approved 10/3/2013, effective 11/2/2013). The text of the amendment will be incorporated below when the new ordinance is effective.
 	An approved air replenishment system shall be installed in all buildings having floors used for human occupancy located more than 75 feet (22 860 mm) above the lowest level of Fire Department vehicle access. This requirement shall apply for all buildings meeting this definition when the building permit application for construction was made after March 30, 2004. 
 	The air replenishment system will provide a means for firefighters to refill air bottles for self-contained breathing apparatus (SCBA) through a permanently installed piping distribution system. The system shall be tested and maintained in accordance with San Francisco Fire Department Administrative Bulletin 5.07. 
 	The air replenishment system shall be installed in all new underground transportation or pedestrian tunnels exceeding 300 feet (91 440 mm). 
 CHAPTER 6
 BUILDING SERVICES AND SYSTEMS
+[Repealed as of 1/1/2014]*
 SECTION 605-ELECTRICAL EQUIPMENT, WIRING AND HAZARDS
 605.11  [For SF] Solar photovoltaic systems.
 	The installation of solar photovoltaic systems shall be in accordance with the California State Fire Marshal publication, "Solar Photovoltaic Installation Guidelines", dated April 22, 2008. That publication shall be made available on the Department's website. 
@@ -364,9 +391,11 @@ SECTION 607-ELEVATOR RECALL AND MAINTENANCE
 	At least one passenger elevator shall be maintained in working order and accessible for immediate use by the Fire Department at all times. 
 CHAPTER 8
 INTERIOR FINISHES
+[Repealed as of 1/1/2014]*
 Section 805 is deleted. 
 CHAPTER 9
 FIRE-PROTECTION SYSTEMS
+[Repealed as of 1/1/2014]*
 SECTION 901-GENERAL
 901.8.2  [For SF] Subsurface construction.
 	Any person performing any subsurface work in close proximity or adjacent to any valve, gate, hydrant, main, street cistern, or other part of the auxiliary water supply system (high pressure system), any hydrant, hydrant piping, or hydrant gate valve connected to the mains of the San Francisco Water Department shall comply with all Fire Department regulations and specifications, which are on file with the Department of Public Works Bureau of Engineering. 
@@ -457,11 +486,13 @@ The following San Francisco section replaces the corresponding California Fire C
 	Parking garages with car parking stacking systems shall include an approved installed automatic sprinkler system. For hydraulic design purposes per NFPA #13, rooms or areas with these systems shall be designed per Extra Hazard, Group 1 requirements, and in accordance with San Francisco Fire Department Administrative Bulletin 4.25. Written approval from the fire code official is required for any modifications to those requirements. 
 CHAPTER 10
 MEANS OF EGRESS
+[Repealed as of 1/1/2014]*
 SECTION 1030-MAINTENANCE OF THE MEANS OF EGRESS
 1030.2.1  [For SF] Fire escape obstructions.
 	Fire escapes and related balconies, ladders, landings, and operating devices shall not be obstructed in any manner. No object shall be stored on or attached to a fire escape without the approval of the fire code official. 
 CHAPTER 26
 HOT WORK
+[Repealed as of 1/1/2014]*
 SECTION 2610-HOT WORK ON PIERS
 2610.1  [For SF] Scope.
 	Burning or hot work conducted on marine terminals, piers, and wharves or moored vessels shall be in accordance with this section. 
@@ -477,6 +508,7 @@ SECTION 2610-HOT WORK ON PIERS
 	Any person performing hot work shall perform the work in compliance with this code and the regulations of the U.S. Department of Transportation, U.S. Department of Labor, and U.S. Coast Guard. 
 CHAPTER 33
 EXPLOSIVES AND FIREWORKS
+[Repealed as of 1/1/2014]*
 SECTION 3301-GENERAL
 3301.2  [For SF] Insurance.
 	Before a permit is issued to use explosives, explosive materials, fireworks, or pyrotechnic special effects, the applicant shall submit to the fire code official a certificate evidencing Commercial General Liability insurance with limits not less than $1,000,000 each occurrence, $2,000,000 general aggregate, combined single limit for bodily injury and property damage, including coverage for Contractual Liability, independent contractors, Explosion, Collapse, and Underground (XCU), Personal Injury, Broadform Property Damage, products, and completed operations, along with an additional insured endorsement naming the City and County of San Francisco, its officers, agents and employees as an additional insured. The insurance policy and endorsement shall be from an insurer approved by the City's Risk Manager and in a form approved by the Risk Manager. In consultation with the Risk Manager, the fire code official may specify a greater or lesser amount for the policy when, in the fire code official's opinion, conditions at the location of use indicate a greater or lesser amount is required. 
@@ -487,6 +519,7 @@ SECTION 3301-GENERAL
 	Permits are required as set forth in Chapter 1, Section 105.6. 
 CHAPTER 46
 CONSTRUCTION REQUIREMENTS FOR EXISTING BUILDINGS
+[Repealed as of 1/1/2014]*
 Sections 4601.1 through 4603.3.7 are deleted. 
 SECTION 4603-FIRE SAFETY REQUIREMENTS FOR EXISTING BUILDINGS
 The following three San Francisco sections replace the corresponding International Fire Code sections. 
@@ -515,6 +548,7 @@ The following three San Francisco sections replace the corresponding Internation
 	Sections 4604 and 4605 are deleted. 
 CHAPTER 50
 [For SF] - PARKING LOTS AND GARAGES
+[Repealed as of 1/1/2014]*
 This Chapter does not exist in the California Fire Code. 
 5001  [For SF] - Scope.
 	Premises used for parking of motor vehicles and classified as Group S, Division 2 occupancies or as a parking lot shall be in accordance with Chapter 50. See the Building Code for construction requirements. Garages used to service or repair motor vehicles shall comply with Chapter 22. 
@@ -535,6 +569,7 @@ This Chapter does not exist in the California Fire Code.
 	Service or repair of motor vehicles is prohibited in parking lots.   
 APPENDIX D-
 FIRE APPARATUS ACCESS ROADS
+[Repealed as of 1/1/2014]*
 SECTION D105-AERIAL FIRE APPARATUS ACCESS ROADS
 The following San Francisco section replaces the corresponding International Fire Code section. 
 D105.1  [For SF] Where required.
@@ -560,4 +595,9 @@ Sections Affected:
 New Ordinances
 Publisher's Note:  The following table lists all ordinances affecting the Fire Code that have been passed by the Board of Supervisors but that are not yet effective. The table includes links to the amending ordinances (as maintained in PDF format on the Board of Supervisors' web site) and to the code sections affected. For other legislation, including older ordinances and those affecting other codes, please refer to the Comprehensive Ordinance Table or the Board's "Legislation Passed" web site.
 
-Ord. No.File No.Eff. DateShort Title and Code Sections Affected[None]
+Ord. No.File No.Eff. DateShort Title and Code Sections Affected200-1313078611/02/13
+
+Fire Code - Repealing, Replacing, and Amending
+
+Sections Affected:
+511.2 (Amended). Entire Code repealed and replaced January 1, 2014

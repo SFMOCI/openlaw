@@ -3,26 +3,10 @@ CITY AND COUNTY OF SAN FRANCISCO
 MUNICIPAL CODE
 
 HEALTH CODE
-The San Francisco Municipal Code is current through Ordinance 190-13, File No. 130653, approved August 7, 2013, effective September 6, 2013.
+The San Francisco Municipal Code is current through Ordinance 193-13, File No. 120966, approved September 9, 2013, effective October 9, 2013.
 The Health Code was last amended by Ordinance 172-13, File No. 130547, approved August 2, 2013, effective September 1, 2013.
 
 
-The San Francisco Municipal Code:Charter
-Administrative Code
-Building, Electrical, Housing, Mechanical and Plumbing Codes
-Business and Tax Regulations Code
-Campaign and Governmental Conduct CodeEnvironment Code
-Fire Code
-Health Code
-Municipal Elections Code
-Park Code
-Planning Code
-Police CodePort Code
-Public Works Code
-Subdivision Code
-Transportation Code
-Zoning Maps
-Comprehensive Ordinance Table
 AMERICAN LEGAL PUBLISHING CORPORATION
 432 Walnut Street, Suite 1200
 Cincinnati, Ohio  45202-3909
@@ -30,6 +14,34 @@ Cincinnati, Ohio  45202-3909
 Fax: (513) 763-3562
 Email: customerservice@amlegal.com
 www.amlegal.com
+
+THE SAN FRANCISCO CODES
+The following San Francisco Codes are published by American Legal:
+The Municipal Code:
+1996 Charter
+Administrative Code
+Business and Tax Regulations Code
+Campaign and Governmental Conduct Code
+Environment Code
+Fire Code
+Health Code
+Municipal Elections Code
+Park Code
+Planning Code (including Zoning Maps)
+Police Code
+Port Code
+Public Works Code
+Subdivision Code
+Transportation Code
+
+Building Industry Commission Codes:
+Building Code
+Electrical Code
+Housing Code
+Mechanical Code
+Plumbing Code
+
+Comprehensive Ordinance List
 PREFACE TO THE HEALTH CODE 
 	This electronic version of the City and County of San Francisco Municipal Code is updated as amending legislation is approved. New Ordinance Notices are inserted where applicable to call the user's attention to material that has been affected by legislation that has been passed but is not yet effective. Any references to such legislation are also compiled in a table at the end of this Code. The amendments are then incorporated into the Code when they become effective.
 	Beginning with ordinances passed in 2011, all ordinances affecting this Code are summarized in a table that lists the identifying information (ordinance and file numbers), effective date, short title, and sections affected for each such ordinance. Users should note that the operative date of an ordinance may be later than the effective date of the ordinance. A delayed operative date will be noted in the ordinance.
@@ -4525,7 +4537,7 @@ SEC. 1209.  CONFLICT WITH OTHER LAWS.
 (Added by Ord. 399-97, App. 10/17/97)
 ARTICLE 22A:
 ANALYZING SOILS FOR HAZARDOUS WASTE
-Sec. 22A.1.Findings.Sec. 22A.2.Definitions.Sec. 22A.3.Applicability of Article.Sec. 22A.4.Waiver of Requirements for Compliance.Sec. 22A.5.Director's Discretionary Authority to Require Compliance.Sec. 22A.6.Site History.Sec. 22A.7.Subsurface Sampling and Analysis.Sec. 22A.8.Subsurface Analysis Report.Sec. 22A.9.Known Hazardous Substance Site; Hunters Point Shipyard.Sec. 22A.10.Applicant's Responsibility Upon Discovery of Hazardous Substances.Sec. 22A.11.Final Report and Certification.Sec. 22A.12.Notification to Director of Building Inspection.Sec. 22A.13.Maintenance of Report by Director.Sec. 22A.14.Rules and Regulations.Sec. 22A.15.Notification to Buyer.Sec. 22A.16.Nonassupmtion of Liability.Sec. 22A.17.Construction on City Property.Sec. 22A.18.Severability.Sec. 22A.19.Fees.
+Sec. 22A.1.Findings.Sec. 22A.2.Definitions.Sec. 22A.3.Applicability of Article.Sec. 22A.4.Waiver of Requirements for Compliance.Sec. 22A.5.Director's Discretionary Authority to Require Compliance.Sec. 22A.6.Site History.Sec. 22A.7.Subsurface Sampling and Analysis.Sec. 22A.8.Subsurface Analysis Report.Sec. 22A.9.Known Hazardous Substance Site; Hunters Point Shipyard.Sec. 22A.10.Applicant's Responsibility Upon Discovery of Hazardous Substances.Sec. 22A.11.Final Report and Certification.Sec. 22A.12.Notification to Director of Building Inspection.Sec. 22A.13.Maintenance of Report by Director.Sec. 22A.14.Rules and Regulations.Sec. 22A.15.Notification to Buyer.Sec. 22A.16.Nonassumption of Liability.Sec. 22A.17.Construction on City Property.Sec. 22A.18.Severability.Sec. 22A.19.Fees.
 Editor's Notes:
 	The sections of this Article are numbered out of sequence with the other articles of this Code. Sections designated 1 through 66 are codified in Article 1 above.
 	The sections of this Article formerly were numbered 1220 through 1237. As part of its substantial amendments, Ord. 155-13 redesignated the Article' s sections as currently set forth. The history note following each section explains the section's derivation and notes its former section number.
@@ -4637,11 +4649,11 @@ SEC. 22A.14.  RULES AND REGULATIONS.
 SEC. 22A.15.  NOTIFICATION TO BUYER.
 	The Director shall prepare and maintain for public distribution a summary of the requirements of this Article. The seller or the seller's agent involved in the sale or exchange of any real property located on any parcel of land identified in San Francisco Building Code Section 106A.3.2.4 and in those areas designated by the Director pursuant to Section 22A.5 shall provide a copy of the summary to the buyer or buyers and shall obtain a written receipt from the buyer or buyers acknowledging receipt of the summary. Failure to give notice as required by this Section shall not excuse or exempt the buyer of the property from compliance with the requirements of this Article. 
 (Added as Sec. 1233 by Ord. 35-99, App. 3/12/99; redesignated and amended by Ord. 155-13, File No. 130369, App. 7/25/2013, Eff. 8/24/2013)
-SEC. 22A.16.  NONASSUPMTION OF LIABILITY.
+SEC. 22A.16.  NONASSUMPTION OF LIABILITY.
 	In undertaking to require certain building or grading permits to include soil and/or groundwater analyses for the presence of hazardous substances, the City and County of San Francisco is assuming an undertaking only to promote the general welfare. It is not assuming, nor is it imposing on itself or on its officers and employees, any obligation for breach of which it is liable for money damages to any person who claims that such breach proximately caused injury. 
 (Added as Sec. 1234 by Ord. 35-99, App. 3/12/99; redesignated and amended by Ord. 155-13, File No. 130369, App. 7/25/2013, Eff. 8/24/2013)
 SEC. 22A.17.  CONSTRUCTION ON CITY PROPERTY.
-	The Department of Public Health shall work with all departments, boards, commissions and agencies of the City and County of San Francisco that authorize construction or improvements on land under their jurisdiction under circumstances where no building or grading permit needs to be obtained pursuant to the San Francisco Building Code to develop inderdepartmental coordination protocols to ensure that the goals of this Article 22A to protect the environment and the public health and safety are achieved. The Directors of Public Health and Building Inspection shall assist the departments, boards, commissions and agencies to ensure that these protocols are followed. Additionally, such protocols shall define and address emergency situations, and a process for waiving testing or procedures that may delay emergency work. Compliance by a City department or agency with this section shall constitute compliance with the requirements of Article 22A. 
+	The Department of Public Health shall work with all departments, boards, commissions and agencies of the City and County of San Francisco that authorize construction or improvements on land under their jurisdiction under circumstances where no building or grading permit needs to be obtained pursuant to the San Francisco Building Code to develop interdepartmental coordination protocols to ensure that the goals of this Article 22A to protect the environment and the public health and safety are achieved. The Directors of Public Health and Building Inspection shall assist the departments, boards, commissions and agencies to ensure that these protocols are followed. Additionally, such protocols shall define and address emergency situations, and a process for waiving testing or procedures that may delay emergency work. Compliance by a City department or agency with this section shall constitute compliance with the requirements of Article 22A. 
 (Added as Sec. 1235 by Ord. 35-99, App. 3/12/99; redesignated and amended by Ord. 155-13, File No. 130369, App. 7/25/2013, Eff. 8/24/2013)
 SEC. 22A.18.  SEVERABILITY.
 	If any section, subsection, subdivision, paragraph, sentence, clause or phrase of this Article or any part thereof, is for any reason to be held unconstitutional or invalid or ineffective by any court of competent jurisdiction, such decision shall not affect the validity or effectiveness of the remaining portions of this Section or any part thereof. The Board of Supervisors hereby declares that it would have passed each section, subsection, subdivision, paragraph, sentence, clause or phrase thereof irrespective of the fact that any one or more sections, subsections, subdivisions, paragraphs, sentences, causes or phrases be declared unconstitutional or invalid or ineffective. 

@@ -3,26 +3,10 @@ CITY AND COUNTY OF SAN FRANCISCO
 MUNICIPAL CODE
 
 1996 CHARTER 
-The San Francisco Municipal Code is current through Ordinance 190-13, File No. 130653, approved August 7, 2013, effective September 6, 2013.
+The San Francisco Municipal Code is current through Ordinance 193-13, File No. 120966, approved September 9, 2013, effective October 9, 2013.
 The 1996 Charter was last amended by provisions ratified by the voters at the election in November 2012.
 
 
-The San Francisco Municipal Code:Charter
-Administrative Code
-Building, Electrical, Housing, Mechanical and Plumbing Codes
-Business and Tax Regulations Code
-Campaign and Governmental Conduct CodeEnvironment Code
-Fire Code
-Health Code
-Municipal Elections Code
-Park Code
-Planning Code
-Police CodePort Code
-Public Works Code
-Subdivision Code
-Transportation Code
-Zoning Maps
-Comprehensive Ordinance Table
 AMERICAN LEGAL PUBLISHING CORPORATION
 432 Walnut Street, Suite 1200
 Cincinnati, Ohio  45202-3909
@@ -30,6 +14,35 @@ Cincinnati, Ohio  45202-3909
 Fax: (513) 763-3562
 Email: customerservice@amlegal.com
 www.amlegal.com
+
+THE SAN FRANCISCO CODES
+The following San Francisco Codes are published by American Legal:
+The Municipal Code:
+1996 Charter
+Administrative Code
+Business and Tax Regulations Code
+Campaign and Governmental Conduct Code
+Environment Code
+Fire Code
+Health Code
+Municipal Elections Code
+Park Code
+Planning Code (including Zoning Maps)
+Police Code
+Port Code
+Public Works Code
+Subdivision Code
+Transportation Code
+
+Building Industry Commission Codes:
+Building Code
+Electrical Code
+Housing Code
+Mechanical Code
+Plumbing Code
+
+Comprehensive Ordinance List
+
 PREFACE TO THE 1996 CHARTER 
 The Charter of the City and County of San Francisco was adopted on November 7, 1995, and became effective July 1, 1996. This volume contains Charter provisions enacted through the election of November 2012.
 

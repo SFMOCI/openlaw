@@ -3,26 +3,10 @@ CITY AND COUNTY OF SAN FRANCISCO
 MUNICIPAL CODE
 
 MUNICIPAL ELECTIONS CODE 
-The San Francisco Municipal Code is current through Ordinance 190-13, File No. 130653, approved August 7, 2013, effective September 6, 2013.
+The San Francisco Municipal Code is current through Ordinance 193-13, File No. 120966, approved September 9, 2013, effective October 9, 2013.
 The Municipal Elections Code was last amended by Ordinance 158-13, File No. 130413, approved July 26, 2013, effective August 25, 2013.
 
 
-The San Francisco Municipal Code:Charter
-Administrative Code
-Building, Electrical, Housing, Mechanical and Plumbing Codes
-Business and Tax Regulations Code
-Campaign and Governmental Conduct CodeEnvironment Code
-Fire Code
-Health Code
-Municipal Elections Code
-Park Code
-Planning Code
-Police CodePort Code
-Public Works Code
-Subdivision Code
-Transportation Code
-Zoning Maps
-Comprehensive Ordinance Table
 AMERICAN LEGAL PUBLISHING CORPORATION
 432 Walnut Street, Suite 1200
 Cincinnati, Ohio  45202-3909
@@ -30,6 +14,34 @@ Cincinnati, Ohio  45202-3909
 Fax: (513) 763-3562
 Email: customerservice@amlegal.com
 www.amlegal.com
+
+THE SAN FRANCISCO CODES
+The following San Francisco Codes are published by American Legal:
+The Municipal Code:
+1996 Charter
+Administrative Code
+Business and Tax Regulations Code
+Campaign and Governmental Conduct Code
+Environment Code
+Fire Code
+Health Code
+Municipal Elections Code
+Park Code
+Planning Code (including Zoning Maps)
+Police Code
+Port Code
+Public Works Code
+Subdivision Code
+Transportation Code
+
+Building Industry Commission Codes:
+Building Code
+Electrical Code
+Housing Code
+Mechanical Code
+Plumbing Code
+
+Comprehensive Ordinance List
 PREFACE TO THE MUNICIPAL ELECTIONS CODE 
 	On November 17, 1997, the Board of Supervisors adopted this Municipal Elections Code pursuant to Section 13.100 of the San Francisco Charter (Ord. 429-97). 
 	Prior to July 1, 1996, the effective date of San Francisco's 1996 Charter, the old Charter contained numerous provisions governing municipal elections. Some of those provisions were reenacted in the 1996 Charter, some were converted to ordinances, and some no longer exist in local law. Section 13.100 of the 1996 Charter directed the Board of Supervisors to adopt a Municipal Elections Code providing rules for nomination of elective officers, submission of measures to the voters, preparation and form of ballots, preparation and form of materials mailed to the voters, and imposition of fees. In addition to the elections issues described above, the Municipal Elections Code governs the activity of the Ballot Simplification Committee and the Citizens Advisory Committee on Elections. 

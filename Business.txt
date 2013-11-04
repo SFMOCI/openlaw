@@ -5,26 +5,10 @@ MUNICIPAL CODE
 BUSINESS AND TAX REGULATIONS CODE
  New Ordinance Notice
 Publisher's Note: This Code includes sections affected by new ordinances. Click here for a list of the new ordinances and the affected sections.
-The San Francisco Municipal Code is current through Ordinance 190-13, File No. 130653, approved August 7, 2013, effective September 6, 2013.
+The San Francisco Municipal Code is current through Ordinance 193-13, File No. 120966, approved September 9, 2013, effective October 9, 2013.
 The Business and Tax Regulations Code was last amended by Ordinance 170-13, File No. 130545, approved August 2, 2013, effective September 1, 2013.
 
 
-The San Francisco Municipal Code:Charter
-Administrative Code
-Building, Electrical, Housing, Mechanical and Plumbing Codes
-Business and Tax Regulations Code
-Campaign and Governmental Conduct CodeEnvironment Code
-Fire Code
-Health Code
-Municipal Elections Code
-Park Code
-Planning Code
-Police CodePort Code
-Public Works Code
-Subdivision Code
-Transportation Code
-Zoning Maps
-Comprehensive Ordinance Table
 AMERICAN LEGAL PUBLISHING CORPORATION
 432 Walnut Street, Suite 1200
 Cincinnati, Ohio  45202-3909
@@ -32,6 +16,34 @@ Cincinnati, Ohio  45202-3909
 Fax: (513) 763-3562
 Email: customerservice@amlegal.com
 www.amlegal.com
+
+THE SAN FRANCISCO CODES
+The following San Francisco Codes are published by American Legal:
+The Municipal Code:
+1996 Charter
+Administrative Code
+Business and Tax Regulations Code
+Campaign and Governmental Conduct Code
+Environment Code
+Fire Code
+Health Code
+Municipal Elections Code
+Park Code
+Planning Code (including Zoning Maps)
+Police Code
+Port Code
+Public Works Code
+Subdivision Code
+Transportation Code
+
+Building Industry Commission Codes:
+Building Code
+Electrical Code
+Housing Code
+Mechanical Code
+Plumbing Code
+
+Comprehensive Ordinance List
 PREFACE TO THE
 BUSINESS AND TAX REGULATIONS CODE 
 	This electronic version of the City and County of San Francisco Municipal Code is updated as amending legislation is approved. New Ordinance Notices are inserted where applicable to call the user's attention to material that has been affected by legislation that has been passed but is not yet effective. Any references to such legislation are also compiled in a table at the end of this Code. The amendments are then incorporated into the Code when they become effective.
@@ -2883,6 +2895,9 @@ SEC. 1033.  SEVERABILITY.
 (Added by Proposition D, 6/5/90)
 ARTICLE 12-C:
 REAL PROPERTY TRANSFER TAX
+ New Ordinance Notice
+Publisher's Note: This Article includes sections affected by new ordinances. Click here for a list of all new ordinances affecting sections of this Code.
+
 Sec. 1101.Short Title.Sec. 1102.Tax Imposed.Sec. 1102.1.Assessor's Parcel Numbers.Sec. 1102.2.Domestic Partners.Sec. 1103.Payment of Tax.Sec. 1104.Instrument to Secure Debt.Sec. 1105.Exemptions.Sec. 1106.Exceptions.Sec. 1107.Orders of Securities and Exchange Commission.Sec. 1108.Application to Partnerships: Title Changes Not Affecting Ownership.Sec. 1108.1.Exemption; Dissolution of Marriage, Etc.Sec. 1108.2.Exemption; Deeds in Lieu of Foreclosure, Etc.Sec. 1108.3.Application to Leasehold Instruments.Sec. 1108.4.Exemption; Certain Conversions of Stock Cooperatives to Condominium Units.Sec. 1108.5.Exemption; Transfers between Spouses and Transfers between Domestic Partners.Sec. 1109.Documentary Stamps.Sec. 1110.Administration by County Recorder.Sec. 1111.Recording Payment of Tax.Sec. 1111.1.Proof of Exemption, Consideration and Value.Sec. 1113.Claims for Refunds.Sec. 1113.1.Refunds Permissible Without a Claim.Sec. 1114.Administration and Interpretation.Sec. 1115.Delinquency Taxes.Sec. 1115.1.Lien Proceedings.Sec. 1115.2.Transfer Tax Review Board.Sec. 1115.3.Manner of Giving Notice.Sec. 1115.4.Tax as Debt.Sec. 1116.Penalty.
 SEC. 1101.  SHORT TITLE.
 	This Article shall be known as the "Real Property Transfer Tax Ordinance." It is adopted pursuant to the authority contained in Part 6.7 (commencing with Section 11901) of Division 2 of the Revenue and Taxation Code of the State of California. 
@@ -2952,6 +2967,8 @@ SEC. 1110.  ADMINISTRATION BY COUNTY RECORDER.
 	The County Recorder shall administer this ordinance. On or before the fifteenth day of the month the Recorder shall report to the County Auditor the amounts of taxes collected during the preceding month pursuant to this ordinance. 
 (Ord. 315-67, App. 12/12/67; amended by Ord. 352-84, App. 8/8/84; Ord. 377-84, App. 8/31/84)
 SEC. 1111.  RECORDING PAYMENT OF TAX.
+ New Ordinance Notice
+Publisher's Note: This section has been AMENDED by a new ordinance (Ord. 201-13, approved 10/3/2013, effective 11/2/2013). The text of the amendment will be incorporated below when the new ordinance is effective.
 	The Recorder shall collect the tax hereby imposed and deposit the same to the General Fund. The Recorder shall not record any deed, instrument or writing subject to the tax imposed by this ordinance unless the tax is paid. 
 	A declaration of the amount of the tax due, signed by the party determining the tax or his agent shall appear on the face of every document subject to tax hereunder which is submitted for recordation, or if the party submitting the document for recordation so requests, the declaration may be placed on a separate paper. The declaration shall include a statement that the consideration or value on which the tax due was computed was, or that it was not, exclusive of the value of liens or encumbrances remaining on the interest or property conveyed at the time of sale. If the party submitting the document for recordation has requested that the declaration be placed upon a separate paper, the separate paper shall be affixed to the document by the Recorder after the permanent record is made and before the original is returned as specified in Section 27321 of the Government Code. 
 	With every document subject to tax hereunder which is submitted for recordation, there shall also be submitted a separate affidavit stating all relevant information that is necessary for the determination of the proper transfer tax. A form for such affidavit shall be prepared by the County Recorder within 30 days of the effective date of this ordinance and promptly thereafter submitted to the Transfer Tax Review Board for review and approval. The affidavit form shall include the following notice: "NOTICE: Any material misrepresentation of fact in this affidavit is a misdemeanor under Section 1116 of the Real Property Transfer Tax Ordinance. Any person who makes such a misrepresentation is subject to prosecution for such offense." Any subsequent revisions of this form shall also be approved by the Transfer Tax Review Board before becoming effective. 
@@ -2977,6 +2994,8 @@ SEC. 1114.  ADMINISTRATION AND INTERPRETATION.
 	In the administration of this ordinance the recorder shall interpret its provisions consistently with those Documentary Stamp Tax Regulations adopted by the Internal Revenue Service of the United States Treasury Department which relate to the Tax on Conveyances and are identified as Sections 47.4361-1, 47.4361-2 and 47.4362-1 of Part 47 of Title 26 of the Code of Federal Regulations, as the same existed on November 8, 1967, except that for the purposes of this ordinance, the determination of what constitutes "realty" shall be determined by the definition or scope of that term under state law. Notwithstanding the preceding sentence, "realty sold" includes any acquisition or transfer of ownership interests in a legal entity that would be a change of ownership of the entity's real property under California Revenue & Taxation Code § 64. 
 (Ord. 315-67, App. 12/12/67; amended by Ord. 377-84, App. 8/31/84; Amended by Proposition N,  4, 11/4/2008)
 SEC. 1115.  DELINQUENCY TAXES.
+ New Ordinance Notice
+Publisher's Note: This section has been AMENDED by a new ordinance (Ord. 201-13, approved 10/3/2013, effective 11/2/2013). The text of the amendment will be incorporated below when the new ordinance is effective.
 Editor's Note:
 	The provisions of this version of Section 1115 apply until January 1, 2013. The text of Section 1115 that is operative on January 1, 2013 appears after this version. 
 	(a)	Delinquency Penalties. The tax imposed by this ordinance is due and payable at the time the deed, instrument or writing effecting a transfer subject to the tax is delivered, and is delinquent if unpaid thirty days later. In the event that tax is not paid prior to becoming delinquent, a delinquency penalty of 25 percent of the amount of tax due shall accrue. In the event only a portion of the tax is unpaid prior to becoming delinquent, the penalty shall accrue only as to the portion remaining unpaid. An additional penalty of 10 percent shall accrue if the tax remains unpaid in the ninetieth day following the date of the original delinquency except that the additional penalty shall not accrue during the pendency of a taxpayer's appeal before the Transfer Tax Review Board and, in such event, the additional penalty shall accrue if the tax remains unpaid on the ninetieth day following service or mailing of notice of the ruling of the Review Board. Interest shall accrue at the rate of one percent a month, or fraction thereof, on the amount of delinquent tax, exclusive of penalties, from the date the tax becomes delinquent to the date of payment. Interest and penalties accrued shall become part of the tax. 
@@ -3007,6 +3026,8 @@ Editor's Note:
 		The County Recorder shall also serve or mail copies of the notice of delinquent tax to the person liable for the tax and to the owner or owners of the real property described in the notice, as said owners are shown on the records of the County Tax Collector. 
 (Ord. 315-67, App. 12/12/67; amended by Ord. 377-84, App. 8/31/84; Ord. 20-09, File No. 081450, App. 2/5/2009)
 SEC. 1115.1.  LIEN PROCEEDINGS.
+ New Ordinance Notice
+Publisher's Note: This section has been AMENDED by a new ordinance (Ord. 201-13, approved 10/3/2013, effective 11/2/2013). The text of the amendment will be incorporated below when the new ordinance is effective.
 Editor's Note:
 	The provisions of this version of Section 1115.1 apply until January 1, 2013. The text of Section 1115.1 that is operative on January 1, 2013 appears after this version. 
 	(a)	Initiating Lien Proceedings. If the full amount of the delinquent tax, penalties and interest is not paid within 30 days following mailing of the delinquency notice or, in the event of an appeal to the Transfer Tax Review Board, within 10 days following service or mailing of the Review Board's ruling, the County Recorder, within one year of when the tax became delinquent, shall report the delinquency to the Board of Supervisors ("the Board") and request the Board to initiate proceedings to impose a lien for the total unpaid balance against the real property that was transferred by the document delivered without full payment of tax. Said report shall, for each delinquent account, contain the names of the persons liable for the tax, the total amount due, including delinquent taxes, penalties and interest, and a description of the real property that was transferred by the document delivered without full payment of tax. Upon receipt of such report the Board shall fix a time and place for hearing the report and any protests or objections thereto and shall cause notice of the hearing to be mailed not less than 10 days prior to the date of hearing to each person liable for the tax and to the owner or owners of the real property described in the recorded notice of delinquent tax. 
@@ -3024,6 +3045,8 @@ Editor's Note:
 	(e)	Payment of Special Assessment. On payment to the Tax Collector of the special assessment, including delinquent taxes, accrued penalties, interest and the administrative expense charge authorized by Subdivision (c) above, the Tax Collector shall cause a Release of Lien to be recorded with the County Recorder and shall pay the statutory recording fee from the administrative expense charge. Except for the fee paid to record the Release of Lien, all sums collected by the Tax Collector pursuant to this ordinance shall be deposited to the General Fund. 
 (Ord. 377-84, App. 8/31/84; Ord. 20-09, File No. 081450, App. 2/5/2009)
 SEC. 1115.2.  TRANSFER TAX REVIEW BOARD.
+ New Ordinance Notice
+Publisher's Note: This section has been REPEALED by a new ordinance (Ord. 201-13, approved 10/3/2013, effective 11/2/2013). The text of the section will be included below until the repealing ordinance is effective.
 Editor's Note:
 	The provisions of this version of Section 1115.2 apply until January 1, 2013. The text of Section 1115.2 that is operative on January 1, 2013 appears after this version. 
 	(a)	Review Board. A Transfer Tax Review Board (the "Review Board"), consisting of the Controller, the Director of Property and the Tax Collector or their designated representatives, is hereby created. The Review Board shall select from its members a Chairperson who shall serve at its pleasure. A majority of the members of the Review Board shall constitute a quorum. The Review Board shall keep a record of its transactions. The Review Board shall be deemed to be situated in the office of the Controller, shall meet and keep its files in the Controller's office and all filing with the Board relating to appeals or otherwise shall be made at such office. Neither the members of the Review Board nor their designated representatives shall receive any compensation for their services on the said Board. 
@@ -3043,6 +3066,8 @@ Editor's Note:
 	The Transfer Tax Review Board's authority to accept new Petitions for Review and to review the Recorder's procedural rules and forms expired on January 1, 2013. The Review Board shall promptly determine all petitions pending on January 1, 2013 in accordance with this Section 1115.2 as it read immediately before that date. 
 (Ord. 377-84, App. 8/31/84; amended by Ord. 17-98, App. 1/16/98; Ord. 20-09, File No. 081450, App. 2/5/2009)
 SEC. 1115.3.  MANNER OF GIVING NOTICE.
+ New Ordinance Notice
+Publisher's Note: This section has been AMENDED by a new ordinance (Ord. 201-13, approved 10/3/2013, effective 11/2/2013). The text of the amendment will be incorporated below when the new ordinance is effective.
 Editor's Note:
 	The provisions of this version of Section 1115.3 apply until January 1, 2013. The text of Section 1115.3 that is operative on January 1, 2013 appears after this version. 
 	Any notice required to be given hereunder by the County Recorder the Board of Supervisors, the Transfer Review Board or the Review Board to any person shall be sufficiently given or served if it is personally served upon such person or if it is deposited, postage prepaid, in a post office letter box addressed to the person at the address for such person given on a refund claim form, a Petition for Review or written protests or objections to a report of delinquency filed for or on behalf of the person or, if no such address is available, to the person at the official address maintained by the Tax Collector for mailing of tax bills levied against the real property that was transferred by document recorded without full payment of tax or, if no such address is available, to the person at the address of said real property. 
@@ -3910,7 +3935,10 @@ Sections Affected:
 New Ordinances
 Publisher's Note:  The following table lists all ordinances affecting the Business and Tax Regulations Code that have been passed by the Board of Supervisors but that are not yet effective. The table includes links to the amending ordinances (as maintained in PDF format on the Board of Supervisors' web site) and to the code sections affected. For other legislation, including older ordinances and those affecting other codes, please refer to the Comprehensive Ordinance Table or the Board's "Legislation Passed" web site.
 
-Ord. No.File No.Eff. DateShort Title and Code Sections AffectedProposition EN/A[Oper. 01/01/14]*Gross Receipts Tax Ordinance
+Ord. No.File No.Eff. DateShort Title and Code Sections Affected201-1313027611/02/13Business and Tax Regulations Code - Former Transfer Tax Review Board
+
+Sections Affected:
+1111, 1115, 1115.1, 1115.3 (Amended); 1115.2 (Repealed)Proposition EN/A[Oper. 01/01/14]*Gross Receipts Tax Ordinance
 
 Sections Affected:
 6.1-1, 6.2-12, 6.2-17, 6.9-1, 6.9-2, 6.9-3, 903.1, 905-A, 906E (Amended)

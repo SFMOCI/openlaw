@@ -3,26 +3,10 @@ CITY AND COUNTY OF SAN FRANCISCO
 MUNICIPAL CODE
 
 ENVIRONMENT CODE 
-The San Francisco Municipal Code is current through Ordinance 190-13, File No. 130653, approved August 7, 2013, effective September 6, 2013.
+The San Francisco Municipal Code is current through Ordinance 193-13, File No. 120966, approved September 9, 2013, effective October 9, 2013.
 The Environment Code was last amended by Ordinance 183-13, File No. 130528, approved August 7, 2013, effective September 6, 2013.
 
 
-The San Francisco Municipal Code:Charter
-Administrative Code
-Building, Electrical, Housing, Mechanical and Plumbing Codes
-Business and Tax Regulations Code
-Campaign and Governmental Conduct CodeEnvironment Code
-Fire Code
-Health Code
-Municipal Elections Code
-Park Code
-Planning Code
-Police CodePort Code
-Public Works Code
-Subdivision Code
-Transportation Code
-Zoning Maps
-Comprehensive Ordinance Table
 AMERICAN LEGAL PUBLISHING CORPORATION
 432 Walnut Street, Suite 1200
 Cincinnati, Ohio  45202-3909
@@ -30,6 +14,35 @@ Cincinnati, Ohio  45202-3909
 Fax: (513) 763-3562
 Email: customerservice@amlegal.com
 www.amlegal.com
+
+THE SAN FRANCISCO CODES
+The following San Francisco Codes are published by American Legal:
+The Municipal Code:
+1996 Charter
+Administrative Code
+Business and Tax Regulations Code
+Campaign and Governmental Conduct Code
+Environment Code
+Fire Code
+Health Code
+Municipal Elections Code
+Park Code
+Planning Code (including Zoning Maps)
+Police Code
+Port Code
+Public Works Code
+Subdivision Code
+Transportation Code
+
+Building Industry Commission Codes:
+Building Code
+Electrical Code
+Housing Code
+Mechanical Code
+Plumbing Code
+
+Comprehensive Ordinance List
+
 PREFACE TO THE ENVIRONMENT CODE 
 	On July 3, 2003, the Board of Supervisors and the Mayor adopted this Municipal Environment Code. The Environment Code was developed to consolidate the City's ordinances governing protection of the environment, natural resources and sustainability that were previously scattered throughout the Administrative Code. 
 	This electronic version of the City and County of San Francisco Municipal Code is updated as amending legislation is approved. New Ordinance Notices are inserted where applicable to call the user's attention to material that has been affected by legislation that has been passed but is not yet effective. Any references to such legislation are also compiled in a table at the end of this Code. The amendments are then incorporated into the Code when they become effective.
@@ -2090,7 +2103,7 @@ CHAPTER 21:
 [REPEALED]
 Editor's Notes:
 	Former Chapter 21, "Yellow Pages Distribution Pilot Program," was repealed in its entirety by Ord. 179-13.
-	Former Chapter 21 originally was designated Chapter 20, Sections 20.1 through 20.8, when enacted by Ord. 78-11 . The chapter and its constituent sections were renumbered by the editor in order to avoid conflicting with previously existing material.
+	Former Chapter 21 originally was designated Chapter 20, Sections 20.1 through 20.8, when enacted by Ord. 78-11. The chapter and its constituent sections were renumbered by the editor in order to avoid conflicting with previously existing material.
 SEC. 2101.  REPEALED.
 (Added by Ord. 78-11, File No. 110114, App. 5/19/2011, Eff. 6/18/11, Oper. 5/1/2012; repealed by Ord. 179-13, File No. 130186, App. 8/7/2013, Eff. 9/6/2013)
 SEC. 2102.  REPEALED.

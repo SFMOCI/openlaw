@@ -328,7 +328,7 @@ SECTION 503-FIRE APPARATUS ACCESS ROADS
 (Amended by Ord. 116-13, File No. 130253, App. 6/28/2013, Eff. 7/28/2013)
 SECTION 504-ACCESS TO BUILDING OPENINGS AND ROOFS
 504.2.1  [For SF] Breakable window marking.
-	Red reflectors shall be installed to indicate the location of existing breakable, tempered glass windows required under previous codes. Reflectors inside buildings shall be at least 1Â½ inches (381 mm) in the least dimension. They shall be on the glass and within 6 inches (1524 mm) of a lower corner of the pane. Reflectors outside buildings shall be at least 3 inches (762 mm) in the least dimension. They shall be placed on the wall below the lowest window in each vertical line of windows containing tempered glass. A 24-inch (609-mm) clear space shall be maintained around the reflectors. 
+	Red reflectors shall be installed to indicate the location of existing breakable, tempered glass windows required under previous codes. Reflectors inside buildings shall be at least 1½ inches (381 mm) in the least dimension. They shall be on the glass and within 6 inches (1524 mm) of a lower corner of the pane. Reflectors outside buildings shall be at least 3 inches (762 mm) in the least dimension. They shall be placed on the wall below the lowest window in each vertical line of windows containing tempered glass. A 24-inch (609-mm) clear space shall be maintained around the reflectors. 
 504.3.1  [For SF] Access to roof.
 	Doors and hatches to a roof must be able to be opened from the inside without the use of a key, code or any special knowledge. 
 	EXCEPTIONS:
@@ -405,8 +405,8 @@ The following definition shall be added to Section 902.1 of the International Fi
 The following San Francisco definition replaces the corresponding California Fire Code definition in Section 902.1. 
 	[For SF] STANDPIPE SYSTEM, CLASSES OF. A standpipe system is a wet system of piping, valves, outlets and related equipment designed to provide water at specified pressures and installed exclusively for the fighting of fires, including the following: 
 	Class I is a standpipe system equipped with 3-inch (76.2 mm) outlets. 
-	Class II is a standpipe system directly connected to a water supply and equipped with 1Â½-inch (38.1 mm) outlets and hose. 
-	Class III is a standpipe system directly connected to a water supply and equipped with 3-inch (76.2 mm) outlets or 3-inch (76.2 mm) and 1Â½-inch (38.1 mm) outlets when a 1Â½-inch (38.1 mm) hose is required. Hose connections for Class III systems may be made through 3-inch (76.2 mm) hose valves with easily removable 3-inch by 1Â½-inch (76.2 mm by 38.1 mm) reducers. 
+	Class II is a standpipe system directly connected to a water supply and equipped with 1½-inch (38.1 mm) outlets and hose. 
+	Class III is a standpipe system directly connected to a water supply and equipped with 3-inch (76.2 mm) outlets or 3-inch (76.2 mm) and 1½-inch (38.1 mm) outlets when a 1½-inch (38.1 mm) hose is required. Hose connections for Class III systems may be made through 3-inch (76.2 mm) hose valves with easily removable 3-inch by 1½-inch (76.2 mm by 38.1 mm) reducers. 
 SECTION 903-AUTOMATIC SPRINKLER SYSTEMS
 903.2.15.2  [For SF] Automatic sprinkler system - existing high-rise buildings.
 	Existing high-rise buildings shall be provided with an automatic fire sprinkler system in accordance with Chapter 46. 
@@ -425,8 +425,8 @@ SECTION 905-STANDPIPE SYSTEMS
 	Standpipe systems shall be installed using 3-inch (76.2 mm) national standard hose thread. Each standpipe outlet shall be placed to provide a minimum of six inches on all sides of the handle and 18 inches on all sides of the outlet, or located as approved by the fire code official. 
 The following San Francisco section replaces the corresponding California Fire Code section. 
 905.3.4  [For SF] Stages.
-	Stages greater than 1,000 square feet (93 m2) in area shall be equipped with a Class III wet standpipe system with 1Â½ inch and 3 inch (38mm and 64mm) hose connections on each side of the stage. 
-	Exception: Where the building or area is equipped throughout with an automatic sprinkler system, a 1Â½ inch (38 mm) hose connection shall be installed in accordance with NFPA 13 or in accordance with NFPA 14 for Class II or III standpipes. 
+	Stages greater than 1,000 square feet (93 m2) in area shall be equipped with a Class III wet standpipe system with 1½ inch and 3 inch (38mm and 64mm) hose connections on each side of the stage. 
+	Exception: Where the building or area is equipped throughout with an automatic sprinkler system, a 1½ inch (38 mm) hose connection shall be installed in accordance with NFPA 13 or in accordance with NFPA 14 for Class II or III standpipes. 
 The following San Francisco section replaces the corresponding California Fire Code section. 
 905.3.10  [For SF] Fixed guideway transit systems.
 	Underground stations shall be provided with a Class III standpipe system designed to comply with the following: 

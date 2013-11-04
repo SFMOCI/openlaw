@@ -7,7 +7,7 @@ TRANSPORTATION CODE
 Publisher's Note: This Code includes sections affected by new legislation. Click here for a list of the new legislation and the affected sections.
 The San Francisco Municipal Code is current through Ordinance 193-13, File No. 120966, approved September 9, 2013, effective October 9, 2013.
 Division I of the Transportation Code was last amended by Ordinance 120-13, File No. 121108, approved June 28, 2013, effective July 28, 2013.
-Division II of the Transportation Code was last amended by SFMTA Board Resolution No. 13-200, adopted August 20, 2013, effective September 19, 2013.
+Division II of the Transportation Code was last amended by SFMTA Board Resolution No. 13-218, adopted September 17, 2013, effective October 17, 2013.
 
 
 AMERICAN LEGAL PUBLISHING CORPORATION
@@ -1847,9 +1847,6 @@ SEC. 1009.  PARKING RESTRICTIONS ON SFMTA PROPERTY.
 (SFMTA Bd. Res. No. 11-018, 2/1/2011; SFMTA Bd. Res. No. 11-060, Ad. 5/3/2011, Eff. 6/3/2011, Oper. 7/1/2011)
 ARTICLE 1100:
 REGULATION OF MOTOR VEHICLES FOR HIRE
- New Resolution Notice
-Publisher's Note: This Article includes sections affected by new resolutions. Click here for a list of all new legislation affecting sections of this Code.
-
 Sec. 1101.Scope and Purpose of Regulations. Sec. 1102.Definitions. Sec. 1103.Permit Applications and Renewal. Sec. 1104.Eligibility. Sec. 1105.General Permit Conditions. Sec. 1106.Conditions Applicable to Color Scheme Permits. Sec. 1107.Conditions Applicable to Dispatch Service Permits. Sec. 1108.Conditions Applicable to Driver Permits. Sec. 1109.Conditions Applicable to Taxi and Ramp Taxi Medallions. Sec. 1110.Conditions Applicable to Ramp Taxi Medallions. Sec. 1113.Taxi and Ramp Taxi Equipment Requirements. Sec. 1114.Records and Reporting Requirements Applicable to Permit Holders. Sec. 1115.Determination of Number of Permits. Sec. 1116.Taxi Medallion Transfer Program. Sec. 1117.Permit Issuance; Notice of Inactive Status. Sec. 1118.Revocation, Suspension, and Administrative Fines.Sec. 1119.Administrative Fines Assessed Against Non-Permit Holders.Sec. 1120.Administrative Hearings.Sec. 1121.Summary Suspension of Permit for Health or Safety Reasons.Sec. 1122.Administrative Probation.Sec. 1123.Notices.Sec. 1124.Fees, Rates and Charges.
 SEC. 1101.  SCOPE AND PURPOSE OF REGULATIONS.
 	(a)	Scope of Regulations.
@@ -1875,8 +1872,6 @@ SEC. 1101.  SCOPE AND PURPOSE OF REGULATIONS.
 	(e)	Severability. If any section, subsection, subdivision, paragraph, sentence, clause or phrase of this Article or any part thereof, is for any reason held to be invalid or ineffective, such decision shall not affect the validity or effectiveness of the remaining portions of this Article or any part thereof. The SFMTA Board hereby declares that it would have adopted and promulgated each section, subsection, subdivision, paragraph, sentence, clause or phrase thereof irrespective of the fact that any one or more sections, subsections, subdivisions, paragraphs, sentences, clauses or phrases be declared invalid or ineffective. 
 (Added by SFMTA Bd. Res. No. 09-23, 2/23/2009; SFMTA Bd. Res. No. 09-077, 5/19/2009)
 SEC. 1102.  DEFINITIONS.
- New Resolution Notice
-Publisher's Note: This section has been AMENDED by a new resolution (SFMTA Bd. Res. No. 13-218, adopted 9/17/2013, effective 10/17/2013). The text of the amendment will be incorporated below when the new resolution is effective.
 	For purposes of this Article the following words and phrases shall have the meanings set forth below: 
 	"A-Card" or "Driver Permit" shall mean a permit issued by the SFMTA to operate a Taxi or Ramp Taxi in the City. 
 	"A-Card Seniority" shall mean the seniority status of each Driver Permit Holder based on the original issuance date of the Driver Permit, or the issuance date of the most recent Driver Permit in accordance with the terms of Section 1103(c)(3)(B).
@@ -1887,7 +1882,7 @@ Publisher's Note: This section has been AMENDED by a new resolution (SFMTA Bd. R
 	"Color Scheme Permit" shall mean a permit issued by the SFMTA, to operate a Color Scheme in the City. 
 	"Complaint" shall mean a document issued by SFMTA upon receipt of the Respondent's request for a hearing on a Citation, Notice of Nonrenewal, Notice of Inactive Status, or Notice of Summary Suspension, which shall contain information about each alleged violation or basis for nonrenewal, inactive status, or summary suspension.
 	"Controlled Substance Testing Program" shall mean a program adopted by the SFMTA Board to comply with California Government Code Section 53075.5. 
-	"Dispatch Service" shall mean any person, business, firm, partnership, association or corporation that receives communications from the public regarding taxi service for the purpose of forwarding such communications to motor vehicle for hire drivers, and shall include any owner, manager, employee, lessee and any agent of said service. "Dispatch Service" shall not include any service through which the public is able to communicate directly with Drivers, and shall not include any effort on the part of a Driver to market his or her services to the public. 
+	"Dispatch Service" shall mean an entity that holds a Dispatch Service Permit to Dispatch Taxis and Ramp Taxis that are affiliated with the Dispatch Service, and that receives communications from the public regarding taxi service for the purpose of forwarding such communications to a Driver Permit Holder, and shall include any owner, manager, employee, lessee and any agent of said service. "Dispatch Service" shall not include any service through which the public is able to communicate directly with Drivers, and shall not include any effort on the part of a Driver to market his or her services to the public.
 	"Dispatch Service Permit" shall mean a permit issued by the SFMTA to operate a Dispatch Service in the City. 
 	"Driver" shall mean either a person who holds a Driver Permit issued by the SFMTA to operate a Motor Vehicle for Hire or a person engaged in the mechanical operation and having physical charge or custody of a Motor Vehicle for Hire while said Motor Vehicle for Hire is available for hire or is actually hired. 
 	"Driver Fund Retransfer Contribution" shall mean the percentage of the Medallion Transfer Price to be contributed by the SFMTA to the Driver Fund upon the Retransfer of a Transferable Medallion.
@@ -1958,10 +1953,8 @@ Publisher's Note: This section has been AMENDED by a new resolution (SFMTA Bd. R
 	"Transferor" shall mean a Medallion Holder who qualifies under Section 1116(d) of this Article to Retransfer his or her Medallion.
 	"Vehicle Number" shall mean the unique identifying number associated with each Taxi or Ramp Taxi vehicle. 
 	"Waiting List" shall mean a list of applicants for Taxi or Ramp Taxi Medallions for whom such Medallions are not yet available, maintained in the order of receipt of complete applications from qualified applicants. 
-(Added by SFMTA Bd. Res. No. 09-23, 2/23/2009; amended by SFMTA Bd. Res. No. 09-077, 5/19/2009; SFMTA Bd. Res. No. 09-183, 10/20/2009; SFMTA Bd. Res. No. 10-029, 2/26/2010; SFMTA Bd. Res. No. 10-055, 4/20/2010; SFMTA Bd. Res. No. 10-149, 11/16/2010; SFMTA Bd. Res. No. 11-017, 2/1/2011; SFMTA Bd. Res. No. 11-155, Ad. 12/6/2011, Eff. 1/6/2012; SFMTA Bd. Res. No. 12-110, Ad. 8/21/2012, Eff. 9/21/2012; SFMTA Bd. Res. No. 12-111, Ad. 8/21/2012, Eff. 9/21/2012; SFMTA Bd. Res. No. 12-146, Ad. 11/20/2012, Eff. 12/21/2012; SFMTA Bd. Res. No. 13-033, Ad. 3/19/2013, Eff. 4/19/2013; SFMTA Bd. Res. No. 13-048, Ad. 4/16/2013, Eff. 5/17/2013; SFMTA Bd. Res. No. 13-174, Ad. 6/18/2013, Eff.7/19/2013; SFMTA Bd. Res. No. 13-199, Ad. 8/20/2013, Eff. 9/19/2013) 
+(Added by SFMTA Bd. Res. No. 09-23, 2/23/2009; amended by SFMTA Bd. Res. No. 09-077, 5/19/2009; SFMTA Bd. Res. No. 09-183, 10/20/2009; SFMTA Bd. Res. No. 10-029, 2/26/2010; SFMTA Bd. Res. No. 10-055, 4/20/2010; SFMTA Bd. Res. No. 10-149, 11/16/2010; SFMTA Bd. Res. No. 11-017, 2/1/2011; SFMTA Bd. Res. No. 11-155, Ad. 12/6/2011, Eff. 1/6/2012; SFMTA Bd. Res. No. 12-110, Ad. 8/21/2012, Eff. 9/21/2012; SFMTA Bd. Res. No. 12-111, Ad. 8/21/2012, Eff. 9/21/2012; SFMTA Bd. Res. No. 12-146, Ad. 11/20/2012, Eff. 12/21/2012; SFMTA Bd. Res. No. 13-033, Ad. 3/19/2013, Eff. 4/19/2013; SFMTA Bd. Res. No. 13-048, Ad. 4/16/2013, Eff. 5/17/2013; SFMTA Bd. Res. No. 13-174, Ad. 6/18/2013, Eff.7/19/2013; SFMTA Bd. Res. No. 13-199, Ad. 8/20/2013, Eff. 9/19/2013; SFMTA Bd. Res. No. 13-218, Ad. 9/17/2013, Eff. 10/17/2013) 
 SEC. 1103.  PERMIT APPLICATIONS AND RENEWAL.
- New Resolution Notice
-Publisher's Note: This section has been AMENDED by a new resolution (SFMTA Bd. Res. No. 13-218, adopted 9/17/2013, effective 10/17/2013). The text of the amendment will be incorporated below when the new resolution is effective.
 	(a)	Application Forms. Application for any permit issued pursuant to this Article shall be made to the SFMTA on a form provided by the SFMTA. The applicant shall provide such information and documents as the SFMTA requires, which may include a physical examination, a practical examination and/or background check of the applicant. All applications for permits shall be accompanied by the relevant Application Fee; provided, however, that an applicant for an Electric Vehicle Taxi Medallion that was approved prior to December 6, 2011 shall not be required to pay an Application Fee. The SFMTA shall record the date and time that a complete application, including the Application Fee, is received.
 	(b)	Applications Deemed Active. Every application for a permit shall be deemed to remain active and shall be considered until the earliest of the following events: 
 		(1)	The applicant withdraws the application in writing;
@@ -2004,7 +1997,12 @@ Publisher's Note: This section has been AMENDED by a new resolution (SFMTA Bd. R
 	(f)	Additional Requirements Applicable to Non-Standard Vehicle Permit Applications.
 		(1)	An applicant may request a Non-Standard Vehicle class of permit for any vehicle(s) not otherwise included within another class of Motor Vehicle for Hire permits. 
 		(2)	If a Non-Standard Vehicle permit applicant proposes to operate along fixed routes within the City, such fixed routes shall be specified in the permit application. Fixed routes proposed for a permit must be approved by the SFMTA and shall be included in the Non-Standard Vehicle permit as a permit condition. Consideration of such routes by the SFMTA shall include evaluation of their impact on public transit. 
-	(g)	Additional Requirements Applicable To Dispatch Service Permit Applications. Reserved. 
+	(g)	Additional Requirements Applicable To Dispatch Service Permit Applications. 
+		(1)	Dispatch Service Permit Transfers. Any transfer of a Dispatch Service permit must be approved in advance by the SFMTA. The Permit Holder shall give notice to the SFMTA of the intended transfer at least 30 days prior to such transfer. Prior to approving a transfer of a Dispatch Service permit, the SFMTA shall conduct an investigation to ensure that the proposed transferee meets all requirements of this Article. For the purpose of this subsection, the transfer of a business means the transfer of 50 percent or more of an ownership interest in the business to a person or entity that did not already hold an ownership interest in the business as of September 17, 2013. In addition to any other documents establishing compliance with laws and regulations that the SFMTA may require as a condition of approval of the transfer, the parties to the transfer must provide:
+			(A)	Proof of compliance with the requirements of this Article applicable to Dispatch Service Permit Holders, including all required insurance;
+			(B)	A business license;
+			(C)	A signed partnership agreement among multiple purchasers or documentation of current valid corporate status; and
+			(D)	A signed lease establishing the buyer's right of occupancy at a business premises. 
 	(h)	Additional Requirements Applicable To Color Scheme Permit Applications. 
 		(1)	Color Scheme Permit Transfers. Any transfer of a Color Scheme permit must be approved in advance by the SFMTA. Prior to approving a transfer of a Color Scheme Permit, the SFMTA shall conduct an investigation to ensure that the proposed transferee meets all requirements of this Article. For the purpose of this subsection, the transfer of a business means the transfer of 50% or more of an ownership interest in the business to a person or entity that did not already hold an ownership interest in the business as of June 19, 2009. In addition to any other documents establishing compliance with laws and regulations that the SFMTA may require as a condition of approval of the transfer, the parties to the transfer must provide:
 			(A)	An inventory of any City-owned In-Taxi Equipment,
@@ -2022,7 +2020,7 @@ Publisher's Note: This section has been AMENDED by a new resolution (SFMTA Bd. R
 			(E)	Copy of company drug-free workplace policy;
 			(F)	Sworn statement attesting to compliance with this Article and applicable state and federal laws.
 	(i)	Moratorium on Issuance of Permits. The Director of Transportation may impose a moratorium on the issuance of new Color Scheme Permits or Dispatch Service Permits upon his or her determination that the issuance of such permits will not serve the public interest. The Director of Transportation shall notify the Board of Directors immediately upon making such a determination. The notification, which shall be posted in accordance with Section 1123(a), shall include the reasons for the Director's determination that issuance of new permits will not serve the public interest, and the expected duration of the moratorium. In no event shall such a moratorium last for more than a year without the approval of the Board of Directors.
-(Added by SFMTA Bd. Res. No. 09-23, 2/23/2009; amended by SFMTA Bd. Res. No. 09-077, 5/19/2009; SFMTA Bd. Res. No. 09-183, 10/20/2009; SFMTA Bd. Res. No. 10-029, 2/26/2010; SFMTA Bd. Res. No. 10-055, 4/20/2010; SFMTA Bd. Res. No. 10-066, 5/4/2010; SFMTA Bd. Res. No. 11-017, 2/1/2011; SFMTA Bd. Res. No. 11-155, Ad. 12/6/2011, Eff. 1/6/2012; SFMTA Bd. Res. No. 12-111, Ad. 8/21/2012, Eff. 9/21/2012; SFMTA Bd. Res. No. 13-174, Ad. 6/18/2013, Eff.7/19/2013; SFMTA Bd. Res. No. 13-199, Ad. 8/20/2013, Eff. 9/19/2013) 
+(Added by SFMTA Bd. Res. No. 09-23, 2/23/2009; amended by SFMTA Bd. Res. No. 09-077, 5/19/2009; SFMTA Bd. Res. No. 09-183, 10/20/2009; SFMTA Bd. Res. No. 10-029, 2/26/2010; SFMTA Bd. Res. No. 10-055, 4/20/2010; SFMTA Bd. Res. No. 10-066, 5/4/2010; SFMTA Bd. Res. No. 11-017, 2/1/2011; SFMTA Bd. Res. No. 11-155, Ad. 12/6/2011, Eff. 1/6/2012; SFMTA Bd. Res. No. 12-111, Ad. 8/21/2012, Eff. 9/21/2012; SFMTA Bd. Res. No. 13-174, Ad. 6/18/2013, Eff.7/19/2013; SFMTA Bd. Res. No. 13-199, Ad. 8/20/2013, Eff. 9/19/2013; SFMTA Bd. Res. No. 13-218, Ad. 9/17/2013, Eff. 10/17/2013) 
 SEC. 1104.  ELIGIBILITY.
 	(a)	Determination of Eligibility. Each application shall be investigated by the SFMTA to determine the applicant's eligibility pursuant to the factors listed herein. The SFMTA, in determining whether the permit should be granted, may consider such facts as it deems pertinent, but shall at least consider the following factors: 
 		(1)	The applicant's compliance with all applicable statutes, ordinances and regulations. If, during the five years prior to application, an applicant has violated any statute, ordinance or regulation which would be a basis for revocation of the permit, the SFMTA may, in its discretion, refuse to issue the permit. 
@@ -2147,32 +2145,31 @@ SEC. 1106.  CONDITIONS APPLICABLE TO COLOR SCHEME PERMITS.
 	(t)	Insurance Requirements. (Reserved)
 (Added by SFMTA Bd. Res. No. 09-23, 2/23/2009; amended by SFMTA Bd. Res. No. 09-077, 5/19/2009; SFMTA Bd. Res. No. 09-104, 6/16/2009; SFMTA Bd. Res. No. 09-183, 10/20/2009; SFMTA Bd. Res. No. 10-056, 4/20/2010; SFMTA Bd. Res. No. 10-103, 7/6/2010; SFMTA Bd. Res. No. 12-078, Ad. 6/5/2012, Eff. 7/6/2012; SFMTA Bd. Res. No. 12-111, Ad. 8/21/2012, Eff. 9/21/2012) 
 SEC. 1107.  CONDITIONS APPLICABLE TO DISPATCH SERVICE PERMITS.
- New Resolution Notice
-Publisher's Note: This section has been AMENDED by a new resolution (SFMTA Bd. Res. No. 13-218, adopted 9/17/2013, effective 10/17/2013). The text of the amendment will be incorporated below when the new resolution is effective.
-	In addition to all other conditions applicable to a Dispatch Service Permit, each Dispatch Service Permit Holder shall comply with the following performance standards: 
-	(a)	Maintain and update an emergency plan that conforms to SFMTA requirements for Drivers and Dispatch Service employees to follow in emergencies, and file an updated emergency plan annually at the time of permit renewal. 
-	(b)	List a 24 hour telephone number and the names of the Color Scheme(s) for which they provide dispatch services in the Yellow Pages section of the telephone book. 
-	(c)	Promptly dispatch a Ramp Taxi in response to Ramp Taxi service request, and, within 20 minutes of receiving the Ramp Taxi service request, the Dispatch Service must: 
-		(1)	Contact the customer who requested a Ramp Taxi with the vehicle number of the Ramp Taxi assigned to handle the call, or to advise the customer that no Ramp Taxi has been dispatched; or 
-		(2)	If the call cannot be dispatched to a Ramp Taxi affiliated with a Color Scheme that uses that Dispatch Service within 20 minutes, call another Dispatch Service to handle the request, and then call the customer with the name and telephone number of the Color Scheme of the responding Ramp Taxi; or 
-		(3)	Advise the customer that no vehicle was dispatched.
-		(4)	If there are no Ramp Taxis immediately available to respond to a customer's request, record the customer's name and phone number and the names of the other Dispatch Services contacted. 
-	(d)	Record all requests for taxi service, noting the date and time of the request for service, the service address, the vehicle number dispatched and the time that the Taxi or Ramp Taxi was dispatched to respond to the call. 
-	(e)	Maintain the capacity to broadcast and to receive transmissions from every Taxi or Ramp Taxi operating under their service.
-	(f)	Answer all calls by human, mechanical or other device within six rings 365 days per year, 24 hours per day. At least one person shall be available to respond to calls at all times. 
-	(g)	Contact customers who have requested a return call if a vehicle has not been dispatched within 20 minutes of the call.
-	(h)	Upon customer request, call back customers with an approximate arrival time of the dispatched vehicle.
-	(i)	Assign each dispatcher, operator and/or call taker employed by the Dispatch Service a unique individual identifier.
-	(j)	Require all dispatchers, operators and/or call takers, to answer a call with the name of the Dispatch Service, and, upon request of the caller, to identify themselves with either their unique individual identifier or their true name. 
-	(k)	If two or more Color Schemes share the same Dispatch Service, the Dispatch Service may not dispatch a vehicle from a Color Scheme other than the one requested by the caller to respond to the call until the Dispatch Service operator first advises the customer of the Color Scheme of the vehicle that will respond to the call. 
-	(l)	Dispatch Service Permits Transferable. Dispatch Service Permits are transferable, subject to the approval of the SFMTA, which shall determine whether the proposed transferee meets the criteria set forth in this Article, and whether taxi service would be improved by the transfer of the Dispatch Service Permit. The Permit Holder shall give notice to the SFMTA of any intended transfer at least 30 days prior to any such transfer. 
-	(m)	Workers' Compensation Requirements. All Dispatch Service Permit Holders shall comply with all applicable state laws and regulations concerning Workers' Compensation. 
-	(n)	Found Property.
-		(1)	Dispatch Service Permit Holders shall take reasonable measures to attempt to return Found Property to its rightful owner in a timely fashion. If the owner cannot be found, the property shall be held for safekeeping for a period of not less than 120 days. A receipt shall be issued to the Driver for each item turned in. 
-		(2)	If the Found Property is currency, is of the value of $100 or more, is either a serialized item or an electronic device or contains owners identification information, within 30 calendar days the Dispatch Service Permit Holder or a designee shall transfer the property to the Taxi Detail, make a Police Report, and obtain both Police Incident Report Number and a receipt of the items processed. 
-		(3)	Dispatch Service Permit Holders shall advise passengers claiming to have lost property of value in a taxicab, to make a lost property police report if their property has not been found. Color Schemes shall not inform customers to call 311 to report or recover Found Property. 
-		(4)	Dispatch Service Permit Holders shall notify SFMTA when an item of Found Property is returned to its owner.
-(Added by SFMTA Bd. Res. No. 09-23, 2/23/2009; amended by SFMTA Bd. Res. No. 09-077, 5/19/2009; SFMTA Bd. Res. No. 09-183, 10/20/2009)
+	(a)	In addition to all other conditions applicable to a Dispatch Service Permit, each Dispatch Service Permit Holder shall comply with the following performance standards:
+	(b)	Minimum Dispatch Service Standards.
+		(1)	A Dispatch Service must affiliate with at least 50 medallions and must successfully complete an average of at least 250 verifiable Dispatch requests per day with an average of a least three completed Dispatch requests per medallion, per day, from November 1, 2013 through December 31, 2013.
+		(2)	A Dispatch Service must affiliate with at least 75 medallions and must successfully complete an average of at least 375 verifiable Dispatch requests per day with an average of a least 3.75 completed Dispatch requests per medallion, per day, from January 1, 2014 through December 31, 2014.
+		(3)	A Dispatch Service must affiliate with at least 100 medallions and must successfully complete an average of at least 500 verifiable Dispatch requests per day with an average of a least five completed Dispatch requests per medallion, per day, from January 1, 2015 through December 31, 2015.
+		(4)	Any Dispatch Service that does not meet the minimum required levels for completion of Dispatch requests per medallion set forth in Sections 1107(b)(1) through (3), and all Color Scheme Permit Holders affiliated with that Dispatch Service Holder shall be placed on Administrative Probation for not more than 90 days. If after 90 days the Dispatch Service cannot meet the applicable minimum required levels for completion of Dispatch requests per medallion, the Dispatch Service permit shall be automatically revoked and all affiliated Color Scheme Permit Holders shall affiliate with a Dispatch Service that meets minimum service standards.
+	(c)	Dispatch Service Operational Requirements. A Dispatch Service must:
+		(1)	Maintain and update an emergency plan that conforms to SFMTA requirements for Drivers and Dispatch Service employees to follow in emergencies, and file an updated emergency plan annually at the time of permit renewal.
+		(2)	Answer all calls by human, mechanical or other device within six rings 365 days per year, 24 hours per day. At least one person shall be available to respond to calls at all times.
+		(3)	Assign each dispatcher, operator and/or call taker employed by the Dispatch Service a unique individual identifier.
+		(4)	Require all dispatchers, operators and/or call takers, to answer a call with the name of the Dispatch Service, and, upon request of the caller, to identify themselves with either their unique individual identifier or their legal name.
+		(5)	If two or more Color Schemes share the same Dispatch Service, the Dispatch Service may not dispatch a vehicle from a Color Scheme other than the one requested by the caller to respond to the call until the Dispatch Service operator first advises the customer of the Color Scheme of the vehicle that will respond to the call.
+		(6)	Comply with all applicable state laws and regulations concerning Workers' Compensation.
+	(d)	Found Property.
+		(1)	Dispatch Service Permit Holders shall take reasonable measures to attempt to return Found Property to its rightful owner in a timely fashion. If the owner cannot be contacted, the property shall be held for safekeeping for a period of not less than 120 days. A receipt shall be issued to the Driver for each item turned in.
+		(2)	If the Found Property is currency, is of the value of $100 or more, is either a serialized item or an electronic device or contains owners identification information, within 30 calendar days the Dispatch Service Permit Holder shall transfer the property to the SFMTA, make a Police Report, and obtain both Police Incident Report Number and a receipt of the items processed.
+		(3)	Dispatch Service Permit Holders shall advise passengers claiming to have lost property of value in a Taxi or Ramp Taxi, to make a lost property police report if their property has not been found. Color Schemes shall not inform customers to call 311 to report or recover Found Property.
+	(e)	Minimum Dispatch Equipment Requirements. Each Dispatch Service permit holder must maintain at a minimum the following dispatch equipment and dispatch capacity as of February 1, 2014:
+		(1)	A hard-mounted driver information monitor or mobile data terminal capable of two-way communication to display and accept orders, which must be directly connected to the taximeter or connected to the taximeter as part of a secondary system such as a payment system; and 
+		(2)	Integrated GPS to allow for nearest taxi distribution of available orders; and
+		(3)	Ability to dispatch entered orders based on vehicle type;
+		(4)	Configurable polling time of vehicle data and status;
+		(5)	Ability to report data on all orders entered into system, including but not limited to: time and date, order status, drivers/vehicles rejected and drivers/vehicles accepted, all timing points of order (entry time, dispatch time, acceptance or rejected time, and trip completion time), abandoned and non-completed jobs, driver login and logout status while on duty;
+		(6)	Functional direct voice access and two-way communication with all affiliated Taxis and Ramp Taxis.
+(Added by SFMTA Bd. Res. No. 09-23, 2/23/2009; amended by SFMTA Bd. Res. No. 09-077, 5/19/2009; SFMTA Bd. Res. No. 09-183, 10/20/2009; SFMTA Bd. Res. No. 13-218, Ad. 9/17/2013, Eff. 10/17/2013)
 SEC. 1108.  CONDITIONS APPLICABLE TO DRIVER PERMITS.
 	(a)	Driver Identification. Upon issuance of a Driver Permit, the SFMTA will issue to each Driver the following identification: 
 		(1)	Driver Permit Card (A-Card). Every Driver shall carry his or her A-Card at all times while operating a Motor Vehicle for Hire, and shall provide the A-Card for inspection upon request by the SFMTA or any peace officer. 
@@ -2834,7 +2831,10 @@ Sections Affected:
 1102, 1103 (Amended)13-20008/20/1309/19/13Transportation Code – Transportation Code and California Vehicle Code Penalty Schedules
 
 Sections Affected:
-302, 303 (Amended)
+302, 303 (Amended)13-21809/17/1310/17/13Dispatch Service Standards
+
+Sections Affected:
+1102, 1103, 1107 (Amended)
 New Legislation
 Publisher's Note:  The following table lists all legislation affecting the Transportation Code that has been passed by the Board of Supervisors or the Municipal Transportation Agency Board of Directors but that is not yet effective. The table includes links to the amending legislation (in PDF format) and to the code sections affected. For other legislation, including older ordinances and those affecting other codes, please refer to the Comprehensive Ordinance Table or the Board of Supervisors' "Legislation Passed" web site.
 
@@ -2845,10 +2845,7 @@ No.File No.Eff. DateShort Title and Code Sections AffectedRes. 13-17908/15/13
 Sections Affected:
 302, 303 (Amended)
 
-* The amendments are conditionally operative; see Sec. 2 of the Resolution and Ord. 198-13.Res. 13-21810/17/13Dispatch Service Standards
-
-Sections Affected:
-1102, 1103, 1107 (Amended)198-1313067211/02/13Transportation Code - Disabled Parking Placard or License Plate Restrictions
+* The amendments are conditionally operative; see Sec. 2 of the Resolution and Ord. 198-13.198-1313067211/02/13Transportation Code - Disabled Parking Placard or License Plate Restrictions
 
 Sections Affected:
 7.2.44, 7.2.66 (Added) 

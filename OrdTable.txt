@@ -1017,7 +1017,7 @@ Sections Affected:
 Administrative Code:  16.703 (Amended)191-1313033608/07/13Settlement of Lawsuit - Rosemary Bosque - $49,505.70192-1313044908/07/13Settlement of Lawsuit - Jesse J. Byrd - $75,000193-1312096610/09/13Administrative Code - Healthy Food Retailer Incentives Program
 
 Sections Affected:
-Administrative Code:  Ch. 59, Secs. 59.1, 59.2, 59.3, 59.4, 59.5, 59.6, 59.7, 59.8, 59.9 (Added)194-1313070709/09/13Appropriation - FY2013-2014 Refunding Certificates of Participation - $241,014,548195-13130762Memorandum of Understanding, Amendment No. 5 - San Francisco Police Officers' Association (Units P-1 & P-2A)196-13130763Memorandum of Understanding, Amendment No. 5 - San Francisco Police Officers' Association (Unit P-2B)197-1313064611/02/13Planning Code - Mixed Use Office District
+Administrative Code:  Ch. 59, Secs. 59.1, 59.2, 59.3, 59.4, 59.5, 59.6, 59.7, 59.8, 59.9 (Added)194-1313070709/09/13Appropriation - FY2013-2014 Refunding Certificates of Participation - $241,014,548195-1313076210/03/13Memorandum of Understanding, Amendment No. 5 - San Francisco Police Officers' Association (Units P-1 & P-2A)196-1313076310/03/13Memorandum of Understanding, Amendment No. 5 - San Francisco Police Officers' Association (Unit P-2B)197-1313064611/02/13Planning Code - Mixed Use Office District
 
 Sections Affected:
 Planning Code:  842 (Amended)198-1313067211/02/13Transportation Code - Disabled Parking Placard or License Plate Restrictions
@@ -1026,11 +1026,30 @@ Sections Affected:
 Transportation Code:  7.2.44, 7.2.66 (Added)199-1313078211/02/13Building, Housing Codes - Mandatory Seismic Retrofit Program - Wood-Frame Buildings200-1313078611/02/13Fire Code - Repealing, Replacing, and Amending
 
 Sections Affected:
-Fire Code:  511.2 (Amended). Entire Code repealed and replaced January 1, 2014201-1313027611/02/13Business and Tax Regulations Code - Former Transfer Tax Review Board
+Fire Code:  511.2 (Amended); entire Code repealed and replaced, effective January 1, 2014201-1313027611/02/13Business and Tax Regulations Code - Former Transfer Tax Review Board
 
 Sections Affected:
-Business and Tax Regulations Code:  1111, 1115, 1115.1, 1115.3 (Amended); 1115.2 (Repealed)202-13130780Setting San Francisco's Property Tax Rate and Establishing Pass-Through Rate for Residential Tenants - FY2013-2014203-1313070611/02/13Administrative Code - Residential Rent Ordinance, Tenant Financial Hardship Applications for Relief from Landlord Passthrough of Capital Improvement Costs
+Business and Tax Regulations Code:  1111, 1115, 1115.1, 1115.3 (Amended); 1115.2 (Repealed)202-1313078011/02/13Setting San Francisco's Property Tax Rate and Establishing Pass-Through Rate for Residential Tenants - FY2013-2014203-1313070611/02/13Administrative Code - Residential Rent Ordinance, Tenant Financial Hardship Applications for Relief from Landlord Passthrough of Capital Improvement Costs
 
 Sections Affected:
-Administrative Code:  37.7 (Amended)
+Administrative Code:  37.7 (Amended)204-1313076411/07/13Administrative Code - Due Process for All Ordinance on Civil Immigration Detainers
+
+Sections Affected:
+Administrative Code:  Ch. 12I, Secs. 12I.1, 12I.2, 12I.3, 12I.4, 12I.5, 12I.6, 12I.7 (Added)205-1313078111/10/13Administrative Code - Special Tax Financing Law
+
+Sections Affected:
+Administrative Code:  43.10.26, 43.10.27 (Added); 43.10.15 (Amended)206-1313078411/10/13*Business and Tax Regulations Code - Miscellaneous Changes
+
+Sections Affected:
+Business and Tax Regulations Code:  6.6-1, 6.8-1, 6.9-1*, 6.9-3*, 6.9-4, 6.9-5, 6.9-6, 6.11-1, 6.11-2, 6.11-3, 6.17-2, 6.17-3, 6.21-1, 607, 859, 860, 905-A*, 906.3, 2219.6 (Amended)
+
+* Certain amendments to these sections are operative on 1/1/2014; see § 7(b) of the ordinance207-1313086110/11/13Appropriation - Municipal Transportation Agency 2013 Series Revenue Bond Proceeds - Transportation Capital Projects and Equipment - $165,000,000 - FY2013-2014208-1313076511/10/13Health Code - Alternate Water Sources for Non-Potable Applications
+
+Sections Affected:
+Health Code:  851, 854, 855 (Amended)209-1313078511/08/13
+
+[Oper. 01/01/14]Administrative Code - Family Friendly Workplace Ordinance
+
+Sections Affected:
+Administrative Code:  Ch. 12Z (Added)210-1313086311/10/13Eliminating Official Sidewalk Width - Renovation of Glen Canyon Park - Portion of Elk Street (Between Chenery and Sussex Streets)211-1313058111/10/13Appointment Process - Road Commissioner212-1313058210/11/13Appointment, Road Commissioner - Mohammed Nuru213-1313069610/11/13Settlement of Lawsuit - Jessica Orozco - $50,000214-1313069710/11/13Settlement of Lawsuit - Andrew Melomet - $40,000215-1313075710/11/13Settlement of Lawsuit - Joseph P. Cuviello, Deniz Bolbol, and Alex Felsinger - $180,000216-1313075810/11/13Settlement of Lawsuit - Ana Pichardo - $50,000217-1313075910/11/13Settlement of Lawsuit - Bank of America N.A. - $975,000218-1313080310/11/13Settlement of Lawsuit - Lloyd O'Neil - $185,000219-1313085410/11/13Settlement of Lawsuit - Erik Russell - $30,000220-1313085510/11/13Settlement of Lawsuit - E. Lynn Schoenmann - $160,000
 Ordinances that amend the Municipal Code and are not yet effective have their identifiying information highlighted in yellow. Changes made by those ordinances are not incorporated into the text of the Code until the amending ordinances are effective.

@@ -3,6 +3,8 @@ CITY AND COUNTY OF SAN FRANCISCO
 MUNICIPAL CODE
 
 HEALTH CODE
+ New Ordinance Notice
+Publisher's Note: This Code includes sections affected by new ordinances. Click here for a list of the new ordinances and the affected sections.
 The San Francisco Municipal Code is current through Ordinance 193-13, File No. 120966, approved September 9, 2013, effective October 9, 2013.
 The Health Code was last amended by Ordinance 172-13, File No. 130547, approved August 2, 2013, effective September 1, 2013.
 
@@ -2820,6 +2822,9 @@ SEC. 842.  SEVERABILITY.
 (Added by Ord. 113-05, File No. 050547, App. 6/10/2005)
 ARTICLE 12C:
 [ALTERNATE WATER SOURCES FOR NON-POTABLE APPLICATIONS]
+ New Ordinance Notice
+Publisher's Note: This Article includes sections affected by new ordinances. Click here for a list of all new ordinances affecting sections of this Code.
+
 Sec. 850.Purpose and Findings.Sec. 851.Definitions.Sec. 852.Applicability.Sec. 853.Regulation of Alternate Water Sources.Sec. 854.Project Applicant and/or Permittee Design and Construction Requirements.Sec. 855.Fees.Sec. 856.Operating Requirements.Sec. 857.Non-Potable Water Use Audits.Sec. 858.Sale or Transfer of Permits.Sec. 859.Inspection and Notices of Violation.Sec. 860.Violation and Penalties.Sec. 861.Revocation and Suspension of Permit.
 Editor's Note:
 	The bracketed title of this Article has been provided by the editor as an aid for the user and is not an official part of the Code.
@@ -2833,6 +2838,8 @@ SEC. 850.  PURPOSE AND FINDINGS.
 		(2)	Encouraging the use of non-potable water for non-potable applications.
 (Added by Ord. 195-12, File No. 120717, App. 9/17/2012, Eff. 10/17/2012)
 SEC. 851.  DEFINITIONS.
+ New Ordinance Notice
+Publisher's Note: This section has been AMENDED by a new ordinance (Ord. 208-13, approved 10/11/2013, effective 11/10/2013). The text of the amendment will be incorporated below when the new ordinance is effective.
 	The terms used in this Article have the meaning set forth below:
 	(a)	Alternate Water Source: a source of non-potable water that includes graywater, on-site treated non-potable water, rainwater, and any other source approved by the Director.
 	(b)	Black water: wastewater containing bodily or other biological wastes, as from toilets, dishwashers, kitchen sinks and utility sinks.
@@ -2870,6 +2877,8 @@ SEC. 853.  REGULATION OF ALTERNATE WATER SOURCES.
 	(d)	The Department of Building Inspection shall review plans and issue or deny plumbing permits for the construction, installation, or modification of alternate water source systems, in accordance with applicable laws and regulations.
 (Added by Ord. 195-12, File No. 120717, App. 9/17/2012, Eff. 10/17/2012)
 SEC. 854.  PROJECT APPLICANT AND/OR PERMITTEE DESIGN AND CONSTRUCTION REQUIREMENTS.
+ New Ordinance Notice
+Publisher's Note: This section has been AMENDED by a new ordinance (Ord. 208-13, approved 10/11/2013, effective 11/10/2013). The text of the amendment will be incorporated below when the new ordinance is effective.
 	(a)	Prior to initiating installation of any alternate water source project, project applicants shall submit to the Director an application for permits to operate alternate water source systems. Such applications shall comply with the requirements of this Article and any regulations the Director has issued. Project applicants shall pay a non-refundable permit application fee to cover the costs of investigation and processing the application and issuing the permit. Each project application submitted to the Director shall include a Non-Potable Engineering Report that provides project information the Director determines to be necessary for complete review of the proposed project. City departments may not approve or issue permits for any site installing an alternate water source system unless and until the Director has approved the Non-Potable Engineering Report.
 	(b)	System Design. All alternate water source systems shall include:
 		(1)	A flow meter on the alternate water source system to account for non-potable water use;
@@ -2882,6 +2891,8 @@ SEC. 854.  PROJECT APPLICANT AND/OR PERMITTEE DESIGN AND CONSTRUCTION REQUIREMEN
 	(e)	Construction Certification Letter. Project applicants shall certify to the Director that alternate water source system construction is complete and consistent with the approved Non-Potable Engineering Report in accordance with the provisions of this Article 12C and any implementing rules and regulations. City departments may not approve or issue a first certificate of occupancy or approval for any alternate water source system until the Director has reviewed and verified the Construction Certification Letter.
 (Added by Ord. 195-12, File No. 120717, App. 9/17/2012, Eff. 10/17/2012)
 SEC. 855.  FEES.
+ New Ordinance Notice
+Publisher's Note: This section has been AMENDED by a new ordinance (Ord. 208-13, approved 10/11/2013, effective 11/10/2013). The text of the amendment will be incorporated below when the new ordinance is effective.
 	(a)	The non-refundable application fees for alternative source water system permits are:
 		(1)	Rainwater			$1,544.00
 		(2)	NSF 350 systems		$2,688.00	
@@ -6957,4 +6968,7 @@ Sections Affected:
 New Ordinances
 Publisher's Note:  The following table lists all ordinances affecting the Health Code that have been passed by the Board of Supervisors but that are not yet effective. The table includes links to the amending ordinances (as maintained in PDF format on the Board of Supervisors' web site) and to the code sections affected. For other legislation, including older ordinances and those affecting other codes, please refer to the Comprehensive Ordinance Table or the Board's "Legislation Passed" web site.
 
-Ord. No.File No.Eff. DateShort Title and Code Sections Affected[None]
+Ord. No.File No.Eff. DateShort Title and Code Sections Affected208-1313076511/10/13Health Code - Alternate Water Sources for Non-Potable Applications
+
+Sections Affected:
+851, 854, 855 (Amended)

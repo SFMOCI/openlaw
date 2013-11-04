@@ -5,10 +5,8 @@ MUNICIPAL CODE
 FIRE CODE
  New Ordinance Notice
 Publisher's Note: The 2010 San Francisco Fire Code, as set forth below, is to be repealed in its entirety and replaced by the 2013 San Francisco Fire Code as of January 1, 2014. See Ord. 200-13, File No. 130786, approved October 3, 2013.
-	Additionally, Ord. 200-13 amends Sec. 511.2 of this Code, with the amended version of the section to be effective between November 2, 2013, and its repeal on January 1, 2014.
-
-The San Francisco Municipal Code is current through Ordinance 193-13, File No. 120966, approved September 9, 2013, effective October 9, 2013.
-The Fire Code was last amended by Ordinance 171-13, File No. 130546, approved August 2, 2013, effective September 1, 2013.
+The San Francisco Municipal Code is current through Ordinance 203-13, File No. 130706, approved October 3, 2013, effective November 2, 2013.
+The Fire Code was last amended by Ordinance 200-13, File No. 130786, approved October 3, 2013, effective November 2, 2013.
 
 
 AMERICAN LEGAL PUBLISHING CORPORATION
@@ -374,11 +372,11 @@ This section does not exist in the California Fire Code.
 	EXCEPTION: Buildings with multiple bank elevators that serve no more than 20 consecutive floors each, whereby firefighters may ascend the building in 20 floor intervals in separated hoistways. 
 	An elevator required under this Section shall be designed to divert water, smoke, and heat from the elevator shaft during fire conditions, and shall comply with San Francisco Fire Department Administrative Bulletin 5.08. 
 511.2  [For SF] Local standards for high-rise buildings and tunnels.
- New Ordinance Notice
-Publisher's Note: This section has been AMENDED by a new ordinance (Ord. 200-13, approved 10/3/2013, effective 11/2/2013). The text of the amendment will be incorporated below when the new ordinance is effective.
-	An approved air replenishment system shall be installed in all buildings having floors used for human occupancy located more than 75 feet (22 860 mm) above the lowest level of Fire Department vehicle access. This requirement shall apply for all buildings meeting this definition when the building permit application for construction was made after March 30, 2004. 
+	Except as stated in the next paragraph, an approved air replenishment system shall be installed in all buildings having floors used for human occupancy located more than 75 feet (22 860 mm) above the lowest level of Fire Department vehicle access. This requirement shall apply for all buildings meeting this definition when the building permit application for construction was made after March 30, 2004. 
+	Exception: All buildings that are covered by this section but that are equipped with a fire service access elevator pursuant to California Building Code section 3007 are not required to install an air replenishment system.
 	The air replenishment system will provide a means for firefighters to refill air bottles for self-contained breathing apparatus (SCBA) through a permanently installed piping distribution system. The system shall be tested and maintained in accordance with San Francisco Fire Department Administrative Bulletin 5.07. 
-	The air replenishment system shall be installed in all new underground transportation or pedestrian tunnels exceeding 300 feet (91 440 mm). 
+	The air replenishment system may be installed in all new underground transportation or pedestrian tunnels exceeding 300 feet (91 440 mm). 
+(Amended by Ord. 200-13, File No. 130786, App. 10/3/2013, Eff. 11/2/2013)
 CHAPTER 6
 BUILDING SERVICES AND SYSTEMS
 [Repealed as of 1/1/2014]*
@@ -591,13 +589,16 @@ Sections Affected:
 503.4 (Amended)171-1313054609/01/13Fire Code - San Francisco Fire Department Fines and Fees 
 
 Sections Affected:
-113.5, 113.6, 113.7, 113.9, 113.10, 113.12, 113.21 (Amended) 
+113.5, 113.6, 113.7, 113.9, 113.10, 113.12, 113.21 (Amended)200-1313078611/02/13Fire Code - Repealing, Replacing, and Amending
+
+Sections Affected:
+511.2 (Amended) 
 New Ordinances
 Publisher's Note:  The following table lists all ordinances affecting the Fire Code that have been passed by the Board of Supervisors but that are not yet effective. The table includes links to the amending ordinances (as maintained in PDF format on the Board of Supervisors' web site) and to the code sections affected. For other legislation, including older ordinances and those affecting other codes, please refer to the Comprehensive Ordinance Table or the Board's "Legislation Passed" web site.
 
 Ord. No.File No.Eff. DateShort Title and Code Sections Affected200-1313078611/02/13
 
-Fire Code - Repealing, Replacing, and Amending
+[Oper. 01/01/14]Fire Code - Repealing, Replacing, and Amending
 
 Sections Affected:
-511.2 (Amended). Entire Code repealed and replaced January 1, 2014
+Entire Code repealed and replaced

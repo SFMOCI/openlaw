@@ -17,5 +17,5 @@ function getParameterByName(name) {
 }
 
 function redirect() {
-    window.location = "http://" + getParameterByName("redirect");
+    window.location = getParameterByName("redirect");
 }

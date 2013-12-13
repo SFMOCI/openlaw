@@ -3,10 +3,8 @@ CITY AND COUNTY OF SAN FRANCISCO
 MUNICIPAL CODE
 
 HEALTH CODE
- New Ordinance Notice
-Publisher's Note: This Code includes sections affected by new ordinances. Click here for a list of the new ordinances and the affected sections.
-The San Francisco Municipal Code is current through Ordinance 203-13, File No. 130706, approved October 3, 2013, effective November 2, 2013.
-The Health Code was last amended by Ordinance 172-13, File No. 130547, approved August 2, 2013, effective September 1, 2013.
+The San Francisco Municipal Code is current through Ordinance 209-13, File No. 130785, approved October 9, 2013, effective November 8, 2013, operative January 1, 2014.
+The Health Code was last amended by Ordinance 208-13, File No. 130765, approved October 11, 2013, effective November 10, 2013.
 
 
 AMERICAN LEGAL PUBLISHING CORPORATION
@@ -2821,13 +2819,8 @@ SEC. 842.  SEVERABILITY.
 	If any section, subsection, sentence, clause, or phrase of this Article is for any reason held to be invalid or unconstitutional by a decision of any court of competent jurisdiction, such decision shall not affect the validity of the remaining portions of the Article. The Board of Supervisors hereby declares that it would have passed this Article and each and every section, subsection, sentence, clause, or phrase not declared invalid or unconstitutional without regard to whether any portion of the Article would be subsequently declared invalid or unconstitutional. 
 (Added by Ord. 113-05, File No. 050547, App. 6/10/2005)
 ARTICLE 12C:
-[ALTERNATE WATER SOURCES FOR NON-POTABLE APPLICATIONS]
- New Ordinance Notice
-Publisher's Note: This Article includes sections affected by new ordinances. Click here for a list of all new ordinances affecting sections of this Code.
-
-Sec. 850.Purpose and Findings.Sec. 851.Definitions.Sec. 852.Applicability.Sec. 853.Regulation of Alternate Water Sources.Sec. 854.Project Applicant and/or Permittee Design and Construction Requirements.Sec. 855.Fees.Sec. 856.Operating Requirements.Sec. 857.Non-Potable Water Use Audits.Sec. 858.Sale or Transfer of Permits.Sec. 859.Inspection and Notices of Violation.Sec. 860.Violation and Penalties.Sec. 861.Revocation and Suspension of Permit.
-Editor's Note:
-	The bracketed title of this Article has been provided by the editor as an aid for the user and is not an official part of the Code.
+ALTERNATE WATER SOURCES FOR NON-POTABLE APPLICATIONS
+Sec. 850.Purpose and Findings.Sec. 851.Definitions.Sec. 852.Applicability.Sec. 853.Regulation of Alternate Water Sources.Sec. 854.Project Applicant and/or Permittee Design and Construction Requirements.Sec. 855.Fees.Sec. 856.Operating Requirements.Sec. 857.Non-potable Water Use Audits.Sec. 858.Sale or Transfer of Permits.Sec. 859.Inspection and Notices of Violation.Sec. 860.Violation and Penalties.Sec. 861.Revocation and Suspension of Permit.
 SEC. 850.  PURPOSE AND FINDINGS.
 	The Board of Supervisors finds that:
 	(a)	All California water users are responsible for making effective use of the available water resources.
@@ -2838,29 +2831,28 @@ SEC. 850.  PURPOSE AND FINDINGS.
 		(2)	Encouraging the use of non-potable water for non-potable applications.
 (Added by Ord. 195-12, File No. 120717, App. 9/17/2012, Eff. 10/17/2012)
 SEC. 851.  DEFINITIONS.
- New Ordinance Notice
-Publisher's Note: This section has been AMENDED by a new ordinance (Ord. 208-13, approved 10/11/2013, effective 11/10/2013). The text of the amendment will be incorporated below when the new ordinance is effective.
 	The terms used in this Article have the meaning set forth below:
-	(a)	Alternate Water Source: a source of non-potable water that includes graywater, on-site treated non-potable water, rainwater, and any other source approved by the Director.
-	(b)	Black water: wastewater containing bodily or other biological wastes, as from toilets, dishwashers, kitchen sinks and utility sinks.
-	(c)	City: the City and County of San Francisco.
-	(d)	Director: the Director of Public Health or any individual designated by the Director to act on his or her behalf.
-	(e)	First certificate of occupancy: either a temporary certificate of occupancy or a Certificate of Final Completion and Occupancy as defined in San Francisco Building Code Section 109A, whichever is issued first.
-	(f)	Foundation Drainage: nuisance groundwater that is extracted to maintain a building's or facility's structural integrity and would otherwise be discharged to the City's sewer system. Foundation drainage does not include non-potable groundwater extracted for a beneficial use that is subject to City groundwater well regulations.
-	(g)	General Manager: the General Manager of the San Francisco Public Utilities Commission, or any individual designated by the General Manager to act on his or her behalf.
-	(h)	Graywater: untreated wastewater that has not been contaminated by any toilet discharge, has not been affected by infectious, contaminated, or unhealthy bodily wastes, and does not present a threat from contamination by unhealthful processing, manufacturing, or operating wastes. "Graywater" includes, but is not limited to, wastewater from bathtubs, showers, bathroom sinks, lavatories, clothes washing machines, and laundry tubs, but does not include wastewater from kitchen sinks or dishwashers.
-	(i)	Multi-Family Residential Building: A building that contains three or more dwelling units.
-	(j)	Non-potable Water Engineering Report: Report submitted by project applicant to the Director describing the alternate water source system in accordance with the rules and regulations adopted by the Department of Public Health.
-	(k)	Non-residential: A building that contains occupancies other than dwelling units. 
-	(l)	On-Site Treated Non-Potable Water: Non-potable water collected from alternate water sources, treated, and intended to be used on the Project Applicant's site and is suitable for direct beneficial use.
-	(m)	NSF 350 System: Any treatment system certified by NSF International to meet NSF/ANSI Standard 350 for Onsite Residential and Commercial Reuse Treatment Systems, as amended from time to time.
-	(n)	Permittee: owner or operator of an on-site treated non-potable water system. 
-	(o)	Project Applicant: the person or entity applying for authorization to install and use an alternate water source project.
-	(p)	Rainwater: precipitation collected from roof surfaces or other manmade, aboveground collection surfaces.
-	(q)	Small Residential Building: A building that contains no more than two dwelling units.
-	(r)	Stormwater: Precipitation collected from at-grade or below grade surfaces.
-	(s)	Water Budget Documentation: An in-depth assessment of the permittee's non-potable water use, including survey information, water meter readings, water service billing information, and any other information deemed necessary by the General Manager.
-(Added by Ord. 195-12, File No. 120717, App. 9/17/2012, Eff. 10/17/2012)
+	Alternate Water Source: a source of non-potable water that includes graywater, on-site treated non-potable water, rainwater, and any other source approved by the Director.
+	Black water: wastewater containing bodily or other biological wastes, as from toilets, dishwashers, kitchen sinks and utility sinks.
+	City: the City and County of San Francisco.
+	Director: the Director of Public Health or any individual designated by the Director to act on his or her behalf.
+	District: a group of two or more parcels that share alternate water sources.
+	First certificate of occupancy: either a temporary certificate of occupancy or a Certificate of Final Completion and Occupancy as defined in San Francisco Building Code Section 109A, whichever is issued first.
+	Foundation Drainage: nuisance groundwater that is extracted to maintain a building's or facility's structural integrity and would otherwise be discharged to the City's sewer system. Foundation drainage does not include non-potable groundwater extracted for a beneficial use that is subject to City groundwater well regulations.
+	General Manager: the General Manager of the San Francisco Public Utilities Commission, or any individual designated by the General Manager to act on his or her behalf.
+	Graywater: untreated wastewater that has not been contaminated by any toilet discharge, has not been affected by infectious, contaminated, or unhealthy bodily wastes, and does not present a threat from contamination by unhealthful processing, manufacturing, or operating wastes. "Graywater" includes, but is not limited to, wastewater from bathtubs, showers, bathroom sinks, lavatories, clothes washing machines, and laundry tubs, but does not include wastewater from kitchen sinks or dishwashers.
+	Multi-Family Residential Building: A building that contains three or more dwelling units.
+	Non-potable Water: Non-potable water collected from alternate water sources, treated, and intended to be used on the Project Applicant's site or district parcels and is suitable for direct beneficial use.
+	Non-potable Water Engineering Report: Report submitted by project applicant to the Director describing the alternate water source system in accordance with the rules and regulations adopted by the Department of Public Health.
+	Non-residential: A building that contains occupancies other than dwelling units. 
+	NSF 350 System: Any treatment system certified by NSF International to meet NSF/ANSI Standard 350 for Onsite Residential and Commercial Reuse Treatment Systems, as amended from time to time.
+	Permittee: owner or operator of an on-site treated non-potable water system. 
+	Project Applicant: the person or entity applying for authorization to install and use an alternate water source project.
+	Rainwater: precipitation collected from roof surfaces or other manmade, aboveground collection surfaces.
+	Small Residential Building: A building that contains no more than two dwelling units.
+	Stormwater: Precipitation collected from at-grade or below grade surfaces.
+	Water Budget Documentation: An in-depth assessment of the project applicant's non-potable water use, including survey information, water meter readings, water service billing information, alternate water source schematic drawings, or any other information deemed necessary by the General Manager.
+(Added by Ord. 195-12, File No. 120717, App. 9/17/2012, Eff. 10/17/2012; amended by Ord. 208-13, File No. 130765, App. 10/11/2013, Eff. 11/10/2013)
 SEC. 852.  APPLICABILITY.
 	This Article shall apply to the installation and operation of the alternate water source systems at sites containing multi-family and non-residential buildings. This Article does not apply to:
 	(a)	Systems at small residential occupancies.
@@ -2877,35 +2869,28 @@ SEC. 853.  REGULATION OF ALTERNATE WATER SOURCES.
 	(d)	The Department of Building Inspection shall review plans and issue or deny plumbing permits for the construction, installation, or modification of alternate water source systems, in accordance with applicable laws and regulations.
 (Added by Ord. 195-12, File No. 120717, App. 9/17/2012, Eff. 10/17/2012)
 SEC. 854.  PROJECT APPLICANT AND/OR PERMITTEE DESIGN AND CONSTRUCTION REQUIREMENTS.
- New Ordinance Notice
-Publisher's Note: This section has been AMENDED by a new ordinance (Ord. 208-13, approved 10/11/2013, effective 11/10/2013). The text of the amendment will be incorporated below when the new ordinance is effective.
-	(a)	Prior to initiating installation of any alternate water source project, project applicants shall submit to the Director an application for permits to operate alternate water source systems. Such applications shall comply with the requirements of this Article and any regulations the Director has issued. Project applicants shall pay a non-refundable permit application fee to cover the costs of investigation and processing the application and issuing the permit. Each project application submitted to the Director shall include a Non-Potable Engineering Report that provides project information the Director determines to be necessary for complete review of the proposed project. City departments may not approve or issue permits for any site installing an alternate water source system unless and until the Director has approved the Non-Potable Engineering Report.
-	(b)	System Design. All alternate water source systems shall include:
-		(1)	A flow meter on the alternate water source system to account for non-potable water use;
+	(a)	Prior to initiating installation of any alternate water source project, project applicants shall submit to the Director an application for permits to operate alternate water source systems. Such applications shall comply with the requirements of this Article and any regulations the Director has issued. Project applicants shall pay a non-refundable permit application fee to cover the costs of investigation and processing the application and issuing the permit. Each project application submitted to the Director shall include a Non-potable Water Engineering Report that provides project information the Director determines to be necessary for complete review of the proposed project. City departments may not approve or issue permits for any site installing an alternate water source system unless and until the Director has approved the Non-potable Water Engineering Report.
+	The Non-potable Water Engineering Report for district systems must include information on the permanent legal agreements between property owners, and provide documentation that each party is a willing and responsible participant in the district non-potable water use.
+	(b)	System Design. All buildings using non-potable water from alternate water source systems shall include:
+		(1)	A flow meter on the non-potable distribution system to account for non-potable water use;
 		(2)	A reduced pressure backflow assembly (RP) within 25 feet of the downstream side of the point of connection or meter to protect the City's public water and/or recycled water system;
 		(3)	Signage that state law and the Department of Public Health's rules and regulations require;
 		(4)	Cross connection control in accordance with California Code of Regulations Titles 17 and 22 and the San Francisco Public Utilities Commission's Cross Connection Control Program;
-		(5)	Any other requirements the Director determines is necessary to protect public health.
-	(c)	Water Budget Documentation. Upon submitting a project application to the Director, a project applicant shall also submit Water Budget Documentation to the General Manager for review. Water Budget Documentation shall include a description of the proposed alternate water source system, the project's water budget, and other applicable information as determined by the General Manager. City departments may not issue a site permit or plumbing permit, or approve an alternate water source project application unless and until the General Manager has reviewed the Water Budget Documentation.
-	(d)	Plumbing Permit. A project applicant shall obtain from the Department of Building Inspection an appropriate plumbing permit and any other building or installation permit required to construct, install, alter, an alternate water source system.
-	(e)	Construction Certification Letter. Project applicants shall certify to the Director that alternate water source system construction is complete and consistent with the approved Non-Potable Engineering Report in accordance with the provisions of this Article 12C and any implementing rules and regulations. City departments may not approve or issue a first certificate of occupancy or approval for any alternate water source system until the Director has reviewed and verified the Construction Certification Letter.
-(Added by Ord. 195-12, File No. 120717, App. 9/17/2012, Eff. 10/17/2012)
+		(5)	Any other requirements the Director determines are necessary to protect public health.
+	(c)	Water Budget Documentation. Upon submitting a project application to the Director, a project applicant shall also submit Water Budget Documentation to the General Manager for review. Water Budget Documentation shall include a description and location of the proposed alternate water source system, the project's water budget, and other applicable information as determined by the General Manager. City departments may not issue an encroachment permit, a site permit or plumbing permit, or approve a Non-potable Water Engineering Report unless and until the General Manager has reviewed the Water Budget Documentation.
+	(d)	Plumbing Permit. A project applicant shall obtain from the Department of Building Inspection an appropriate plumbing permit and any other building or installation permit required to construct, install, alter, an alternate water source system. Each parcel within a district shall obtain appropriate plumbing and any other building or installation permits required.
+	(e)	Encroachment Permit. A project applicant shall obtain from the Department of Public Works appropriate authorization for placement of any pipelines or other portions of an alternate water source system within the public right-of-way.
+	(f)	Construction Certification Letter. Project applicants shall certify to the Director that alternate water source system construction is complete and consistent with the approved Non-potable Water Engineering Report in accordance with the provisions of this Article 12C and any implementing rules and regulations. City departments may not approve or issue a first certificate of occupancy or approval for any alternate water source system until the Director has reviewed and verified the Construction Certification Letter.
+(Added by Ord. 195-12, File No. 120717, App. 9/17/2012, Eff. 10/17/2012; amended by Ord. 208-13, File No. 130765, App. 10/11/2013, Eff. 11/10/2013)
 SEC. 855.  FEES.
- New Ordinance Notice
-Publisher's Note: This section has been AMENDED by a new ordinance (Ord. 208-13, approved 10/11/2013, effective 11/10/2013). The text of the amendment will be incorporated below when the new ordinance is effective.
 	(a)	The non-refundable application fees for alternative source water system permits are:
-		(1)	Rainwater			$1,544.00
-		(2)	NSF 350 systems		$2,688.00	
-		(3)	Foundation Drainage		$5,032.00
-		(4)	Graywater			$5,032.00
-		(5)	Black water			$9,034.00
-		(6)	Transfer of any permit	$ 229.00
+(1)Rainwater$1,544.00(2)NSF 350 systems$2,688.00(3)Foundation Drainage$5,032.00(4)Graywater$5,032.00(5)Black water$9,034.00(6)Transfer of any permit$229.00(7)District Scale, the applicable amount above, plus$191.00 per hour for plan review and/or on site inspection.
 	(b)	The fees set forth in this Section may be adjusted each year, without further action by the Board of Supervisors.
 		Not later than April 1, the Director shall report to the Controller the revenues generated by the fees for the prior fiscal year and the prior fiscal year's costs of operation, as well as any other information that the Controller determines appropriate to the performance of the duties set forth in this Section.
-		Not later than May 15, the Controller shall determine whether the current fees produce, or are projected to produce, revenues sufficient to support the costs of providing the services for which the fees are assessed and that the fees will not produce revenue significantly exceed more than the costs of providing the services for which the fees are assessed. 
+		Not later than May 15, the Controller shall determine whether the current fees produce, or are projected to produce, revenues sufficient to support the costs of providing the services for which the fees are assessed and that the fees will not produce revenue that significantly exceed more than the costs of providing the services for which the fees are assessed. 
 		The Controller shall if necessary, adjust the fees upward or downward for the upcoming fiscal year as appropriate to ensure that the program recovers the costs of operation without producing revenue which is significantly more than such costs. The adjusted rates shall become operative on July 1.
 	(c)	Every permit holder shall also pay an annual license fee as provided in the Business and Taxation Code Section 249.24.
-(Added by Ord. 195-12, File No. 120717, App. 9/17/2012, Eff. 10/17/2012)
+(Added by Ord. 195-12, File No. 120717, App. 9/17/2012, Eff. 10/17/2012; amended by Ord. 208-13, File No. 130765, App. 10/11/2013, Eff. 11/10/2013)
 SEC. 856.  OPERATING REQUIREMENTS.
 	When the Director determines the applicant has satisfied all the requirements of this Article, the Director may issue an operations permit for an alternative water source system. Permittees shall timely submit all water quality monitoring information required by the provisions of this Article 12C and the Department of Public Health's rules and regulations. Permittees shall conduct ongoing backflow prevention and cross connection testing in accordance with this Article, the rules and regulations of the Department of Public Health, and all applicable local, state, and federal laws.
 (Added by Ord. 195-12, File No. 120717, App. 9/17/2012, Eff. 10/17/2012)
@@ -2929,6 +2914,7 @@ SEC. 861.  REVOCATION AND SUSPENSION OF PERMIT.
 	(b)	The alternate water source system is being operated or maintained in a manner threatening the public health or health of patrons and/or residents; or
 	(c)	The owner or operator has refused to allow any duly authorized City official to inspect the premises or the operations of the alternate water source system.
 (Added by Ord. 195-12, File No. 120717, App. 9/17/2012, Eff. 10/17/2012)
+
 ARTICLE 13:
 [RESERVED]
 

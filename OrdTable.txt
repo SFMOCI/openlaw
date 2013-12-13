@@ -978,7 +978,7 @@ Sections Affected:
 Health Code:  128 (Amended)173-1313054809/01/13Park Code - Various Fees 
 
 Sections Affected:
-ParkCode:  12.11, 12.21, 12.46 (Amended); 12.26, 12.31 (Repealed)174-1313055009/01/13Police Code - Street Artist Certificate Fee 
+Park Code:  12.11, 12.21, 12.46 (Amended); 12.26, 12.31 (Repealed)174-1313055009/01/13Police Code - Street Artist Certificate Fee 
 
 Sections Affected:
 Police Code:  2404.1 (Amended)175-1313055109/01/13Police Code - Police Emergency Alarm Ordinance
@@ -1007,7 +1007,7 @@ Administrative Code:  31.08 (Amended)
 * See § 4 of the Ordinance regarding its conditional Operative Date.182-1313052709/07/13General Plan - San Francisco Bicycle Transportation Plan183-1313052809/06/13Planning, Environment Codes - Bicycle Parking Standards; In Lieu Fee 
 
 Sections Affected:
-EnvironmentCode:  402 (Amended)
+Environment Code:  402 (Amended)
 Planning Code:  430.1, 431 (Added); 150, 153, 155.1, 155.2, 155.3, 155.4, 157.1, 249.46, 305, 307, 430 (Amended); 155.5 (Repealed)184-1313046009/06/13Administrative Code - Airport Facilities Naming Advisory Committee 
 
 Sections Affected:
@@ -1023,7 +1023,11 @@ Sections Affected:
 Planning Code:  842 (Amended)198-1313067211/02/13Transportation Code - Disabled Parking Placard or License Plate Restrictions
 
 Sections Affected:
-Transportation Code:  7.2.44, 7.2.66 (Added)199-1313078211/02/13Building, Housing Codes - Mandatory Seismic Retrofit Program - Wood-Frame Buildings200-1313078611/02/13Fire Code - Repealing, Replacing, and Amending
+Transportation Code:  7.2.44, 7.2.66 (Added)199-1313078211/02/13Building, Housing Codes - Mandatory Seismic Retrofit Program - Wood-Frame Buildings
+
+Sections Affected:
+Building Code:  105A, 3404, 3406B (Amended)
+Housing Code:  351 (Amended)200-1313078611/02/13Fire Code - Repealing, Replacing, and Amending
 
 Sections Affected:
 Fire Code:  511.2 (Amended); entire Code repealed and replaced, effective January 1, 2014201-1313027611/02/13Business and Tax Regulations Code - Former Transfer Tax Review Board
@@ -1032,7 +1036,7 @@ Sections Affected:
 Business and Tax Regulations Code:  1111, 1115, 1115.1, 1115.3 (Amended); 1115.2 (Repealed)202-1313078011/02/13Setting San Francisco's Property Tax Rate and Establishing Pass-Through Rate for Residential Tenants - FY2013-2014203-1313070611/02/13Administrative Code - Residential Rent Ordinance, Tenant Financial Hardship Applications for Relief from Landlord Passthrough of Capital Improvement Costs
 
 Sections Affected:
-Administrative Code:  37.7 (Amended)204-1313076411/07/13Administrative Code - Due Process for All Ordinance on Civil Immigration Detainers
+Administrative Code:  37.7 (Amended)204-1313076411/07/13Administrative Code - Due Process Ordinance for All on Civil Immigration Detainers
 
 Sections Affected:
 Administrative Code:  Ch. 12I, Secs. 12I.1, 12I.2, 12I.3, 12I.4, 12I.5, 12I.6, 12I.7 (Added)205-1313078111/10/13Administrative Code - Special Tax Financing Law
@@ -1043,7 +1047,7 @@ Administrative Code:  43.10.26, 43.10.27 (Added); 43.10.15 (Amended)206-13130784
 Sections Affected:
 Business and Tax Regulations Code:  6.6-1, 6.8-1, 6.9-1*, 6.9-3*, 6.9-4, 6.9-5, 6.9-6, 6.11-1, 6.11-2, 6.11-3, 6.17-2, 6.17-3, 6.21-1, 607, 859, 860, 905-A*, 906.3, 2219.6 (Amended)
 
-* Certain amendments to these sections are operative on 1/1/2014; see § 7(b) of the ordinance207-1313086110/11/13Appropriation - Municipal Transportation Agency 2013 Series Revenue Bond Proceeds - Transportation Capital Projects and Equipment - $165,000,000 - FY2013-2014208-1313076511/10/13Health Code - Alternate Water Sources for Non-Potable Applications
+* Amendments to these sections are operative on 1/1/2014; see § 7(b) of the ordinance207-1313086110/11/13Appropriation - Municipal Transportation Agency 2013 Series Revenue Bond Proceeds - Transportation Capital Projects and Equipment - $165,000,000 - FY2013-2014208-1313076511/10/13Health Code - Alternate Water Sources for Non-Potable Applications
 
 Sections Affected:
 Health Code:  851, 854, 855 (Amended)209-1313078511/08/13
@@ -1051,5 +1055,9 @@ Health Code:  851, 854, 855 (Amended)209-1313078511/08/13
 [Oper. 01/01/14]Administrative Code - Family Friendly Workplace Ordinance
 
 Sections Affected:
-Administrative Code:  Ch. 12Z (Added)210-1313086311/10/13Eliminating Official Sidewalk Width - Renovation of Glen Canyon Park - Portion of Elk Street (Between Chenery and Sussex Streets)211-1313058111/10/13Appointment Process - Road Commissioner212-1313058210/11/13Appointment, Road Commissioner - Mohammed Nuru213-1313069610/11/13Settlement of Lawsuit - Jessica Orozco - $50,000214-1313069710/11/13Settlement of Lawsuit - Andrew Melomet - $40,000215-1313075710/11/13Settlement of Lawsuit - Joseph P. Cuviello, Deniz Bolbol, and Alex Felsinger - $180,000216-1313075810/11/13Settlement of Lawsuit - Ana Pichardo - $50,000217-1313075910/11/13Settlement of Lawsuit - Bank of America N.A. - $975,000218-1313080310/11/13Settlement of Lawsuit - Lloyd O'Neil - $185,000219-1313085410/11/13Settlement of Lawsuit - Erik Russell - $30,000220-1313085510/11/13Settlement of Lawsuit - E. Lynn Schoenmann - $160,000
+Administrative Code:  Ch. 12Z, Secs. 12Z.1, 12Z.2, 12Z.3, 12Z.4, 12Z.5, 12Z.6, 12Z.7, 12Z.8, 12Z.9, 12Z.10, 12Z.11, 12Z.12, 12Z.13, 12Z.14, 12Z.15, 12Z.16, 12Z.17, 12Z.18 (Added)210-1313086311/10/13Eliminating Official Sidewalk Width - Renovation of Glen Canyon Park - Portion of Elk Street (Between Chenery and Sussex Streets)211-1313058111/10/13Appointment Process - Road Commissioner212-1313058210/11/13Appointment, Road Commissioner - Mohammed Nuru213-1313069610/11/13Settlement of Lawsuit - Jessica Orozco - $50,000214-1313069710/11/13Settlement of Lawsuit - Andrew Melomet - $40,000215-1313075710/11/13Settlement of Lawsuit - Joseph P. Cuviello, Deniz Bolbol, and Alex Felsinger - $180,000216-1313075810/11/13Settlement of Lawsuit - Ana Pichardo - $50,000217-1313075910/11/13Settlement of Lawsuit - Bank of America N.A. - $975,000218-1313080310/11/13Settlement of Lawsuit - Lloyd O'Neil - $185,000219-1313085410/11/13Settlement of Lawsuit - Erik Russell - $30,000220-1313085510/11/13Settlement of Lawsuit - E. Lynn Schoenmann - $160,000221-1313079012/01/13Business and Tax Regulations, Police Codes - Renting Parking Spaces at Residential Properties to Non-Residents
+
+Sections Affected:
+Business and Tax Regulations Code:  609 (Amended)
+Police Code:  1215 (Amended)222-1313088311/01/13Appropriation - Certificates of Participation - Utility Infrastructure System - Treasure Island - $13,500,000 - FY2013-2014
 Ordinances that amend the Municipal Code and are not yet effective have their identifiying information highlighted in yellow. Changes made by those ordinances are not incorporated into the text of the Code until the amending ordinances are effective.

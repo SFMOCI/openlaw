@@ -1078,5 +1078,35 @@ Sections Affected:
 Park Code:  12.12.1 (Amended)253-1313067312/14/13Naming a Portion of the Carolina Street Stairway as Jack Balestreri Way - Carolina and 20th Street254-1313083612/14/13Building Code - Repeal of Existing 2010 Code and Enactment of 2013 Edition255-1313083712/14/13Building Code - Residential Building Requirements256-1313083812/14/13Electrical Code - Repeal of Existing 2010 Code and Enactment of 2013 Edition257-1313083912/14/13Mechanical Code - Repeal of Existing 2010 Code and Enactment of 2013 Edition258-1313084012/14/13Plumbing Code - Repeal of Existing 2010 Code and Enactment of 2013 Edition259-1313084112/14/13Green Building Code - Enactment of New Code260-1313081412/14/13Public Works Code - Control of Construction Site Runoff
 
 Sections Affected:
-Public Works Code:  146, 146.1, 146.2, 146.3, 146.4, 146.5, 146.6, 146.7, 146.8, 146.9, 146.10, 146.11 (Added)
+Public Works Code:  146, 146.1, 146.2, 146.3, 146.4, 146.5, 146.6, 146.7, 146.8, 146.9, 146.10, 146.11 (Added)261-1313008412/27/13Planning Code, Zoning Map - Establishing the Excelsior Outer Mission Street Neighborhood Commercial District
+
+Sections Affected:
+Planning Code:  745.1 (Added); 201, 207.4, 249.35, 263.20, 607.1, 702.1, 702.3 (Amended); 785 (Repealed)
+Zoning Map:  ZN08 (Amended)262-1313040012/27/13Health Code - Massage Practitioners
+
+Sections Affected:
+Health Code:  29.1, 29.2, 29.3, 29.4, 29.5, 29.6, 29.7, 29.8, 29.9, 29.10, 29.11, 29.12, 29.13, 29.14, 29.15, 29.16, 29.17, 29.18, 29.19, 29.20, 29.21, 29.22, 29.23, 29.24, 29.25, 29.26, 29.27, 29.28, 29.29, 29.30, 29.31, 29.32 (Added); 1900, 1901, 1902, 1903, 1904, 1905, 1906, 1907, 1908, 1909, 1910, 1912, 1913, 1915, 1916, 1917, 1918, 1919, 1920, 1921, 1922, 1923, 1925, 1926, 1927, 1928, 1928.1, 1928.2, 1929, 1930, 1931 (Amended and/or Renumbered); 1911, 1914, 1924 (Repealed)263-1313054912/27/13Planning Code - Controller's Reports
+
+Sections Affected:
+Planning Code:  409, 413.6, 415.5, 418.5, 418.7, 420.6, 421.5, 422.5, 423.5, 424.5 (Amended)264-1313073412/27/13Administrative Code - Planning Commission Review of Medical Cannabis Dispensary Location Regulations
+
+Sections Affected:
+Administrative Code:  2A.54 (Added)265-1313076612/27/13Park Code - Hours of Operation for City Parks
+
+Sections Affected:
+Park Code:  3.21 (Added); 3.03 (Amended)266-1313078912/27/13Health Code - Licensing and Regulations of Massage Establishments and Practitioners
+
+Sections Affected:
+Health Code:  29.6, 29.11, 29.12, 29.27 (Amended)267-1313079912/27/13Administrative Code - Airport Capital Improvement Promotion and Event Fund
+
+Sections Affected:
+Administrative Code:  10.100-18 (Amended)268-1313093712/27/13Administrative Code - Film Production Daily Use Fees; Film Rebate Program
+
+Sections Affected:
+Administrative Code:  57.5, 57.8 (Amended)269-1313079712/27/13Contract Amendment - Dominion Voting Systems, Inc. - Not to Exceed $19,690,933.25270-1313086012/27/13Appropriation - Parking Garage Revenue and Expenditure - $13,786,681 - FY2013-2014271-1313103112/27/13
+
+[Oper. 01/01/14]Business and Tax Regulations Code - Business Tax Installment Payments; Combined Reporting; Special Assessments
+
+Sections Affected:
+Business and Tax Regulations Code:  6.1-1, 6.2-17, 6.6-1, 6.9-3, 6.9-5, 6.17-1, 6.17-2, 6.17-3, 6.21-1, 907, 956.3 (Amended)272-1313095511/27/13Settlement of Administrative Enforcement Action - San Francisco Bay Regional Water Quality Control Board - $608,310273-1313095611/27/13Settlement of Lawsuit - Carlos Hutcherson, et al. - $125,000274-1313101311/27/13Settlement of Lawsuits - Zeno Zimmerman - $145,000275-1313101411/27/13Settlement of Lawsuit - Calkin, et al. - $862,500276-1313103311/27/13California Code of Civil Procedure, Section 998 - Offer to Compromise to Defendants - Anshen and Allen, Architects Inc.
 Ordinances that amend the Municipal Code and are not yet effective have their identifiying information highlighted in yellow. Changes made by those ordinances are not incorporated into the text of the Code until the amending ordinances are effective.

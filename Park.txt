@@ -96,7 +96,7 @@ Editor's Note:
 	This section was amended by Ord. 103-13. Section 6(b) of that ordinance provides that "[t]his Ordinance shall become operative only upon approval by the Board of Supervisors of the resolutions referenced in Section 3 of this Ordinance on file with the Clerk of the Board of Supervisors in File No. 130384 and File No. 130385." Those resolutions, under the numbers 160-13 and 161-13, were adopted by the Board of Supervisors on May 21, 2013.
 ARTICLE 3:
 REGULATIONS
-Sec. 3.01.Rules of Park Commission to Be Obeyed.Sec. 3.02.Signs To Be Obeyed.Sec. 3.03.Public May Be Excluded.Sec. 3.04.Bridle Paths.Sec. 3.05.Athletic Activities Prohibited in Certain Areas.Sec. 3.06.Launching Boats Prohibited. Sec. 3.07.Restrictions on Posting of Signs. Sec. 3.08.Personal Services. Sec. 3.09.Airplanes, Helicopters, Hot Air Balloons, etc. Prohibited. Sec. 3.10.Peddling and Vending Merchandise or Printed Material. Sec. 3.12.Camping Prohibited. Sec. 3.13.Sleeping Prohibited During Certain Hours. Sec. 3.14.Performance of Labor. Sec. 3.15.Building Materials. Sec. 3.16.Ground To Be Restored to Condition.Sec. 3.17.Warning Signals at Danger Points.Sec. 3.18.Periodic Assessment of City Parks and City Recreation Programs.Sec. 3.19.Water Use Efficiency and Recycled Water.Sec. 3.20.Sharp Park.
+Sec. 3.01.Rules of Park Commission to Be Obeyed.Sec. 3.02.Signs To Be Obeyed.Sec. 3.03.Public May Be Excluded.Sec. 3.04.Bridle Paths.Sec. 3.05.Athletic Activities Prohibited in Certain Areas.Sec. 3.06.Launching Boats Prohibited. Sec. 3.07.Restrictions on Posting of Signs. Sec. 3.08.Personal Services. Sec. 3.09.Airplanes, Helicopters, Hot Air Balloons, etc. Prohibited. Sec. 3.10.Peddling and Vending Merchandise or Printed Material. Sec. 3.12.Camping Prohibited. Sec. 3.13.Sleeping Prohibited During Certain Hours. Sec. 3.14.Performance of Labor. Sec. 3.15.Building Materials. Sec. 3.16.Ground To Be Restored to Condition.Sec. 3.17.Warning Signals at Danger Points.Sec. 3.18.Periodic Assessment of City Parks and City Recreation Programs.Sec. 3.19.Water Use Efficiency and Recycled Water.Sec. 3.20.Sharp Park.Sec. 3.21.Hours of Operation.
 SEC. 3.01.  RULES OF PARK COMMISSION TO BE OBEYED.
 	No person shall willfully disobey or violate any of the rules or regulations of the Recreation and Park Commission governing the use and enjoyment by the public of any park or of any building, structure, equipment, apparatus or appliance in any park, which rules or regulations, at the time, are posted in some conspicuous place in that area of the park or in or near the building, structure, equipment, apparatus or appliance to which the rule or regulation applies. 
 (Added by Ord. 603-81, App. 12/18/81)
@@ -104,6 +104,8 @@ SEC. 3.02.  SIGNS TO BE OBEYED.
 	No person shall willfully disobey the notices, prohibitions or directions on any sign posted by the Recreation and Park Commission or the Recreation and Park Department. 
 (Added by Ord. 603-81, App. 12/18/81)
 SEC. 3.03.  PUBLIC MAY BE EXCLUDED.
+ New Ordinance Notice
+Publisher's Note: This section has been AMENDED by a new ordinance (Ord. 265-13, approved 11/27/2013, effective 12/27/2013). The text of the amendment will be incorporated below when the new ordinance is effective.
 	In case of an emergency, or when in the judgment of the Recreation and Park Commission or the General Manager the public interest demands it, any portion of any park or park building therein may be closed to the public until such park area or building is reopened to the public by the Recreation and Park Commission or the General Manager; provided, however, that nothing in this Section shall authorize the General Manager to close any portion of any park building because of activities, existing or anticipated, engaged in for the purpose of expressing ideas or causes, which activities are protected by the First Amendment to the United States Constitution. 
 (Added by Ord. 603-81, App. 12/18/81)
 SEC. 3.04.  BRIDLE PATHS.
@@ -168,12 +170,16 @@ SEC. 3.19.  WATER USE EFFICIENCY AND RECYCLED WATER.
 	(e)	No later than December 2009, the Department shall prepare an "Irrigation System Retrofits" report that addresses the retrofits to Park Irrigation Systems, and associated capital costs, and identifies funding sources, that are required under Title 22 of the California Code of Regulations to enable SFRPD to irrigate city parks and golf courses with recycled water. 
 (Added by Ord. 52-09, File No. 081400, App. 4/8/2009)
 SEC. 3.20.  SHARP PARK.
-	(a)	No later than July 21, 2009, the Recreation and Park Department shall develop a plan, schedule and budget for restoring the habitat for the California red-legged frog (rana draytonii) and the San Francisco garter snake (Thamnophis sirtalis tetrataenia) in conformance with the Endangered Species Act, 16 U.S.C. 1531, et seq., and all other regulatory requirements; and for transferring Sharp Park to, or developing a joint management agreement with, the Golden Gate National Recreation Area, and the City of Pacifica and/or the County of San Mateo, in accordance with the deed granting Sharp Park to the City and County of San Francisco and San Francisco Administrative Code Section 23.41. The Department shall base such restoration plans on the best scientific information available, and shall include alternatives that (1) retain or redesign the golf course and (2) eliminate the golf course. 
-	(b)	No later than August 31, 2009. the Department shall provide to the Clerk of the Board of Supervisors a report detailing the steps taken, and the progress made, to achieve the goals set forth in subsection (a) above. 
+	(a)	No later than July 21, 2009, the Recreation and Park Department shall develop a plan, schedule and budget for restoring the habitat for the California red-legged frog (Rana draytonii) and the San Francisco garter snake (Thamnophis sirtalis tetrataenia) in conformance with the Endangered Species Act, 16 U.S.C. 1531, et seq., and all other regulatory requirements; and for transferring Sharp Park to, or developing a joint management agreement with, the Golden Gate National Recreation Area, and the City of Pacifica and/or the County of San Mateo, in accordance with the deed granting Sharp Park to the City and County of San Francisco and San Francisco Administrative Code Section 23.41. The Department shall base such restoration plans on the best scientific information available, and shall include alternatives that (1) retain or redesign the golf course and (2) eliminate the golf course. 
+	(b)	No later than August 31, 2009, the Department shall provide to the Clerk of the Board of Supervisors a report detailing the steps taken, and the progress made, to achieve the goals set forth in subsection (a) above. 
 (Added by 85-09, File No. 090329, App. 5/21/2009)
+SEC. 3.21.  HOURS OF OPERATION.
+ New Ordinance Notice
+Publisher's Note: This section has been ADDED by a new ordinance (Ord. 265-13, approved 11/27/2013, effective 12/27/2013). The text of the section will be included below when the new ordinance is effective.
+
 ARTICLE 4:
 DISORDERLY CONDUCT
-Sec. 4.01.Disorderly Conduct.Sec. 4.02.Swimming Restrictions.Sec. 4.03.Polluting Waters Prohibited.Sec. 4.04.Littering and Dumping of Waste Matter Prohibited.Sec. 4.05.Malicious Destruction of Property.Sec. 4.06.Removal of Trees, Wood, Etc.Sec. 4.07.Penalties for Violation of Section 4.06.Sec. 4.08.Interference with Recreation and Park Employees.Sec. 4.09.Certain Acts Prohibited—Candlestick, Kezar.Sec. 4.10.Alcoholic Beverages.Sec. 4.11.Persons Intoxicated by Alcohol or Drugs May Be Excluded.Sec. 4.12.Persons May Be Excluded Under Certain Circumstances.Sec. 4.13.Refusal to Obey Lawful Order.Sec. 4.14.Fighting, Disturbing Peace, Offensive Words.Sec. 4.15.Intoxication by Alcohol or Drugs.Sec. 4.16.Minors, Parents and Guardians of.Sec. 4.17.Skateboard Safety Requirements.
+Sec. 4.01.Disorderly Conduct.Sec. 4.02.Swimming Restrictions.Sec. 4.03.Polluting Waters Prohibited.Sec. 4.04.Littering and Dumping of Waste Matter Prohibited.Sec. 4.05.Malicious Destruction of Property.Sec. 4.06.Removal of Trees, Wood, Etc.Sec. 4.07.Penalties for Violation of Section 4.06.Sec. 4.08.Interference with Recreation and Park Employees.Sec. 4.09.Certain Acts Prohibited – Candlestick, Kezar.Sec. 4.10.Alcoholic Beverages.Sec. 4.11.Persons Intoxicated by Alcohol or Drugs May Be Excluded.Sec. 4.12.Persons May Be Excluded Under Certain Circumstances.Sec. 4.13.Refusal to Obey Lawful Order.Sec. 4.14.Fighting, Disturbing Peace, Offensive Words.Sec. 4.15.Intoxication by Alcohol or Drugs.Sec. 4.16.Minors, Parents and Guardians of.Sec. 4.17.Skateboard Safety Requirements.
 SEC. 4.01.  DISORDERLY CONDUCT.
 	No person shall, in any park without permission of the Recreation and Park Department: 
 	(a)	Throw or propel objects of a potentially dangerous nature, including, but not limited to, stones, bottles, glass, cans or crockery; 
@@ -213,7 +219,7 @@ SEC. 4.07.  PENALTIES FOR VIOLATION OF SECTION 4.06.
 SEC. 4.08.  INTERFERENCE WITH RECREATION AND PARK EMPLOYEES.
 	No person shall, with malice, interfere with or in any manner hinder any employee of the Recreation and Park Department, the Department of Public Works or a duly authorized contractor while that person is engaged in constructing, repairing, or caring for any portion of the park or is otherwise engaged in the discharge of such employee's duties. 
 (Added by Ord. 603-81, App. 12/18/81)
-SEC. 4.09.  CERTAIN ACTS PROHIBITED—CANDLESTICK, KEZAR.
+SEC. 4.09.  CERTAIN ACTS PROHIBITED – CANDLESTICK, KEZAR.
 	(a)	No person shall bring into or have in his possession within Candlestick Park Stadium, Kezar Stadium or Kezar Pavilion, any canned or bottled beverages or beer tappers, other than any vacuum bottle or other similar reusable container. This provision shall not apply to persons authorized by the Recreation and Park Commission to sell or otherwise make use of canned or bottled beverages within the areas described. 
 	(b)	No person shall throw, kick or cause to be thrown or kicked or otherwise placed in motion any ice, liquid, paper, can, bottle, container, cushion or other object within Candlestick Park Stadium, Kezar Stadium or Kezar Pavilion wherein a regularly scheduled athletic contest, exhibition or other special event is being presented. 
 (Added by Ord. 603-81, App. 12/18/81)
@@ -1250,4 +1256,7 @@ Publisher's Note:  The following table lists all ordinances affecting the Park C
 Ord. No.File No.Eff. DateShort Title and Code Sections Affected252-1313088212/14/13Park Code - Harding Park Golf Course Temporary Reduced Greens Fees
 
 Sections Affected:
-12.12.1 (Amended)
+12.12.1 (Amended)265-1313076612/27/13Park Code - Hours of Operation for City Parks
+
+Sections Affected:
+3.21 (Added); 3.03 (Amended)

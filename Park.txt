@@ -3,6 +3,8 @@ CITY AND COUNTY OF SAN FRANCISCO
 MUNICIPAL CODE
 
 PARK CODE
+ New Ordinance Notice
+Publisher's Note: This Code includes sections affected by new ordinances. Click here for a list of the new ordinances and the affected sections.
 The San Francisco Municipal Code is current through Ordinance 209-13, File No. 130785, approved October 9, 2013, effective November 8, 2013, operative January 1, 2014.
 The Park Code was last amended by Ordinance 173-13, File No. 130548, approved August 2, 2013, effective September 1, 2013.
 
@@ -661,6 +663,9 @@ SEC. 11.04.  WHEELED EQUIPMENT PROHIBITED.
 (Added by Ord. 370-94, App. 11/4/94)
 ARTICLE 12:
 FEES
+ New Ordinance Notice
+Publisher's Note: This Chapter includes sections affected by new ordinances. Click here for a list of all new ordinances affecting sections of this Code.
+
 Sec. 12.01.Camp Mather Cabin and Tent Site Usage Fees. Sec. 12.02.Camp Mather Day Use Fees. Sec. 12.03.Camp Mather Meal Fees. Sec. 12.04.Camp Mather Low Income Fee Reductions.Sec. 12.05. Japanese Tea Garden.Sec. 12.06.Coit Tower.Sec. 12.07.Wedding Fees.Sec. 12.08.Parking Fees on Recreation and Park Property. Sec. 12.09.Carrousel Fees.Sec. 12.11.Marina Fees.Sec. 12.12.Golf Fees – General.Sec. 12.12.1.Harding Park Golf Course.Sec. 12.12.2.Fleming Golf Course.Sec. 12.12.3.Lincoln Park Golf Course.Sec. 12.12.4.Sharp Park Golf Course.Sec. 12.12.5.Golden Gate Park Golf Course.Sec. 12.12.6.Mclaren Park (Gleneagles) Golf Course.Sec. 12.15.Day Camp Fees.Sec. 12.20.Adjustment of Fees.Sec. 12.21.Clubhouses; Lake Merced Boathouse. Sec. 12.22.Events. Sec. 12.23.Picnics.Sec. 12.24.Photography and Film. Sec. 12.25.Encroachment. Sec. 12.27.Sharon Arts Studio.Sec. 12.28.Reduction or Waiver of Fees. Sec. 12.29.Photography Center. Sec. 12.30.Latch Key and Afterschool Programs.Sec. 12.34.Conservatory of Flowers Fees. Sec. 12.35.Golden Gate Park Concourse Underground Parking Facility.Sec. 12.36.Athletic Field Fees.Sec. 12.38.Lake Merced Boat Storage.Sec. 12.39.Tiny Tot/Child Development Program Fees. Sec. 12.40.Aquatic Fees. Sec. 12.41.Professional Tennis Lesson Rates.Sec. 12.42.Stadium Rentals.Sec. 12.44.Recreation Program Fees. Sec. 12.45.Reservation Administrative Fees.Sec. 12.46.County Fair Building and Botanical Garden Facility Rental Fees.Sec. 12.47.Facility Fees. Sec. 12.48.Athletic Leagues.Sec. 12.49.Ratification of Prior Fees.
 SEC. 12.01.  CAMP MATHER CABIN AND TENT SITE USAGE FEES.
 	(a)	The following use fees, which reflect a discount from the standard fee for nonresidential usage, shall be charged to San Francisco residents for use of cabin and tent sites at Camp Mather. The following fees do not include State occupancy tax. 
@@ -814,6 +819,8 @@ CODIFICATION NOTE
 Editor's Note:
 	For current provisions relating to Harding Park and Fleming Golf Courses, see Secs. 12.12.1 and 12.12.2, respectively.
 SEC. 12.12.1.  HARDING PARK GOLF COURSE.
+ New Ordinance Notice
+Publisher's Note: This section has been AMENDED by a new ordinance (Ord. 252-13, approved 11/14/2013, effective 12/14/2013). The text of the amendment will be incorporated below when the new ordinance is effective.
 	(a)	Greens Fees.
 
 Fee CategoryWeekday (6:00 a.m. Mon.-Fri. noon) WeekendStandard $155 $175Standard Twilight $85 $100Standard Junior $77 $88Bay Area $90 $100Bay Area Twilight $71 $80Bay Area Junior $45 $50Resident $52 $66Resident Twilight $41 $50Resident Junior $20 $25Resident Senior $37 $66Tournament $125 $135
@@ -1240,4 +1247,7 @@ Sections Affected:
 New Ordinances
 Publisher's Note:  The following table lists all ordinances affecting the Park Code that have been passed by the Board of Supervisors but that are not yet effective. The table includes links to the amending ordinances (as maintained in PDF format on the Board of Supervisors' web site) and to the code sections affected. For other legislation, including older ordinances and those affecting other codes, please refer to the Comprehensive Ordinance Table or the Board's "Legislation Passed" web site.
 
-Ord. No.File No.Eff. DateShort Title and Code Sections Affected[None]
+Ord. No.File No.Eff. DateShort Title and Code Sections Affected252-1313088212/14/13Park Code - Harding Park Golf Course Temporary Reduced Greens Fees
+
+Sections Affected:
+12.12.1 (Amended)

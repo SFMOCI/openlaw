@@ -3,6 +3,8 @@ CITY AND COUNTY OF SAN FRANCISCO
 MUNICIPAL CODE
 
 PUBLIC WORKS CODE
+ New Ordinance Notice
+Publisher's Note: This Code includes sections affected by new ordinances. Click here for a list of the new ordinances and the affected sections.
 The San Francisco Municipal Code is current through Ordinance 209-13, File No. 130785, approved October 9, 2013, effective November 8, 2013, operative January 1, 2014.
 The Public Works Code was last amended by Ordinance 155-13, File No. 130369, approved July 25, 2013, effective August 24, 2013.
 
@@ -840,7 +842,11 @@ SEC. 140.7.  MAINTENANCE AND OPERATIONS.
 ARTICLE 4.2.
 SEWER SYSTEM MANAGEMENT *Editor's note:
 	Ord. 83-10, File No. 100192, § 2, repealed former Art. 4.2, §§ 140-149.4, which pertained to sewer service charge. Section 3 of said ordinance enacted provisions designated as a new Art. 4.2 to read as herein set out. *
-Sec. 147.Stormwater Management.Sec. 147.1.Definitions.Sec. 147.2.Stormwater Control PlanSec. 147.3.Limitations and Prohibited Discharges.Sec. 147.4.Compliance with Maintenance and Inspection Requirements.Sec. 147.5.Enforcement and Cost Reimbursement.Sec. 147.6.Severability.
+Sec. 146.Construction Site Runoff Control.Sec. 147.Stormwater Management.Sec. 147.1.Definitions.Sec. 147.2.Stormwater Control PlanSec. 147.3.Limitations and Prohibited Discharges.Sec. 147.4.Compliance with Maintenance and Inspection Requirements.Sec. 147.5.Enforcement and Cost Reimbursement.Sec. 147.6.Severability.
+SEC. 146.  CONSTRUCTION SITE RUNOFF CONTROL.
+ New Ordinance Notice
+Publisher's Note: This section has been ADDED by a new ordinance (Ord. 260-13, approved 11/14/2013, effective 12/14/2013). The text of the section will be included below when the new ordinance is effective.
+
 SEC. 147.  STORMWATER MANAGEMENT.
 	(a)	The intent of Sections 147-147.6 is to protect and enhance the water quality in the City and County of San Francisco's sewer system, stormwater collection system and receiving waters pursuant to, and consistent with Federal and State laws, lawful standards and orders applicable to stormwater and urban runoff control, and the City's authority to manage and operate its drainage systems. 
 	(b)	Urban runoff is a significant cause of pollution throughout California. Pollutants of concern found in urban runoff include sediments, non-sediment solids, nutrients, pathogens, oxygen-demanding substances, petroleum hydrocarbons, heavy metals, floatables, polycyclic aromatic hydrocarbons (PAHs), trash, and pesticides and herbicides. 
@@ -851,7 +857,7 @@ SEC. 147.  STORMWATER MANAGEMENT.
 		(1)	minimizing increases in pollution caused by stormwater runoff from development that would otherwise degrade local water quality;
 		(3)	controlling the discharge to the City's sewer and drainage systems from spills, dumping or disposal of pollutants; and
 		(4)	reducing stormwater run-off rates, volume, and nonpoint source pollution whenever possible, through stormwater management controls, and ensuring that these management controls are safe and properly maintained. 
-(Added by Ord. 83-10, File No. 100102, § 3, 4/22/2010)
+(Added by Ord. 83-10, File No. 100102, 4/22/2010)
 SEC. 147.1.  DEFINITIONS.
 	In addition to the definitions provided in section 119 of Article 4.1 of this Code, the following definitions shall apply: 
 	(a)	Best management practices or "BMPs." Structural devices, measures, or programs used to reduce pollution in stormwater runoff. BMPs manage the quantity and improve the quality of development runoff in accordance with the Guidelines and applicable state and federal regulatory requirements. 
@@ -868,7 +874,7 @@ SEC. 147.1.  DEFINITIONS.
 	(l)	Stormwater Collection System. All City facilities operated by the San Francisco Public Utilities Commission or the Port of San Francisco for collecting, transporting, treating and disposing of stormwater. For purposes of this Article, the Stormwater Collection System includes facilities owned and operated by public entities other than the City, where such facilities direct stormwater into the Stormwater Collection System and are subject to the jurisdiction of the San Francisco Public Utilities Commission or the Port of San Francisco as defined by law, contract, or interjurisdictional agreement. 
 	(m)	Stormwater Control. A device designed to remove pollution in stormwater runoff through detention, retention, filtration, direct plant uptake, or infiltration. 
 	(n)	Stormwater Control Plan. A plan that meets all applicable criteria, performance standards and other requirements contained in this Article and the Guidelines. 
-(Added by Ord. 83-10, File No. 100102, § 3, 4/22/2010)
+(Added by Ord. 83-10, File No. 100102, 4/22/2010)
 SEC. 147.2.  STORMWATER CONTROL PLAN
 	(a)	Development Projects. Every application for a Development Project, including, but not limited to, a building or encroachment permit conditional use permit, variance, site permit, or design review, shall be accompanied by a Stormwater Control Plan that meets the stormwater control criteria provided by the Guidelines. No City department shall approve or issue a conditional use permit, variance, site permit, design review approval, building or encroachment permit unless and until a Stormwater Control Plan developed in accordance with this Article and the Guidelines has been approved by the General Manager. All projects subject to the stormwater management requirements of Chapter 13C of the San Francisco Building Code shall comply with the requirements of the Guidelines. 
 	(b)	Subdivision Approvals.
@@ -878,12 +884,12 @@ SEC. 147.2.  STORMWATER CONTROL PLAN
 			(A)	The subdivider has complied with the conditions imposed on the tentative subdivision map or parcel map, pursuant to this Article and the Guidelines; and 
 			(B)	For any such conditions not fully satisfied prior to the recordation of the final map, the subdivider has signed a certificate of agreement and/or improvement agreement, to ensure compliance with such conditions. 
 		(4)	This Subsection (b) shall not apply to tentative subdivision maps or parcel maps submitted solely for the purposes of condominium conversion, as defined in San Francisco Subdivision Code Section 1308(d). 
-(Added by Ord. 83-10, File No. 100102, § 3, 4/22/2010)
+(Added by Ord. 83-10, File No. 100102, 4/22/2010)
 SEC. 147.3.  LIMITATIONS AND PROHIBITED DISCHARGES.
 	(a)	The establishment, use, maintenance or continuation of any unauthorized drainage connections to the Stormwater Collection System is prohibited. 
 	(b)	The discharge of Pollutants and Non-stormwater Discharges into the stormwater collection facilities located in the Separate Stormwater/sewer System portions of the Stormwater Collection System is prohibited, except as provided in this section. 
 	(c)	The following discharges are exempt from the prohibitions set forth subsection (b) above if the Regional Water Quality Control Board approves the exempted category under section C. 11. of the City's NPDES permit: uncontaminated pumped groundwater, foundation drains, water from crawl space pumps, footing drains, air conditioning condensate, irrigation water, landscape irrigation, lawn or garden watering, planned and unplanned discharges from potable water sources, water line and hydrant flushing, individual residential car washing, discharges or flows from emergency fire fighting activities, dechlorinated swimming pool discharges. 
-(Added by Ord. 83-10, File No. 100102, § 3, 4/22/2010)
+(Added by Ord. 83-10, File No. 100102, 4/22/2010)
 SEC. 147.4.  COMPLIANCE WITH MAINTENANCE AND INSPECTION REQUIREMENTS.
 	(a)	All Stormwater Controls shall be maintained according to the Guidelines and the operation and maintenance plan included in the approved Stormwater Control Plan. The person(s) or organization(s) responsible for maintenance shall be designated in the plan. Those persons responsible for maintenance shall inspect the Stormwater Controls at least annually and shall maintain the Stormwater Controls as required by the Guidelines and described in the Stormwater Control Plan. 
 	(b)	Operation and Maintenance Inspection and Certificates. Every person who owns, leases or operates any Stormwater Control or Controls must provide annual self-certification for inspection and maintenance, as set forth in the Guidelines. 
@@ -891,13 +897,13 @@ SEC. 147.4.  COMPLIANCE WITH MAINTENANCE AND INSPECTION REQUIREMENTS.
 	(d)	Authority to Sample and Establish Sampling Devices. The General Manager may require any person discharging Stormwater to the Stormwater Collection System to provide devices or locations necessary to conduct sampling or metering operations. 
 	(e)	Notification of Spills. All persons in charge of the Stormwater Controls shall provide immediate notification to the General Manager of any suspected, confirmed or unconfirmed release of pollutants creating a risk of non-stormwater discharge into the Stormwater Collection System. Such persons shall take all necessary steps to ensure the detection and containment and clean up of such release. This notification requirement is in addition to and not in lieu of other required notifications. 
 	(f)	Requirement to Test or Monitor. The General Manager may require that any person responsible for Stormwater Controls undertake such monitoring activities or analysis and furnish such reports as the General Manager may specify. 
-(Added by Ord. 83-10, File No. 100102, § 3, 4/22/2010)
+(Added by Ord. 83-10, File No. 100102, 4/22/2010)
 SEC. 147.5  ENFORCEMENT AND COST REIMBURSEMENT.
 	Any violation of this Article may be enforced by the General Manager pursuant to section 132 of Article 4.1 of the Public Works Code. Persons violating any provision of this Article, the Guidelines, or department regulations may be subject to penalties and abatement in accordance with the Guidelines and sections 133 and 134 of Article 4.1 of the Public Works Code. 
-(Added by Ord. 83-10, File No. 100102, § 3, 4/22/2010)
+(Added by Ord. 83-10, File No. 100102, 4/22/2010)
 SEC. 147.6  SEVERABILITY.
 	If any section, subsection, subdivision, paragraph, sentence, clause, or phrase of this Article, is for any reason held to be unconstitutional, invalid or ineffective by any court of competent jurisdiction, such decision shall not affect the validity or effectiveness of the remaining portions of this Article. The Board of Supervisors declares that it would have passed each section, subsection, subdivision, paragraph, sentence, clause, or phrase of this Article irrespective of the fact that any one or more sections, subsections, subdivisions, paragraphs, sentences, clauses, or phrases could be declared unconstitutional, invalid or ineffective. 
-(Added by Ord. 83-10, File No. 100102, § 3, 4/22/2010)
+(Added by Ord. 83-10, File No. 100102, 4/22/2010)
 ARTICLE 4.3:
 SEWERS
 Sec. 150.1.Definitions.Sec. 150.2.Owner Responsibility for Water Service Charges and Industrial Cost Recovery Surcharges.Sec. 150.3.Department Entitled to Payment.Sec. 150.4.Collection of Delinquent Service Charges through Recordation of a Lien.Sec. 150.5.Lien Proceedings; Additional Request for Payment; Warning Notice.Sec. 150.6.Lien Proceedings; Report and Notice.Sec. 150.7.Hearing.Sec. 150.8.Creation of Lien.Sec. 150.9.Recordation; Administrative Fees and Interest.Sec. 150.10.Filing of Lien With Controller and Tax Collector; Collection of Delinquent Accounts by the Bureau of Delinquent Revenue.Sec. 150.11.Payment of Amount Owed; Release of Lien; Distribution of Proceeds.Sec. 150.12.Write-off of Uncollectible Accounts; Compromise or Abandonment of Claims.Sec. 150.13.Severability.
@@ -5706,4 +5712,7 @@ Art. 20, Secs. 1000, 1001, 1004, 1006, 1012, 1014 (Repealed)
 New Ordinances
 Publisher's Note:  The following table lists all ordinances affecting the Public Works Code that have been passed by the Board of Supervisors but that are not yet effective. The table includes links to the amending ordinances (as maintained in PDF format on the Board of Supervisors' web site) and to the code sections affected. For other legislation, including older ordinances and those affecting other codes, please refer to the Comprehensive Ordinance Table or the Board's "Legislation Passed" web site.
 
-Ord. No.File No.Eff. DateShort Title and Code Sections Affected[None] 
+Ord. No.File No.Eff. DateShort Title and Code Sections Affected260-1313081412/14/13Public Works Code - Control of Construction Site Runoff
+
+Sections Affected:
+146, 146.1, 146.2, 146.3, 146.4, 146.5, 146.6, 146.7, 146.8, 146.9, 146.10, 146.11 (Added) 

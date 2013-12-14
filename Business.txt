@@ -5,8 +5,8 @@ MUNICIPAL CODE
 BUSINESS AND TAX REGULATIONS CODE
  New Ordinance Notice
 Publisher's Note: This Code includes sections affected by new ordinances. Click here for a list of the new ordinances and the affected sections.
-The San Francisco Municipal Code is current through Ordinance 209-13, File No. 130785, approved October 9, 2013, effective November 8, 2013, operative January 1, 2014.
-The Business and Tax Regulations Code was last amended by Ordinance 206-13, File No. 130784, approved October 11, 2013, effective November 10, 2013.
+The San Francisco Municipal Code is current through Ordinance 221-13, File No. 130790, approved November 1, 2013, effective December 1, 2013.
+The Business and Tax Regulations Code was last amended by Ordinance 221-13, File No. 130790, approved November 1, 2013, effective December 1, 2013.
 
 
 AMERICAN LEGAL PUBLISHING CORPORATION
@@ -1680,9 +1680,6 @@ ARTICLE 8:
 
 ARTICLE 9:
 TAX ON OCCUPANCY OF PARKING SPACE IN PARKING STATIONS
- New Ordinance Notice
-Publisher's Note: This Article includes sections affected by new ordinances. Click here for a list of all new ordinances affecting sections of this Code.
-
 Sec. 601.Additional Definitions.Sec. 602.Imposition and Rate of Tax.Sec. 602A.Charges Subject to Tax.Sec. 602.5.Imposition of a 10-Percent Surcharge.Sec. 603.Occupant to Pay Tax to Operator.Sec. 604.Collection of Tax by Operator; Receipt to Occupant; Rules for Collection Schedules.Sec. 605.Unlawful Advertising Regarding Tax.Sec. 606.Additional Exemptions.Sec. 607.Operator Certification of Revenue Control Equipment, RCE Record Review, and Unaccounted Ticket Ratio.Sec. 608.Special School Parking Event Permits.Sec. 609.Parking Space Occupancy Tax Simplification for Residential Properties.Sec. 615.Administration.
 SEC. 601.  ADDITIONAL DEFINITIONS.
 	When used in this Article the following terms shall mean or include: 
@@ -1761,8 +1758,6 @@ SEC. 608.  SPECIAL SCHOOL PARKING EVENT PERMITS.
 (Added by Ord. 189-12, File No. 120407, App. 9/11/2012, Eff. 10/11/2012)
 (Former Secs. 608-608.8 added by Ord. 234-06, File No. 060892, App. 9/14/2006; repealed by Ord. 291-10, File No. 101099, App. 11/18/2010)
 SEC. 609.  PARKING SPACE OCCUPANCY TAX SIMPLIFICATION FOR RESIDENTIAL PROPERTIES.
- New Ordinance Notice
-Publisher's Note: This section has been AMENDED by a new ordinance (Ord. 221-13, approved 11/1/2013, effective 12/1/2013). The text of the amendment will be incorporated below when the new ordinance is effective.
 	(a)	Findings.
 		(1)	San Francisco's parking tax generates revenue for the City's general fund, which in turn funds the provision of many vital services for residents.
 		(2)	Any person who rents parking space in a Parking Station, as defined in Article 9 of the Business and Tax Regulations Code, must collect parking tax from the individual parking the car and remit it to the City. Current City law treats large commercial operators of garages and small property owners the same for purposes of this tax.
@@ -1772,33 +1767,31 @@ Publisher's Note: This section has been AMENDED by a new ordinance (Ord. 221-13,
 		(6)	The City desires to maximize the collection of required taxes.
 		(7)	Therefore, in order to encourage small property owners to come forward, to register with the City, and to start collecting parking tax, this Ordinance will forgive taxes owed for tax periods ending before April 1, 2011.
 		(8)	The Board of Supervisors finds that by providing a period of amnesty and by simplifying the registration process, many small property owners will begin to comply with the law, resulting in an overall increase in tax revenue remitted to the City.
-	(b)	Notwithstanding any other provision of this Code, the owner or manager of a residential building, that operates a Parking Station that is a part of the residential building and, is located on the same parcel, or within 50 feet of the property line of the building, shall be relieved of certain requirements for Parking Stations as enumerated below, provided the owner or manager meets all of the requirements of and registers under Subsection (c) below. The aforesaid building owner or manager:
+	(b)	Notwithstanding any other provision of this Code, the owner or manager of a residential building, that operates a Parking Station that is a part of the residential building and, is located on the same parcel, or within 50 feet of the property line of the building, shall be relieved of certain requirements for Parking Stations as enumerated below, provided the owner or manager meets all of the requirements of and registers under subsection (c) below. The aforesaid building owner or manager:
 		(1)	Shall not be required to obtain a certificate of authority from the Tax Collector pursuant to Article 6, Section 6.6-1(a) or to execute a bond pursuant to Section 6.6-1(h), or to comply with any requirement to obtain insurance to operate a Parking Station.
-		(2)	Shall not be required to make monthly tax prepayments pursuant to Section 6.9-3(a)(1), provided that the gross revenues of the Parking Station from Rent collected from individuals that do not reside at the property do not exceed $4,000 in a quarterly reporting period or $15,000 annually. At any time that the gross revenues of the Parking Station from Rent exceed $4,000 during any quarterly reporting period, the building owner or manager must report and file monthly tax prepayments as required by Section 6.9-3(a)(1) beginning with the following month.
-		(3)	Is registered under Subsection (c) below, and if eligible for parking tax simplification for a specific Parking Station, shall not be required to pay the Revenue Control Equipment Compliance Fee in Article 22, Section 2219.5 for that Parking Station.
+		(2)	Shall not be required to make monthly tax remittances pursuant to Section 6.9-3(a)(1), provided that the gross revenues of the Parking Station from Rent collected from individuals that do not reside at the property do not exceed $12,000 in a quarterly reporting period or $40,000 annually. At any time that the gross revenues of the Parking Station from Rent exceed $12,000 during any quarterly reporting period, the building owner or manager must report and file monthly tax prepayments as required by Section 6.9-3(a)(1) beginning with the following month.
+		(3)	Is registered under subsection (c) below, and if eligible for parking tax simplification for a specific Parking Station, shall not be required to pay the Revenue Control Equipment Compliance Fee in Article 22, Section 2219.5 for that Parking Station.
 		(4)	Shall not be required to hold a commercial parking permit under Section 1215(b) of the Police Code.
 	(c)	In order to be eligible for the relief authorized under this Section, the building owner or manager must register for relief using a simple form prescribed by the Tax Collector for that purpose, and provide information required by the Tax Collector. The owner or manager shall demonstrate to the satisfaction of the Tax Collector that the residential property and Parking Station rentals meet all of the following requirements:
-		(1)	No more than 5 spaces in the Parking Station are rented to individuals who do not reside at the residential property.
+		(1)	No more than 10 spaces in the Parking Station are rented to individuals who do not reside at the residential property.
 		(2)	Spaces are rented to individuals who do not reside at the property on a monthly basis only.
 		(3)	The building owner or manager complies with the Revenue Control Equipment requirements in Article 22, Section 2207.
-		(4)	Total gross receipts from the rental of parking space to individuals who do not reside at the property does not exceed $4,000 in any quarter or $15,000 annually.
+		(4)	Total gross receipts from the rental of parking space to individuals who do not reside at the property do not exceed $12,000 in any quarter or $40,000 annually.
 	(d)	In addition, the owner or manager must:
 		(1)	Maintain documents and records of all parking transactions in a manner acceptable to the Tax Collector. Such documents and records must objectively substantiate any relief claimed under this Section and be provided to the Tax Collector or designee upon request.
 		(2)	Timely file with the Tax Collector annually a parking space occupancy tax return, regardless of the amount of tax liability shown on the return. All returns shall be filed by the due date set forth in Article 6 of the San Francisco Business and Tax Regulations Code. 
 		(3)	Any owner or manager who makes a material misrepresentation in a registration or fails to amend a registration within 7 days of a material change or who fails to comply with a rule or regulation promulgated by the Tax Collector in a timely manner shall, in addition to any other liability that may be imposed under the provisions of this Article, be ineligible to claim relief under this Section.
 	(e)	The Office of the Treasurer and Tax Collector may adopt forms, rules and regulations regarding the relief provided under this Section. The Tax Collector shall verify whether the applicant is entitled to the Parking Tax Simplification under this Ordinance.
 	(f)	Amnesty.
-		(1)	The building owner or manager who registers for relief under this Section between January 1, 2013 and June 30, 2013 and satisfies the eligibility requirements established in Subsections 609(b) and (c) of this Article shall be eligible for amnesty from all fees, penalties and interest for failure to report and remit parking space occupancy tax due and payable prior to June 30, 2013 and shall, in addition, be eligible for amnesty from all parking space occupancy taxes for the tax periods ending before April 1, 2011, with the following exceptions: 
+		(1)	The building owner or manager who registers for relief under this Section between January 1, 2013 and June 30, 2013 and satisfies the eligibility requirements established in subsections 609(b) and (c) of this Article shall be eligible for amnesty from all fees, penalties and interest for failure to report and remit parking space occupancy tax due and payable prior to June 30, 2013 and shall, in addition, be eligible for amnesty from all parking space occupancy taxes for the tax periods ending before April 1, 2011, with the following exceptions: 
 			(A)	The Tax Collector may not waive any liability owed as a result of any jeopardy determination served on the taxpayer or other person determined to be liable pursuant to Article 6, Section 6.12-1 of this Code or any audit deficiency determination that has been reduced to a written notice of deficiency determination and served on the taxpayer or other person determined to be liable pursuant to Article 6, Section 6.11-2 of this Code prior to the effective date of this Ordinance.
 			(B)	The Tax Collector shall not waive, under the authority of this Article, liabilities that the City has sought in any civil tax collection litigation commenced by the Tax Collector prior to the commencement of the amnesty application period.
-		(2)	The Tax Collector shall waive all taxes, fees, penalties and interest owed for delinquent remittance of parking space occupancy taxes owed under the provisions of Articles 6 and 9 of the Business and Tax Regulations Code, but forgiven under this Section 690(f)1, without need to make the findings required under Section 6.17-4.
+		(2)	The Tax Collector shall waive all taxes, fees, penalties and interest owed for delinquent remittance of parking space occupancy taxes owed under the provisions of Articles 6 and 9 of the Business and Tax Regulations Code, but forgiven under this Section 609(f), without need to make the findings required under Section 6.17-4.
 		(3)	The Tax Collector shall waive all fees, penalties and interest owed for failure to collect and/or remit parking space occupancy taxes under Article 22 and Sections 6.17-1, 6.17-2, and 6.17-3 of this Code.
 		(4)	No proceeding to suspend or revoke a business registration certificate pursuant to Section 6.6-1 of this Code shall be initiated based on an owner's or manager's failure to collect or remit parking space occupancy taxes for which the Tax Collector has granted amnesty.
 		(5)	No administrative proceeding or civil or criminal action on behalf of the City and County of San Francisco shall be brought against an owner or manager for any tax period for which the Tax Collector grants amnesty based upon the nonreporting, under-reporting, failure to remit parking space occupancy tax or the nonpayment of or failure to remit any taxes owed under the provisions of Article 22 of this Code.
-		(6)	If the Tax Collector determines that the person registering for relief under this Section is delinquent in any taxes, fees or penalties owed to the City and County of San Francisco other than the parking tax, that person shall be ineligible to claim the relief under this Subsection (f).
-(Added by Ord. 209-12, File No. 120631, App. 9/28/2012, Eff. 10/28/2012)
-CODIFICATION NOTE
-1.	So in Ord. 209-12.
+		(6)	If the Tax Collector determines that the person registering for relief under this Section is delinquent in any taxes, fees or penalties owed to the City and County of San Francisco other than the parking tax, that person shall be ineligible to claim the relief under this subsection (f).
+(Added by Ord. 209-12, File No. 120631, App. 9/28/2012, Eff. 10/28/2012; amended by Ord. 221-13, File No. 130790, App. 11/1/2013, Eff. 12/1/2013)
 SEC. 615.  ADMINISTRATION.
 	Authority of Tax Collector Generally; Deposit of Collections to General Fund. The Tax Collector shall enforce the provisions of this Article and may prescribe, adopt and enforce rules and regulations relating to the administration and enforcement of this Article. The Tax Collector may prescribe the extent to which any ruling or regulation shall be applied without retroactive effects. 
 	The Tax Collector shall transmit all moneys collected pursuant to this Article to the Treasurer for deposit to the General Fund and, subject to the budget and fiscal provisions of the Charter, the collections may be expended for any City purpose. 
@@ -3878,14 +3871,14 @@ Sections Affected:
 Sections Affected:
 6.6-1, 6.8-1, 6.9-1*, 6.9-3*, 6.9-4, 6.9-5, 6.9-6, 6.11-1, 6.11-2, 6.11-3, 6.17-2, 6.17-3, 6.21-1, 607, 859, 860, 905-A*, 906.3, 2219.6 (Amended)
 
-* Amendments to these sections are operative on 1/1/2014; see § 7(b) of the ordinance.
+* Amendments to these sections are operative on 1/1/2014; see § 7(b) of the ordinance.221-1313079012/01/13Business and Tax Regulations, Police Codes - Renting Parking Spaces at Residential Properties to Non-Residents
+
+Sections Affected:
+609 (Amended)
 New Ordinances
 Publisher's Note:  The following table lists all ordinances affecting the Business and Tax Regulations Code that have been passed by the Board of Supervisors but that are not yet effective. The table includes links to the amending ordinances (as maintained in PDF format on the Board of Supervisors' web site) and to the code sections affected. For other legislation, including older ordinances and those affecting other codes, please refer to the Comprehensive Ordinance Table or the Board's "Legislation Passed" web site.
 
-Ord. No.File No.Eff. DateShort Title and Code Sections Affected221-1313079012/01/13Business and Tax Regulations, Police Codes - Renting Parking Spaces at Residential Properties to Non-Residents
-
-Sections Affected:
-609 (Amended)Proposition EN/A[Oper. 01/01/14]*Gross Receipts Tax Ordinance
+Ord. No.File No.Eff. DateShort Title and Code Sections AffectedProposition EN/A[Oper. 01/01/14]*Gross Receipts Tax Ordinance
 
 Sections Affected:
 6.1-1, 6.2-12, 6.2-17, 6.9-1, 6.9-2, 6.9-3, 903.1, 905-A, 906E (Amended)

@@ -5,7 +5,7 @@ MUNICIPAL CODE
 TRANSPORTATION CODE
  New Legislation Notice
 Publisher's Note: This Code includes sections affected by new legislation. Click here for a list of the new legislation and the affected sections.
-The San Francisco Municipal Code is current through Ordinance 260-13, File No. 130814, approved November 14, 2013, effective December 14, 2013.
+The San Francisco Municipal Code is current through Ordinance 268-13, File No. 130937, approved November 27, 2013, effective December 27, 2013.
 Division I of the Transportation Code was last amended by Ordinance 198-13, File No. 130672, approved October 3, 2013, effective November 2, 2013.
 Division II of the Transportation Code was last amended by SFMTA Board Resolution No. 13-230, adopted October 15, 2013, effective November 15, 2013.
 
@@ -37,9 +37,10 @@ Public Works Code
 Subdivision Code
 Transportation Code
 
-Building Industry Commission Codes:
+Building Inspection Commission Codes:
 Building Code
 Electrical Code
+Green Building Code
 Housing Code
 Mechanical Code
 Plumbing Code
@@ -59,8 +60,13 @@ DIVISION I.
 
 ARTICLE 1:
 DEFINITIONS AND GENERAL PROVISIONS
+ New Legislation Notice
+Publisher's Note: This Article includes sections affected by new Ordinances. Click here for a list of all new legislation affecting sections of this Code.
+
 Sec. 1.1.Definitions. Sec. 1.2.City Undertaking Limited to Promotion of General Welfare. Sec. 1.3.Applicability of Vehicle Code Sec. 1.4.Severability. 
 SEC. 1.1.  DEFINITIONS.
+ New Legislation Notice
+Publisher's Note: This section has been AMENDED by new legislation (Ord. 280-13, approved 12/18/2013, effective 1/17/2014). The text of the amendment will be incorporated below when the new legislation is effective.
 	(a)	Whenever in this Transportation Code words or phrases are used that are not defined by the provisions of this Code, but are defined in the Vehicle Code, the definition and meaning shall be applied as set forth in the Vehicle Code. 
 	(b)	Any words or phrases that are not defined in the Vehicle Code or in Division II of this Code shall have the meanings set forth below. 
 		(1)	California Public Utilities Commission, CPUC. The Public Utilities Commission of the State of California. 
@@ -393,6 +399,9 @@ SEC. 6.15.  MONITORED BICYCLE PARKING AT PUBLIC EVENTS.
 (Amended by Ord. 287-08, File No. 081340, App. 12/5/2008)
 ARTICLE 7:
 VIOLATIONS
+ New Legislation Notice
+Publisher's Note: This Article includes sections affected by new Ordinances. Click here for a list of all new legislation affecting sections of this Code.
+
 Sec. 7.1.Traffic Code Section Numbering. Sec. 7.2.Infractions. Pedestrians and Sidewalks Sec. 7.2.10.Pedestrian Crossings. Sec. 7.2.11.Electric Personal Assistive Mobility Devices. Sec. 7.2.12.Bicycle Riding Restricted. Sec. 7.2.13.Non-Motorized User-Propelled Vehicles (NUV). On-Street ParkingSec. 7.2.20.Residential/Carpool Parking. Sec. 7.2.22.Street Cleaning Parking Restrictions. Sec. 7.2.23.Payment of Parking Meter. Sec. 7.2.24.Parking in Driveways. Sec. 7.2.25.Curb Parking – Red Zones.Sec. 7.2.26.Curb Parking – Yellow Zones.Sec. 7.2.27.Curb Parking – White Zones.Sec. 7.2.28.Curb Parking – Green Zones.Sec. 7.2.29.Parking Prohibited for More Than 72 Hours. Sec. 7.2.30.Overtime Parking.Sec. 7.2.32.Perpendicular or Angled Parking. Sec. 7.2.33.Blocking Residential Door.Sec. 7.2.34.Parking Adjacent to or on Median Dividers or Traffic Islands. Sec. 7.2.35.Parking on Grades. Sec. 7.2.36.Parking Oversized Vehicles Within 100 Feet of an Intersection. Sec. 7.2.37.Motorcycle Parking. Sec. 7.2.38.Parking in Stands. Sec. 7.2.39.Parking Within Transit-Only Lanes.Sec. 7.2.40.Parking Prohibitions – Downtown Core. Sec. 7.2.41.Parking Prohibitions – Outside the Downtown Core. Sec. 7.2.42.Parking Restrictions. Sec. 7.2.43.Parking on Public Property. Sec. 7.2.44.Disabled Parking Placard and Special License Plate Restrictions.Sec. 7.2.45.Diverting of Traffic and Temporary Parking Restrictions. Sec. 7.2.46.Temporary Parking and Traffic Restrictions.Sec. 7.2.47.Removal of Chalk Marks. Sec. 7.2.48.Construction or Repairing of Vehicles. Sec. 7.2.49.Displaying Permit on Other Vehicles. Sec. 7.2.50.Displaying Fraudulent Parking Permit or Submitting False, Misleading or Fraudulent Information on a Residential Parking Permit Application.Sec. 7.2.51.Parking Within Parking Spaces. Sec. 7.2.52.Car Share Vehicle Parking Restrictions.Sec. 7.2.54.Large Vehicle Parking Restrictions.Off-Street ParkingSec. 7.2.60.Payment of Parking Facility Charges; Proof of Payment.Sec. 7.2.61.Use of Entrance and Exit of Municipal Parking Facility.Sec. 7.2.62.Blocking Parking Spaces.Sec. 7.2.63.Speed of Vehicles.Sec. 7.2.64.Blocking an Electric Charging Bay.Sec. 7.2.65.Overtime Parking.Sec. 7.2.66.Disabled Parking Placard and Special License Plate Restrictions.Traffic RegulationsSec. 7.2.70.Obstructing Traffic – Vehicle.Sec. 7.2.71.Obstructing Traffic – Without Permit; Violation of Terms of Permit; Violation of Division II, Section 903.Sec. 7.2.72.Driving In Transit-Only Area.Sec. 7.2.73.Driving Through Parades.Sec. 7.2.74.Streetcar Right-of-Way – Vehicles Prohibited. Sec. 7.2.75.Passing Safety Zones. Sec. 7.2.77.Weight Restricted Streets. Sec. 7.2.78.Parking or Driving of Vehicles in Port Area. Commercial VehiclesSec. 7.2.80.Vehicles for Hire and Taxis; Parking prohibited in Certain Use Districts. Sec. 7.2.81.Parking of Vehicles for Commercial Advertising Purposes. Sec. 7.2.82.Selling From a Vehicle Restricted. Sec. 7.2.83.Truck Loading Zone. Sec. 7.2.84.Commercial Vehicle Parking in Certain Districts. Sec. 7.2.85.Commercial Vehicle Double Parking. Sec. 7.2.86.Idling Engine While Parked. Sec. 7.2.87.Commercial Passenger Vehicle Restrictions. Sec. 7.2.88.On Street Sales Restrictions. Transit ViolationsSec. 7.2.101.Fare Evasion Regulations. Sec. 7.2.102.Passenger Conduct Regulations. Sec. 7.2.103.Conversing with Operating Personnel Prohibited. Sec. 7.2.104.Clipper Card Regulations.Sec. 7.3.Misdemeanors. Sec. 7.3.1.Other Fare Evasion and Passenger Conduct Regulations. Sec. 7.3.2.Fraudulent Payment Prohibited. Sec. 7.3.3.Obstructing Traffic. Sec. 7.3.4.Failure to Surrender a Revoked Parking Permit. Sec. 7.3.5.Operating Without a Permit. Sec. 7.3.6.Solicitation and Paid Passenger Referrals Prohibited.Sec. 7.3.7.Gifts or Gratuities. Sec. 7.3.8.False Statements Prohibited. Sec. 7.3.9.Refusal to Pay Fare. Sec. 7.3.10.Excessive and Unauthorized Charges. Sec. 7.3.11.False Statements on Residential Parking Permit Application.Sec. 7.4.Report on Improved Taxi Service. 
 SEC. 7.1.  TRAFFIC CODE SECTION NUMBERING.
 	Police Officers and Parking Control Officers shall have the authority to issue citations for violations of this Code by citing either the former Traffic Code section number applicable to the violation that appears in parenthesis at the end of a section or subsection of the Transportation Code, the current Transportation Code section, or the applicable Vehicle Code section number without affecting the validity of the citation. 
@@ -457,6 +466,8 @@ SEC. 7.2.29.  PARKING PROHIBITED FOR MORE THAN 72 HOURS.
 	No person shall park or leave standing any vehicle on any public street or highway for more than 72 consecutive hours. 
 (Amended by Ord. 287-08, File No. 081340, App. 12/5/2008; Ord. 231-09, File No. 090780, App. 11/10/2009)
 SEC. 7.2.30.  OVERTIME PARKING.
+ New Legislation Notice
+Publisher's Note: This section has been AMENDED by new legislation (Ord. 280-13, approved 12/18/2013, effective 1/17/2014). The text of the amendment will be incorporated below when the new legislation is effective.
 	For the operator of any vehicle Parked on the street: 
 	(a)	To Park a vehicle for longer than posted time restrictions within the Downtown Core; (32(c)(1))*
 	(b)	To Park a vehicle for longer than applicable posted time restrictions on the street outside the Downtown Core; (32(c)(2))* or 
@@ -594,6 +605,8 @@ SEC. 7.2.64.  BLOCKING AN ELECTRIC CHARGING BAY.
 	To Park any vehicle other than an electric vehicle, in a Parking Space in a Municipal Parking Facility that is equipped with an electric vehicle charging bay in a manner that blocks or occupies the electric vehicle charging bay. (32.21A(a))*
 (Amended by Ord. 287-08, File No. 081340, App. 12/5/2008)
 SEC. 7.2.65.  OVERTIME PARKING.
+ New Legislation Notice
+Publisher's Note: This section has been AMENDED by new legislation (Ord. 280-13, approved 12/18/2013, effective 1/17/2014). The text of the amendment will be incorporated below when the new legislation is effective.
 	For the operator of any vehicle Parked in a Municipal Parking Facility:
 	(a)	To Park a vehicle for longer than posted time restrictions; or
 	(b)	To permit any vehicle to remain Parked at a Parking Meter beyond the maximum time permitted for Parking at that Parking Meter. Any vehicle Parked at an inoperable or broken Parking Meter for which Parking is permitted in excess of two hours shall be permitted to Park for a maximum time period of two hours.
@@ -2870,7 +2883,10 @@ Sections Affected:
 New Legislation
 Publisher's Note:  The following table lists all legislation affecting the Transportation Code that has been passed by the Board of Supervisors or the Municipal Transportation Agency Board of Directors but that is not yet effective. The table includes links to the amending legislation (in PDF format) and to the code sections affected. For other legislation, including older ordinances and those affecting other codes, please refer to the Comprehensive Ordinance Table or the Board of Supervisors' "Legislation Passed" web site.
 
-No.File No.Eff. DateShort Title and Code Sections AffectedRes. 13-229N/A11/14/13
+No.File No.Eff. DateShort Title and Code Sections Affected280-1313111901/17/14Transportation Code - Inoperable/Broken Parking Meter Time Limits
+
+Sections Affected:
+1.1, 7.2.30, 7.2.65 (Amended)Res. 13-229N/A11/14/13
 
 Oper. 04/15/14*Taxi Rates and Fees
 

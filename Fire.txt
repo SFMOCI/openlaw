@@ -2,11 +2,9 @@
 CITY AND COUNTY OF SAN FRANCISCO
 MUNICIPAL CODE 
 
-FIRE CODE
- New Ordinance Notice
-Publisher's Note: The 2010 San Francisco Fire Code, as set forth below, is to be repealed in its entirety and replaced by the 2013 San Francisco Fire Code as of January 1, 2014. See Ord. 200-13, File No. 130786, approved October 3, 2013.
-The San Francisco Municipal Code is current through Ordinance 260-13, File No. 130814, approved November 14, 2013, effective December 14, 2013.
-The Fire Code was last amended by Ordinance 200-13, File No. 130786, approved October 3, 2013, effective November 2, 2013.
+2013 FIRE CODE
+The San Francisco Municipal Code is current through Ordinance 268-13, File No. 130937, approved November 27, 2013, effective December 27, 2013.
+The 2013 Fire Code was enacted by Ordinance 200-13, File No. 130786, approved October 3, 2013, effective November 2, 2013, operative January 1, 2014.
 
 
 AMERICAN LEGAL PUBLISHING CORPORATION
@@ -36,569 +34,499 @@ Public Works Code
 Subdivision Code
 Transportation Code
 
-Building Industry Commission Codes:
+Building Inspection Commission Codes:
 Building Code
 Electrical Code
+Green Building Code
 Housing Code
 Mechanical Code
 Plumbing Code
 
 Comprehensive Ordinance List
 
-PREFACE TO THE FIRE CODE 
-Ordinance 277-10 (File No. 100878, approved November 5, 2010, effective January 1, 2011) provides in part as follows:
-	Ordinance repealing the San Francisco Fire Code in its entirety and replacing that code with a new 2010 San Francisco Fire Code consisting of the 2010 California Fire Code and portions of the 2009 International Fire Code together with San Francisco amendments; adopting findings of local conditions pursuant to California Health and Safety Code Section 17958.7 and directing the Clerk of the Board to forward San Francisco's amendments to the California Building Standards Commission and State Fire Marshal; and making environmental findings.
-* * *
-	Section 4. 2010 Fire Code. The San Francisco Fire Code is hereby repealed in its entirety and replaced with the following 2010 San Francisco Fire Code. The 2010 San Francisco Fire Code incorporates by reference Title 24, California Code of Regulations, Part 9 (California Fire Code) including appendices adopted by the State. In addition, except as expressly deleted, modified or amended herein, the 2010 San Francisco Fire Code incorporates by reference those portions of the 2009 International Fire Code that were not adopted by the California Building Standards Commission in the California Fire Code, as well as Section D105 of Appendix D, and Appendix I in its entirety. 
-	The 2010 San  Francisco Fire Code is adopted to regulate and govern the safeguarding of life and property from fire and explosions hazards arising from the storage, handling and use of hazardous substances, materials and devices, and from conditions hazardous to life or property in the occupancy of buildings and premises as herein provided; and to provide for the issuance of permits, inspections and other Fire Department services, and the assessment and collection of fees for those permits, inspections and services.
+PREFACE TO THE 2013 FIRE CODE 
+The 2013 San Francisco Fire Code
+	Ordinance 200-13 (File No. 130786, approved October 3, 2013, effective November 2, 2013, operative January 1, 2014) repealed the former Fire Code in its entirety and enacted this 2013 Fire Code. Section 2 of that Ordinance provides in part:
+	The 2013 San Francisco Fire Code is designed to regulate and govern the safeguarding of life and property from fire and explosions hazards arising from the storage, handling, and use of hazardous substances, materials, and devices, and from conditions hazardous to life or property in the occupancy of buildings and premises. The 2013 San Francisco Fire Code is also designed to provide for the issuance of permits, inspections, and other Fire Department services, as well as the assessment and collection of fees for those permits, inspections, and services.
+	Generally, the State of California adopts a new California Fire Code every three (3) years, with the new code going into effect 180 days after publication. The California Fire Code consists of a base model code with amendments made by various State agencies with jurisdiction over the California Fire Code. The 2013 California Fire Code is based on the 2012 International Fire Code.
+	Local jurisdictions are required to enforce the California Fire Code. In addition, local jurisdictions may enact more restrictive building standards than those set in the California Fire Code, where those more restrictive standards are reasonably necessary because of local conditions caused by climate, geology, or topography. For San Francisco to enact more restrictive standards, the Board of Supervisors must make express findings regarding the local conditions to support the more restrictive provisions. Local amendments to building standards are not effective until the required findings are locally adopted and sent to the California Building Standards Commission.
+	The California Building Standards Commission recently issued the 2013 California Fire Code. That Code will go into effect on January 1, 2014. A copy of the 2013 California Fire Code is on file with the Clerk of the Board of Supervisors in File No. 130786 and is incorporated herein by reference. The San Francisco Fire Department must enforce the California Fire Code. If San Francisco wishes to impose more restrictive building standards than those set in the California Fire Code, it must do so before the effective date of the 2013 California Fire Code. In addition, State and local law allow local amendments in the interim between code adoptions.
+*  *  *
+	The 2013 San Francisco Fire Code incorporates by reference the 2013 California Fire Code (Title 24, California Code of Regulations, Part 9), including appendices adopted by the State. In addition, except as expressly deleted, modified, or amended, the 2013 San Francisco Fire Code incorporates by reference those portions of the 2012 International Fire Code that were not adopted by the California Building Standards Commission in the California Fire Code. The 2013 San Francisco Fire Code also includes local amendments specific to San Francisco.
+The San Francisco Municipal Code
 	This electronic version of the City and County of San Francisco Municipal Code is updated as amending legislation is approved. New Ordinance Notices are inserted where applicable to call the user's attention to material that has been affected by legislation that has been passed but is not yet effective. Any references to such legislation are also compiled in a table at the end of this Code. The amendments are then incorporated into the Code when they become effective.
-	Beginning with ordinances passed in 2011, all ordinances affecting this Code are summarized in a table that lists the identifying information (ordinance and file numbers), effective date, short title, and sections affected for each such ordinance. Users should note that the operative date of an ordinance may be later than the effective date of the ordinance. A delayed operative date will be noted in the ordinance.
+	All ordinances affecting this Code are summarized in a table that lists the identifying information (ordinance and file numbers), effective date, short title, and sections affected for each such ordinance. Users should note that the operative date of an ordinance may be later than the effective date of the ordinance. A delayed operative date will be noted in the ordinance.
 	This Code may contain various Editor's Notes (explaining the disposition of or cross referencing various provisions), and/or Codification Notes (documenting scrivener's errors and the like found in the underlying ordinances). Such notes have been inserted by the publisher for the convenience of the user or as historical references. They have not been approved or adopted by the City and County of San Francisco, and are of no legal force or effect.
- 
-CHAPTER 1SAN FRANCISCO GENERAL CODE PROVISIONSDivision 1San Francisco Administration1.1.1[For SF] Title1.1.2.1[For SF] Promotion of General Welfare1.1.8.1[For SF] Adoption of New CodeDivision IIAdministration Part 1General Provisions Section 104General Authority and Responsibilities104.1.1[For SF] Administrative Bulletins104.1.2[For SF] New Administrative Bulletins; revisions to existing Administrative Bulletins 104.5.1[For SF] Unauthorized tampering104.6.2.1[For SF] Photographs104.10.2[For SF] Photographs104.10.3[For SF] RewardSection 105Permits 105.1.1[For SF] Permits required105.1.3[For SF] Permits for the same location105.2.3[For SF] Time limitation of application105.2.5[For SF] Hearing for certain permits105.3.1[For SF] Expiration105.3.9[For SF] License105.4.1[For SF] Submittals105.4.6[For SF] Retention of construction documents105.6.23[For SF] Hot work operations 105.6.27[For SF] LP-gas 105.6.31[For SF] Open flame and torches105.6.48.[For SF] Battery systems105.7.15[For SF] Car stacking parking systems 105.7.16[For SF] Radio coverage systems Section 109Violations 109.1[For SF] Unlawful acts 109.2[For SF] Person responsible 109.3[For SF] Remedies available 109.4[For SF] Notice of violation 109.4.1[For SF] Service of notice of violation 109.4.2[For SF] Re-inspection fee109.4.3[For SF] Hearing on notice of violation109.4.4[For SF] Civil action and penalties 109.4.5[For SF] Presumption of noncompliance109.5[For SF] Administrative citations 109.5.1[For SF] City employees who may issue administrative citations 109.5.2[For SF] Fines for administrative citations for specific code violations109.5.3[For SF] Allocation of administrative citation fines109.6[For SF] Criminal charges 109.7[For SF] Designated officers and employees 109.8[For SF] Civil action to recover costs Section 111Stop Work Order111.4[For SF] Failure to complySection 112Service Utilities112.1[For SF] Authority to disconnect service utilitiesSection 113Fees 113.1[For SF] General113.2[For SF] Operational permit filing fees113.2.1[For SF] Consolidation of permits fee 113.2.2[For SF] Posting fee 113.2.3[For SF] Permit fees for vendors at street fairs involving temporary street closures (ISCOTT)113.3[For SF] Construction permit fees113.4[For SF] Plan review fees 113.5[For SF] Field inspection fees 113.6[For SF] Pre-application plan review113.7[For SF] Re-inspection of violation fees 113.8[For SF] High-rise inspection fees 113.8.1[For SF] Gross floor area113.9[For SF] Referral fees 113.10[For SF] Overtime fee 113.11[For SF] Collection of other fees113.12[For SF] Water flow request fee 113.13[For SF] False alarm fees 113.14[For SF] Residential apartment/hotel inspection fee113.15[For SF] Voluntary seismic retrofit fee waiver113.16[For SF] Cost recovery related to vehicle incidents 113.21[For SF] Fee-setting procedure Section 114[For Sf] - Fee Collection114.1[For SF] Collection of fees114.1.1[For SF] First notice 114.1.2[For SF] Second notice114.1.3[For SF] Report to Bureau of Delinquent Revenue Collection CHAPTER 3GENERAL PRECAUTIONS AGAINST FIRESection 308Open Flames 308.1.3[For SF] Torches for removing paint 308.1.6.2[For SF] Portable fueled open-flame devicesSection 315Miscellaneous Combustible Materials Storage 315.2.3.1[For SF] Elevator machine rooms 315.2.3.1.1[For SF] Elevator machine room sign Section 316Hazards to Firefighters 316.3.1[For SF] Barbed or razor wire316.6[For SF] Roof obstructions 316.7[For SF] Signage for buildings with certain types of construction CHAPTER 4EMERGENCY PLANNING AND PREPAREDNESS404.1[For SF] State of California requirements 404.2[For SF] Fire safety director 404.3[For SF] Emergency procedures information CHAPTER 5FIRE SERVICE FEATURESSection 503Fire Apparatus Access Roads503.4[For SF] Obstruction of fire apparatus access roads.Section 504Access to Building Openings and Roofs 504.2.1[For SF] Breakable window marking504.3.1[For SF] Access to roof504.4[For SF] Identification on steel doorsSection 506Key Boxes 506.2.1[For SF] Key box installation and maintenance Section 507Fire Protection Water Supplies507.4[For SF] Water supply information507.6[For SF] Other water suppliesSection 508Fire Command Center 508.1.5.1[For SF] Local additional featuresSection 510Emergency Responder Radio Coverage 510.4[For SF] Emergency responder radio coverage systems installation and maintenance 510.5[For SF] Construction plansSection 511Local Fire Safety Feature Requirements 511.1[For SF] Local elevator standards for buildings 200 feet or more in height; special elevator requirement 511.2[For SF] Local standards for high-rise buildings and tunnels CHAPTER 6BUILDING SERVICES AND SYSTEMS Section 605Electrical Equipment, Wiring and Hazards 605.11[For SF] Solar photovoltaic systems Section 607Elevator Recall and Maintenance 607.6[For SF] Maintenance of elevators CHAPTER 8INTERIOR FINISHESCHAPTER 9FIRE-PROTECTION SYSTEMSSection 901General 901.8.2[For SF] Subsurface constructionSection 902Definitions Section 903Automatic Sprinkler Systems 903.2.15.2[For SF] Automatic sprinkler system - existing high-rise buildings 903.2.19[For SF] Automatic sprinkler system - existing SRO hotel buildings903.2.20[For SF] Automatic sprinkler system - existing residential hotel buildings 903.3.6.1[For SF] Fire Department connection type Section 904Alternative Automatic Fire-Extinguishing Systems 904.11.6.2[For SF] Extinguishing system service Section 905Standpipe Systems 905.2.1[For SF] Local installation standard 905.3.4[For SF] Stages905.3.10[For SF] Fixed guideway transit systems905.3.11[For SF] Buildings with limited Fire Department access 905.4.3[For SF] Local requirement for location of Class I standpipe hose connectionsSection 907Fire Alarm and Detection Systems 907.1.2[For SF] Fire alarm shop drawings907.2.9.4[For SF] Automatic smoke detection system907.6.2.2.5[For SF] Local requirements for emergency voice alarm-signaling system 907.7.3.1.2[For SF] Local annunciation requirement 907.7.3.1.3[For SF] Graphic annunciation907.7.3.2.1[For SF] High-rise building fire alarm annunciation 907.7.5.3[For SF] Termination of service 907.8.4[For SF] Fire alarm certification required907.9.4[For SF] Maintenance, inspection, and testing 907.9.5[For SF] Certificated fire alarm system for existing buildingsSection 914Fire Protection Based on Special Detailed Requirements of Use and Occupancy 914.3.1.1[For SF] Number of sprinkler risers and system design914.3.1.3[For SF] Fire Department connections 914.3.1.4[For SF] Fire pumps 914.3.1.5[For SF] Elevator machine rooms and hoistways in high-rise buildings914.12[For SF] Piers914.13[For SF] Building with car parking stacking systems CHAPTER 10MEANS OF EGRESS Section 1030Maintenance of the Means of Egress 1030.2.1[For SF] Fire escape obstructions CHAPTER 26HOT WORK Section 2610Hot Work on Piers 2610.1[For SF] Scope2610.2[For SF] Repairs on Vessels 2610.3[For SF] Repairs on Piers 2610.4[For SF] Requirements for Hot WorkCHAPTER 33EXPLOSIVES AND FIREWORKSSection 3301General 3301.2[For SF] Insurance 3301.3[For SF] Explosives, explosive materials, fireworks, and pyrotechnics3301.4[For SF] PermitsCHAPTER 46CONSTRUCTION REQUIREMENTS FOR EXISTING BUILDINGSSection 4603Fire Safety Requirements for Existing Buildings4603.4[For SF] Sprinkler systems4603.4.1[For SF] Automatic sprinkler system for existing SRO hotel buildings4603.4.2[For SF] Automatic sprinkler system for existing high-rise buildings4603.4.3[For SF] Automatic sprinkler system for existing hotels4603.6.10[For SF] Certificated fire alarm systems for existing buildingsCHAPTER 50[For SF] - PARKING LOTS AND GARAGES5001[For SF] - Scope5002[For SF] - Definitions5003[For SF] General Requirements5003.1[For SF] Aisles5003.2[For SF] Exit width 5003.3[For SF] Vehicle barriers 5003.4[For SF] Illumination 5003.5[For SF] Sign5003.6[For SF] Vehicle servicing APPENDIX DFIRE APPARATUS ACCESS ROADS Section D105Aerial Fire Apparatus Access RoadsD105.1[For SF] Where required 
 CHAPTER 1
 SAN FRANCISCO GENERAL CODE PROVISIONS
-[Repealed as of 1/1/2014]*
-The following sections supplement, modify, amend or delete specified provisions of the California Fire Code and the 2009 International Fire Code, as follows: 
-DIVISION 1  SAN FRANCISCO ADMINISTRATION
-The following San Francisco section replaces the corresponding California Fire Code section. 
-1.1.1  [For SF] Title.
-	These regulations shall be known as the 2010 San Francisco Fire Code, may be cited as such, and will be referred to herein as "this code." This code incorporates by reference the 2010 California Fire Code (Title 24, California Code of Regulations, Part 9) including appendices adopted by the State. In addition, this code incorporates by reference those portions of the 2009 International Fire Code that were not adopted by the California Building Standards Commission in the California Fire Code, except those portions of the 2009 International Fire Code that are expressly deleted, modified or amended herein. In addition, San Francisco specifically adopts the following appendices of the 2009 International Fire Code: Appendix D, Section D105 as amended; and Appendix I in its entirety. 
-1.1.2.1  [For SF] Promotion of General Welfare.
-	In undertaking the adoption and enforcement of this code, the City and County of San Francisco is assuming an undertaking only to promote the general welfare. It is not assuming, nor is it imposing on itself or its officers and employees, an obligation for breach of which it is liable in money damages to any person who claims that such breach proximately caused injury. 
-1.1.8.2  [For SF] Adoption of New Code.
-	The Chief of the Fire Department shall review all adoptions of the California Fire Code by the California Building Standards Commission. Within 180 days of publication of such adoptions, the Chief shall recommend, through the Fire Commission, to the Board of Supervisors such revisions of this code as are reasonably necessary to accommodate local climate, geological or topographical conditions. This section does not prohibit amendments to this code in the interim between code adoptions by the California Building Standards Commission. 
-DIVISION II  ADMINISTRATION
-PART 1  GENERAL PROVISIONS
-	Section 101 is deleted. 
-	Sections 102.6 through 102.8, and 102.10 through 102.12 are deleted. 
-	Sections 103.1 through 103.3 are deleted. 
-SECTION 104-GENERAL AUTHORITY AND RESPONSIBILITIES
-104.1.1  [For SF] Administrative Bulletins.
-	The Fire Department is authorized to issue Administrative Bulletins that establish or clarify requirements under this code, provide interpretations of this code, and set policies and procedures of the Bureau of Fire Prevention. These bulletins shall be posted on the Fire Department's website. 
-104.1.2  [For SF] New Administrative Bulletins; revisions to existing Administrative Bulletins.
-	When the fire code official determines that it is appropriate to develop or revise an Administrative Bulletin, the Fire Department shall post the proposed new or revised Bulletin on its website for 30 days, and provide notice of that Bulletin to parties who have registered to receive notice on the Department's website. The posting shall include instructions for providing written comments on the proposed Bulletin and notice of a public hearing regarding the proposed Bulletin. The fire code official shall conduct a public hearing on the proposed Bulletin, to obtain public comment. The hearing shall be held after the 30 day posting period. The Fire Commission shall approve any proposed new or revised Bulletin at a noticed meeting. A Bulletin shall not be effective until approved by the Fire Commission. The fire code official and the Fire Commission may amend the proposed Bulletin during the approval process without re-posting the Bulletin for 30 days. 
-104.5.1  [For SF] Unauthorized tampering.
-	No person shall remove, obscure, mutilate, destroy or tamper with signs, tags or seals posted or affixed by the fire code official without authorization from the fire code official. 
-104.6.2.1  [For SF] Photographs.
-	The fire code official is authorized to take photographs during inspections as deemed appropriate by the fire code official. 
-104.10.2  [For SF] Photographs.
-	The fire code official is authorized to take photographs during fire investigations as deemed appropriate by the fire code official. 
-104.10.3  [For SF] Reward.
-	The Mayor is authorized to offer a reward for the arrest and conviction of any person found guilty of arson or attempted arson according to the California Penal Code. 
-SECTION 105-PERMITS
-The following San Francisco section replaces the corresponding California Fire Code section. 
-105.1.1  [For SF] Permits required.
-	Any person who engages in an activity for which an operational permit is required under in Section 105.6 of this code shall obtain the appropriate permit from the fire code official prior to engaging in the activity. Any person installing or modifying systems or equipment that require construction permits under Section 105.7 of this code shall obtain a building permit from the San Francisco Department of Building Inspection prior to the start of work. Any person applying for a permit shall pay permit fees, as required by Section 113, and any fees required by other departments as applicable, prior to the applicable Department issuing the permit. The permit holder shall keep the permit on the premises designated therein at all times and shall make the permit readily available for inspection by the fire code official. 
-The following San Francisco section replaces the corresponding International Fire Code section. 
-105.1.3  [For SF] Permits for the same location.
-	When more than one Fire Department permit is required for the same location, the fire code official may consolidate the permits into a single permit at the time of issuance. The applicant shall pay a fee for permit consolidation is specified in Section 113.2.1. 
-The following San Francisco section replaces the corresponding California Fire Code section. 
-105.2.3  [For SF] Time limitation of application.
-	The fire code official is authorized to cancel a permit application when the applicant fails to make corrections or to provide additional information required by the fire code official within 180 days after filing the application. 
-105.2.5  [For SF] Hearing for certain permits.
-	Certain permit applications are subject to hearings in accordance with San Francisco Business and Tax Regulation Code, Article 1, Section 22. 
-The following San Francisco section replaces the corresponding International Fire Code section. 
-105.3.1  [For SF] Expiration.
-	An operational permit shall remain in effect until re-issued, renewed, or revoked or for such a period of time as specified in the permit. Construction permits shall be administered through the San Francisco building permit process in accordance with the San Francisco Building Code. Permits are not transferable and a new permit is required for any change in occupancy, operation, tenancy, or ownership. 
-105.3.9  [For SF] License.
-	When San Francisco Business and Tax Regulation Code, Section 23, requires a license in conjunction with the issuance of a permit, the fire code official shall forward an approved permit to the Tax Collector for issuance. 
-	EXCEPTION: Permits for permitted activities occurring on Port of San Francisco property are administered separately. 
-The following San Francisco section replaces the corresponding California Fire Code section. 
-105.4.1  [For SF] Submittals.
-	Construction permit applicants shall submit documents and supporting data in accordance with procedures established in the 2010 San Francisco Building Code and San Francisco Fire Department Administrative Bulletins when applicable. 
-The following San Francisco section replaces the corresponding California Fire Code section. 
-105.4.6  [For SF] Retention of construction documents.
-	The Building Official shall be the custodian of approved construction documents in accordance with procedure established in the San Francisco Building Code. 
-The following San Francisco section replaces the corresponding California Fire Code section. 
-105.6.23  [For SF] Hot work operations.
-	An operational permit is required for hot work including, but not limited to: 
+DIVISION I – SAN FRANCISCO ADMINISTRATION
+SECTION 1.1
+The following 2013 San Francisco section replaces the corresponding 2013 California Fire Code section:
+1.1.1.  [For SF] Title.
+	These regulations shall be known as the 2013 San Francisco Fire Code, may be cited as such, and will be referred to herein as "this code." This code incorporates by reference the 2013 California Fire Code (Title 24, California Code of Regulations, Part 9), including appendices adopted by the State. In addition, this code incorporates by reference those portions of the 2012 International Fire Code that were not adopted by the California Building Standards Commission in the California Fire Code, except those portions of the 2012 International Fire Code that are expressly deleted, modified, or amended herein.
+1.1.2.1.  [For SF] Promotion of General Welfare.
+	In undertaking the adoption and enforcement of this code, the City and County of San Francisco is assuming an undertaking only to promote the general welfare. It is not assuming, nor is it imposing on itself or its officers and employees, an obligation for breach of which it is liable in money damages to any person who claims that such breach proximately caused injury.
+1.1.8.2.  [For SF] Adoption of New Code.
+	The Chief of the Fire Department shall review all adoptions of the California Fire Code by the California Building Standards Commission. Within 180 days of publication of such adoptions, the Chief shall recommend, through the Fire Commission, to the Board of Supervisors more restrictive standards of this code as are reasonably necessary to accommodate local climate, geological, or topographical conditions. This section does not prohibit amendments to this code in the interim between code adoptions by the California Building Standards Commission.
+DIVISION II – ADMINISTRATION
+PART I – GENERAL PROVISIONS
+SECTION 101 – [DELETED]
+Section 101 is deleted from the International Fire Code.
+SECTION 102
+Sections 102.6 through 102.8, and 102.10 through 102.12 are deleted from the International Fire Code.
+SECTION 103
+Sections 103.1 through 103.3 are deleted from the International Fire Code.
+SECTION 104 – GENERAL AUTHORITY AND RESPONSIBILITIES
+104.1.1.  [For SF] Administrative Bulletins.
+	The Fire Department is authorized to issue Administrative Bulletins that establish or clarify requirements under this code, provide interpretations oft his code, and set policies and procedures of the Bureau of Fire Prevention. These bulletins shall be posted on the Fire Department's website.
+104.1.2.  [For SF] New Administrative Bulletins; Revisions to Existing Administrative Bulletins.
+	When the fire code official determines that it is appropriate to develop or revise an Administrative Bulletin ("Bulletin"), the Fire Department shall post the proposed new or revised Bulletin on its website for 30 days, and provide notice of that Bulletin to parties who have registered to receive notice on the Department's website. The posting shall include instructions for providing written comments on the proposed Bulletin and notice of a public hearing regarding the proposed Bulletin. The fire code official shall conduct a public hearing on the proposed Bulletin, to obtain public comment. The hearing shall be held after the 30 day posting period. The Fire Commission shall approve any proposed new or revised Bulletin at a noticed meeting. A Bulletin shall not be effective until approved by the Fire Commission. The fire code official and the Fire Commission may amend the proposed Bulletin during the approval process without re-posting the Bulletin for 30 days.
+104.6.2.1.  [For SF] Inspection Photographs.
+	The fire code official is authorized to take photographs during inspections as deemed appropriate by the fire code official.
+104.10.2.  [For SF] Investigation Photographs.
+	The fire code official is authorized to take photographs during fire investigations as deemed appropriate by the fire code official.
+104.10.3.  [For SF] Reward.
+	The Mayor is authorized to offer a reward for the arrest and conviction of any person found guilty of arson or attempted arson according to the California Penal Code.
+SECTION 105 – PERMITS
+The following San Francisco section replaces the corresponding California Fire Code section:
+105.1.1.  [For SF] Permits Required.
+	Any person who engages in an activity for which an operational permit is required under Section 105.6 shall obtain the appropriate permit from the fire code official prior to engaging in the activity. Any person installing or modifying systems or equipment that require construction permits under Section 105.7 shall obtain a building permit from the San Francisco Department of Building Inspection prior to the start of work. Any person applying for a permit shall pay permit fees, as required by Section 113, and any fees required by other departments as applicable, prior to the applicable Department issuing the permit. The permit holder shall keep the permit on the premises designated therein at all times and shall make the permit readily available for inspection by the fire code official.
+The following San Francisco section replaces the corresponding California Fire Code section:
+105.1.3.  [For SF] Multiple Permits for the Same Location.
+	When more than one Fire Department permit is required for the same location, the fire code official may consolidate the permits into a single permit at the time of issuance. The applicant shall pay a fee for permit consolidation is specified in Section 113.2.1.
+The following San Francisco section replaces the corresponding International Fire Code section:
+105.2.3.  [For SF] Time Limitation of Application.
+	The fire code official is authorized to cancel a permit application when the applicant fails to make corrections or to provide additional information required by the fire code official within 180 days after filing the application.
+105.2.5.  [For SF] Hearing for Certain Permits.
+	Certain permit applications are subject to hearings in accordance with San Francisco Business and Tax Regulation Code, Article 1, Section 22.
+The following San Francisco section replaces the corresponding International Fire Code section:
+105.3.1.  [For SF] Expiration.
+	An operational permit shall remain in effect until re-issued, renewed, or revoked or for such a period of time as specified in the permit. Construction permits shall be administered through the San Francisco building permit process in accordance with the San Francisco Building Code. Permits are not transferable and a new permit is required for any change in occupancy, operation, tenancy, or ownership.
+105.3.9.  [For SF] License.
+	When San Francisco Business and Tax Regulation Code, Article 1, Section 23, requires a license in conjunction with the issuance of a permit, the fire code official shall forward an approved permit to the Tax Collector for issuance.
+	Exception: Permits for permitted activities occurring on Port of San Francisco property are administered separately.
+The following San Francisco section replaces the corresponding California Fire Code section:
+105.4.1.  [For SF] Submittals.
+	Construction permit applicants shall submit documents and supporting data in accordance with procedures established in the 2013 San Francisco Building Code and San Francisco Fire Department Administrative Bulletins when applicable.
+The following San Francisco section replaces the corresponding California Fire Code section:
+105.4.6.  [For SF] Retention of Construction Documents.
+	The building official shall be the custodian of approved construction documents in accordance with procedure established in the San Francisco Building Code.
+The following San Francisco section replaces the corresponding California Fire Code section:
+105.6.23.  [For SF] Hot Work Operations.
+	An operational permit is required for hot work including, but not limited to:
 	1.	Public exhibitions and demonstrations where hot work is conducted.
 	2.	Use of portable hot work equipment inside a structure.
-	Exception: Work that is conducted under a construction permit. 
+		Exception: Work that is conducted under a construction permit.
 	3.	Fixed-site hot work equipment such as welding booths.
 	4.	Hot work conducted within a wildfire risk area.
-	5.	Application of roof coverings and any other associated work while roofing or waterproofing the exterior surfaces of a building with the use of an open-flame device. 
-	6.	When approved, the fire code official shall issue a permit to carry out a hot work program. This program allows approved personnel to regulate their facility's hot work operations. The approved personnel shall be trained in the fire safety aspects denoted in this chapter and shall be responsible for issuing permits requiring compliance with the requirements found in Chapter 26. These permits shall be issued only to their employee or hot work operations under their supervision. 
-The following San Francisco section replaces the corresponding International Fire Code section. 
-105.6.27  [For SF] LP-gas.
-	An operational permit is required for storage and use of LP-gas. 
-	Exception: A permit is not required to use one LP-fueled cooking device per building or to store one additional cylinder with a 20 lb. (9.1-kg) aggregate water capacity outside of the building of residential occupancies. See Section 308.1.4 for additional requirements. 
-The following San Francisco section replaces the corresponding International Fire Code section. 
-105.6.31  [For SF] Open flame and torches.
-	An operational permit is required to use a torch or open-flame device in a wildfire risk area. 
-105.6.48.  [For SF] Battery systems.
-	An operational permit is required for stationary storage systems having a liquid capacity of more than 50 gallons (189L). See Section 608. 
-105.7.15  [For SF] Car stacking parking systems.
-	A construction permit is required to install car stacking parking systems in buildings. 
-105.7.16  [For SF] Radio coverage systems.
-	A construction permit is required to install emergency responder radio coverage systems. 
-Section 107.5 is deleted. 
-Section 108 is deleted. 
-Section 109 of the California Fire Code is deleted and replaced with the following San Francisco section. 
-SECTION 109-VIOLATIONS
-109.1  [For SF] Unlawful acts.
-	(a)	It shall be unlawful for a person to erect, construct, enlarge, alter, repair, move, improve, remove, convert, demolish, equip, use, occupy or maintain a building, occupancy, premises, system, or vehicle, or any portion thereof, or cause the same to be done, in violation of any of the provisions of this code. 
-	(b)	It shall be unlawful for a person to engage in any activity for which a permit is required under this code without the required permit, or to engage in any activity in violation of conditions set in a permit issued under this code. 
-109.2  [For SF] Person responsible.
-	(a)	Except as provided in subsection (c), the person responsible for a violation that pertains to a building, occupancy, premises, system, or vehicle is the owner of the building, occupancy, premises, system, or vehicle. 
-	(b)	The person responsible for a violation that pertains to an activity conducted without a permit required under this code or in violation of a permit issued under this code is the person engaging in that activity, except that if the person engaging in the activity is the employee of a business and is performing the activity in the course and scope of his or her employment, the owner of the business is the person responsible. 
-	(c)	The person responsible for a violation of Section 107.6 or Section 1030.2 of this code is the owner of the business operating at the building or premises. 
-109.3  [For SF] Remedies available.
-	The fire code official may enforce the provisions of this code by: issuing a notice of violation under Section 109.4; issuing an administrative citation under Section 109.5; and exercising criminal arrest and citation authority under Section 109.6. 
-109.4  [For SF] Notice of violation.
-	(a)	When the fire code official finds a building, occupancy, premises, system, or vehicle, or any portion thereof, that is in violation of this code, the fire code official may prepare a written notice of violation, which shall identify the code sections violated, describe the violation, and where applicable require correction of the violation. When correction is not immediate, the notice of violation shall specify a time for compliance and re-inspection. 
-	(b)	When the fire code official finds a person performing any activity requiring a permit under this code without the required permit, or conducting an activity in violation of conditions set in a permit issued under this code, the fire code official may prepare a written notice of violation, which shall identify the code sections violated and describe the violation. In addition, the fire code official may issue a stop work order under Section 111 of this code, requiring the person to immediately cease performing the activity. 
-109.4.1  [For SF] Service of notice of violation.
-	(a)	When a notice of violation pertains to a specific building, occupancy, premises, system, or vehicle, the fire code official shall serve the notice of violation upon the owner of the building, occupancy, premises, system, or vehicle as follows: by personal service or by regular U.S. mail and certified or registered mail, or by leaving it with a person of responsibility at the building or premises. 
-	(b)	When a notice of violation pertains to a person engaged in an activity for which a permit is required without the required permit, or in violation of a permit issued under this code is the person engaging in that activity, the fire code official shall serve the notice of violation upon the person responsible for the activity as follows: by personal service, by regular U.S. mail and certified mail, or by leaving it with a person of responsibility at site of the activity. 
-	(c)	Service by certified or registered mail is effective on the date of mailing if the certified or registered letter is mailed, postage prepaid, return receipt requested, to the person responsible at that person's current address as listed with the Assessor's Office. If the Assessor's Office records do not include an address for a person entitled to notice, then the fire code official shall serve that person by mailing the letter to the address of the building, occupancy, premises, or system involved in the proceedings. 
-109.4.2  [For SF] Re-inspection fee.
-	When the fire code official issues a notice of violation and sets a date for compliance and re-inspection to certify compliance with code requirements, the fire code official shall charge a fee for the re-inspection and the person responsible shall pay that fee. 
-109.4.3  [For SF] Hearing on notice of violation.
-	(a)	If the person responsible to correct a violation fails to do so within the time period specified in the notice of violation, the fire code official may set the matter for hearing. 
-	(b)	Notice of hearing. If the fire code official determines to set the matter for hearing, the fire code official shall serve a notice of hearing that provides at least 30 days notice of the hearing. The notice shall include the following information: (1) the street address of the building, occupancy, premises, or system that is in violation of the code, or the date and location of any activity conducted without a required permit or in violation of permit conditions; (2) the date, hour and place of the hearing; (3) a statement that the hearing is an opportunity to appear before the fire code official to show cause why the fire code official should not order the building, occupancy, premises, or system repaired or altered to be brought into compliance with code, or vacated or demolished, or require a permit or compliance with permit requirements, (4) a warning that describes the penalties for violation as set forth in subsection (k) below and Section 109.4.4, and (5) a copy of the notice of violation. 
-	(c)	Service of notice. The fire code official shall serve the notice of hearing on each of the following persons: (1) the person, if any, in real or apparent charge and control of the building, occupancy, premises, or system, or responsible for any activity; (2) the owner of record of any building, occupancy, premises, or system, or where an activity occurred; (3) the holder of any mortgage, deed of trust, lien or encumbrance of record; (4) the owner or holder of any recorded lease; and (5) the holder of any other recorded estate or interest in the building, occupancy, premises, or system, or the land upon which it is located. The notice of hearing shall include an affidavit or declaration under penalty of perjury, certifying to the time and manner in which the notice was served. The fire code official shall serve the notice of hearing as follows: by personal service; or by regular U.S. mail and certified or registered mail. Service by certified or registered mail is effective on the date of mailing if the certified or registered letter is mailed, postage prepaid, return receipt requested, to each person entitled to notice as that person's address appears on the last annual tax roll of the county or at the address to which the Tax Collector mailed the most recent real property tax bill for the building, occupancy, premises, or system. If the annual tax roll or the Tax Collector records do not include an address for a particular person entitled to notice, then the fire code official shall serve the notice to that person at the address of the building, occupancy, premises, or system involved in the proceedings. The failure of any owner or other person to receive a notice of hearing shall not affect in any manner the validity of any proceeding taken or order issued under this Section. 
-	(d)	Posting of notice. The fire code official shall ensure that a copy of the notice of hearing and notice of violation is posted in a conspicuous place on the building or property, and at the location of the hearing. The notice shall be posted at both locations at least 10 days before the date set for the hearing. 
-	(e)	[Reserved.] 
-	(f)	Hearing. The fire code official or designee shall conduct a public hearing on the matter, at the date, time and location specified in the notice of hearing. The fire code official or designee may continue the hearing for good cause, except that any continuance shall not exceed 30 days and only one continuance is allowed. Subject to any procedures prescribed by the fire code official for the orderly conduct of the hearing, the fire code official may permit persons with an interest in the building, occupancy, premises, or system, or with knowledge of facts material to the allegations of the notice of violation to present evidence for the fire code official to consider. The fire code official may promulgate procedures for appeal hearings after a noticed public hearing. 
-	(g)	Decision and order. The fire code official shall give full and fair consideration to the evidence received at the hearing, and within 30 days of the conclusion of the hearing, shall issue a written decision either: (1) finding no violation and issuing an Order of Rescission that withdraws the notice of violation and dismisses the proceedings; or (2) finding that the building, occupancy, premises, or system, or any portion thereof, is in violation of this code and ordering that the person responsible take action as ordered by the fire code official to bring the building, occupancy, premises, or system into compliance with this code. The order may also direct that the building, occupancy, or premises be vacated pending compliance with the requirements of this code. Any order to correct a violation of this code or to vacate a building, occupancy or premises shall include the following: the street address of the building, occupancy, premises, or system; findings and conclusions about the specifics of the violations and the code section violated; a statement of work the person responsible must perform to remedy the violation and, if applicable, an order to vacate; and time requirements for compliance with the order. The fire code official shall require the person responsible to commence work required under the order within not more than 30 days from the date of the decision, and shall set a reasonable period of time, not to exceed six months from commencement, for the person responsible to complete the required work. 
-	(h)	Service of, posting and recording decision. The fire code official shall serve the decision and order on the persons and in the manner specified in subsection (c) above. The fire code official shall post the decision and order in the manner specified in subsection (d) above. The fire code official shall record the decision and order in the Assessor-Recorder's Office. 
-	(i)	The person responsible may submit a written application to extend the date to commence work required under the decision and order or to extend the date to complete required work. The fire code official may grant a request to extend the time to commence or to complete work, for good cause shown, only where there is no imminent risk to life or property, and for a time not to exceed 90 days. 
-	(j)	Compliance, Order of Compliance. When the fire code official determines that the person responsible has completed all work required under the order, and that the building, occupancy, premises, or system complies with the requirements of this code, the fire code official shall issue an Order of Compliance, acknowledging that the person responsible has complied with the original order. The fire code official shall serve and post the Order of Compliance, and file it in the Assessor-Recorder's Office. 
-	(k)	Penalties for disregarding order. Any person responsible who fails to comply with an order under this Section shall be guilty of a misdemeanor as set forth in Section 109.6. Any person in possession who fails to comply with an order to vacate shall be guilty of a misdemeanor as provided in Section 109.6. Any person who removes any notice or order posted as required in this Section shall be guilty of a misdemeanor as provide in Section 109.6. 
-109.4.4  [For SF] Civil action and penalties.
-	Any person violating this code, or who violates, disobeys, omits, neglects or refuses to comply with any notice of violation or decision and order under this code, shall be liable for a civil penalty of up to $1,000 for each day the violation is committed or permitted to continue, in addition to attorney's fees and costs, which penalty shall be assessed and recovered in a civil action brought by the City and County of San Francisco in any court of competent jurisdiction. In assessing the amount of the civil penalty, the court shall consider any one or more of the relevant circumstances presented by any of the parties to the case, including but not limited to, the following: the nature and seriousness of the misconduct, the number of violations, the persistence of the misconduct, the length of time over which the misconduct occurred, the willfulness of the defendant's misconduct, and the defendant's asset's, liabilities and net worth. Any penalties imposed pursuant to this section shall be paid to the City Treasurer and credited to the Fire Department. The remedies in this Section are in addition to any other remedies provided by law. No provision in this Section shall preclude prosecution of actions for criminal penalties concurrently, sequentially or individually. 
-109.4.5  [For SF] Presumption of noncompliance.
-	Notwithstanding any other provision of this code, any person served with a notice of violation that sets a date to correct the violations shall be presumed, in civil proceedings, to have failed to comply with that notice of violation if the date to correct the violation has passed without correction of the violation. 
-109.5  [For SF] Administrative citations.
-	Violations of this code may be punishable by administrative citation. Chapter 100 of the San Francisco Administrative Code is herein incorporated in its entirety and shall govern the amount of fees and the procedure for imposition, enforcement, collection and administrative review of administrative citations under this Section, except that the amount of the penalties for the code sections set in Section 109.5.2 shall be the amount specified in that Section, and all fines shall be allocated as specified in Section 109.5.3. 
-109.5.1  [For SF] City employees who may issue administrative citations.
-	The City employees specified in Section 109.7 may issue administrative citations for any violation of this code. 
-109.5.2  [For SF] Fines for administrative citations for specific code violations.
-	The fine for violation of Sections 105.1.1, 107.6, 111.4, 907.8.4 and 1030.2 of this code shall be $1000. 
-109.5.3  [For SF] Allocation of administrative citation fines.
-	All fines and late payment fees shall be payable to the Fire Department and shall be used to support fire safety and prevention programs. 
-109.6  [For SF] Criminal charges.
-	Pursuant to California Government Code Section 36900, any person who violates, disobeys, omits, neglects or refuses to comply with any of the provisions of this code or any lawful order issued under this code shall be guilty of an infraction or a misdemeanor. The fire code official shall determine and the citation shall specify whether the violation charged is a misdemeanor or an infraction. If charged as an infraction, the penalty shall be a fine not to exceed $100 for a first violation, not to exceed $500 for a second violation of the same section or subsection within one year of the date of the first violation, and not to exceed $1,000 for each additional violation of the same section or subsection within one year of the date of the second or any subsequent violation. If charged as a misdemeanor, the penalty shall be a fine of not less than $500 or more than $1,000 or imprisonment in the county jail not exceeding six (6) months, or both fine and imprisonment, no part of which may be suspended. Every day such violation, disobedience, omission, neglect or refusal continues is a new offense. Any person who does any work in violation of any of the provisions of this code, and any person having charge of such work who permits it to be done, shall be liable for the penalty provided. 
-109.7  [For SF] Designated officers and employees.
-	Pursuant to California Penal Code Section 836.5, the classes of officers or employees of the City and County of San Francisco listed below are empowered to enforce all provisions of this code against violations as a misdemeanor or infraction by exercising arrest and citation authority: 
+	5.	Application of roof coverings and any other associated work while roofing or waterproofing the exterior surfaces of a building with the use of an open-flame device.
+	6.	When approved, the fire code official shall issue a permit to carry out a hot work program. This program allows approved personnel to regulate their facility's hot work operations. The approved personnel shall be trained in the fire safety aspects denoted in this chapter and shall be responsible for issuing permits requiring compliance with the requirements found in Chapter 35. These permits shall be issued only to their employee or hot work operations under their supervision.
+The following San Francisco section replaces the corresponding International Fire Code section:
+105.6.27.  [For SF] LP-Gas.
+	An operational permit is required for storage and use of LP-gas.
+	Exception: A permit is not required to use one LP-fueled cooking device per building or to store one additional cylinder with a 20 lb. (9.1 kg) aggregate water capacity outside of the building of residential occupancies. See Section 308.1.4 for additional requirements.
+The following San Francisco section replaces the corresponding International Fire Code section:
+105.6.31.  [For SF] Open Flame and Torches.
+	An operational permit is required to use a torch or open-flame device in a wildfire risk area.
+105.6.48.  [For SF] Operational Permits for Battery Systems.
+	An operational permit is required for stationary storage systems having a liquid capacity of more than 50 gallons (189L). See Section 608.
+105.7.17.  [For SF] Car Stacking Parking Systems.
+	A construction permit is required to install car stacking parking systems in buildings.
+SECTION 108 – [DELETED]
+Section 108 is deleted from the International Fire Code.
+SECTION 109 – VIOLATIONS
+Section 109 of the California Fire Code is replaced with the following San Francisco section:
+109.1.  [For SF] Unlawful Acts.
+	(a)	It shall be unlawful for a person to erect, construct, enlarge, alter, repair, move, improve, remove, convert, demolish, equip, use, occupy, or maintain a building, occupancy, premises, system, or vehicle, or any portion thereof: or cause the same to be done, in violation of any of the provisions of this code.
+	(b)	It shall be unlawful for a person to engage in any activity for which a permit is required under this code without the required permit, or to engage in any activity in violation of conditions set in a permit issued under this code.
+109.2.  [For SF] Person Responsible.
+	(a)	Except as provided in subsection (c), the person responsible for a violation that pertains to a building, occupancy, premises, system, or vehicle is the owner of the building, occupancy, premises, system, or vehicle.
+	(b)	The person responsible for a violation that pertains to an activity conducted without a permit required under this code or in violation of a permit issued under this code is the person engaging in that activity, except that if the person engaging in the activity is the employee of a business and is performing the activity in the course and scope of his or her employment, and/or the owner of the business is the person responsible.
+	(c)	The person responsible for a violation of Section 107.5 or Section 1030.2 is the owner of the business operating at the building or premises.
+109.3.  [For SF] Remedies Available.
+	The fire code official may enforce the provisions of this code by: issuing a notice of violation under Section 109.4; issuing an administrative citation under Section 109.5; and issuing criminal penalties under Section 109.6.
+109.4.  [For SF] Notice of Violation.
+	(a)	When the fire code official finds a building, occupancy, premises, system, or vehicle, or any portion thereof, that is in violation of this code, the fire code official may prepare a written notice of violation, which shall identify the code sections violated, describe the violation, and, where applicable, require correction of the violation. When correction is not immediate, the notice of violation shall specify a time for compliance and re-inspection.
+	(b)	When the fire code official finds a person performing any activity requiring a permit under this code without the required permit, or conducting an activity in violation of conditions set in a permit issued under this code, the fire code official may prepare a written notice of violation, which shall identify the code sections violated and describe the violation. In addition, the fire code official may issue a stop work order under Section 111, requiring the person to immediately cease performing the activity.
+109.4.1.  [For SF] Service of Notice of Violation.
+	(a)	When a notice of violation pertains to a specific building, occupancy, premises, system, or vehicle, the fire code official shall serve the notice of violation upon the owner of the building, occupancy, premises, system, or vehicle as follows: by personal service, by regular U.S. mail and certified or registered mail, or by leaving it with a person of responsibility at the building or premises.
+	(b)	When a notice of violation pertains to a person engaged in an activity for which a permit is required without the required permit, or in violation of a permit issued under this code is the person engaging in that activity, the fire code official shall serve the notice of violation upon the person responsible for the activity as follows: by personal service, by regular U.S. mail and certified mail, or by leaving it with a person of responsibility at site of the activity.
+	(c)	Service by certified or registered mail is effective on the date of mailing if the certified or registered letter is mailed, postage prepaid, return receipt requested, to the person responsible at that person's current address as listed with the Assessor's Office. If the Assessor's Office records do not include an address for a person entitled to notice, then the fire code official shall serve that person by mailing the letter to the address of the building, occupancy, premises, or system involved in the proceedings.
+109.4.2.  [For SF] Re-Inspection Fee.
+	When the fire code official issues a notice of violation and sets a date for compliance and re-inspection to certify compliance with code requirements, the fire code official shall charge a fee for the re-inspection and the person responsible shall pay that fee.
+109.4.3.  [For SF] Hearing on Notice of Violation.
+	(a)	If the person responsible to correct a violation fails to do so within the time period specified in the notice of violation, the fire code official may set the matter for hearing.
+	(b)	Notice of hearing. If the fire code official determines to set the matter for hearing, the fire code official shall serve a notice of hearing that provides at least 30 day notice of the hearing. The notice shall include the following information: (1) the street address of the building, occupancy, premises, or system that is in violation of the code, or the date and location of any activity conducted without a required permit or in violation of permit conditions; (2) the date, hour and place of the hearing; (3) a statement that the hearing is an opportunity to appear be (ore the fire code official to show cause why the fire code official should not order the building, occupancy, premises, or system repaired or altered to be brought into compliance with code, or vacated or demolished, or require a permit or compliance with permit requirements; (4) a warning that describes the penalties for violation as set forth in subsection (k) below and Section 109.4.4; and (5) a copy of the notice of violation. 
+	(c)	Service of hearing notice. The fire code official shall serve the notice of hearing on each of the following persons: (1) the person, if any, in real or apparent charge and control of the building, occupancy, premises, or system, or responsible for any activity; (2) the owner of record of any building, occupancy, premises, or system, or where an activity occurred; (3) the holder of any mortgage, deed of trust, lien or encumbrance of record; (4) the owner or holder of any recorded lease; and (5) the holder of any other recorded estate or interest in the building, occupancy, premises, or system, or the land upon which it is located. The fire code official shall include an affidavit or declaration under penalty of perjury, certifying to the time and manner in which the notice was served. The fire code official shall serve the notice of hearing as follows: by personal service; or by regular U.S. Mail and certified or registered mail. Service by certified or registered mail is effective on the date of mailing if the certified or registered letter is mailed, postage prepaid, return receipt requested, to each person entitled to notice as that person's address appears on the last annual tax roll of the county or at the address to which the Tax Collector mailed the most recent real property tax bill for the building, occupancy, premises, or system. If the annual tax roll or the Tax Collector records do not include an address for a particular person entitled to notice, then the fire code official shall serve the notice to that person at the address of the building, occupancy, premises, or system involved in the proceedings. The failure of any owner or other person to receive a notice of hearing shall not affect in any manner the validity of any proceeding taken or order issued under this section.
+	(d)	Posting of notice. The fire code official shall ensure that a copy of the notice of hearing and notice of violation is posted in a conspicuous place on the building or property, and at the location of the hearing. The notice shall be posted at both locations at least 10 days before the date set for the hearing.
+	(f)1	Hearing. The fire code official or designee shall conduct a public hearing on the matter, at the date, time and location specified in the notice of hearing. The fire code official or designee may continue the hearing for good cause, except that any continuance shall not exceed 30 days, and only one continuance is allowed. Subject to any procedures prescribed by the fire code official for the orderly conduct of the hearing, the fire code official may permit persons with an interest in the building, occupancy, premises, or system, or with knowledge of facts material to the allegations of the notice of violation, to present evidence for the fire code official to consider. The fire code official shall promulgate procedures for implementation of the hearing. 
+	(g)	Decision and order. The fire code official shall give full and fair consideration to the evidence received at the hearing, and within 30 days of the conclusion of the hearing, shall issue a written decision either: (1) finding no violation and issuing an Order of Rescission that withdraws the notice of violation and dismisses the proceedings; or (2) finding that the building, occupancy, premises, or system, or any portion thereof, is in violation of this code and ordering that the person responsible take action as ordered by the fire code official to bring the building, occupancy, premises, or system into compliance with this code. The order may also direct that the building, occupancy, or premises be vacated pending compliance with the requirements of this code. Any order to correct a violation of this code or to vacate a building, occupancy or premises shall include the following: the street address of the building, occupancy, premises, or system; findings and conclusions about the specifics of the violations and the code section violated; a statement of work the person responsible must perform to remedy the violation and, if applicable, an order to vacate; and time requirements for compliance with the order. The fire code official shall require the person responsible to commence work required under the order within not more than 30 days from the date of the decision, and shall set a reasonable period of time, not to exceed six months from commencement, for the person responsible to complete the required work.
+	(h)	Service of, posting, and recording decision. The fire code official shall serve the decision and order on the persons and in the manner specified in subsection (c) above. The fire code official shall post the decision and order in the manner specified in subsection (d) above. The fire code official shall record the decision and order in the Assessor-Recorder's Office. 
+	(i)	The person responsible may submit a written application to extend the date to commence work required under the decision and order or to extend the date to complete required work. The fire code official may grant a request to extend the time to commence or to complete work, for good cause shown, only where there is no imminent risk to life or property, and for a time not to exceed 90 days.
+	(j)	Compliance, Order of Compliance. When the fire code official determines that the person responsible has completed all work required under the order, and that the building, occupancy, premises, or system complies with the requirements of this code, the fire code official shall issue an Order of Compliance, acknowledging that the person responsible has complied with the original order. The fire code official shall serve and post the Order of Compliance, and file it in the Assessor-Recorder's Office.
+	(k)	Penalties for disregarding order. Any person responsible who fails to comply with an order under this section shall be guilty of a misdemeanor as set forth in Section 109.6. Any person in possession who fails to comply with an order to vacate shall be guilty of a misdemeanor as provided in Section 109.6. Any person who removes any notice or order posted as required in this section shall be guilty of a misdemeanor as provide in Section 109.6.
+CODIFICATION NOTE
+1.	So in Ord. 200-13, File No. 130786, App. 10/3/2013, Eff. 11/2/2013, Oper. 1/1/2014. This section includes no division designated "(e)."
+109.4.4.  [For SF] Civil Action and Penalties.
+	Any person violating this code, or who violates, disobeys, omits, neglects or refuses to comply with any notice of violation or decision and order under this code, shall be liable for a civil penalty of up to $1,000 for each day the violation is committed or permitted to continue, in addition to attorney's fees and costs, which penalty shall be assessed and recovered in a civil action brought by the City and County of San Francisco in any court of competent jurisdiction. In assessing the amount of the civil penalty, the court shall consider any one or more of the relevant circumstances presented by any of the parties to the case, including but not limited to, the following: the nature and seriousness of the misconduct, the number of violations, the persistence of the misconduct, the length of time over which the misconduct occurred, the willfulness of the defendant's misconduct, and the defendant's assets, liabilities and net worth. Any penalties imposed pursuant to this section shall be paid to the City other remedies provided by law. No provision in this section shall preclude prosecution of actions for criminal penalties concurrently, sequentially, or individually.
+109.4.5.  [For SF] Presumption of Noncompliance.
+	Notwithstanding any other provision of this code, any person served with a notice of violation that sets a date to correct the violations shall be presumed, in civil proceedings, to have failed to comply with that notice of violation if the date to correct the violation has passed without correction of the violation.
+109.5.  [For SF] Administrative Citations.
+	Violations of this code may be punishable by administrative citation. Chapter 100 of the San Francisco Administrative Code is herein incorporated in its entirety and shall govern the amount of fees and the procedure for imposition, enforcement, collection and administrative review of administrative citations under this section, except that the amount of the penalties for the code sections set in Section 109.5.2 shall be the amount specified in that section, and all fines shall be allocated as specified in Section 109.5.3.
+109.5.1.  [For SF] City Employees Who May Issue Administrative Citations.
+	The City employees specified in Section 109.7 may issue administrative citations for any violation of this code.
+109.5.2.  [For SF] Fines for Administrative Citations for Specific Code Violations.
+	The fine for violation of Sections 105.1.1, 107.5, 111.4, 907.7.4 and 1030.2 shall be $1000.
+109.5.3.  [For SF] Allocation of Administrative Citation Fines.
+	All fines and late payment fees shall be payable to the Fire Department and shall be used to support fire safety and prevention programs.
+109.6.  [For SF] Criminal Penalties.
+	Pursuant to California Government Code Section 36900, any person who violates, disobeys, omits, neglects, or refuses to comply with any of the provisions of this code or any lawful order issued under this code shall be guilty of an infraction or a misdemeanor. The fire code official shall determine, and the citation shall specify, whether the violation charged is a misdemeanor or an infraction. If charged as an infraction, the penalty shall be a fine not to exceed $100 for a first violation, not to exceed $500 for a second violation of the same section or subsection within one year of the date of the first violation, and not to exceed $1,000 for each additional violation of the same section or subsection within one year of the date of the second or any subsequent violation. If charged as a misdemeanor, the penalty shall be a fine of not less than $500 or more than $1,000 or imprisonment in the county jail not exceeding six (6) months, or both fine and imprisonment, no part of which may be suspended. Every day such violation, disobedience, omission, neglect or refusal continues is a new offense. Any person engaging in any work in violation of the provisions of this code, and any person having charge of such work who permits it to be done, shall be liable for the penalty provided.
+109.7.  [For SF] Designated Officers and Employees.
+	Pursuant to California Penal Code Section 836.5, the classes of officers or employees of the City and County of San Francisco listed below are empowered to enforce all provisions of this code against violations as a misdemeanor or infraction by exercising arrest and citation authority:
 Classification No.Class TitleH-51Assistant Deputy Chief IIH-50Assistant ChiefH-40Battalion ChiefH-32Captain Division of Fire Prevention and InvestigationH-30CaptainH-24Lieutenant Bureau of Fire InvestigationH-22Lieutenant Bureau of Fire PreventionH-20LieutenantH-10Chief's AideH-6InvestigatorH-4Fire Inspector6281Fire Safety Inspector II5215Fire Protection Engineer
-109.8  [For SF] Civil action to recover costs.
-	Under California Health and Safety Code Section 13009, any person who negligently, or in violation of the law, sets a fire, allows a fire to be set, or allows a fire kindled or attended by him or her to escape onto any public or private property is liable for the fire suppression costs incurred in fighting the fire and for the cost of providing rescue or emergency medical services, and those costs shall be charged against that person. The City and County of San Francisco may initiate a civil action in any court of competent jurisdiction to recover all amounts authorized under Health and Safety Code Section 13009 and Section 13009.1. Any amounts recovered shall be paid to the City Treasurer and credited to the Fire Department. 
-SECTION 111-STOP WORK ORDER
-The following San Francisco section replaces the corresponding California Fire Code section. 
-111.4  [For SF] Failure to comply.
-	Any person who continues any work after having been served with a stop work order, except such work as that person is directed to perform to remove a violation or unsafe condition, shall be in violation of this code. 
-SECTION 112-SERVICE UTILITIES
-The following San Francisco section replaces the corresponding International Fire Code section. 
-112.1  [For SF] Authority to disconnect service utilities.
-	The fire code official may order disconnection of utility service to a building, structure, or system in order to safely execute emergency operations or to eliminate an immediate hazard. 
-SECTION 113-FEES
-The following San Francisco section 113 replaces the corresponding International Fire Code section 113. 
-113.1  [For SF] General.
-	The Fire Department shall assess fees in accordance with the provisions of this section. 
-113.2  [For SF] Operational permit filing fees.
-	The filing fee for operational permits is set forth in Table 113-A. Inspections necessary for permit issuance that require more than two hours to complete shall be subject to an additional fee of $110.00 for each hour. The Fire Department shall not issue a permit until the fees are paid. 
-113.2.1  [For SF] Consolidation of permits fee.
-	The fee for consolidation of operational permits is $90.00 for each activity added to the original permit. 
-113.2.2  [For SF] Posting fee.
-	The fee for posting notice of application for certain permits are set in the San Francisco Business and Tax Regulation Code, Article I, Section 27. 
-113.2.3  [For SF] Permit fees for vendors at street fairs involving temporary street closures (ISCOTT).
-	Permit fees for vendors at street fairs involving temporary street closures are set in the San Francisco Transportation Code. 
-113.3  [For SF] Construction permit fees.
-	The Central Permit Bureau at the Department of Building Inspection collects construction permit (building permit) fees in accordance with the San Francisco Building Code. When the Fire Department conducts plan review for buildings or portions of buildings under its authority, the Department will assess plan review fees in accordance with Section 113.4 of this code. When the Fire Department conducts inspections for buildings or portions of buildings under its authority, the Department will assess inspection fees in accordance with Section 113.5. 
-113.4  [For SF] Plan review fees.
-	Upon application for a permit for the erection of a new building or for alteration work for which plans are required by the Department of Building Inspection, the Central Permit Bureau shall charge and collect a fee to compensate the Fire Department for its costs of reviewing plans submitted with building permit applications for compliance with fire safety regulations. The fee shall be based on the valuation of the work as determined by the Department of Building Inspection. The fee for each permit is set in Table 113-B. The Fire Department shall assess a fee in the amount of $110.00 per hour to review revisions to any previously approved plans. The Central Permit Bureau shall collect the fee before issuing the permit. 
-113.5  [For SF] Field inspection fees.
-	When the Fire Department determines a field inspection is required to verify that building construction is in compliance with fire safety regulations and this code, it shall notate the application accordingly to provide notice to the Central Permit Bureau. The Central Permit Bureau shall collect the inspection fee due, before issuing a building permit. The fee for each permit is set in Table 113-C. Initial field inspection fees will be charged for inspections of new fire alarm, sprinkler, and gaseous suppression systems per the notation in Table 113-C. 
-	After building permit issuance, when the fire code official notifies the applicant that additional inspection time is required over the amount of time set in Table 113-C, the applicant shall purchase additional inspection time before the inspector schedules additional inspections. The Fire Department shall collect a fee of $115.00 per hour for the cost of providing the inspection service. 
-(Amended by Ord. 171-13, File No. 130546, App. 8/2/2013, Eff. 9/1/2013)
-113.6  [For SF] Pre-application plan review.
-	When an applicant wishes to discuss specific design issues or submit preliminary designs for review and comment by the Fire Department before the applicant submits a formal application for permit, the Fire Department shall assess a fee of $230.00. This fee provides the applicant with up to two hours for research and meeting with Fire Department personnel. When the time spent by the Fire Department exceeds two hours, the Department shall assess additional fees at the rate of $115.00 per hour. 
-(Amended by Ord. 171-13, File No. 130546, App. 8/2/2013, Eff. 9/1/2013)
-113.7  [For SF] Re-inspection of violation fees.
-	If the fire code official issues a notice of violation under this code, the notice of violation may set a period of time that is reasonable to remedy the violation and the fire code official may re-inspect the property to verify that the person responsible has made the required correction. The Fire Department shall collect a fee in the amount of $230.00 for re-inspections. If the time required for the re-inspection exceeds one hour, the Fire Department shall assess an additional fee at the rate of $115.00 per hour. 
-(Amended by Ord. 171-13, File No. 130546, App. 8/2/2013, Eff. 9/1/2013)
-113.8  [For SF] High-rise inspection fees.
-	For inspections of high-rise structures pursuant to Section 13217 of the California Health and Safety Code, the owner of the structure shall pay a fee to cover the Fire Department's costs of inspection. The Department shall calculate the fee on the basis of $12.00 per 1000 square feet of gross floor area. 
-113.8.1  [For SF] Gross floor area.
-	For purposes of this section, the term "gross floor area" is defined as the entire area of each floor, attic, basement or shaft of a building included within the exterior walls of a building, including any portion not included within the exterior walls that is under the horizontal projection of the roof or floor above. 
-113.9  [For SF] Referral fees.
-	If a government agency requests a preliminary site inspection or survey of a premise for compliance with this code or other regulatory codes enforced by the Fire Department, the Fire Department shall collect a service fee of $115.00 per hour for the on-site inspections and consultations. When the referral inspection is requested by another San Francisco agency, the requesting agency shall transfer the fee to the Fire Department through electronic transfer. The requesting agency shall pay the fee before scheduling the inspection or consultation. Fees referenced in the California Health and Safety Code take precedence over this fee. 
-(Amended by Ord. 171-13, File No. 130546, App. 8/2/2013, Eff. 9/1/2013)
-113.10  [For SF] Overtime fee.
-	If a person requests an inspection or other service that requires the assigned Fire Department employee to work outside of the employee's normal working schedule, the Department will charge an overtime fee of $133.00 per hour. The person requesting the services shall pay the fee before the inspection or other service is performed. The minimum compensation is four hours. 
-(Amended by Ord. 169-12, File No. 120607, App. 7/27/2012, Eff. 8/26/2012; Ord. 171-13, File No. 130546, App. 8/2/2013, Eff. 9/1/2013)
-113.11  [For SF] Collection of other fees.
-	The fire code official may collect fees as required by other portions of the San Francisco Municipal Code for services by other City departments pertinent to the issuance of permits required by this code. 
-113.12  [For SF] Water flow request fee.
-	Upon a request from a person for water flow information, the Department will charge a water flow fee of $115.00. If the information requested requires that Fire Department employees perform an on-site water flow test, the Department will charge a fee of $230.00. 
-(Amended by Ord. 171-13, File No. 130546, App. 8/2/2013, Eff. 9/1/2013)
-113.13  [For SF] False alarm fees.
-	The Fire Department shall charge a service fee of $250 for each false fire alarm to which the Department responds after the first two false fire alarms at that address within any calendar year. The Fire Department shall charge a service fee of $500 for each false fire alarm to which the Department responds after the first five false fire alarms at that address within any calendar year. The fire code official may waive the false alarm fee for good cause as determined by the Chief. The Fire Department shall send notice of the fee to the responsible person, requiring payment within 30 days of the date of the notice. 
-113.14  [For SF] Residential apartment/hotel inspection fee.
-	The Fire Department shall charge an inspection fee of $157.00 to inspect buildings under the R1 and R2 Residential Apartment/Hotel Inspection Program. 
-113.15  [For SF] Voluntary seismic retrofit fee waiver.
-	Notwithstanding the fees established herein, if a project involves voluntary seismic retrofit upgrades to soft-story, wood-frame buildings, as defined by the Director of the Department of Building Inspection, the project applicant is exempt from the proportionate share of plan review fees specified under this code that related to the retrofit work. 
-113.16  [For SF] Cost recovery related to vehicle incidents.
-	(a)	The Fire Department may submit a claim to recover its reasonable costs incurred responding to a motor vehicle incident in the City and County of San Francisco where a person has willfully or negligently caused or permitted the contents of a motor vehicle to be deposited on a street or highway, or its appurtenances, and the Fire Department removes those vehicle contents from the street or highway, or its appurtenances. Vehicle contents may include gas, oil and vehicle debris. The Fire Department shall submit the claim to the insurance company of the person responsible for willfully or negligently causing or permitting the vehicle contents to be deposited on the street or highway, or its appurtenances. 
+109.8.  [For SF] Civil Action to Recover Costs.
+	Under California Health and Safety Code Section 13009, any person who negligently, or in violation of the law, sets a fire, allows a fire to be set, or allows a fire kindled or attended by him or her to escape onto any public or private property is liable for the fire suppression costs incurred in fighting the fire and for the cost of providing rescue or emergency medical services, and those costs shall be charged against that person. The City and County of San Francisco may initiate a civil action in any court of competent jurisdiction to recover all amounts authorized under Health and Safety Code Section 13009 and Section 13009.1. Any amounts recovered shall be paid to the City Treasurer and credited to the Fire Department.
+SECTION 111 – STOP WORK ORDER
+The following San Francisco section replaces the corresponding California Fire Code section:
+111.4.  [For SF] Failure to Comply.
+	Any person who continues any work after having been served with a stop work order, except such work as that person is directed to perform to remove a violation or unsafe condition, shall be in violation of this code.
+SECTION 112 – SERVICE UTILITIES
+The following San Francisco section replaces the corresponding International Fire Code section:
+112.1.  [For SF] Authority to Disconnect Service Utilities.
+	The fire code official may order disconnection of utility service to a building, structure, or system in order to safely execute emergency operations or to eliminate an immediate hazard.
+SECTION 113 – FEES
+The following San Francisco Section 113 replaces the corresponding International Fire Code Section 113:
+113.1.  [For SF] General.
+	The Fire Department shall assess fees in accordance with the provisions of this section.
+113.2.  [For SF] Operational Permit Filing Fees.
+	The filing fee for operational permits is set forth in Table 113-A. Inspections necessary for permit issuance that require more than two hours to complete shall be subject to an additional fee of $115.00 for each hour. The Fire Department shall not issue a permit until the fees are paid.
+113.2.1.  [For SF] Consolidation of Operational Permits Fee.
+	The fee for consolidation of operational permits is $90.00 for each activity added to the original permit.
+113.2.2.  [For SF] Posting Fee.
+	The fee for posting notice of application for certain permits are set in the San Francisco Business and Tax Regulation Code, Article I, Section 27.
+113.2.3.  [For SF] Permit Fees for Vendors at Street Fairs Involving Temporary Street Closures (ISCOTT).
+	Permit fees for vendors at street fairs involving temporary street closures are set in the San Francisco Transportation Code, Division 1, Article 6, Section 6.6.
+113.3.  [For SF] Construction Permit Fees.
+	The Central Permit Bureau at the Department of Building Inspection collects construction permit (building permit) fees in accordance with the San Francisco Building Code. When the Fire Department conducts plan review for buildings or portions of buildings under its authority, the Department will assess plan review fees in accordance with Section 113.4. When the Fire Department conducts inspections for buildings or portions of buildings under its authority, the Department will assess inspection fees in accordance with Section 113.5.
+113.4.  [For SF] Plan Review Fees.
+	Upon application for a permit for the erection of a new building or for alteration work for which plans are required by the Department of Building Inspection, the Central Permit Bureau shall charge and collect a fee to compensate the Fire Department for its costs of reviewing plans submitted with building permit applications for compliance with fire safety regulations. The fee shall be based on the valuation of the work as determined by the Department of Building Inspection. The fee for each permit is set in Table 113-B. The Fire Department shall assess a fee in the amount of $115.00 per hour to review revisions to any previously approved plans. The Central Permit Bureau shall collect the fee before issuing the permit.
+113.5.  [For SF] Field Inspection Fees.
+	When the Fire Department determines a field inspection is required to verify that building construction is in compliance with fire safety regulations and this code, it shall notate the application accordingly to provide notice to the Central Permit Bureau. The Central Permit Bureau shall collect the inspection fee due, before issuing a building permit. The fee for each permit is set in Table 113-C. Initial field inspection fees will be charged for inspections of new fire alarm, sprinkler, and gaseous suppression systems per the notation in Table 113-C.
+	After building permit issuance, when the fire code official notifies the applicant that additional inspection time is required over the amount of time set in Table 113-C, the applicant shall purchase additional inspection time before the inspector schedules additional inspections. The Fire Department shall collect a fee of $115.00 per hour for the cost of providing the inspection service.
+113.6.  [For SF] Pre-Application Plan Review.
+	When an applicant wishes to discuss specific design issues or submit preliminary designs for review and comment by the Fire Department before the applicant submits a formal application for permit, the Fire Department shall asses1 a fee of $230.00. This fee provides the applicant with up to two hours for research and meeting with Fire Department personnel. When the time spent by the Fire Department exceeds two hours, the Department shall assess additional fees at the rate of $115.00 per hour.
+113.7.  [For SF] Re-Inspection of Violation Fees.
+	If the fire code official issues a notice of violation under this code, the notice of violation may set a period of time that is reasonable to remedy the violation and the fire code official may re-inspect the property to verify that the person responsible has made the required correction. The Fire Department shall collect a fee in the amount of $230.00 for re-inspections. If the time required for the re-inspection exceeds one hour, the Fire Department shall assess an additional fee at the rate of $115.00 per hour.
+113.8.  [For SF] High-Rise Inspection Fees.
+	For inspections of high-rise structures pursuant to Section 13217 of the California Health and Safety Code, the owner of the structure shall pay a fee to cover the Fire Department's costs of inspection. The Department shall calculate the fee on the basis of $12.00 per 1000 square feet of gross floor area.
+113.8.1.  [For SF] Gross Floor Area.
+	For purposes of this section, the term "gross floor area" is defined as the entire area of each floor, attic, basement or shaft of a building included within the exterior walls of a building, including any portion not included within the exterior walls that is under the horizontal projection of the roof or floor above.
+113.9.  [For SF] Referral Fees.
+	If a government agency requests a preliminary site inspection or survey of a premise for compliance with this code or other regulatory codes enforced by the Fire Department, the Fire Department shall collect a service fee of $115.00 per hour for the on-site inspections and consultations. When the referral inspection is requested by another San Francisco agency, the requesting agency shall transfer the fee to the Fire Department through electronic transfer. The requesting agency shall pay the fee before scheduling the inspection or consultation. Fees referenced in the California Health and Safety Code take precedence over this fee.
+113.10.  [For SF] Overtime Fee.
+	If a person requests an inspection or other service that requires the assigned Fire Department employee to work outside of the employee's normal working schedule, the Department will charge an overtime fee of $133.00 per hour. The person requesting the services shall pay the fee before the inspection or other service is performed. The minimum compensation is four hours.
+113.11.  [For SF] Collection of Other Fees.
+	The fire code official may collect fees as required by other portions of the San Francisco Municipal Code for services by other City departments pertinent to the issuance of permits required by this code.
+113.12.  [For SF] Water Flow Request Fee.
+	Upon a request from a person for water flow information, the Department will charge a water flow fee of $115.00. If the information requested requires that Fire Department employees perform an on-site water flow test, the Department will charge a fee of $230.00.
+113.13.  [For SF] False Alarm Fees.
+	The Fire Department shall charge a service fee of $250 for each false fire alarm to which the Department responds after the first two false fire alarms at that address within any calendar year. The Fire Department shall charge a service fee of $500 for each false fire alarm to which the Department responds after the first five false fire alarms at that address within any calendar year. The fire code official may waive the false alarm fee for good cause as determined by the Chief The Fire Department shall send notice of the fee to the responsible person, requiring payment within 30 days of the date of the notice.
+113.14.  [For SF] Residential Apartment/Hotel Inspection Fee.
+	The Fire Department shall charge an inspection fee of $157.00 to inspect buildings under the R1 and R2 Residential Apartment/Hotel Inspection Program.
+113.15.  [For SF] Voluntary Seismic Retrofit Fee Waiver.
+	Notwithstanding the fees established herein, if a project involves voluntary seismic retrofit upgrades to soft-story, wood-frame buildings, as defined by the Director of the Department of Building Inspection, the project applicant is exempt from the proportionate share of plan review fees specified under this code that related to the retrofit work.
+113.16.  [For SF] Cost Recovery Related to Vehicle Incidents.
+	(a)	The Fire Department may submit a claim to recover its reasonable costs incurred responding to a motor vehicle incident in the City and County of San Francisco where a person has willfully or negligently caused or permitted the contents of a motor vehicle to be deposited on a street or highway, or its appurtenances, and the Fire Department removes those vehicle contents from the street or highway, or its appurtenances. Vehicle contents may include gas, oil and vehicle debris. The Fire Department shall submit the claim to the insurance company of the person responsible for willfully or negligently causing or permitting the vehicle contents to be deposited on the street or highway, or its appurtenances.
 	(b)	The Fire Department shall submit claims in the following amounts:
-Description of IncidentChargeOne suppression unit provided vehicle content removal (one hour or less)$249Two or more suppression unites provided vehicle content removal (one hour or less)$498Any incident where the vehicle content removal exceeds one hourAn amount based on the reasonable time and materials costs incurred
-	(c)	After a noticed hearing, the Chief of the Fire Department may promulgate rules to effectuate the purposes of this Section or to facilitate the claim process. 
-	113.17 reserved. 
-	113.18 reserved. 
-	113.19 reserved. 
-	113.20 reserved. 
-113.21  [For SF] Fee-setting procedure.
-	(a)	No later than April 1, the Chief of the Department shall annually report to the Controller the revenues received from each type of fee the Department collects. The report shall include the costs, both direct and indirect, the Department incurs in providing the services for which each fee is assessed, the anticipated costs for the ensuing fiscal year, the level of service the Department anticipates it will provide for each service for which it charges a fee, and the rate that would be necessary to support each service. The Controller shall file the report with the Board of Supervisors no later than July 1st of each year. If the fees are insufficient to recover the costs of providing the services, or if the fees recover more than the actual costs, the Controller shall submit legislation to the Board of Supervisors to adjust the fees upward or downward for the upcoming fiscal year as appropriate to ensure that the City fees recover the costs of operation but do not exceed the cost of providing the service for which the City charges the fee. The adjusted fees shall become operative on July 1. The amount of the license fee for the Fire Department permit for the 2012-2013 fiscal year shall be as set forth in the Business and Tax Regulations Code Section 75 et seq.
 
-TABLE 113-A - OPERATIONAL PERMIT FEES
-TYPE OF PERMITFEEAerosol Products, Regulated Activities$330.00Amusement Buildings, Operation$330.00Aviation Facilities, Regulated Activities$330.00Aviation Facilities, Aircraft Refueling Vehicle$330.00Battery System, Operation$330.00Carnivals and Fairs, Operation$330.00Cellulose Nitrate Film, Regulated Activities$330.00Combustible Dust-Producing Operations$330.00Combustible Fiber, Regulated Activities$330.00Combustible Material, Regulated Activities$330.00Compressed Gas, Regulated Activities$330.00Conditional Use$90.00Covered Mall Buildings, Operation$330.00Cryogenic Fluids, Regulated Activities$330.00Dry Cleaning Plant, Operation$330.00Exhibits and Trade Shows, Operation$330.00Explosives, Regulated Activities$330.00Fireworks, Display$330.00Firefighter Air Systems, Maintenance$330.00Flammable and Combustible Finishes, Application of (Including Floor Finishes)$330.00Flammable or Combustible Liquids, Regulated Activities$330.00Fruit and Crop Ripening$330.00Fumigation and Thermal Insecticidal Fogging$330.00Hazardous Materials, Regulated Activities$330.00Hazardous Production Material (HPM) Facilities$330.00High-Piled Storage$330.00Hot Work Operations, Regulated Activities$330.00Industrial Ovens$330.00Liquefied Petroleum Gases, Regulated Activities$330.00Live Audience, Production Facility, Studio, Sound Stage$330.00Lumberyards and Woodworking Plants$330.00Magnesium Processing$330.00Open Burning$330.00Open Flame and Candles in Assembly Areas$330.00Organic Coating, Manufacturing$330.00Place of Assembly$330.00Place of Assembly-Permanent Occupancy for Non-Profit Group$0.00Pyrotechnic Special Effects Material$330.00Pyroxylin Plastics$330.00Refrigeration Equipment$330.00Repair Garages and Motor Fuel Dispensing Facilities$330.00Rooftop Heliports$330.00Temporary Membrane Structures and Tents$330.00Tire Storage$330.00Tire Rebuilding Plants$330.00Waste Handling, Regulated Activities$330.00
-TABLE 113-B - PLAN REVIEW FEES
-TOTAL VALUATION$1.00 TO $2,000$65.46 for the First $1,000 or less plus $64.472 for each additional $1,000.00 or fraction thereof, to and including $2.000.00$2,001 TO $50,000$129.93 for the First $2,000 or less plus $12.451 for each additional $1,000.00 or fraction thereof, to and including $50,000.00$50,001 TO $200,000$727.56 for the First $50,000 or less plus $4.996 for each additional $1,000.00 or fraction thereof, to and including $200,000.00$200,001 TO $500,000$1,477.03 for the First $200,000 or less plus $2.329 for each additional $1,000.00 or fraction thereof, to and including $500,000.00$500,001 TO $1,000,000$2,175.71 for the First $500,000 or less plus $1.554 for each additional $1,000.00 or fraction thereof, to and including $1,000,000.00$1,000,001 TO $5,000,000$2,952.95 for the First $1,000,000 or less plus $1.1818 for each additional $1,000.00 or fraction thereof, to and including $5,000,000.00$5,000,001$7,680.20 for the First $5,000,000 or less plus $0.596 for each additional $1,000.00 or fraction thereof
-	NOTATION TO TABLE 113-B:
-	EVACUATION SIGNAGE: Plan review beyond thirty minutes will be assessed at an hourly rate of $115.00 per hour.
+Description of Incident ChargeOne suppression unit provided vehicle content removal (one hour or less) $249Two or more suppression units provided vehicle content removal (one hour or less)$498Any incident where the vehicle content removal exceeds one hourAn amount based on the reasonable time and materials costs incurred
+	(c)	After a noticed hearing, the Chief of the Fire Department may promulgate rules to effectuate the purposes of this section or to facilitate the claim process.
+113.17. Reserved.
+113.18. Reserved.
+113.19. Reserved.
+113.20. Reserved.
+113.21.  [For SF] Fee-Setting Procedure.
+	No later than a date that the Controller shall prescribe, the Chief of the Department shall annually report the revenues received from each type of fee the Department collects. The report shall include the costs, both direct and indirect, the Department incurs in providing the services for which each fee is assessed, the anticipated costs for the ensuing fiscal year, the level of service the Department anticipates it will provide for each service for which it charges a fee, and the rate that would be necessary to support each service. The Controller shall file the report with the Board of Supervisors no later than July 1st of each year. If the fees are insufficient to recover SFFD costs, or if the fee recovers more than the actual costs, the Controller shall submit legislation to the Board of Supervisors to ensure that over time the City fees do not exceed the cost of providing the service for which the City charges the fee. The amount of the license fee for the Fire Department permit for the 2011-2012 fiscal year shall be as set forth in the Business and Tax Regulations Code Section 75 et seq.
 
-TABLE 113-C - FIELD INSPECTION FEES (See notation for additional fees)
-VALUATIONFEE/INSP. TIME CREDITOverNot More Than$0$10,000$115.00 ONE HOUR$10,001$50,000$230.00 TWO HOURS$50,001$500,000$345.00 THREE HOURS$500,001$5,000,000$575.00 FIVE HOURS$5,000,001$10,000,000$1,150.00 TEN HOURS$10,000,001$25,000,000$2,300.00 TWENTY HOURS$25,000,001$3,450.00 THIRTY HOURS
+TABLE 113-A- OPERATIONAL PERMIT FEES
+TYPE OF PERMITFEEAerosol Products, Regulated Activities$330.00Amusement Buildings, Operation$330.00Aviation Facilities, Regulated Activities$330.00Aviation Facilities, Aircraft Refueling Vehicle$330.00Battery System, Operation$330.00Carnivals and Fairs, Operation$330.00Cellulose Nitrate Film, Regulated Activities$330.00Combustible Dust-Producing Operations$330.00Combustible Fiber, Regulated Activities$330.00Combustible Material, Regulated Activities$330.00Compressed Gas, Regulated Activities$330.00Conditional Use$90.00Covered Mall Buildings, Operation$330.00Cryogenic Fluids, Regulated Activities$330.00Dry Cleaning Plant, Operation$330.00Exhibits and Trade Shows, Operation$330.00Explosives, Regulated Activities$330.00Fireworks, Display$330.00Firefighter Air Systems, Maintenance$330.00Flammable and Combustible Finishes, Application of (Including Floor Finishes)$330.00Flammable or Combustible Liquids, Regulated Activities$330.00Fruit and Crop Ripening$330.00Fumigation and Thermal Insecticidal Fogging$330.00Hazardous Materials, Regulated Activities$330.00Hazardous Production Material (HPM) Facilities$330.00High-Piled Storage$330.00Hot Work Operations, Regulated Activities$330.00Industrial Ovens$330.00Liquefied Petroleum Gases, Regulated Activities$330.00Live Audience, Production Facility, Studio, Sound Stage$330.00Lumberyards and Woodworking Plants$330.00Magnesium Processing$330.00Open Burning$330.00Open Flame and Candles in Assembly Areas$330.00Organic Coating, Manufacturing$330.00Place of Assembly$330.00Place of Assembly – Permanent Occupancy for Non-Profit Group$0.00Pyrotechnic Special Effects Material$330.00Pyroxylin Plastics$330.00Refrigeration Equipment$330.00Repair Garages and Motor Fuel Dispensing Facilities$330.00Rooftop Heliports$330.00Temporary Membrane Structures and Tents$330.00Tire Storage$330.00Tire Rebuilding Plants$330.00Waste Handling, Regulated Activities$330.00
+TABLE 113-B-PLAN REVIEW FEES
+VALUATIONFEE$1.00 TO $2,000 $65.46 for the First $1,000 or less plus $64.472 for each additional $1,000.00 or fraction thereof, to and including $2.000.00$2,001 TO $50,000$129.93 for the First $2.000 or less plus $12.451 for each additional $1,000.00 or fraction thereof, to and including $50.000.00$50,001 TO $200,000$727.56 for the First $50,000 or less plus $4.996 for each additional $1,000.00 or fraction thereof, to and including $200,000.00$200,001 TO $500,000$1,477.03 for the First $200,000 or less plus $2.329 for each additional $1,000.00 or fraction thereof, to and including $500,000.00$500,001 TO $1,000,000$2,175.71 for the First $500,000 or less plus $1.554 for each additional $1,000.00 or fraction thereof, to and including $1,000,000.00$1,000,001 TO $5,000,000$2,952.95 for the First $1,000,000 or less plus $1.1818 for each additional $1,000.00 or fraction thereof, to and including $5,000,000.00$5,000,001$7,680.20 for the First $5,000,000 or less plus $0.596 for each additional $1,000.00 or fraction thereof
+NOTATION TO TABLE 113-B:
+EVACUATION SIGNAGE: Plan review beyond thirty minutes will be assessed at an hourly rate of $115.00 per hour.
+
+TABLE 113-C – FIELD INSPECTION FEES (See notation for additional fees)
+VALUATIONFEE/INSP. TIME CREDITOverNot More Than$0$10,000$115.00 ONE HOUR$10,001$50,000$230.00 TWO HOURS$50,001$500,000$345.00 THREE HOURS$500,001$5,000,000$575.00 FIVE HOURS$5,000,001$10,000,000$1150.00 TEN HOURS$10,000,001$25,000,000$2300.00 TWENTY HOURS$25,000,000$3450.00 THIRTY HOURS
 NOTATION TO TABLE 113-C:
 NEW FIRE ALARM SYSTEMS$230.00 TWO HOURSNEW SPRINKLER SYSTEMS$345.00 THREE HOURSNEW GASEOUS SUPPRESSION SYSTEMS$230.00 TWO HOURS
-	This initial minimum inspection fee covers all inspections up to the hours specified above. If the inspections for the new system exceed the hours specified above, additional hourly fees will be assessed. 
-(Amended by Ord. 238-11, File No. 111101, App. 12/15/2011, Eff. 1/14/2012; Ord. 169-12, File No. 120607, App. 7/27/2012, Eff. 8/26/2012; Ord. 171-13, File No. 130546, App. 8/2/2013, Eff. 9/1/2013)
-SECTION 114-[For SF] - FEE COLLECTION
-This section does not exist in the California Fire Code. 
-114.1  [For SF] Collection of fees.
-	For services that are conducted before the collection of fees, the Department shall proceed in accordance with this section. 
-114.1.1  [For SF] First notice.
-	When fees are due under Sections 113.7, 113.8, 113.13, or 113.14 of this code, the Department shall send the responsible person a notice of payment due. 
-114.1.2  [For SF] Second notice.
-	If the Fire Department does not receive full payment within 60 days after it sent a notice of payment due pursuant to Section 114.1.1 of this code, the Department shall sent a second notice of payment due to the responsible person. That written notice shall state that the responsible person is liable for the payment of the fee indicated on the notice and provide notice that if payment of the Fire Department does not receive the fee within 30 days of the mailing date of the second notice, a penalty of 10 percent plus interest at the rate of one percent per month on the outstanding balance shall be added to the fee indicated on the notice from the date that notice of payment due was sent under Section 113. 
-114.1.3  [For SF] Report to Bureau of Delinquent Revenue Collection.
-	If the Department does not receive payment within 30 days following mailing of the second notice, the Department shall report all accounts receivable over $300 to the Bureau of Delinquent Revenue Collection in accordance with San Francisco Administrative Code, Chapter 10, Article V. Accounts receivable under $300 shall be administered in accordance with Administrative Code Section 10.41-1. 
+	This initial minimum inspection fee covers all inspections up to the hours specified above. If the inspections for the new system exceed the hours specified above, additional hourly fees will be assessed.
+CODIFICATION NOTE
+1.	So in Ord. 200-13, File No. 130786, App. 10/3/2013, Eff. 11/2/2013, Oper. 1/1/2014.
+SECTION 114 [For SF] – FEE COLLECTION
+This section does not exist in the California Fire Code or International Fire Code.
+114.1.  [For SF] Collection of Fees.
+	For services that are conducted before the collection of fees, the Department shall proceed in accordance with this section.
+114.1.1.  [For SF] First Notice.
+	When fees are due under Sections 113.7, 113.8, 113.13, or 113.14, the Department shall send the responsible person a notice of payment due.
+114.1.2.  [For SF] Second Notice.
+	If the Fire Department does not receive full payment within 60 days after it sent a notice of payment due pursuant to Section 114.1.1, the Department shall sent a second notice of payment due to the responsible person. That written notice shall state that the responsible person is liable for the payment of the fee indicated on the notice and provide notice that if payment of the Fire Department does not receive the fee within 30 days of the mailing date of the second notice, a penalty of 10 percent plus interest at the rate of one percent per month on the outstanding balance shall be added to the fee indicated on the notice from the date that notice of payment due was sent under Section 113.
+114.1.3.  [For SF] Report to Bureau of Delinquent Revenue Collection.
+	If the Department does not receive payment within 30 days following mailing of the second notice, the Department may report all accounts receivable over $300 to the Bureau of Delinquent Revenue Collection in accordance with San Francisco Administrative Code, Chapter 10, Article V. Accounts receivable under $300 shall be administered in accordance with Administrative Code Section 10.41-1.
+CHAPTER 2
+DEFINITIONS
+SECTION 202
+The following San Francisco definition replaces the corresponding International Fire Code definition in Section 202:
+	[For SF] STANDPIPE SYSTEM, CLASSES OF. A standpipe system is a wet system of piping, valves, outlets and related equipment designed to provide water at specified pressures and installed exclusively for the fighting of fires, including the following:
+	Class I is a standpipe system equipped with 3-inch (76.2 mm) outlets.
+	Class II is a standpipe system directly connected to a water supply and equipped with 1½-inch (38.1 mm) outlets and hose.
+	Class III is a standpipe system directly connected to a water supply and equipped with 3- inch (76.2 mm) outlets or 3-inch (76.2 mm) and 1½-inch (38.1 mm) outlets when a 1½-inch (38.1 mm) hose is required. Hose connections for Class III systems may be made through 3-inch (76.2 mm) hose valves with easily removable 3-inch by 10-inch (76.2 mm by 38.1 mm) reducers.
 CHAPTER 3
 GENERAL PRECAUTIONS AGAINST FIRE
-[Repealed as of 1/1/2014]*
-SECTION 308-OPEN FLAMES
-The following San Francisco section replaces the corresponding International Fire Code section. 
-308.1.3  [For SF] Torches for removing paint.
-	The use of torches or other flame-producing devices to remove paint is prohibited. 
-The following San Francisco section replaces the corresponding International Fire Code section. 
-308.1.6.2  [For SF] Portable fueled open-flame devices.
-	Portable open-flame devices fueled by flammable or combustible gases or liquids shall be enclosed or installed in such a manner as to prevent the flame from contacting combustible material. 
+SECTION 308 – OPEN FLAMES
+The following San Francisco section replaces the corresponding International Fire Code section:
+308.1.3.  [For SF] Torches for Removing Paint.
+	The use of torches or other flame-producing devices to remove paint is prohibited.
+The following San Francisco section replaces the corresponding International Fire Code section:
+308.1.6.2.  [For SF] Portable Fueled Open-Flame Devices.
+	Portable open-flame devices fueled by flammable or combustible gases or liquids shall be enclosed or installed in such a manner as to prevent the flame from contacting combustible material.
 	Exceptions:
-	1.	LP-gas-fueled devices used for sweating pipe joints in accordance with Chapter 38.
-	2.	Hot work and cutting and welding operations in accordance with Chapter 26.
+	1.	LP-gas-fueled devices used for sweating pipe joints in accordance with Chapter 61.
+	2.	Hot work and cutting and welding operations in accordance with Chapter 35.
 	3.	Candles and open-flame decorative devices in accordance with Section 308.3.
-	Section 308.2 is deleted. 
-SECTION 315-MISCELLANEOUS COMBUSTIBLE MATERIALS STORAGE
-315.2.3.1  [For SF] Elevator machine rooms.
-	Combustible material shall not be stored in elevator machine rooms. 
-315.2.3.1.1  [For SF] Elevator machine room sign.
-	The owner shall post a sign indicating "no storage of combustible material in the elevator machine room" in the elevator machine room. 
-SECTION 316-HAZARDS TO FIREFIGHTERS
-316.3.1  [For SF] Barbed or razor wire.
-	Barbed or razor wire shall not be on or attached to any fire escape, dry standpipe or other fire extinguishing facility, fence, parapet, roof surface, or any other place on a building or structure where it might hinder or obstruct firefighters in performing their duties. Where barbed or razor wire is on or attached to any location, structure or surface specified in this Section, it shall be removed. 
-	EXCEPTION: Barbed or razor wire may be installed on fences provided it does not obstruct or hinder egress, rescue operations, or access to hazardous areas, as determined by the fire code official, in the event of fire or other emergency. 
-316.6  [For SF] Roof obstructions.
-	No wire, rope or other overhead obstruction that may interfere with the Fire Department operations may be installed or maintained on the roof of any building. 
-316.7  [For SF] Signage for buildings with certain types of construction.
-	If a building has roofs or floors of composite wood joist or truss construction, the owner shall post a sign specifying this type of construction. The sign shall be located adjacent to the main entrance door or in a location(s) as required by the fire code official. The sign shall comply with San Francisco Fire Department Administrative Bulletin 5.05. 
+Section 308.2 is deleted from the International Fire Code.
+SECTION 316 – HAZARDS TO FIREFIGHTERS
+316.3.1.  [For SF] Barbed or Razor Wire.
+	Barbed or razor wire shall not be on or attached to any fire escape, dry standpipe or other fire extinguishing facility, fence, parapet, roof surface, or any other place on a building or structure where it might hinder or obstruct firefighters in performing their duties. Where barbed or razor wire is on or attached to any location, structure or surface specified in this section, it shall be removed.
+	Exception: Barbed or razor wire may be installed on fences provided it does not obstruct or hinder egress, rescue operations, or access to hazardous areas, as determined by the fire code official, in the event of fire or other emergency.
+316.7.  [For SF] Signage for Buildings with Certain Types of Construction.
+	If a building has roofs or floors of composite wood joist or truss construction, the owner shall post a sign specifying this type of construction. The sign shall be located adjacent to the main entrance door or in a location(s) as required by the fire code official. The sign shall comply with San Francisco Fire Department Administrative Bulletin 5.05.
 CHAPTER 4
 EMERGENCY PLANNING AND PREPAREDNESS
-[Repealed as of 1/1/2014]*
-Sections 404, 405, 406, and 408 of the International Fire Code Chapter are deleted. The following San Francisco sections replace the corresponding International Fire Code sections. 
-404.1  [For SF] State of California requirements.
-	Emergency plans and preparedness shall be provided in accordance with Title 19, California Code of Regulations, and California Health and Safety Code, Section 13220. 
-404.2  [For SF] Fire safety director.
-	Owners of buildings having floors used for human occupancy located more than 75 feet above the lowest level of Fire Department access are responsible to provide or employ a Fire Safety Director. The Fire Safety Director shall posses a current and valid certificate of completion of an approved fire safety director training program. A certificate of completion shall be valid for not more than five years. 
-404.3  [For SF] Emergency procedures information.
-	Emergency procedures information required by the California Code of Regulations, Title 19, Section 3.09, shall comply with San Francisco Fire Department Administrative Bulletin 2.11. 
+SECTION 404
+	Sections 404, 405, 406, and 408 of the International Fire Code and California Fire Code are deleted.
+	The following three San Francisco sections replace the corresponding International Fire Code sections:
+404.1.  [For SF] State of California Requirements.
+	Emergency plans and preparedness shall be provided in accordance with Title 19, California Code of Regulations, and California Health and Safety Code, Section 13220.
+404.2.  [For SF] Fire Safety Director.
+	Owners of buildings having floors used for human occupancy located more than 75 feet above the lowest level of Fire Department access are responsible to provide or employ a fire safety director. The fire safety director shall possess a current and valid certificate of completion of an approved fire safety director training program. A certificate of completion shall be valid for not more than five years.
+404.3.  [For SF] Emergency Procedures Information.
+	Emergency procedures information required by the California Code of Regulations, Title 19, Section 3.09, shall comply with San Francisco Fire Department Administrative Bulletin 2.11.
+SECTION 405 – [DELETED]
+SECTION 406 – [DELETED]
+SECTION 408 – [DELETED]
 CHAPTER 5
 FIRE SERVICE FEATURES
-[Repealed as of 1/1/2014]*
- New Ordinance Notice
-Publisher's Note: This Chapter includes sections affected by new ordinances. Click here for a list of all new ordinances affecting sections of this Code.
-
-SECTION 503-FIRE APPARATUS ACCESS ROADS
-503.4  [For SF] Obstruction of fire apparatus access roads.
-	Fire apparatus access roads shall not be obstructed in any manner, including the parking of vehicles. Subject to Health and Safety Code Sections 13104, 13108, 13114, 18941.5, and California Fire Code Sections 104.l, 1.11.2, and 503, the portion of the sidewalk or median, immediately adjoining and extending into a roadway, that has no utility pole, street light, street furniture, fire hydrant, trees, shrubbery, or other structure or natural growth attached thereto and that has a height that does not exceed six inches above the roadway shall not constitute an obstruction of a fire apparatus access road. The minimum widths and clearances established in Section 503.2.1 shall be maintained at all times.
-(Amended by Ord. 116-13, File No. 130253, App. 6/28/2013, Eff. 7/28/2013)
-SECTION 504-ACCESS TO BUILDING OPENINGS AND ROOFS
-504.2.1  [For SF] Breakable window marking.
-	Red reflectors shall be installed to indicate the location of existing breakable, tempered glass windows required under previous codes. Reflectors inside buildings shall be at least 1½ inches (381 mm) in the least dimension. They shall be on the glass and within 6 inches (1524 mm) of a lower corner of the pane. Reflectors outside buildings shall be at least 3 inches (762 mm) in the least dimension. They shall be placed on the wall below the lowest window in each vertical line of windows containing tempered glass. A 24-inch (609-mm) clear space shall be maintained around the reflectors. 
-504.3.1  [For SF] Access to roof.
-	Doors and hatches to a roof must be able to be opened from the inside without the use of a key, code or any special knowledge. 
-	EXCEPTIONS:
-	1.	Doors that can be unlocked upon a signal from a central control station or other unlocking system approved by the fire code official. Upon failure of electrical power, the locking mechanisms shall retract to the unlocked position. 
+SECTION 503 – FIRE APPARATUS ACCESS ROADS
+503.4.  [For SF] Obstruction of Fire Apparatus Access Roads. 
+	Fire apparatus access roads shall not be obstructed in any manner, including the parking of vehicles. Subject to Health and Safety Code Sections 13104, 13108, 13114, 18941.5, and California Fire Code Sections 1.11.2, 104.1 and 503, the portion of the sidewalk or median, immediately adjoining and extending into a roadway that has no utility pole, street light, street furniture, fire hydrant, trees, shrubbery, or other structure or natural growth attached thereto and that has a height that does not exceed six inches above the roadway shall not constitute an obstruction of a fire apparatus access road. The minimum widths and clearances established in Section 503.2.1 shall be maintained at all times.
+SECTION 504 – ACCESS TO BUILDING OPENINGS AND ROOFS
+504.2.1.  [For SF] Breakable Window Marking.
+	Red reflectors shall be installed to indicate the location of existing breakable, tempered glass windows required under previous codes. Reflectors inside buildings shall be at least 1½ inches (381 mm) in the least dimension. They shall be on the glass and within 6 inches (1524 mm) of a lower corner of the pane. Reflectors outside buildings shall be at least 3 inches (762 mm) in the least dimension. They shall be placed on the wall below the lowest window in each vertical line of windows containing tempered glass. A 24-inch (609 mm) clear space shall be maintained around the reflectors.
+504.3.1.  [For SF] Access to Roofs With Doors and Hatches.
+	Doors and hatches to a roof must be able to be opened from the inside without the use of a key, code or any special knowledge.
+	Exceptions:
+	1.	Doors that can be unlocked upon a signal from a central control station or other unlocking system approved by the fire code official. Upon failure of electrical power, the locking mechanisms shall retract to the unlocked position.
 	2.	Doors may be locked when approved by the fire code official.
-504.4  [For SF] Identification on steel doors.
-	When rolling steel shutters or similar steel doors are located on any building or structure and there is no easily accessible opening giving access to the building or structure within 25 feet (7620 mm) of the shutter or door, an approved marking shall be affixed on the shutter or door designating or outlining an area which, when removed by burning or cutting, will give access to locking devices, hoisting chains or other devices that control the operation of the shutter or door. 
-SECTION 506-KEY BOXES
-506.2.1  [For SF] Key box installation and maintenance.
-	Key boxes shall be installed and maintained in accordance with San Francisco Fire Department Administrative Bulletin 5.09. 
-SECTION 507-FIRE PROTECTION WATER SUPPLIES
-The following San Francisco section replaces the corresponding International Fire Code section. 
-507.4  [For SF] Water supply information.
-	The Fire Department will provide water supply information when requested by the applicant. The Department shall assess fees for this service as stated in section 113.12. 
-507.6  [For SF] Other water supplies.
-	Water tanks or pools within, on or about any building premises shall be connected with approved 6-inch (152-mm) pipe leading from the bottom of the tank to a point designated by the fire code official. Piping for tanks located at or below grade shall be designed and installed for drafting by Fire Department apparatus. 
-	EXCEPTIONS:
+504.5.  [For SF] Identification on Steel Doors.
+	When rolling steel shutters or similar steel doors are located on any building or structure and there is no easily accessible opening giving access to the building or structure within 25 feet (7620 mm) of the shutter or door, an approved marking shall be affixed on the shutter or door designating or outlining an area which, when removed by burning or cutting, will give access to locking devices, hoisting chains or other devices that control the operation of the shutter or door.
+SECTION 506 – KEY BOXES
+506.2.1.  [For SF] Key Box Installation and Maintenance.
+	Key boxes shall be installed and maintained in accordance with San Francisco Fire Department Administrative Bulletin 5.09.
+SECTION 507 – FIRE PROTECTION WATER SUPPLIES
+The following San Francisco section replaces the corresponding California Fire Code section:
+507.4.  [For SF] Water Flow and Supply Information.
+	The Fire Department will provide water flow and supply information when requested by the applicant. The Department shall assess fees for this service as stated in Section 113.12.
+507.6.  [For SF] Other Water Supplies.
+	Water tanks or pools within, on or about any building premises shall be connected with approved 6-inch (152 mm) pipe leading from the bottom of the tank to a point designated by the fire code official. Piping for tanks located at or below grade shall be designed and installed for drafting by Fire Department apparatus.
+	Exceptions:
 	1.	Industrial process water tanks.
 	2.	Tanks or pools with a capacity of less than 75,000 gallons (94.6 m3).
 	3.	Tanks or pools used to supply automatic fire sprinkler systems.
 	4.	Water tanks or pools installed in R3 Occupancies.
-SECTION 508-FIRE COMMAND CENTER
-508.1.5.1  [For SF] Local additional features.
-	The fire command center shall contain the following additional features: 
-	1.	The stock of spare sprinklers required by NFPA #13.
+SECTION 508 – FIRE COMMAND CENTER
+508.1.5.1.  [For SF] Local Additional Features.
+	The fire command center shall contain the following additional features:
+	1.	The stock of spare sprinklers required by National Fire Protection Association ("NFPA") 13 (2013).
 	2.	Permanent signage with the name and telephone number of the applicable elevator service company.
 	3.	Building contact phone numbers.
 	4.	Utility shut-off location map.
 	5.	Public address system instructions.
 	6.	Smoke control system procedures.
 	7.	Sprinkler shut-off valve and standpipe isolation valve locations.
-	8.	Emergency evacuation/relocation procedures, location of tenant areas of refuge, and location of any tenants requiring evacuation assistance. 
+	8.	Emergency evacuation/relocation procedures, location of tenant areas of refuge, and location of any tenants requiring evacuation assistance.
 	9.	Hazardous materials inventory statement and management plan, when required by the fire code official.
-SECTION 510-EMERGENCY RESPONDER RADIO COVERAGE
-510.4  [For SF] Emergency responder radio coverage systems installation and maintenance.
-	Emergency responder radio coverage systems shall be installed and maintained in accordance with Annex G of the 2009 edition of the NFPA 5000 standard. 
-510.5  [For SF] Construction plans.
-	Construction plans shall be submitted and approved by the Fire Department prior to the installation of radio coverage systems. 
-SECTION 511-LOCAL FIRE SAFETY FEATURE REQUIREMENTS
-This section does not exist in the California Fire Code. 
-511.1  [For SF] Local elevator standards for buildings 200 feet or more in height; special elevator requirement.
-	New buildings 200 feet or more in height as defined by the California Building Code shall include at least one elevator approved by the Fire Department for firefighter use under fire conditions. 
-	EXCEPTION: Buildings with multiple bank elevators that serve no more than 20 consecutive floors each, whereby firefighters may ascend the building in 20 floor intervals in separated hoistways. 
-	An elevator required under this Section shall be designed to divert water, smoke, and heat from the elevator shaft during fire conditions, and shall comply with San Francisco Fire Department Administrative Bulletin 5.08. 
-511.2  [For SF] Local standards for high-rise buildings and tunnels.
-	Except as stated in the next paragraph, an approved air replenishment system shall be installed in all buildings having floors used for human occupancy located more than 75 feet (22 860 mm) above the lowest level of Fire Department vehicle access. This requirement shall apply for all buildings meeting this definition when the building permit application for construction was made after March 30, 2004. 
-	Exception: All buildings that are covered by this section but that are equipped with a fire service access elevator pursuant to California Building Code section 3007 are not required to install an air replenishment system.
-	The air replenishment system will provide a means for firefighters to refill air bottles for self-contained breathing apparatus (SCBA) through a permanently installed piping distribution system. The system shall be tested and maintained in accordance with San Francisco Fire Department Administrative Bulletin 5.07. 
-	The air replenishment system may be installed in all new underground transportation or pedestrian tunnels exceeding 300 feet (91 440 mm). 
-(Amended by Ord. 200-13, File No. 130786, App. 10/3/2013, Eff. 11/2/2013)
+SECTION 511 – LOCAL FIRE SAFETY FEATURE REQUIREMENTS
+511.2.  [For SF] Local Standards for High-Rise Buildings and Tunnels.
+	Except as stated in the next paragraph, an approved air replenishment system shall be installed in all buildings having floors used for human occupancy located more than 75 feet (22 860 mm) above the lowest level of Fire Department vehicle access. This requirement shall apply for all buildings meeting this definition when the building permit application for construction was made after March 30, 2004.
+	Exception: All buildings that are covered by this section but that are equipped with a fire service access elevator pursuant to California Building Code Section 3007 are not required to install an air replenishment system.
+	The air replenishment system will provide a means for firefighters to refill air bottles for self-contained breathing apparatus (SCBA) through a permanently installed piping distribution system. The system shall be tested and maintained in accordance with San Francisco Fire Department Administrative Bulletin 5.07.
+	The air replenishment system may be installed in all new underground transportation or pedestrian tunnels exceeding 300 feet (91 440 mm).
 CHAPTER 6
 BUILDING SERVICES AND SYSTEMS
-[Repealed as of 1/1/2014]*
-SECTION 605-ELECTRICAL EQUIPMENT, WIRING AND HAZARDS
-605.11  [For SF] Solar photovoltaic systems.
-	The installation of solar photovoltaic systems shall be in accordance with the California State Fire Marshal publication, "Solar Photovoltaic Installation Guidelines", dated April 22, 2008. That publication shall be made available on the Department's website. 
-	In addition, the Department is authorized to issue and update as warranted an Administrative Bulletin setting specifications for solar photovoltaic installations to address and clarify installation requirements for local conditions. 
-SECTION 607-ELEVATOR RECALL AND MAINTENANCE
-607.6  [For SF] Maintenance of elevators.
-	At least one passenger elevator shall be maintained in working order and accessible for immediate use by the Fire Department at all times. 
-CHAPTER 8
-INTERIOR FINISHES
-[Repealed as of 1/1/2014]*
-Section 805 is deleted. 
+SECTION 607 – ELEVATOR RECALL AND MAINTENANCE
+607.7.  [For SF] Maintenance of Elevators.
+	At least one passenger elevator shall be maintained in working order and accessible for immediate use by the Fire Department at all times.
 CHAPTER 9
 FIRE-PROTECTION SYSTEMS
-[Repealed as of 1/1/2014]*
-SECTION 901-GENERAL
-901.8.2  [For SF] Subsurface construction.
-	Any person performing any subsurface work in close proximity or adjacent to any valve, gate, hydrant, main, street cistern, or other part of the auxiliary water supply system (high pressure system), any hydrant, hydrant piping, or hydrant gate valve connected to the mains of the San Francisco Water Department shall comply with all Fire Department regulations and specifications, which are on file with the Department of Public Works Bureau of Engineering. 
-SECTION 902-DEFINITIONS
-The following definition shall be added to Section 902.1 of the International Fire Code. 
-	[For SF] CERTIFICATED FIRE ALARM SYSTEM is a fire alarm system for which a serially numbered certificate has been issued to the property owner by an approved listing organization. The certificate is a tool for assuring the reliability of fire alarm systems and is the alarm company's declaration that the system will be installed, maintained, tested and monitored in accordance with the applicable codes and standards. San Francisco Fire Department Administrative Bulletin 3.03 contains details of the fire alarm certification program. 
-The following San Francisco definition replaces the corresponding California Fire Code definition in Section 902.1. 
-	[For SF] STANDPIPE SYSTEM, CLASSES OF. A standpipe system is a wet system of piping, valves, outlets and related equipment designed to provide water at specified pressures and installed exclusively for the fighting of fires, including the following: 
-	Class I is a standpipe system equipped with 3-inch (76.2 mm) outlets. 
-	Class II is a standpipe system directly connected to a water supply and equipped with 1½-inch (38.1 mm) outlets and hose. 
-	Class III is a standpipe system directly connected to a water supply and equipped with 3-inch (76.2 mm) outlets or 3-inch (76.2 mm) and 1½-inch (38.1 mm) outlets when a 1½-inch (38.1 mm) hose is required. Hose connections for Class III systems may be made through 3-inch (76.2 mm) hose valves with easily removable 3-inch by 1½-inch (76.2 mm by 38.1 mm) reducers. 
-SECTION 903-AUTOMATIC SPRINKLER SYSTEMS
-903.2.15.2  [For SF] Automatic sprinkler system - existing high-rise buildings.
-	Existing high-rise buildings shall be provided with an automatic fire sprinkler system in accordance with Chapter 46. 
-903.2.19  [For SF] Automatic sprinkler system - existing SRO hotel buildings.
-	Existing SRO hotel buildings shall be provided with an automatic fire sprinkler system in accordance with Chapter 46. 
-903.2.20  [For SF] Automatic sprinkler system - existing residential hotel buildings.
-	Existing residential hotel buildings shall be provided with an automatic fire sprinkler system in accordance with Chapter 46. 
-903.3.6.1  [For SF] Fire Department connection type.
-	Fire Department connections shall have 3-inch national standard hose thread. 
-SECTION 904-ALTERNATIVE AUTOMATIC FIRE - EXTINGUISHING SYSTEMS
-The following San Francisco section replaces the corresponding International Fire Code section. 
-904.11.6.2  [For SF] Extinguishing system service.
-	Automatic fire-extinguishing systems shall be serviced at least every 6 months and after activation of the system. Inspection shall be by qualified individuals, and the owner shall maintain the certificate of inspection on site for at least 1 year following the inspection. 
-SECTION 905-STANDPIPE SYSTEMS
-905.2.1  [For SF] Local installation standard.
-	Standpipe systems shall be installed using 3-inch (76.2 mm) national standard hose thread. Each standpipe outlet shall be placed to provide a minimum of six inches on all sides of the handle and 18 inches on all sides of the outlet, or located as approved by the fire code official. 
-The following San Francisco section replaces the corresponding California Fire Code section. 
-905.3.4  [For SF] Stages.
-	Stages greater than 1,000 square feet (93 m2) in area shall be equipped with a Class III wet standpipe system with 1½ inch and 3 inch (38mm and 64mm) hose connections on each side of the stage. 
-	Exception: Where the building or area is equipped throughout with an automatic sprinkler system, a 1½ inch (38 mm) hose connection shall be installed in accordance with NFPA 13 or in accordance with NFPA 14 for Class II or III standpipes. 
-The following San Francisco section replaces the corresponding California Fire Code section. 
-905.3.10  [For SF] Fixed guideway transit systems.
-	Underground stations shall be provided with a Class III standpipe system designed to comply with the following: 
-	1.	Automatically supply 65 pounds per square inch (psi) for each outlet.
-	2.	Supply a 250 gallons per minute (946L/m) flow to each of the two most remote 3 inch (64 mm) outlets when pressurized through the fire department connection(s). 
-905.3.11  [For SF] Buildings with limited Fire Department access.
-	Horizontal and/or vertical Class I standpipes shall be installed and maintained in any building, regardless of the height thereof, wherever, in the opinion of the fire code official, standpipes are necessary to make hose connections available to firefighters. 
-905.4.3  [For SF] Local requirement for location of Class I standpipe hose connections.
-	There shall be at least one two-way outlet above the roofline when the roof has a slope of less than 4 units vertical in 12 units horizontal (33.3% slope). 
-	Section 905.5.3 is deleted. 
-SECTION 907-FIRE ALARM AND DETECTION SYSTEMS
-The following San Francisco section replaces the corresponding California Fire Code section. 
-907.1.2  [For SF] Fire alarm shop drawings.
-	Shop drawings for fire alarm systems shall be submitted for review and approval prior to system installation. Submittal requirements shall be in accordance with San Francisco Fire Department Administrative Bulletin 2.01. 
-907.2.9.4  [For SF] Automatic smoke detection system.
-	An automatic smoke detection system that activates the occupant notification system in accordance with Section 907.6 shall be installed throughout all interior corridors serving sleeping units. 
+SECTION 901 – GENERAL
+901.8.2.  [For SF] Subsurface Construction.
+	Any person performing any subsurface work in close proximity or adjacent to any valve, gate, hydrant, main, street cistern, or other part of the auxiliary water supply system (high pressure system), any hydrant, hydrant piping, or hydrant gate valve connected to the mains of the San Francisco Water Department shall comply with all Fire Department regulations and specifications, which are on file with the Department of Public Works Bureau of Engineering.
+SECTION 902 – DEFINITIONS
+The following definition shall be added to Section 902.1 of the California Fire Code:
+	[For SF] CERTIFICATED FIRE ALARM SYSTEM is a fire alarm system for which a serially numbered certificate has been issued to the property owner by an organization that is part of the Occupational Safety and Health Administration Nationally Recognized Testing Laboratory Program. The certificate is a tool for assuring the reliability of fire alarm systems and is the alarm company's declaration that the system will be installed, maintained, tested and monitored in accordance with the applicable codes and standards. San Francisco Fire Department Administrative Bulletin 3.03 contains details of the fire alarm certification program.
+SECTION 903 – AUTOMATIC SPRINKLER SYSTEMS
+903.3.6.1.  [For SF] Fire Department Hose Connection Type.
+	Fire Department connections shall have 3-inch national standard hose thread.
+SECTION 904 – ALTERNATIVE AUTOMATIC FIRE-EXTINGUISHING SYSTEMS
+The following San Francisco section replaces the corresponding California Fire Code section:
+904.11.6.2.  [For SF] Extinguishing System Service.
+	Automatic fire-extinguishing systems shall be serviced at least every 6 months and after activation of the system. Inspection shall be by qualified individuals, and the owner shall maintain the certificate of inspection on site for at least 1 year following the inspection.
+SECTION 905 – STANDPIPE SYSTEMS
+905.2.1.  [For SF] Local Installation Standard.
+	Standpipe systems shall be installed using 3-inch (76.2 mm) national standard hose thread. Each standpipe outlet shall be placed to provide a minimum of six inches on all sides of the handle and 18 inches on all sides of the outlet, or located as approved by the fire code official.
+905.3.12.  [For SF] Buildings with Limited Fire Department Access.
+	Horizontal and/or vertical Class I standpipes shall be installed and maintained in any building, regardless of the height thereof, wherever, in the opinion of the fire code official, standpipes are necessary to make hose connections available to firefighters.
+905.4.3.  [For SF] Local Requirement for Location of Class I Standpipe Hose Connections.
+	There shall be at least one two-way outlet above the roofline when the roof has a slope of less than 4 units vertical in 12 units horizontal (33.3% slope).
+SECTION 907 – FIRE ALARM AND DETECTION SYSTEMS
+The following San Francisco section replaces the corresponding California Fire Code section:
+907.2.8.2.  [For SF] Automatic Smoke Detection System.
+	An automatic smoke detection system that activates the occupant notification system in accordance with Section 907.5 shall be installed throughout all interior corridors serving sleeping units.
 	Exceptions:
-	1.	An automatic smoke detection system is not required in buildings that do not have interior corridors serving sleeping units and where each sleeping unit has a means of egress door opening directly to an exit or to an exterior exit access that leads directly to an exit. 
+	1.	An automatic smoke detection system is not required in buildings that do not have interior corridors serving sleeping units and where each sleeping unit has a means of egress door opening directly to an exit or to an exterior exit access that leads directly to an exit.
 	2.	An automatic smoke detection system is not required in buildings when all of the following conditions are met:
-	2.1	The building is equipped throughout with a supervised automatic sprinkler system installed in accordance with Section 903.3.1.1 or 903.3.1.2; 
-	2.2	The notification devices will activate upon sprinkler water flow; and
-	2.3	At least one manual fire alarm box is installed in an approved location.
-907.6.2.2.5  [For SF] Local requirements for emergency voice alarm-signaling system.
-	Multichannel capability is required for new emergency voice/alarm communication systems in high-rise buildings. 
-907.7.3.1.2  [For SF] Local annunciation requirement.
-	Building fire alarm systems shall include visible annunciation in buildings with more than four floors, or when required by the fire code official. Visible annunciation shall be a light-emitting diode (LED) type display. The annunciator panel shall indicate the type of device by floor, zone or other approved designation from which the signal originated. 
-907.7.3.1.3  [For SF] Graphic annunciation.
-	Graphic annunciation shall be installed when required by the fire code official. 
-907.7.3.2.1  [For SF] High-rise building fire alarm annunciation.
-	All high-rise buildings shall include visible annunciation. Visible annunciation shall be a light-emitting diode (LED) type display. All initiating devices shall be annunciated on an annunciator panel located in the building's fire command center, and shall indicate the type of device by floor, zone or other approved designation from which the signal originated. Visible annunciation shall indicate the status of emergency equipment such as the emergency generator, fire pump, and secondary water supply. 
-907.7.5.3  [For SF] Termination of service.
-	Any agency that provides monitoring of a fire alarm system at a continuously attended supervising station facility shall notify the fire code official promptly of termination of such service. 
-907.8.4  [For SF] Fire alarm certification required.
-	All new fire alarm systems shall be certificated. Fire alarm systems providing service that complies with all requirements of this code shall be certificated by an acceptable listing organization. A document attesting to the certification shall be located on or near the fire alarm system control unit or, if no control unit exists, on or near a fire alarm system component. 
-	EXCEPTIONS:
-	1.	Household fire-warning systems and fire alarm systems in one- or two-family dwellings or three-unit apartment houses.
+		2.1.	The building is equipped throughout with a supervised automatic sprinkler system installed in accordance with Section 903.3.1.1 or 903.3.1.2;
+		2.2.	The notification devices will activate upon sprinkler water flow; and
+		2.3.	At least one manual fire alarm box is installed in an approved location.
+907.5.2.2.6.  [For SF] Local Requirements for Emergency Voice Alarm-Signaling System.
+	Multichannel capability is required for new emergency voice/alarm communication systems in high-rise buildings.
+907.6.3.1.2.  [For SF] Local Annunciation Requirement.
+	Building fire alarm systems shall include visible annunciation in buildings with more than four floors, or when required by the fire code official. Visible annunciation shall be a light-emitting diode (LED) type display. The annunciator panel shall indicate the type of device by floor, zone or other approved designation from which the signal originated.
+907.6.3.1.3.  [For SF] Graphic Annunciation.
+	Graphic annunciation shall be installed when required by the fire code official.
+907.6.3.2.1.  [For SF] High-Rise Building Fire Alarm Annunciation.
+	All high-rise buildings shall include visible annunciation. Visible annunciation shall be a light-emitting diode (LED) type display. All initiating devices shall be annunciated on an annunciator panel located in the building's fire command center, and shall indicate the type of device by floor, zone or other approved designation from which the signal originated. Visible annunciation shall indicate the status of emergency equipment such as the emergency generator, fire pump, and secondary water supply.
+907.7.4.  [For SF] Fire Alarm Certification Required.
+	All new fire alarm systems shall be certificated. Fire alarm systems providing service that complies with all requirements of this code shall be certificated by an organization that is part of the Occupational Safety and Health Administration Nationally Recognized Testing Laboratory Program. A document attesting to the certification shall be located on or near the fire alarm system control unit or, if no control unit exists, on or near a fire alarm system component. 
+	Exceptions:
+	1.	Household fire-warning systems and fire alarm systems in one- or two-family dwellings or three-unit apartment houses. 
 	2.	Fire alarm control panels whose primary function is to monitor a sprinkler system.
-The following San Francisco section replaces the corresponding California Fire Code section. 
-907.9.5  [For SF] Maintenance, inspection, and testing.
-	The building owner is responsible to maintain the fire and life safety systems in an operable condition at all times. Service personnel shall meet the qualification requirements of NFPA 72 for maintaining, inspecting and testing of the systems. Written records of inspection and testing, as specified in NFPA 72 shall be provided to the fire code official upon request. Records shall be maintained until the next test and for 1 year thereafter. Service personnel shall place a sticker on the fire alarm control panel cover that includes the company name, phone number, and the date of the last inspection or testing. 
-907.9.6  [For SF] Certificated fire alarm system for existing buildings.
-	Existing buildings are required to have certificated fire alarm systems in accordance with Section 4603.6.10. 
-	Section 912.3.1 is deleted. 
-SECTION 914-FIRE PROTECTION BASED ON SPECIAL DETAILED REQUIREMENTS OF USE AND OCCUPANCY
-The following San Francisco section replaces the corresponding California Fire Code section. 
-914.3.1.1  [For SF] Number of sprinkler risers and system design.
-	Each zone of the sprinkler system shall connect to at least two risers on each floor. Hydraulic calculations shall be based solely on the riser with the greatest hydraulic demand. 
-914.3.1.3  [For SF] Fire Department connections.
-	A Fire Department connection shall be located on each side of a building that fronts a street, and shall provide four inlets for each connection. 
-914.3.1.4  [For SF] Fire pumps.
+The following San Francisco section replaces the corresponding California Fire Code section:
+907.8.5.  [For SF] Maintenance, Inspection, and Testing.
+	The building owner is responsible to maintain the fire and life safety systems in an operable condition at all times. Service personnel shall meet the qualification requirements of NFPA 72 for maintaining, inspecting, and testing of the systems. Written records of inspection and testing, as specified in NFPA 72 shall be provided to the fire code official upon request. Records shall be maintained until the next test and for 1 year thereafter. Service personnel shall place a sticker on the fire alarm control panel cover that includes the company name, phone number, and the date of the last inspection or testing.
+907.8.6.  [For SF] Certificated Fire Alarm System for Existing Buildings.
+	Existing buildings are required to have certificated fire alarm systems in accordance with Section 1103.7.10.
+SECTION 914 – FIRE PROTECTION BASED ON SPECIAL DETAILED REQUIREMENTS OF USE AND OCCUPANCY
+The following San Francisco section replaces the corresponding California Fire Code section:
+914.3.1.1.  [For SF] Number of Sprinkler Risers and System Design.
+	Each zone of the sprinkler system shall connect to at least two risers on each floor. Hydraulic calculations shall be based solely on the riser with the greatest hydraulic demand.
+914.3.1.3.  [For SF] Fire Department Connections.
+	A Fire Department connection shall be located on each side of a building that fronts a street, and shall provide four inlets for each connection.
+914.3.1.4.  [For SF] Fire Pumps.
 	Buildings 200 feet (76 200 mm) or more in height above the lowest level of Fire Department vehicle access shall have a minimum of two fire pumps installed. Each pump shall provide at least the minimum water supply required by NFPA 14. The drive for each pump (including power sources, power supply lines, transformers, motors or engines, fuel supplies, and controllers) shall be independent of the drive for the other pump. 
-914.3.1.5  [For SF] Elevator machine rooms and hoistways in high-rise buildings.
-	Sprinklers shall not be newly installed in the elevator machine rooms or non-combustible hoistways of new or existing high-rise buildings. 
-914.12  [For SF] Piers.
-	Group A Occupancies located on piers of combustible construction shall include an approved installed automatic sprinkler system. 
-914.13  [For SF] Building with car parking stacking systems.
-	Parking garages with car parking stacking systems shall include an approved installed automatic sprinkler system. For hydraulic design purposes per NFPA #13, rooms or areas with these systems shall be designed per Extra Hazard, Group 1 requirements, and in accordance with San Francisco Fire Department Administrative Bulletin 4.25. Written approval from the fire code official is required for any modifications to those requirements. 
+914.12.  [For SF] Piers.
+	Group A Occupancies located on piers of combustible construction shall include an approved installed automatic sprinkler system.
 CHAPTER 10
 MEANS OF EGRESS
-[Repealed as of 1/1/2014]*
-SECTION 1030-MAINTENANCE OF THE MEANS OF EGRESS
-1030.2.1  [For SF] Fire escape obstructions.
-	Fire escapes and related balconies, ladders, landings, and operating devices shall not be obstructed in any manner. No object shall be stored on or attached to a fire escape without the approval of the fire code official. 
-CHAPTER 26
-HOT WORK
-[Repealed as of 1/1/2014]*
-SECTION 2610-HOT WORK ON PIERS
-2610.1  [For SF] Scope.
-	Burning or hot work conducted on marine terminals, piers, and wharves or moored vessels shall be in accordance with this section. 
-2610.2  [For SF] Repairs on Vessels.
-	An applicant for a permit to perform hot work on a vessel shall provide a copy of a Marine Chemist's Certificate authorizing hot work with the permit application. If a permit is issue, the permit holder shall post a copy of the Certificate in a conspicuous place near the gangway of the vessel under repair. The permit holder shall perform all work in accordance with NFPA 306, Control of Gas Hazards on Vessels. Hot work is prohibited while a vessel is fueling, loading or unloading hazardous materials, or when Class "A" or "B" explosives are on board or within 100 feet (30 480 mm) of the vessel. 
-2610.3  [For SF] Repairs on Piers.
-	Hot work is prohibited at marine terminals and on piers, wharves or moored vessels under any of the follow conditions: 
-	1.	During gas freeing operations;
-	2.	Within 100 feet (30 480 mm) of bulk cargo operations involving the loading or unloading of flammable or combustible materials;
-	3.	Within 100 feet (30 480 mm) of fueling (bunkering) operations; and
-	4.	Within 100 feet (30 480 mm) of explosives or 50 feet (15 240 mm) of other hazardous materials.
-2610.4  [For SF] Requirements for Hot Work.
-	Any person performing hot work shall perform the work in compliance with this code and the regulations of the U.S. Department of Transportation, U.S. Department of Labor, and U.S. Coast Guard. 
-CHAPTER 33
-EXPLOSIVES AND FIREWORKS
-[Repealed as of 1/1/2014]*
-SECTION 3301-GENERAL
-3301.2  [For SF] Insurance.
-	Before a permit is issued to use explosives, explosive materials, fireworks, or pyrotechnic special effects, the applicant shall submit to the fire code official a certificate evidencing Commercial General Liability insurance with limits not less than $1,000,000 each occurrence, $2,000,000 general aggregate, combined single limit for bodily injury and property damage, including coverage for Contractual Liability, independent contractors, Explosion, Collapse, and Underground (XCU), Personal Injury, Broadform Property Damage, products, and completed operations, along with an additional insured endorsement naming the City and County of San Francisco, its officers, agents and employees as an additional insured. The insurance policy and endorsement shall be from an insurer approved by the City's Risk Manager and in a form approved by the Risk Manager. In consultation with the Risk Manager, the fire code official may specify a greater or lesser amount for the policy when, in the fire code official's opinion, conditions at the location of use indicate a greater or lesser amount is required. 
-	EXCEPTION: Government entities are exempt from this requirement. 
-3301.3  [For SF] Explosives, explosive materials, fireworks, and pyrotechnics.
-	No person may manufacture, assemble, test, use, possess, handle, store, or sell explosives, explosive materials, fireworks, and pyrotechnic materials within the City and County unless the person has obtained a permit from the fire code official. 
-3301.4  [For SF] Permits.
-	Permits are required as set forth in Chapter 1, Section 105.6. 
-CHAPTER 46
+SECTION 1030 – MAINTENANCE OF THE MEANS OF EGRESS
+1030.2.2.  [For SF] Fire Escape Obstructions.
+	Fire escapes and related balconies, ladders, landings, and operating devices shall not be obstructed in any manner. No object shall be stored on or attached to a fire escape without the approval of the fire code official.
+CHAPTER 11
 CONSTRUCTION REQUIREMENTS FOR EXISTING BUILDINGS
-[Repealed as of 1/1/2014]*
-Sections 4601.1 through 4603.3.7 are deleted. 
-SECTION 4603-FIRE SAFETY REQUIREMENTS FOR EXISTING BUILDINGS
-The following three San Francisco sections replace the corresponding International Fire Code sections. 
-4603.4  [For SF] Sprinkler systems.
-	An automatic sprinkler system shall be provided and maintained in accordance with Sections 4603.4.1, 4603.4.2, and 4603.4.3. 
-4603.4.1  [For SF] Automatic sprinkler system for existing SRO hotel buildings.
-	Every residential hotel building existing on October 16, 2001, that contains 20 or more guest rooms, as defined in the California Building Code, shall provide and maintain an automatic sprinkler system installed to comply with San Francisco Ordinance number 170-02 throughout the residential occupancy, including accessory areas. For purposes of this Section, "Residential Hotel" means each and every hotel for which a Certificate of Use for any residential units has been issued pursuant to San Francisco Administrative Code Chapter 41. Any Residential Hotel that does not maintain an installed automatic sprinkler system throughout the residential occupancy is out of compliance and subject to immediate code enforcement action. The owner shall maintain the sprinkler system in accordance with Title 19 of the California Code of Regulations. 
-4603.4.2  [For SF] Automatic sprinkler system for existing high-rise buildings.
-	All existing high-rise buildings shall maintain an automatic sprinkler systems installed to comply with San Francisco Ordinance number 377-93. 
+SECTION 1101
+Sections 1101.1 through 1103.4.7 are deleted from the International Fire Code.
+SECTION 1102
+Sections 1101.1 through 1103.4.7 are deleted from the International Fire Code.
+SECTION 1103 – FIRE SAFETY REQUIREMENTS FOR EXISTING BUILDINGS
+Sections 1101.1 through 1103.4.7 are deleted from the International Fire Code.
+The following three San Francisco sections replace the corresponding International Fire Code sections:
+1103.5.  [For SF] Sprinkler Systems.
+	An automatic sprinkler system shall be provided and maintained in accordance with Sections 1103.5.1, 1103.5.2, and 1103.5.3.
+1103.5.1.  [For SF] Automatic Sprinkler System for Existing SRO Hotel Buildings.
+	Every residential hotel building existing on October 16, 2001, that contains twenty (20) or more guest rooms, as defined in the California Building Code, shall provide and maintain an automatic sprinkler system installed to comply with San Francisco Ordinance 170-02 throughout the residential occupancy, including accessory areas. For purposes of this section, "Residential Hotel" means each and every hotel for which a Certificate of Use for any residential units has been issued pursuant to San Francisco Administrative Code Chapter 41. Any Residential Hotel that does not maintain an installed automatic sprinkler system throughout the residential occupancy is out of compliance and subject to immediate code enforcement action. The owner shall maintain the sprinkler system in accordance with Title 19 of the California Code of Regulations.
+1103.5.2.  [For SF] Automatic Sprinkler System for Existing High-Rise Buildings.
+	All existing high-rise buildings shall maintain an automatic sprinkler systems installed to comply with San Francisco Ordinance 377-93. 
 	Exceptions:
 	1.	Qualified historical buildings as defined in the California Health and Safety Code Section 18950.
 	2.	Apartment houses, condominiums, or other R-2 Occupancies.
 	3.	A mixed-use occupancy building containing an R-2 Occupancy.
-	Any existing high-rise not exempted from this Section that does not provide an automatic sprinkler system throughout the residential occupancy is out of compliance and subject to immediate code enforcement action. The owner shall maintain the sprinkler system in accordance with Title 19 of the California Code of Regulations. 
-4603.4.3  [For SF] Automatic sprinkler system for existing hotels.
-	All hotels described in San Francisco Ordinance No. 319-86 shall maintain an automatic sprinkler system installed to comply with San Francisco Ordinance number 319-86 throughout all common areas of the hotel. Any existing hotel that does not provide an automatic sprinkler system in accordance with the ordinance is out of compliance and subject to immediate code enforcement action. The owner shall maintain the sprinkler system in accordance with Title 19 of the California Code of Regulations. 
-	Section 4603.5 is deleted. 
-	Section 4603.6.1 and 4603.6.2 are deleted. 
-	Sections 4603.6.4 through 4603.6.7 are deleted. 
-4603.6.10  [For SF] Certificated fire alarm systems for existing buildings.
-	The fire code official may require owners to obtain a certificate for existing fire alarm systems based on severity of life safety hazards or problems identified with a system. Occupancies required to install certificated fire alarm systems are as follows: 
-	1.	Tourist and residential hotels with 20 or more guest rooms or three or more stories in height.
-	2.	Apartment houses with 16 or more units.
+	Any existing high-rise not exempted from this section that does not provide an automatic sprinkler system throughout the residential occupancy is out of compliance and subject to immediate code enforcement action. The owner shall maintain the sprinkler system in accordance with Title 19 of the California Code of Regulations.
+1103.5.3.  [For SF] Automatic Sprinkler System for Existing Hotels.
+	All hotels described in San Francisco Ordinance 319-86 shall maintain an automatic sprinkler system installed to comply with San Francisco Ordinance 319-86 throughout all common areas of the hotel. Any existing hotel that does not provide an automatic sprinkler system in accordance with the ordinance is out of compliance and subject to immediate code enforcement action. The owner shall maintain the sprinkler system in accordance with Title 19 of the California Code of Regulations.
+Section 1103.6 is deleted from the International Fire Code.
+Section 1103.7.1 and 1103.7.2 are deleted from the California Fire Code.
+Sections 1103.7.4 through 1103.7.7 are deleted from the California Fire Code.
+1103.7.10.  [For SF] Certificated Fire Alarm Systems for Existing Buildings.
+	The fire code official may require owners to obtain a certificate for existing fire alarm systems based on severity of life safety hazards or problems identified with a system. Occupancies required to install certificated fire alarm systems are as follows:
+	1.	Tourist and residential hotels with twenty (20) or more guest rooms or three (3) or more stories in height.
+	2.	Apartment houses with sixteen (16) or more units.
 	3.	Public assembly occupancies with an occupant load greater than 300 persons.
-	4.	Day care facilities with 50 or more occupants.
-	Sections 4604 and 4605 are deleted. 
-CHAPTER 50
-[For SF] - PARKING LOTS AND GARAGES
-[Repealed as of 1/1/2014]*
-This Chapter does not exist in the California Fire Code. 
-5001  [For SF] - Scope.
-	Premises used for parking of motor vehicles and classified as Group S, Division 2 occupancies or as a parking lot shall be in accordance with Chapter 50. See the Building Code for construction requirements. Garages used to service or repair motor vehicles shall comply with Chapter 22. 
-5002  [For SF] - Definitions.
+	4.	Day care facilities with fifty (50) or more occupants.
+SECTION 1104 – [DELETED]
+Sections 1104 and 1105 are deleted from the International Fire Code.
+SECTION 1105 – [DELETED]
+Sections 1104 and 1105 are deleted from the International Fire Code.
+CHAPTER 35
+HOT WORK
+SECTION 3510 – HOT WORK ON PIERS
+3510.1.  [For SF] Scope.
+	Burning or hot work conducted on marine terminals, piers, and wharves or moored vessels shall be in accordance with this section.
+3510.2.  [For SF] Repairs on Vessels.
+	An applicant for a permit to perform hot work on a vessel shall provide a copy of a Marine Chemist's Certificate authorizing hot work with the permit application. If a permit is issue,1 the permit 18 holder shall post a copy of the Certificate in a conspicuous place near the gangway of the vessel under repair. The permit holder shall perform all work in accordance with NFPA 306. Control of Gas Hazards on Vessels. Hot work is prohibited while a vessel is fueling, loading or unloading hazardous materials, or when Class "A" or "B" explosives are on board or within 100 feet (30 480 mm) of the vessel.
+CODIFICATION NOTE
+1.	So in Ord. 200-13, File No. 130786, App. 10/3/2013, Eff. 11/2/2013, Oper. 1/1/2014.
+3510.3.  [For SF] Repairs on Piers.
+	Hot work is prohibited at marine terminals and on piers, wharves, or moored vessels under any of the follow1 conditions:
+	1.	During gas freeing operations;
+	2.	Within 100 feet (30 480 mm) of bulk cargo operations involving the loading or unloading of flammable or combustible materials;
+	3.	Within 100 feet (30 480 mm) of fueling (bunkering) operations; and
+	4.	Within 100 feet (30 480 mm) of explosives or 50 feet (15 240 mm) of other hazardous materials.
+CODIFICATION NOTE
+1.	So in Ord. 200-13, File No. 130786, App. 10/3/2013, Eff. 11/2/2013, Oper. 1/1/2014.
+3510.4.  [For SF] Requirements for Hot Work.
+	Any person performing hot work shall perform the work in compliance with this code and the regulations of the U.S. Department of Transportation, U.S. Department of Labor, and U.S. Coast Guard.
+CHAPTER 56
+EXPLOSIVES AND FIREWORKS
+SECTION 5601 – GENERAL
+The following San Francisco section replaces the corresponding International Fire Code section:
+5601.2.  [For SF] Permit Required for Explosives, Explosive Materials, Fireworks, and Pyrotechnics.
+	No person may manufacture, assemble, test, use, possess, handle, store, or sell explosives, explosive materials, fireworks, and pyrotechnic materials within the City and County unless the person has obtained a permit from the fire code official.
+The following San Francisco section replaces the corresponding International Fire Code section:
+5601.2.4.  [For SF] Financial Responsibility and Insurance.
+	Before a permit is issued to use explosives, explosive materials, fireworks, or pyrotechnic special effects, the applicant shall submit to the fire code official a certificate evidencing Commercial General Liability insurance with limits not less than $1,000,000 each occurrence, $2,000,000 general aggregate, combined single limit for bodily injury and property damage, including coverage for Contractual Liability, independent contractors, Explosion, Collapse, and Underground (XCU), Personal Injury, Broadform Property Damage, products, and completed operations, along with an additional insured endorsement naming the City and County of San Francisco, its officers, agents and employees as an additional insured. The insurance policy and endorsement shall be from an insurer approved by the City's Risk Manager and in a form approved by the Risk Manager. In consultation with the Risk Manager, the fire code official may specify a greater or lesser amount for the policy when, in the fire code official's opinion, conditions at the location of use indicate a greater or lesser amount is required.
+	Exception: Government entities are exempt from this requirement.
+CHAPTER 81 [For SF]
+PARKING LOTS AND GARAGES
+This Chapter does not exist in the California Fire Code or International Fire Code.
+SECTION 8101 – [For SF] SCOPE
+	Premises used for parking of motor vehicles and classified as Group S, Division 2 occupancies or as a parking lot shall be in accordance with Chapter 81. See the Building Code for construction requirements. Garages used to service or repair motor vehicles shall comply with Chapter 23.
+SECTION 8102 – [For SF] DEFINITIONS
 	PARKING LOTS AND GARAGES are lots and garages where the operator charges a fee for the storage of motor vehicles. Parking lots shall include those premises that are open to the sky. 
-5003  [For SF] General Requirements.
-5003.1  [For SF] Aisles.
-	A parking lot or garage shall include at least one aisle with a minimum width of 30 inches (762 mm) and arranged to provide access to all portions of the parking lot or garage. 
-5003.2  [For SF] Exit width.
-	Vehicle exits and entrances shall be at least 15 feet (4572 mm) wide. 
-5003.3  [For SF] Vehicle barriers.
-	The operator of a parking lot or garage shall install approved vehicle barriers to prevent encroachment on any public right of way and to prevent damage to adjoining property. 
-5003.4  [For SF] Illumination.
-	The operator of a parking lot shall illuminate the entire lot with light having intensity of not less than 1 footcandle (10.76 lx) at the pavement. 
-5003.5  [For SF] Sign.
-	The operator of any unattended parking lot shall post a sign in a conspicuous location, stating the name and telephone number of the operator. 
-5003.6  [For SF] Vehicle servicing.
-	Service or repair of motor vehicles is prohibited in parking lots.   
-APPENDIX D-
-FIRE APPARATUS ACCESS ROADS
-[Repealed as of 1/1/2014]*
-SECTION D105-AERIAL FIRE APPARATUS ACCESS ROADS
-The following San Francisco section replaces the corresponding International Fire Code section. 
-D105.1  [For SF] Where required.
-	Buildings or portions of buildings or facilities exceeding 30 feet (914 mm) in height above the lowest level of fire department vehicle access shall be provided with approved fire department access roads capable of accommodating fire department aerial apparatus. Overhead utility and power lines shall not be located within the aerial fire apparatus access roadway. 
-	Exception: Buildings that are equipped throughout with approved automatic sprinkler systems. 
+SECTION 8103 – [For SF] GENERAL REQUIREMENTS
+8103.1.  [For SF] Aisles.
+	A parking lot or garage shall include at least one aisle with a minimum width of 30 inches (762 mm) and arranged to provide access to all portions of the parking lot or garage.
+8103.2.  [For SF] Exit Width.
+	Vehicle exits and entrances shall be at least 15 feet (4572 mm) wide.
+8103.3.  [For SF] Vehicle Barriers.
+	The operator of a parking lot or garage shall install approved vehicle barriers to prevent encroachment on any public right of way and to prevent damage to adjoining property.
+8103.4.  [For SF] Illumination.
+	The operator of a parking lot shall illuminate the entire lot with light having intensity of not less than 1 footcandle (10.76 lx) at the pavement.
+8103.5.  [For SF] Sign.
+	The operator of any unattended parking lot shall post a sign in a conspicuous location, stating the name and telephone number of the operator.
+8103.6.  [For SF] Vehicle Servicing.
+	Service or repair of motor vehicles is prohibited in parking lots.
+
 References to Ordinances
-Ordinances Affecting the Fire Code
-Publisher's Note:  The following table lists all ordinances affecting the Fire Code passed by the Board of Supervisors beginning in 2011. The table includes links to the ordinances (as maintained in PDF format on the Board of Supervisors' web site) and to the code sections affected. For other legislation, including older ordinances and those affecting other codes, please refer to the Comprehensive Ordinance Table or the Board's "Legislation Passed" web site.
-
-Ord. No.File No.Eff. DateShort Title and Code Sections Affected238-1111110101/14/12Administrative, Business and Tax Regulations, Fire, Health, and Police Codes - Business License Fees
-
-Sections Affected:
-113.21 (Amended)169-1212060708/26/12Fire Code - Fire Department Service Fees
-
-Sections Affected:
-113.10, 113.21 (Amended)116-1313025307/28/13Fire Code - Fire Apparatus Access Roads
-
-Sections Affected:
-503.4 (Amended)171-1313054609/01/13Fire Code - San Francisco Fire Department Fines and Fees 
-
-Sections Affected:
-113.5, 113.6, 113.7, 113.9, 113.10, 113.12, 113.21 (Amended)200-1313078611/02/13Fire Code - Repealing, Replacing, and Amending
-
-Sections Affected:
-511.2 (Amended) 
-New Ordinances
-Publisher's Note:  The following table lists all ordinances affecting the Fire Code that have been passed by the Board of Supervisors but that are not yet effective. The table includes links to the amending ordinances (as maintained in PDF format on the Board of Supervisors' web site) and to the code sections affected. For other legislation, including older ordinances and those affecting other codes, please refer to the Comprehensive Ordinance Table or the Board's "Legislation Passed" web site.
+Ordinances Affecting the 2013 Fire Code
+Publisher's Note: The following table lists all ordinances affecting the 2013 Fire Code passed by the Board of Supervisors beginning with its enacting ordinance. The table includes links to the ordinances (as maintained in PDF format on the Board of Supervisors' web site) and to the code sections affected. For other legislation, including older ordinances and those affecting other codes, please refer to the Comprehensive Ordinance Table or the Board's "Legislation Passed" web site.
 
 Ord. No.File No.Eff. DateShort Title and Code Sections Affected200-1313078611/02/13
 
 [Oper. 01/01/14]Fire Code - Repealing, Replacing, and Amending
 
 Sections Affected:
-Entire Code repealed and replaced
+Former Fire Code repealed and 2013 Fire Code enacted 
+New Ordinances
+Publisher's Note: The following table lists all ordinances affecting the 2013 Fire Code that have been passed by the Board of Supervisors but that are not yet effective. The table includes links to the amending ordinances (as maintained in PDF format on the Board of Supervisors' web site) and to the code sections affected. For other legislation, including older ordinances and those affecting other codes, please refer to the Comprehensive Ordinance Table or the Board's "Legislation Passed" web site.
+
+Ord. No.File No.Eff. DateShort Title and Code Sections Affected[None]

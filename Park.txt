@@ -3,10 +3,8 @@ CITY AND COUNTY OF SAN FRANCISCO
 MUNICIPAL CODE
 
 PARK CODE
- New Ordinance Notice
-Publisher's Note: This Code includes sections affected by new ordinances. Click here for a list of the new ordinances and the affected sections.
-The San Francisco Municipal Code is current through Ordinance 260-13, File No. 130814, approved November 14, 2013, effective December 14, 2013.
-The Park Code was last amended by Ordinance 252-13, File No. 130882, approved November 14, 2013, effective December 14, 2013.
+The San Francisco Municipal Code is current through Ordinance 268-13, File No. 130937, approved November 27, 2013, effective December 27, 2013.
+The Park Code was last amended by Ordinance 265-13, File No. 130766, approved November 27, 2013, effective December 27, 2013.
 
 
 AMERICAN LEGAL PUBLISHING CORPORATION
@@ -36,9 +34,10 @@ Public Works Code
 Subdivision Code
 Transportation Code
 
-Building Industry Commission Codes:
+Building Inspection Commission Codes:
 Building Code
 Electrical Code
+Green Building Code
 Housing Code
 Mechanical Code
 Plumbing Code
@@ -104,10 +103,8 @@ SEC. 3.02.  SIGNS TO BE OBEYED.
 	No person shall willfully disobey the notices, prohibitions or directions on any sign posted by the Recreation and Park Commission or the Recreation and Park Department. 
 (Added by Ord. 603-81, App. 12/18/81)
 SEC. 3.03.  PUBLIC MAY BE EXCLUDED.
- New Ordinance Notice
-Publisher's Note: This section has been AMENDED by a new ordinance (Ord. 265-13, approved 11/27/2013, effective 12/27/2013). The text of the amendment will be incorporated below when the new ordinance is effective.
-	In case of an emergency, or when in the judgment of the Recreation and Park Commission or the General Manager the public interest demands it, any portion of any park or park building therein may be closed to the public until such park area or building is reopened to the public by the Recreation and Park Commission or the General Manager; provided, however, that nothing in this Section shall authorize the General Manager to close any portion of any park building because of activities, existing or anticipated, engaged in for the purpose of expressing ideas or causes, which activities are protected by the First Amendment to the United States Constitution. 
-(Added by Ord. 603-81, App. 12/18/81)
+	In case of an emergency, or when in the judgment of the Recreation and Park Commission or the General Manager the public interest demands it, any portion of any park or park building therein may be closed to the public until such park area or building is reopened to the public by the Recreation and Park Commission or the General Manager; provided, however, that nothing in this Section shall authorize the General Manager or the Commission to close any portion of any park or park building because of the content or viewpoint of expressive activities, existing or anticipated, to the extent such expressive activities are protected by the First Amendment to the United States Constitution. 
+(Added by Ord. 603-81, App. 12/18/81; amended by Ord. 265-13, File No. 130766, App. 11/27/2013, Eff. 12/27/2013)
 SEC. 3.04.  BRIDLE PATHS.
 	The bridle paths are maintained for the primary use of horses and riders and any person who walks, jogs, runs or otherwise makes use of a bridle path, or who propels or conveys a vehicle or a bicycle, cart, wagon or other object on a bridle path, or who allows any animal within his or her custody on a bridle path, must leave the bridle path or remove the vehicle, object or animal from the path whenever such action or removal is necessary in order to give way to horses and riders. This Section is not applicable to members of the Police Department in the performance of their duties. 
 (Added by Ord. 603-81, App. 12/18/81)
@@ -174,9 +171,18 @@ SEC. 3.20.  SHARP PARK.
 	(b)	No later than August 31, 2009, the Department shall provide to the Clerk of the Board of Supervisors a report detailing the steps taken, and the progress made, to achieve the goals set forth in subsection (a) above. 
 (Added by 85-09, File No. 090329, App. 5/21/2009)
 SEC. 3.21.  HOURS OF OPERATION.
- New Ordinance Notice
-Publisher's Note: This section has been ADDED by a new ordinance (Ord. 265-13, approved 11/27/2013, effective 12/27/2013). The text of the section will be included below when the new ordinance is effective.
-
+	(a)	Persons may enter and use any park from 5:00 a.m. to midnight daily, provided that the Department may set different hours in a permit, contract or lease. This subsection shall not apply to buildings, such as recreation centers, restrooms and clubhouses, or to athletic fields, which may have different hours of operation, as determined by the General Manager or the Commission, as the case may be.
+	(b)	Notwithstanding the provisions of subsection (a), the Commission may by resolution and at any time set different hours of operation for any park or part thereof, based on operational requirements or neighborhood impacts.
+	(c)	No person shall enter or remain in any park without the permission of the Department outside of the hours open to the public as set in subsection (a) or under subsection (b), except that:
+		(1)	In the case of Balboa Park, Golden Gate Park, Lincoln Park, and McLaren Park, persons may use a vehicle (including but not limited to a car, truck, bicycle and motorcycle) on the roadway(s) in those parks or walk on paved sidewalks immediately adjacent to such roadways, at any time for purposes of transversing the park only;
+		(2)	In the case of the Panhandle, persons may walk or ride a bicycle on the bike paths at any time for purposes of transversing the park only; and,
+		(3)	In the case of Union Square, Civic Center Plaza, and Justin Herman Plaza, persons may walk on the paved portions of those plazas at any time for purposes of transversing the plaza only.
+	(d)	(1)	Except as provided in subsection (2), a violation of subsection (c) shall be subject to the penalties set forth in Park Code Article 10.
+		(2)	A person who is found sleeping in a park outside of the hours open to the public in violation of subsection (c) shall not be cited under this section for being present in the park while sleeping. Such a person may be cited only under Section 3.13 of this Code.
+	(e)	The Department shall post the hours for each park (1) at the park in a location designed to provide notice to members of the public, and (2) on the Department's website.
+	(f)	The Department shall issue an annual report to the Board of Supervisors and Mayor by September 1 of each year providing the following information for the preceding fiscal year: (1) the number of citations issued by the Police Department and Park Patrol for violations of this section and the age and race of individuals cited, (2) the Department's costs for repairs and maintenance, including graffiti abatement, resulting from vandalism in parks, and (3) the Department's costs associated with enforcing this section.
+	(g)	Nothing in this section shall limit the authority of the General Manager and the Commission under section 3.03 of this Code.
+(Added by Ord. 265-13, File No. 130766, App. 11/27/2013, Eff. 12/27/2013)
 ARTICLE 4:
 DISORDERLY CONDUCT
 Sec. 4.01.Disorderly Conduct.Sec. 4.02.Swimming Restrictions.Sec. 4.03.Polluting Waters Prohibited.Sec. 4.04.Littering and Dumping of Waste Matter Prohibited.Sec. 4.05.Malicious Destruction of Property.Sec. 4.06.Removal of Trees, Wood, Etc.Sec. 4.07.Penalties for Violation of Section 4.06.Sec. 4.08.Interference with Recreation and Park Employees.Sec. 4.09.Certain Acts Prohibited – Candlestick, Kezar.Sec. 4.10.Alcoholic Beverages.Sec. 4.11.Persons Intoxicated by Alcohol or Drugs May Be Excluded.Sec. 4.12.Persons May Be Excluded Under Certain Circumstances.Sec. 4.13.Refusal to Obey Lawful Order.Sec. 4.14.Fighting, Disturbing Peace, Offensive Words.Sec. 4.15.Intoxication by Alcohol or Drugs.Sec. 4.16.Minors, Parents and Guardians of.Sec. 4.17.Skateboard Safety Requirements.
@@ -1254,11 +1260,11 @@ Sections Affected:
 12.11, 12.21, 12.46 (Amended); 12.26, 12.31 (Repealed)252-1313088212/14/13Park Code - Harding Park Golf Course Temporary Reduced Greens Fees
 
 Sections Affected:
-12.12.1 (Amended)
-New Ordinances
-Publisher's Note:  The following table lists all ordinances affecting the Park Code that have been passed by the Board of Supervisors but that are not yet effective. The table includes links to the amending ordinances (as maintained in PDF format on the Board of Supervisors' web site) and to the code sections affected. For other legislation, including older ordinances and those affecting other codes, please refer to the Comprehensive Ordinance Table or the Board's "Legislation Passed" web site.
-
-Ord. No.File No.Eff. DateShort Title and Code Sections Affected265-1313076612/27/13Park Code - Hours of Operation for City Parks
+12.12.1 (Amended)265-1313076612/27/13Park Code - Hours of Operation for City Parks
 
 Sections Affected:
 3.21 (Added); 3.03 (Amended)
+New Ordinances
+Publisher's Note:  The following table lists all ordinances affecting the Park Code that have been passed by the Board of Supervisors but that are not yet effective. The table includes links to the amending ordinances (as maintained in PDF format on the Board of Supervisors' web site) and to the code sections affected. For other legislation, including older ordinances and those affecting other codes, please refer to the Comprehensive Ordinance Table or the Board's "Legislation Passed" web site.
+
+Ord. No.File No.Eff. DateShort Title and Code Sections Affected[None]

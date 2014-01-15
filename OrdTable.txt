@@ -358,7 +358,7 @@ Campaign and Governmental Conduct Code:  3.301 (Added)238-1111110101/14/12Admini
 Sections Affected:
 Administrative Code:  26.26 (Amended)
 Business and Tax Regulations Code:  76.1, 76.2 (Added); 78, 93, 93.1, 120, 122, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249.1, 249.5, 249.6, 249.7, 249.12, 249.13, 249.15, 249.16 (Amended); 76, 80 (Deleted)
-Fire Code:  113.21 (Amended)
+Fire Code:  113.21 (Amended; note, however, that this legislation affected an earlier version of the Fire Code that has since been repealed)
 Health Code:  258, 1009.54, 1927, 3318 (Amended)
 Police Code:  2.10, 2.16, 43.2, 387, 778, 869.12, 896, 974.23, 1021, 1025, 1032, 1036.10, 1037.2, 1045.2, 1060.1-1, 1070.1-1, 1072.40, 1072.40-1, 1073.17, 1073.17.1, 1074.6, 1074.24, 1209, 1218, 1230, 1238, 1239.2, 1279.1, 1279.2, 1279.3, 1295, 1309, 2626, 2818, 3008, 3062, 3216A, 3217, 3219, 3404, 3405, 3425, 3907, 3908 (Amended)239-1111115101/19/12Public Improvements Acceptance - Bayshore Boulevard at Waterloo Street240-1111115412/20/11Agreement - Tracking Environmental Attributes241-1111113512/20/11Settlement of Lawsuit - Diane Bauer - $35,000242-1111113612/20/11Settlement of Lawsuit - David Cheung - $80,000243-1111113712/20/11Settlement of Lawsuit - Elaine Choy - $28,850244-1111113812/20/11Settlement of Lawsuit - Shonna Cook - $27,785245-1111113912/20/11Settlement of Lawsuit - James Cordova/Maria Morales - $26,965246-1111114012/20/11Settlement of Lawsuit - Brenda Dickson - $28,000247-1111114112/20/11Settlement of Lawsuit - Susan Garduno - $25,730248-1111114212/20/11Settlement of Lawsuit - KLW, LLC - $110,000249-1111114312/20/11Settlement of Lawsuit - Lawrence LaBianca - $34,965250-1111114412/20/11Settlement of Lawsuit - Jane Martin and David Baker - $50,000251-1111114512/20/11Settlement of Lawsuit - Pat Moore and Tom Moore - $30,000252-1111114612/20/11Settlement of Lawsuit - James Ramsey and Patricia Carazo Ramsey - $33,000253-1111114712/20/11Settlement of Lawsuit - Sally Seid - $27,815254-1111114812/20/11Settlement of Lawsuit - Angela Sinicropi and Martin Takigawa - $26,820255-1111114912/20/11Settlement of Lawsuit - Sunday Bazaar/2170 Folson, LLC - $60,000256-1111109612/20/11Contract Amendment - Western Area Power Administration - Electric Services - Not to Exceed $15,950,888
 2012 Ordinances
@@ -531,7 +531,7 @@ Sections Affected:
 Administrative Code:  2A.22.1 (Amended)169-1212060708/26/12Fire Code - Fire Department Service Fees
 
 Sections Affected:
-Fire Code:  113.10, 113.21 (Amended)170-1212060808/26/12Park Code - Consolidating Golf Course Provisions and Increasing Certain Golf Fees
+Fire Code:  113.10, 113.21 (Amended; note, however, that this legislation affected an earlier version of the Fire Code that has since been repealed)170-1212060808/26/12Park Code - Consolidating Golf Course Provisions and Increasing Certain Golf Fees
 
 Sections Affected:
 Park Code:  12.12, 12.12.1, 12.12.2, 12.12.3, 12.12.4, 12.12.5, 12.12.6 (Added); 12.12, 12.13, 12.14, 12.16, 12.32, 12.33, 12.37, 12.43 (Repealed)171-1212060908/26/12Park Code - Professional Tennis Lesson Rates
@@ -875,7 +875,7 @@ Sections Affected:
 Administrative Code:  98.2 (Added)116-1313025307/28/13Fire Code - Fire Apparatus Access Roads
 
 Sections Affected:
-Fire Code:  503.4 (Amended)117-13120669[Passed 06/18/13]Subdivision Code - Condominium Conversion Fee
+Fire Code:  503.4 (Amended; note, however, that this legislation affected an earlier version of the Fire Code that has since been repealed)117-13120669[Passed 06/18/13]Subdivision Code - Condominium Conversion Fee
 
 Sections Affected:
 Subdivision Code:  1396.4, 1396.5 (Added); 1396 (Amended)118-1312012507/28/13Planning Code - Mobile Food Facilities at Certain Institutions in Specified Districts 
@@ -972,7 +972,7 @@ Sections Affected:
 Business and Tax Regulations Code:  515.01, 515.2 (Amended)171-1313054609/01/13Fire Code - San Francisco Fire Department Fines and Fees 
 
 Sections Affected:
-Fire Code:  113.5, 113.6, 113.7, 113.9, 113.10, 113.12, 113.21 (Amended)172-1313054709/01/13Health Code - Patient Rates - FYs 2013-14 and 2014-2015 
+Fire Code:  113.5, 113.6, 113.7, 113.9, 113.10, 113.12, 113.21 (Amended; note, however, that this legislation affected an earlier version of the Fire Code that has since been repealed)172-1313054709/01/13Health Code - Patient Rates - FYs 2013-14 and 2014-2015 
 
 Sections Affected:
 Health Code:  128 (Amended)173-1313054809/01/13Park Code - Various Fees 
@@ -1030,7 +1030,8 @@ Building Code:  105A, 3404, 3406B (Amended)
 Housing Code:  351 (Amended)200-1313078611/02/13Fire Code - Repealing, Replacing, and Amending
 
 Sections Affected:
-Fire Code:  511.2 (Amended); entire Code repealed and replaced, effective January 1, 2014201-1313027611/02/13Business and Tax Regulations Code - Former Transfer Tax Review Board
+Fire Code:  511.2 (Amended; note, however, that this amendment affected an earlier version of the Fire Code that has since been repealed)
+Entire Code repealed and replaced, effective January 1, 2014201-1313027611/02/13Business and Tax Regulations Code - Former Transfer Tax Review Board
 
 Sections Affected:
 Business and Tax Regulations Code:  1111, 1115, 1115.1, 1115.3 (Amended); 1115.2 (Repealed)202-1313078011/02/13Setting San Francisco's Property Tax Rate and Establishing Pass-Through Rate for Residential Tenants - FY2013-2014203-1313070611/02/13Administrative Code - Residential Rent Ordinance, Tenant Financial Hardship Applications for Relief from Landlord Passthrough of Capital Improvement Costs
@@ -1097,7 +1098,7 @@ Planning Code:  745.1 (Added); 201, 207.4, 249.35, 263.20, 607.1, 702.1, 702.3 (
 Zoning Map:  ZN08 (Amended)262-1313040012/27/13Health Code - Massage Practitioners
 
 Sections Affected:
-Health Code:  29.1, 29.2, 29.3, 29.4, 29.5, 29.6, 29.7, 29.8, 29.9, 29.10, 29.11, 29.12, 29.13, 29.14, 29.15, 29.16, 29.17, 29.18, 29.19, 29.20, 29.21, 29.22, 29.23, 29.24, 29.25, 29.26, 29.27, 29.28, 29.29, 29.30, 29.31, 29.32 (Added); 1900, 1901, 1902, 1903, 1904, 1905, 1906, 1907, 1908, 1909, 1910, 1912, 1913, 1915, 1916, 1917, 1918, 1919, 1920, 1921, 1922, 1923, 1925, 1926, 1927, 1928, 1928.1, 1928.2, 1929, 1930, 1931 (Amended and/or Renumbered); 1911, 1914, 1924 (Repealed)263-1313054912/27/13Planning Code - Controller's Reports
+Health Code:  29.1, 29.2, 29.3, 29.4, 29.5, 29.7, 29.8, 29.9, 29.10, 29.11, 29.12, 29.13, 29.14, 29.15, 29.16, 29.17, 29.18, 29.19, 29.20, 29.21, 29.22, 29.23, 29.24, 29.25, 29.26, 29.27, 29.28, 29.29, 29.30, 29.31, 29.32 (Added); 1900, 1901, 1902, 1903, 1904, 1906, 1907, 1908, 1909, 1910, 1912, 1913, 1915, 1916, 1917, 1918, 1919, 1920, 1921, 1922, 1923, 1925, 1926, 1927, 1928, 1928.1, 1928.2, 1929, 1930, 1931 (Amended and/or Renumbered); 1911, 1914, 1924 (Repealed)263-1313054912/27/13Planning Code - Controller's Reports
 
 Sections Affected:
 Planning Code:  409, 413.6, 415.5, 418.5, 418.7, 420.6, 421.5, 422.5, 423.5, 424.5 (Amended)264-1313073412/27/13Administrative Code - Planning Commission Review of Medical Cannabis Dispensary Location Regulations
@@ -1109,7 +1110,7 @@ Sections Affected:
 Park Code:  3.21 (Added); 3.03 (Amended)266-1313078912/27/13Health Code - Licensing and Regulations of Massage Establishments and Practitioners
 
 Sections Affected:
-Health Code:  29.6, 29.11, 29.12, 29.27 (Amended)267-1313079912/27/13Administrative Code - Airport Capital Improvement Promotion and Event Fund
+Health Code:  29.6, 29.11, 29.12, 29.27 (Amended); 1905 (Amended and Renumbered)267-1313079912/27/13Administrative Code - Airport Capital Improvement Promotion and Event Fund
 
 Sections Affected:
 Administrative Code:  10.100-18 (Amended)268-1313093712/27/13Administrative Code - Film Production Daily Use Fees; Film Rebate Program
@@ -1120,5 +1121,12 @@ Administrative Code:  57.5, 57.8 (Amended)269-1313079712/27/13Contract Amendment
 [Oper. 01/01/14]Business and Tax Regulations Code - Business Tax Installment Payments; Combined Reporting; Special Assessments
 
 Sections Affected:
-Business and Tax Regulations Code:  6.1-1, 6.2-17, 6.6-1, 6.9-3, 6.9-5, 6.17-1, 6.17-2, 6.17-3, 6.21-1, 907, 956.3 (Amended)272-1313095511/27/13Settlement of Administrative Enforcement Action - San Francisco Bay Regional Water Quality Control Board - $608,310273-1313095611/27/13Settlement of Lawsuit - Carlos Hutcherson, et al. - $125,000274-1313101311/27/13Settlement of Lawsuits - Zeno Zimmerman - $145,000275-1313101411/27/13Settlement of Lawsuit - Calkin, et al. - $862,500276-1313103311/27/13California Code of Civil Procedure, Section 998 - Offer to Compromise to Defendants - Anshen and Allen, Architects Inc.
+Business and Tax Regulations Code:  6.1-1, 6.2-17, 6.6-1, 6.9-3, 6.9-5, 6.17-1, 6.17-2, 6.17-3, 6.21-1, 907, 956.3 (Amended)272-1313095511/27/13Settlement of Administrative Enforcement Action - San Francisco Bay Regional Water Quality Control Board - $608,310273-1313095611/27/13Settlement of Lawsuit - Carlos Hutcherson, et al. - $125,000274-1313101311/27/13Settlement of Lawsuits - Zeno Zimmerman - $145,000275-1313101411/27/13Settlement of Lawsuit - Calkin, et al. - $862,500276-1313103311/27/13California Code of Civil Procedure, Section 998 - Offer to Compromise to Defendants - Anshen and Allen, Architects Inc.277-1313096801/17/14Administrative, Planning Codes - Ellis Act Displaced Emergency Assistance Ordinance
+
+Sections Affected:
+Administrative Code:  10.100-110, 10.100-370, 24.8, 37.6, 43.3.4 (Amended)
+Planning Code:  413.10, 415.5, 415.6, 415.7 (Amended)278-13131083Accept and Expend Private Grant - Mission Bay South Plan First Source Hiring Program, and Amendment to the Annual Salary Ordinance - FYs 2013-2014 and 2014-2015 - $500,000279-13131084Appropriation - General Hospital Improvement General Obligation Bonds - FY2013-2014 - $209,955,000280-1313111901/17/14Transportation Code - Inoperable/Broken Parking Meter Time Limits
+
+Sections Affected:
+Transportation Code:  1.1, 7.2.30, 7.2.65 (Amended)
 Ordinances that amend the Municipal Code and are not yet effective have their identifiying information highlighted in yellow. Changes made by those ordinances are not incorporated into the text of the Code until the amending ordinances are effective.

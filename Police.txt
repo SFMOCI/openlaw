@@ -3,7 +3,7 @@ CITY AND COUNTY OF SAN FRANCISCO
 MUNICIPAL CODE
 
 POLICE CODE
-The San Francisco Municipal Code is current through Ordinance 260-13, File No. 130814, approved November 14, 2013, effective December 14, 2013.
+The San Francisco Municipal Code is current through Ordinance 268-13, File No. 130937, approved November 27, 2013, effective December 27, 2013.
 The Police Code was last amended by Ordinance 249-13, File No. 130585, approved November 8, 2013, effective December 8, 2013.
 
 
@@ -35,9 +35,10 @@ Public Works Code
 Subdivision Code
 Transportation Code
 
-Building Industry Commission Codes:
+Building Inspection Commission Codes:
 Building Code
 Electrical Code
+Green Building Code
 Housing Code
 Mechanical Code
 Plumbing Code

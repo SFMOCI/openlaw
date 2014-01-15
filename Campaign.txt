@@ -3,7 +3,7 @@ CITY AND COUNTY OF SAN FRANCISCO
 MUNICIPAL CODE
 
 CAMPAIGN AND GOVERNMENTAL CONDUCT CODE 
-The San Francisco Municipal Code is current through Ordinance 260-13, File No. 130814, approved November 14, 2013, effective December 14, 2013.
+The San Francisco Municipal Code is current through Ordinance 268-13, File No. 130937, approved November 27, 2013, effective December 27, 2013.
 The Campaign and Governmental Conduct Code was last amended by Ordinance 9-13, File No. 120964, approved February 4, 2013, effective March 6, 2013, operative January 1, 2013.
 
 
@@ -34,9 +34,10 @@ Public Works Code
 Subdivision Code
 Transportation Code
 
-Building Industry Commission Codes:
-Building Code
+Building Inspection Commission Codes:
+Building Code 
 Electrical Code
+Green Building Code
 Housing Code
 Mechanical Code
 Plumbing Code

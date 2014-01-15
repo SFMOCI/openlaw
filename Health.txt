@@ -3,8 +3,8 @@ CITY AND COUNTY OF SAN FRANCISCO
 MUNICIPAL CODE
 
 HEALTH CODE
-The San Francisco Municipal Code is current through Ordinance 260-13, File No. 130814, approved November 14, 2013, effective December 14, 2013.
-The Health Code was last amended by Ordinance 208-13, File No. 130765, approved October 11, 2013, effective November 10, 2013.
+The San Francisco Municipal Code is current through Ordinance 268-13, File No. 130937, approved November 27, 2013, effective December 27, 2013.
+The Health Code was last amended by Ordinance 266-13, File No. 130789, approved November 27, 2013, effective December 27, 2013.
 
 
 AMERICAN LEGAL PUBLISHING CORPORATION
@@ -34,9 +34,10 @@ Public Works Code
 Subdivision Code
 Transportation Code
 
-Building Industry Commission Codes:
+Building Inspection Commission Codes:
 Building Code
 Electrical Code
+Green Building Code
 Housing Code
 Mechanical Code
 Plumbing Code
@@ -5701,40 +5702,35 @@ SEC. 1810.  SEVERABILITY.
 (Added by Ord. 11-00, File No. 992079, App. 2/11/2000)
 ARTICLE 29:
 LICENSING AND REGULATION OF MASSAGE PRACTITIONERS
- New Ordinance Notice
-Publisher's Note: This Article has been substantially AMENDED and reorganized by new ordinances (Ords. 262-13 and 266-13, both approved 11/27/2013 and effective 12/27/2013). The text of the amendments will be incorporated below when the new ordinances are effective.
-
-Sec. 1900.Definitions.Sec. 1901.Permit Required for Massage Practitioner; Exemption.Sec. 1902.Application for Massage Practitioner Permit; General and Advanced Practitioners.Sec. 1903.Issuance of Massage Practitioner Permit.Sec. 1904.Temporary Massage Practitioner Permit; Trainee Permit.Sec. 1905.Identification Card.Sec. 1906.Massage Practitioner License Fee.Sec. 1907.Revocation of Massage Practitioner Permit.Sec. 1908.Permit Required for a Massage Establishment, Solo Practitioner Massage Establishment, or Outcall Massage Service, Exemptions.Sec. 1909.Application for Massage Establishment, Solo Practitioner Massage Establishment, or Outcall Massage Service Permit.Sec. 1910.Facilities Necessary for Massage Establishment.Sec. 1911.Facilities Necessary for Solo Practitioner Massage Establishment.Sec. 1912.Referral of Permit Application to Other Departments.Sec. 1913.Issuance of Massage Establishment, Solo Practitioner Massage Establishment, or Outcall Massage Service Permit.Sec. 1914.Operating Requirements for Massage Establishment.Sec. 1915.Employment of Massage Practitioners.Sec. 1916.Register of Employees.Sec. 1917.Employment of Persons Under the Age of 18 Prohibited.Sec. 1918.Display of Permit; Hours of Operation.Sec. 1919.Inspection.Sec. 1920.Massage Establishment, Solo Practitioner Massage Establishment, or Outcall Massage Service License Fee.Sec. 1921.Revocation of Massage Establishment, Solo Practitioner Massage Establishment, or Outcall Massage Service Permit.Sec. 1922.Hearings.Sec. 1923.Transfer of Permit.Sec. 1924.Existing Permits.Sec. 1925.Business Tax and Zoning Information, Resources for Massage Practitioners.Sec. 1926.Rules and Regulations; Complaint Line.Sec. 1927.Fees.Sec. 1928.Violations and Administrative Penal Ties.Sec. 1928.1.Cost Recovery.Sec. 1928.2.Violations and Criminal Penalties.Sec. 1929.Cooperative Efforts with Law Enforcement.Sec. 1930.Disclaimer.Sec. 1931.Severability.
-SEC. 1900.  DEFINITIONS.
- New Ordinance Notice
-Publisher's Note: This Section has been affected by the substantial amendments described in the Publisher's Note at the beginning of this Article.
+Sec. 29.1.Definitions.Sec. 29.2.Permit Required for Massage Practitioner; Exemptions.Sec. 29.3.Application for Massage Practitioner Permit; General and Advanced Practitioners Not Certified by the CAMTC.Sec. 29.4.Issuance of Massage Practitioner Permit for Practitioners Not Certified by the CAMTC.Sec. 29.5.Temporary Massage Practitioner Permit; Trainee Permit for Practitioners Not Certified by the CAMTC.Sec. 29.6.Identification Card for Practitioners Not Certified by the CAMTC.Sec. 29.7.Massage Practitioner License Fee.Sec. 29.8.Revocation of Massage Practitioner Permit, for Practitioners Not Certified by the CAMTC.Sec. 29.9.Registration of Massage Establishments That Employ Only CAMTC Certified Practitioners.Sec. 29.10.Permit Required for a Massage Establishment, Solo Practitioner Massage Establishment, or Outcall Massage Service, Exemptions for Practitioners Not Certified by the CAMTC.Sec. 29.11.Application for Massage Establishment, Solo Practitioner Massage Establishment, or Outcall Massage Service Permit for Practitioners Not Certified by the CAMTC.Sec. 29.12.Operating Requirements for All Massage Establishments.Sec. 29.13.Referral of Permit Application to Other Departments, for Practitioners Not Certified by the CAMTC.Sec. 29.14.Issuance of Massage Establishment, Solo Practitioner Massage Establishment, or Outcall Massage Service Permit, for Practitioners Not Certified by the CAMTC.Sec. 29.15.Employment of Massage Practitioners.Sec. 29.16.Register of Employees.Sec. 29.17.Employment of Persons under the Age of 18 Prohibited.Sec. 29.18.Display of Permit; Hours of Operation.Sec. 29.19.Inspection.Sec. 29.20.Massage Establishment, Solo Practitioner Massage Establishment, or Outcall Massage Service License Fee.Sec. 29.21.Revocation of Massage Establishment, Solo Practitioner Massage Establishment, or Outcall Massage Service Permit for Practitioners Not Certified by the CAMTC.Sec. 29.22.Hearings.Sec. 29.23.Transfer of Permit.Sec. 29.24.Business Tax and Zoning Information, Resources for Massage Practitioners.Sec. 29.25.Rules and Regulations; Complaint Line.Sec. 29.26.Fees.Sec. 29.27.Violations and Administrative Penalties.Sec. 29.28.Cost Recovery.Sec. 29.29.Violations and Criminal Penalties.Sec. 29.30.Cooperative Efforts with Law Enforcement.Sec. 29.31.Disclaimer.Sec. 29.32.Severability.
+Editor's Notes:
+	The sections of this Article are numbered out of sequence with the other articles of this Code. Sections designated 1 through 66 are codified in Article 1 above.
+	The sections of this Article formerly were numbered 1900 through 1931. As part of its substantial amendments, Ord. 262-13 redesignated the Article's sections as currently set forth. The history note following each section explains the section's derivation and notes its former section number (if applicable).
+SEC. 29.1.  DEFINITIONS.
 	For the purposes of this Article: 
-	(a)	"City" means the City and County of San Francisco.
-	(b)	"Convicted" means having pled guilty or having received a verdict of guilty, including a verdict following a plea of nolo contendere, to a crime. 
-	(c)	"Director" means the Director of Public Health or any individual designated by the Director to act on his or her behalf.
-	(d)	"Massage" means any method of pressure on or friction against, or stroking, kneading, rubbing, tapping, pounding, vibrating, or stimulating of the external soft pads of the body with the hands or with the aid of any mechanical electrical apparatus or appliances, with or without such supplementary aids as rubbing alcohol, liniments, antiseptics, oils, powder, lotions, ointments, or other similar preparations. 
-	(e)	"Massage establishment" means a fixed place of business where more than one person engages in or carries on, or permits to be engaged in or carried on, the practice of massage. 
-	(f)	"Massage practitioner" means any individual who, for any monetary consideration whatsoever, engages in the practice of massage. "Massage practitioner" shall include both general massage practitioners and advanced massage practitioners, as provided in Section 1901. 
-	(g)	"Non-profit organization" means any fraternal, charitable, religious, benevolent, or any other nonprofit organization having a regular membership association primarily for mutual social, mental, political, and civic welfare, to which admission is limited to the members and guests and revenue accruing therefrom to be used exclusively for the benevolent purposes of said organization and which organization or agency is exempt from taxation, under the Internal Revenue Laws of the United States as a bona fide fraternal, charitable, religious, benevolent, or non-profit organization. 
-	(h)	"Outcall massage service" means any business, not permitted as a massage establishment or solo practitioner massage establishment under the provisions of this Article, wherein the primary function of such business is to engage in or carry on massage not at a fixed location but at a location designated by the client or customer. 
-	(i)	"Permittee" means the owner, proprietor, manager, or operator of a massage establishment, outcall massage service, or solo practitioner massage establishment. 
-	(j)	"Person" means any individual, partnership, firm, association, joint stock company, corporation, or combination of individuals of whatever form or character. 
-	(k)	"Recognized school for massage" means any school or institution of learning which teaches the theory, ethics, practice, profession, and work of massage, which requires a resident course of study of not less than 100 hours to be completed before the student shall be furnished with a diploma or certificate of graduation, and which has been approved pursuant to California Education Code Sections 94301 et seq., or, if said school or institution is not located in California, has complied with standards commensurate with those required in said Sections 94301 et seq. and has obtained certification under any similar state approval program, if such exists. 
-	(l)	"Solo practitioner massage establishment" means a fixed place of business where a person holding an advanced massage practitioner permit engages in or carries on, or permits to be engaged in or carried on, the practice of massage. Said fixed place of business may be shared by two to four advanced massage practitioners, or two to four advanced massage practitioners and one or more health or healing arts practitioners, except as otherwise provided pursuant to Section 1913(e). 
-(Added by Ord. 269-03, File No. 030995, App. 12/5/2003)
-SEC. 1901.  PERMIT REQUIRED FOR MASSAGE PRACTITIONER; EXEMPTIONS.
- New Ordinance Notice
-Publisher's Note: This Section has been affected by the substantial amendments described in the Publisher's Note at the beginning of this Article.
-	(a)	It shall be unlawful for any individual to engage in the practice of massage without first obtaining a permit from the Director.
-	(b)	An individual may receive a permit as either a general massage practitioner or an advanced massage practitioner, as provided in Section 1902. As used in this Article, the term "massage practitioner" shall refer to both general massage practitioners and advanced massage practitioners, unless otherwise specifically provided in the ordinance. 
-	(c)	A permit is not required where the individual is a licensed or certificated health care practitioner practicing massage as part of his or her health care practice. For purposes of this Section, "health care practitioner" shall mean any person who activities are licensed or regulated under Division 2 of the California Business and Professions Code or any initiative act referred to in that division. 
+	"CAMTC" means the California Massage Therapy Council as defined in the California Business and Professions Code § 4600(e), or any successor agency.
+	"City" means the City and County of San Francisco.
+	"Convicted" means having pled guilty or having received a verdict of guilty, including a verdict following a plea of nolo contendere, to a crime. 
+	"Director" means the Director of Public Health or any individual designated by the Director to act on his or her behalf.
+	"Massage" means any method of pressure on or friction against, or stroking, kneading, rubbing, tapping, pounding, vibrating, or stimulating of the external soft pads of the body with the hands or with the aid of any mechanical electrical apparatus or appliances, with or without such supplementary aids as rubbing alcohol, liniments, antiseptics, oils, powder, lotions, ointments, or other similar preparations. 
+	"Massage establishment" means a fixed place of business where more than one person engages in or carries on, or permits to be engaged in or carried on, the practice of massage. 
+	"Massage practitioner" means any individual who, for any monetary consideration whatsoever, engages in the practice of massage. "Massage practitioner" shall include both general massage practitioners and advanced massage practitioners, as provided in Section 29.2. 
+	"Non-profit organization" means any fraternal, charitable, religious, benevolent, or any other nonprofit organization having a regular membership association primarily for mutual social, mental, political, and civic welfare, to which admission is limited to the members and guests and revenue accruing therefrom to be used exclusively for the benevolent purposes of said organization and which organization or agency is exempt from taxation, under the Internal Revenue Laws of the United States as a bona fide fraternal, charitable, religious, benevolent, or non-profit organization. 
+	"Outcall massage service" means any business, not permitted as a massage establishment or solo practitioner massage establishment under the provisions of this Article, wherein the primary function of such business is to engage in or carry on massage not at a fixed location but at a location designated by the client or customer. 
+	"Permittee" means the owner, proprietor, manager, or operator of a massage establishment, outcall massage service, or solo practitioner massage establishment. 
+	"Person" means any individual, partnership, firm, association, joint stock company, corporation, or combination of individuals of whatever form or character. 
+	"Recognized school for massage" means any school or institution of learning which teaches the theory, ethics, practice, profession, and work of massage, which requires a resident course of study of not less than 100 hours to be completed before the student shall be furnished with a diploma or certificate of graduation, and which has been approved pursuant to California Education Code Sections 94301 et seq., or, if said school or institution is not located in California, has complied with standards commensurate with those required in said Sections 94301 et seq. and has obtained certification under any similar state approval program, if such exists.
+	"Solo practitioner massage establishment" means a fixed place of business where a person holding an advanced massage practitioner permit engages in or carries on, or permits to be engaged in or carried on, the practice of massage. Said fixed place of business may be shared by two to four advanced massage practitioners, or two to four advanced massage practitioners and one or more health or healing arts practitioners, except as otherwise provided pursuant to Section 29.14(e). 
+(Added as Sec. 1900 by Ord. 269-03, File No. 030995, App. 12/5/2003; redesignated and amended by Ord. 262-13, File No. 130400, App. 11/27/2013, Eff. 12/27/2013)
+SEC. 29.2.  PERMIT REQUIRED FOR MASSAGE PRACTITIONER; EXEMPTIONS.
+	(a)	It shall be unlawful for any individual who is not certified as a massage practitioner or therapist by the CAMTC pursuant to the California Business and Professions Code to engage in the practice of massage without first obtaining a permit from the Director.
+	(b)	An individual may receive a permit as either a general massage practitioner or an advanced massage practitioner, as provided in Section 29.3. As used in this Article, the term "massage practitioner" shall refer to both general massage practitioners and advanced massage practitioners, unless otherwise specifically provided in this Article. 
+	(c)	A permit is not required where the individual is a licensed or certificated health care practitioner practicing massage as part of his or her health care practice. For purposes of this Section, "health care practitioner" shall mean any person whose activities are licensed or regulated under Division 2 of the California Business and Professions Code or any initiative act referred to in that division. 
 	(d)	A permit is not required where the individual is a barber, cosmetologist, esthetician, or manicurist licensed or certificated pursuant to Division 3, Chapter 10, of the California Business and Professions Code, practicing massage as part of his or her work as a barber, cosmetologist, esthetician, or manicurist and within the scope of any relevant state restrictions on the practice of massage by members of those professions. 
 	(e)	An individual practicing massage under the direction of a non-profit organization, and the organization itself are exempt from permit and license fees under this Article, but the individual and the organization must obtain the necessary permits and licenses and otherwise comply with all relevant requirements. 
-(Added by Ord. 269-03, File No. 030995, App. 12/5/2003)
-SEC. 1902.  APPLICATION FOR MASSAGE PRACTITIONER PERMIT; GENERAL AND ADVANCED PRACTITIONERS.
- New Ordinance Notice
-Publisher's Note: This Section has been affected by the substantial amendments described in the Publisher's Note at the beginning of this Article.
-	(a)	Every applicant for a massage practitioner permit shall file an application with the Director upon a form provided by the Director and pay a non-refundable application fee, as set forth in Section 1927. 
+(Added as Sec. 1901 by Ord. 269-03, File No. 030995, App. 12/5/2003; redesignated and amended by Ord. 262-13, File No. 130400, App. 11/27/2013, Eff. 12/27/2013)
+SEC. 29.3.  APPLICATION FOR MASSAGE PRACTITIONER PERMIT; GENERAL AND ADVANCED PRACTITIONERS NOT CERTIFIED BY THE CAMTC.
+	(a)	Unless certified as a massage practitioner or therapist by the CAMTC pursuant to the California Business and Professions Code, every applicant for a massage practitioner permit shall file an application with the Director upon a form provided by the Director and pay a non-refundable application fee, as set forth in Section 29.26. 
 	(b)	The application for a massage practitioner permit shall set forth, under penalty of perjury, the following:
 		(1)	Name and residence address of the applicant;
 		(2)	A unique identifying number from at least one government-issued form of identification, such as a social security card, a state driver's license or identification card, or a passport; 
@@ -5744,261 +5740,336 @@ Publisher's Note: This Section has been affected by the substantial amendments d
 		(6)	All felony or misdemeanor convictions.
 	(c)	An applicant for a general massage practitioner permit shall provide, as part of the application, the name and address of the recognized school for massage attended, the dates attended, and the original of the diploma or certificate of completion awarded the applicant showing that the applicant has completed not less than 100 hours of instruction. An applicant for an advanced massage practitioner permit shall provide, as part of the application, the name and address of the recognized school or schools for massage attended, the dates attended, and the original of the diploma(s) or certificate(s) of completion awarded the applicant showing that the applicant has completed not less than 200 hours of instruction. The additional 100 hours of instruction required for the advanced massage practitioner permit may be completed at one or more schools. If the applicant already holds a current general massage practitioner permit, he or she need only submit documentation for the additional 100 hours of instruction necessary for the advanced massage practitioner permit. 
 	(d)	The Director shall administer a culturally-sensitive test to all applicants, in the applicant's own language, to confirm basic proficiency in massage before issuing a permit. 
-	(e)	The Director is hereby authorized to require in the application any other information including, but not limited to, any information necessary to discover the truth of the matters set forth in the application. 
-(Added by Ord. 269-03, File No. 030995, App. 12/5/2003; Ord. 317-08, File No. 081250, App. 12/19/2008)
-SEC. 1903.  ISSUANCE OF MASSAGE PRACTITIONER PERMIT.
- New Ordinance Notice
-Publisher's Note: This Section has been affected by the substantial amendments described in the Publisher's Note at the beginning of this Article.
-	(a)	Within 14 days following a hearing, or, if no hearing is held, within 60 business days following receipt of a completed application for a massage practitioner permit, the Director shall either issue the permit or mail a written statement of his or her reasons for denial thereof to the applicant. If the Director takes neither action, the permit shall he deemed issued. 
+	(e)	The Director is hereby authorized to require in the application any other information including, but not limited to, any information necessary to discover the truth of the matters set forth in the application.
+(Added as Sec. 1902 by Ord. 269-03, File No. 030995, App. 12/5/2003; amended by Ord. 317-08, File No. 081250, App. 12/19/2008; redesignated and amended by Ord. 262-13, File No. 130400, App. 11/27/2013, Eff. 12/27/2013)
+SEC. 29.4.  ISSUANCE OF MASSAGE PRACTITIONER PERMIT FOR PRACTITIONERS NOT CERTIFIED BY THE CAMTC.
+	(a)	Within 14 days following a hearing, or, if no hearing is held, within 60 business days following receipt of a completed application for a massage practitioner permit, for a practitioner who is not certified as a massage practitioner or therapist by the CAMTC pursuant to the California Business and Professions Code the Director shall either issue the permit or mail a written statement of his or her reasons for denial thereof to the applicant. If the Director takes neither action, the permit shall be deemed issued. 
 	(b)	No massage practitioner permit shall be issued if the Director finds:
 		(1)	The applicant has provided materially false documents or testimony; or
 		(2)	The applicant has not complied fully with the provisions of this Article; or
 		(3)	Within five years immediately prior to the date of application, the applicant has had any license or permit related to the practice of massage revoked; or 
 		(4)	The applicant has been convicted of any of the following offenses or convicted of an offense outside the State of California that would have constituted any of the following offenses if committed within the State of California: 
-			(i)	Any felony involving the use of coercion or force and violence upon another person; or
-			(ii)	Any misdemeanor sexual battery; or
-			(iii)	Any offense involving sexual misconduct with children; or
-			(iv)	Any offense requiring registration pursuant to Section 290 of the California Penal Code.
+			(A)	Any felony involving the use of coercion or force and violence upon another person; or
+			(B)	Any misdemeanor sexual battery; or
+			(C)	Any offense involving sexual misconduct with children; or
+			(D)	Any offense requiring registration pursuant to Section 290 of the California Penal Code.
 	(c)	The Director may issue a massage practitioner permit to any individual convicted of one of the offenses listed in Subsection (b)(4) of this Section if the Director finds that the offense was not violent, the conviction occurred at least five years prior to the date of application, and the applicant has not been convicted subsequently of one of those offenses. 
 	(d)	If an application for a massage practitioner permit is denied, within 30 days of the date of receipt of the notice of denial, the applicant may appeal the decision by notifying the Director in writing. The notice shall set forth in detail the ground or grounds for the appeal. Within 30 days of receipt of the notice of appeal, the Director shall conduct a hearing to consider the appeal. At least 10 days prior to the hearing, the Director shall notify the applicant of the time and place of the hearing. The Director shall oversee the hearing, provide the applicant an opportunity to speak at the hearing, and issue a ruling within 30 days of its conclusion. The Director's ruling shall be final. 
-(Added by Ord. 269-03, File No. 030995, App. 12/5/2003)
-SEC. 1904.  TEMPORARY MASSAGE PRACTITIONER PERMIT; TRAINEE PERMIT.
- New Ordinance Notice
-Publisher's Note: This Section has been affected by the substantial amendments described in the Publisher's Note at the beginning of this Article.
-	(a)	Upon completion and submission of an application for a massage practitioner permit as required in Section 1902 of this Article, and upon payment of all fees for the permit, an applicant may request a temporary massage practitioner permit. If requested, the Director shall issue the temporary massage practitioner permit which is valid for the period during which the application is under review, but in no event for more than 60 days. The Director may revoke the permit at any time if he or she finds that the applicant has failed to meet any of the requirements of Section 1903 of this Article. 
+(Added as Sec. 1903 by Ord. 269-03, File No. 030995, App. 12/5/2003; redesignated and amended by Ord. 262-13, File No. 130400, App. 11/27/2013, Eff. 12/27/2013)
+SEC. 29.5.  TEMPORARY MASSAGE PRACTITIONER PERMIT; TRAINEE PERMIT FOR PRACTITIONERS NOT CERTIFIED BY THE CAMTC.
+	(a)	Upon completion and submission of an application for a massage practitioner permit for a practitioner who is not certified as a massage practitioner or therapist by the CAMTC pursuant to the California Business and Professions Code, as required in Section 29.3 of this Article, and upon payment of all fees for the permit, an applicant may request a temporary massage practitioner permit. If requested, the Director shall issue the temporary massage practitioner permit which is valid for the period during which the application is under review, but in no event for more than 60 days. The Director may revoke the permit at any time if he or she finds that the applicant has failed to meet any of the requirements of Section 1903 of this Article. 
 	(b)	The Director may adopt rules and procedures for issuing trainee permits, not to exceed three months in duration, to persons who have otherwise completed an application for a massage practitioner permit and who are currently registered in a recognized school of massage to fulfill the training requirement. 
-(Added by Ord. 269-03, File No. 030995, App. 12/5/2003)
-SEC. 1905.  IDENTIFICATION CARD.
- New Ordinance Notice
-Publisher's Note: This Section has been affected by the substantial amendments described in the Publisher's Note at the beginning of this Article.
-	The Director shall provide all massage practitioners granted a permit with an identification card. The identification card must he presented to any City health inspector upon request at all times during the regular business hours of any massage establishment or solo practitioner massage establishment. 
-(Added by Ord. 269-03, File No. 030995, App. 12/5/2003)
-SEC. 1906.  MASSAGE PRACTITIONER LICENSE FEE.
- New Ordinance Notice
-Publisher's Note: This Section has been affected by the substantial amendments described in the Publisher's Note at the beginning of this Article.
-	Every massage practitioner shall pay to the Tax Collector an annual license fee, as set forth in Section 1927. 
-(Added by Ord. 269-03, File No. 030995, App. 12/5/2003)
-SEC. 1907.  REVOCATION OF MASSAGE PRACTITIONER PERMIT.
- New Ordinance Notice
-Publisher's Note: This Section has been affected by the substantial amendments described in the Publisher's Note at the beginning of this Article.
-	(a)	The Director may revoke or suspend any massage practitioner permit, after a public hearing, if the Director finds:
+(Added as Sec. 1904 by Ord. 269-03, File No. 030995, App. 12/5/2003; redesignated and amended by Ord. 262-13, File No. 130400, App. 11/27/2013, Eff. 12/27/2013)
+SEC. 29.6.  IDENTIFICATION CARD FOR PRACTITIONERS NOT CERTIFIED BY THE CAMTC.
+	The Director shall provide all massage practitioners granted a permit, who are not certified as a massage practitioner or therapist by the CAMTC pursuant to the California Business and Professions Code, with a photo identification card. Massage establishments must post practitioner identification cards at all times in a public area for all practitioners working at any massage establishment or solo practitioner massage establishment. The identification card must be presented to any City health inspector or law enforcement officer upon request at all times during the regular business hours of any massage establishment or solo practitioner massage establishment.
+(Added as Sec. 1905 by Ord. 269-03, File No. 030995, App. 12/5/2003; redesignated and amended by Ord. 266-13, File No. 130789, App. 11/27/2013, Eff. 12/27/2013)
+SEC. 29.7.  MASSAGE PRACTITIONER LICENSE FEE.
+	Every massage practitioner shall pay to the Tax Collector an annual license fee, as set forth in Section 29.26. 
+(Added as Sec. 1906 by Ord. 269-03, File No. 030995, App. 12/5/2003; redesignated and amended by Ord. 262-13, File No. 130400, App. 11/27/2013, Eff. 12/27/2013)
+SEC. 29.8.  REVOCATION OF MASSAGE PRACTITIONER PERMIT, FOR PRACTITIONERS NOT CERTIFIED BY THE CAMTC.
+	(a)	The Director may revoke or suspend any massage practitioner permit for a practitioner who is not certified as a massage practitioner or therapist by the CAMTC pursuant to the California Business and Professions Code, after a public hearing, if the Director finds:
 		(1)	The massage practitioner willfully violated any of the provisions of this Article; or
 		(2)	The massage practitioner has provided materially false documents or testimony; or
 		(3)	Within five years immediately prior to the date of application, the massage practitioner has had any license or permit related to the practice of massage revoked; or 
-		(4)	The massage practitioner has violated a rule or regulation adopted by the Director pursuant to Section 1926.
-	(b)	Before any hearing is conducted under this Section, the Director shall provide the massage practitioner at least 20 days written notice. The notice shall include the time, place, and grounds for the hearing. If requested by the massage practitioner, the Director shall make available all documentary evidence against him or her no later than 15 days Prior to the hearing. At the hearing, the massage practitioner shall be provided an opportunity to refute all evidence against him or her. The Director shall oversee the hearing and issue a ruling within 20 days of its conclusion. The Director's ruling shall be final. 
+		(4)	The massage practitioner has violated a rule or regulation adopted by the Director pursuant to Section 29.25.
+	(b)	Before any hearing is conducted under this Section, the Director shall provide the massage practitioner at least 20 days written notice. The notice shall include the time, place, and grounds for the hearing. If requested by the massage practitioner, the Director shall make available all documentary evidence against him or her no later than 15 days prior to the hearing. At the hearing, the massage practitioner shall be provided an opportunity to refute all evidence against him or her. The Director shall oversee the hearing and issue a ruling within 20 days of its conclusion. The Director's ruling shall be final. 
 	(c)	The Director may suspend summarily any massage practitioner permit issued under this Article pending a noticed hearing on revocation or suspension when in the opinion of the Director the public health or safety requires such summary suspension. Any affected permittee shall be given notice of such summary suspension in writing delivered to said permittee in person or by registered letter. 
-(Added by Ord. 269-03, File No. 030995, App. 12/5/2003)
-SEC. 1908.  PERMIT REQUIRED FOR A MASSAGE ESTABLISHMENT, SOLO PRACTITIONER MASSAGE ESTABLISHMENT, OR OUTCALL MASSAGE SERVICE, EXEMPTIONS.
- New Ordinance Notice
-Publisher's Note: This Section has been affected by the substantial amendments described in the Publisher's Note at the beginning of this Article.
-	(a)	It shall be unlawful for any person to engage in, conduct, or carry on, or to permit to be engaged in, conducted, or carried on, in or upon any premises in the City the operation of a massage establishment, solo practitioner massage establishment, or outcall massage service without first obtaining a permit from the Director. 
-	(b)	Hospitals, nursing homes, and other State-licensed health care facilities providing massage services to their patients shall not be required to obtain a permit under this Section, where the services are provided by a licensed or certificated health care practitioner or an individual practicing massage under the direction of a health care practitioner. For purposes of this Section, "health care practitioner" shall mean any person who activities are licensed or regulated under Division 2 of the California Business and Professions Code or any initiative act referred to in that division. 
-	(c)	A permit shall not be required under this Section where the services are provided on the premises (1) by a licensed or certificated health care practitioner or (2) by a barber, cosmetologist, esthetician, or manicurist, licensed or certificated pursuant to Division 3, Chapter 10, of the California Business and Professions Code, practicing massage as part of his or her work as a barber, cosmetologist, esthetician, or manicurist, and within the scope of any relevant state restrictions on the practice of massage by members of those professions. A non-profit organization providing massage services on its premises, and the individuals providing the massage services, are exempt from permit and license fees under this Article, but the organization and the individuals must obtain the necessary permits and licenses and otherwise comply with all relevant requirements. 
-(Added by Ord. 269-03, File No. 030995, App. 12/5/2003)
-SEC. 1909.  APPLICATION FOR MASSAGE ESTABLISHMENT, SOLO PRACTITIONER MASSAGE ESTABLISHMENT, OR OUTCALL MASSAGE SERVICE PERMIT.
- New Ordinance Notice
-Publisher's Note: This Section has been affected by the substantial amendments described in the Publisher's Note at the beginning of this Article.
-	(a)	Every applicant for a massage establishment, solo practitioner massage establishment, or outcall massage service permit shall file an application with the Director upon a form provided by the Director and pay a non-refundable application fee, as set forth in Section 1927. 
+(Added as Sec. 1907 by Ord. 269-03, File No. 030995, App. 12/5/2003; redesignated and amended by Ord. 262-13, File No. 130400, App. 11/27/2013, Eff. 12/27/2013)
+SEC. 29.9.  REGISTRATION OF MASSAGE ESTABLISHMENTS THAT EMPLOY ONLY CAMTC CERTIFIED PRACTITIONERS.
+	(a)	All massage establishments that employ only massage practitioners who are certified by the CAMTC pursuant to the California Business and Professions Code, must provide copies of those certificates, and the home and work addresses of those massage practitioners to the San Francisco Department of Public Health for all massage practitioners employed by the establishment. The massage establishment must provide notice of any changes within thirty (30) days.
+	(b)	All massage establishments that employ only massage practitioners who are certified by CAMTC must notify the Department if any CAMTC certified massage practitioner loses their CAMTC certification.
+	(c)	Any massage establishment that employs any massage practitioner who is not certified by CAMTC must obtain a permit to operate a massage establishment from the San Francisco Department of Public Health in accordance with this Article 29.
+	(d)	Upon notice from CAMTC, that the CAMTC certification of a massage practitioner has been suspended or revoked, the Department shall send written notice to the massage establishment that it must obtain a permit from the San Francisco Department of Public Health in order to continue to operate, and that it must apply for the permit within thirty (30) days of the notice. Failure to either apply for a San Francisco permit or to regain exempt status by employing only CAMTC-certified massage practitioners within thirty (30) days, may result in administrative penalties as set forth in this Article 29, Section 29.27.
+(Added by Ord. 262-13, File No. 130400, App. 11/27/2013, Eff. 12/27/2013)
+SEC. 29.10.  PERMIT REQUIRED FOR A MASSAGE ESTABLISHMENT, SOLO PRACTITIONER MASSAGE ESTABLISHMENT, OR OUTCALL MASSAGE SERVICE, EXEMPTIONS FOR PRACTITIONERS NOT CERTIFIED BY THE CAMTC.
+	(a)	It shall be unlawful for any person to engage in, conduct, or carry on, or to permit to be engaged in, conducted, or carried on, in or upon any premises in the City the operation of a massage establishment, solo practitioner massage establishment, or outcall massage service without first obtaining a permit from the Director, unless all persons employed by that establishment or service are certified as massage practitioner(s) or therapist(s) by the CAMTC pursuant to the California Business and Professions Code.
+	(b)	Hospitals, nursing homes, and other State-licensed health care facilities providing massage services to their patients shall not be required to obtain a permit under this Section, where the services are provided by a licensed or certificated health care practitioner or an individual practicing massage under the direction of a health care practitioner. For purposes of this Section, "health care practitioner" shall mean any person whose activities are licensed or regulated under Division 2 of the California Business and Professions Code or any initiative act referred to in that division.
+	(c)	A permit shall not be required under this Section where the services are provided on the premises (1) by a licensed or certificated health care practitioner or (2) by a barber, cosmetologist, esthetician, or manicurist, licensed or certificated pursuant to Division 3, Chapter 10, of the California Business and Professions Code, practicing massage as part of his or her work as a barber, cosmetologist, esthetician, or manicurist, and within the scope of any relevant state restrictions on the practice of massage by members of those professions. A non-profit organization providing massage services on its premises, and the individuals providing the massage services, are exempt from permit and license fees under this Article, but the organization and the individuals must obtain the necessary permits and licenses and otherwise comply with all relevant requirements.
+(Added as Sec. 1908 by Ord. 269-03, File No. 030995, App. 12/5/2003; redesignated and amended by Ord. 262-13, File No. 130400, App. 11/27/2013, Eff. 12/27/2013)
+SEC. 29.11.  APPLICATION FOR MASSAGE ESTABLISHMENT, SOLO PRACTITIONER MASSAGE ESTABLISHMENT, OR OUTCALL MASSAGE SERVICE PERMIT FOR PRACTITIONERS NOT CERTIFIED BY THE CAMTC.
+	(a)	Unless all massage practitioners or therapists providing services are certified as a massage practitioner or therapist by CAMTC pursuant to the California Business and Professions Code, every applicant for a massage establishment, solo practitioner massage establishment, or outcall massage service permit shall:
+		(1)	file an application with the Director upon a form provided by the Director,
+		(2)	provide a complete set of fingerprints, through the Live Scan process, or any comparable successor technology, for the purpose of a undergoing a criminal background check; and 
+		(3)	and pay a non-refundable application fee, as set forth in Section 29.26. 
 	(b)	The application shall set forth, under penalty of perjury, the following:
 		(1)	The exact nature of the services to be rendered;
-		(2)	The address of the proposed place of business and facilities thereof
+		(2)	The address of the proposed place of business and facilities thereof, and a copy of the rental agreement or lease showing the names of all of the tenants or lessees;
 		(3)	The number of individuals to be employed by the business, and, in the case of a solo massage practitioner establishment, the names of any massage practitioners who shall operate under that permit; 
 		(4)	The name, residence address, and date of birth of each applicant;
-		(5)	Any history of previous massage permits or licenses in San Francisco or elsewhere, including whether any such permit or license has been revoked and the reasons therefor, for each applicant; and 
-		(6)	All felony or misdemeanor convictions for the applicant.
+		(5)	Any history of previous massage permits or licenses in San Francisco or issued by CAMTC or elsewhere, including whether any such permit or license has been revoked and the reasons therefor, for each applicant; and 
+		(6)	All felony or misdemeanor convictions for the applicant within the preceding ten years, including, but not limited to, felony sexual assault; sexual battery (Cal. Penal Code 243.4), rape (Cal. Penal Code 261); statutory rape (Cal. Penal Code 261.5); prostitution offenses related to pimping (Cal. Penal Code 266 and applicable subsections); pandering (Cal. Penal Code 266i); sex crimes for which registration is required under the Sex Offender Registration Act (Cal. Penal Code 290); keeping or residing in house of ill-fame (Cal. Penal Code 315); keeping disorderly house (Cal. Penal Code 316); human trafficking (Cal. Penal Code 236.1); convictions in any other state of any offense which, if committed or attempted in this state, would have been punishable as one or more of the referenced offenses of this subdivision; and, conspiracy or attempt to commit any such offense described in the subsections above.
 	(c)	The Director is hereby authorized to require in the application any other information including, but not limited to, information related to the health, hygiene, and sanitation of the premises and any information necessary to confirm the accuracy of the matters set forth in the application. 
-	(d)	If an applicant for a massage establishment or outcall massage service permit is a corporation, the name of the corporation shall be set forth exactly as shown in its articles of incorporation together with the names and residence addresses of each of the officers, directors, and each stockholder holding more than 10 percent of the stock of the corporation. If the application is a partnership, the application shall set forth the name and the residence address of each of the partners, including limited partners. If one or more of the partners is a corporation, the provisions of this Section pertaining to corporate applicants applies. The same permit and criminal history information required of individual applicants shall be provided for each officer, director, and stockholder holding more than 10 percent of the stock of the corporation, or for each partner, including limited partners. 
-	(e)	In addition to the information required under subsections (b) and (c), an applicant for a solo practitioner massage establishment permit shall provide proof that he or she holds a current, valid advanced massage practitioner permit issued by the Director under Section 1901. 
+	(d)	If an applicant for a massage establishment or outcall massage service permit is a corporation, the name of the corporation shall be set forth exactly as shown in its articles of incorporation together with the names and residence addresses of each of the officers, directors, and each stockholder holding more than 10 percent of the stock of the corporation. If the application is a partnership, the application shall set forth the name and the residence address of each of the partners, including limited partners. If one or more of the partners is a corporation, the provisions of this Section pertaining to corporate applicants applies. The same permit and criminal history information required of individual applicants, set forth in subsection (b)(6), above, shall be provided for each officer, director, and stockholder holding more than 10 percent of the stock of the corporation, or for each partner, including limited partners. 
+	(e)	In addition to the information required under subsections (b) and (c), an applicant for a solo practitioner massage establishment permit shall provide proof that he or she holds a current, valid advanced massage practitioner permit issued by the Director under Section 29.2. 
 	(f)	Applicants shall also submit proof of compliance with any applicable Planning Code requirements regarding notice and posting of the proposed establishment. 
 	(g)	An advanced massage practitioner holding a solo practitioner massage establishment permit shall not be required to pay any additional permit fee for an outcall massage service permit. 
-(Added by Ord. 269-03, File No. 030995, App. 12/5/2003)
-SEC. 1910.  FACILITIES NECESSARY FOR MASSAGE ESTABLISHMENT.
- New Ordinance Notice
-Publisher's Note: This Section has been affected by the substantial amendments described in the Publisher's Note at the beginning of this Article.
-	No permit to conduct a massage establishment shall be issued unless an inspection by the Director reveals that the massage establishment complies with each of the following requirements: 
-	(a)	Construction of rooms used for toilets, tubs, steam baths, and showers shall be made waterproof with hard nonabsorbent materials which are easily cleaned and shall be installed in accordance with the San Francisco Building Code. Plumbing fixtures shall be installed in accordance with the San Francisco Plumbing Code. 
-		(1)	For toilet rooms, toilet room vestibules, and rooms containing bathtubs, there shall be a waterproof floor covering, which will be carried up all walls to a height of at least five inches. Floors shall be coved at the juncture of the floor and wall with a inch minimum radius coving. 
-		(2)	Steam rooms and shower compartments shall have waterproof floors, walls, and ceilings approved by the Director.
-		(3)	Floors of wet and dry heat rooms shall be adequately pitched to one or more floor drains properly connected to the sewer. Dry heat rooms with wooden floors need not be provided with pitched floors and floor drains. 
-		(4)	A source of hot water must be available within the vicinity of dry and wet heat rooms to facilitate cleaning.
-	(b)	Toilet facilities shall be provided in convenient locations. When five or more employees or patrons of different genders are on the premises at the same time, separate toilet facilities shall be provided. A single toilet shall be provided for each 1.5 or more persons of the same gender on the premises at any one time. Urinals may be substituted for toilets after one toilet has been provided. Doors to toilet rooms shall open inward and be self-closing. Toilet rooms shall be designated as to the gender accommodated therein. 
-	(c)	Lavatories or wash basins with both hot and cold running water shall be installed in either the toilet room or the vestibule. Lavatories or wash basins must have soap in a dispenser and sanitary towels. 
-	(d)	All portions of the massage establishment shall be provided with adequate light and ventilation by means of windows or skylights with an area of not less than of the total floor area, or shall be provided with an approved artificial light and a mechanical operating ventilating system. When windows or skylights are used for ventilation, at least ½ of the total required window area shall be operable. To allow for adequate ventilation, cubicles, rooms, and areas provided for the use of patrons not served directly by a window, skylight, or mechanical system of ventilation shall be constructed so that the height of the partitions does not exceed 75 percent of the floor-to-ceiling height of the area in which they are located. 
-	(e)	All electrical equipment shall be installed in accordance with the requirements of the San Francisco Electrical Code.
-(Added by Ord. 269-03, File No. 030995, App. 12/5/2003)
-SEC. 1911.  FACILITIES NECESSARY FOR SOLO PRACTITIONER MASSAGE ESTABLISHMENT.
- New Ordinance Notice
-Publisher's Note: This Section has been affected by the substantial amendments described in the Publisher's Note at the beginning of this Article.
-	No permit to conduct a solo practitioner massage establishment shall be issued unless an inspection by the Director reveals that the solo practitioner massage establishment complies with each of the following requirements: 
-	(a)	Toilet facilities shall be provided for patrons.
-	(b)	Rooms used for toilets, tubs, steam baths. and showers, including the floors, walls, and ceilings of those rooms, shall be constructed from hard, durable, and nonabsorbent materials which are easily cleaned. 
-	(c)	Handwashing facilities shall be provided within or adjacent to toilet rooms and shall be equipped with an adequate supply of hot and cold running water under pressure. 
-	(d)	Handwashing facilities shall be readily accessible to the massage practitioner and shall be equipped with an adequate supply of hot and cold running water under pressure. 
-	(e)	A room, enclosure, or designated area shall be provided where patrons may change and store their clothes.
-	(f)	Toilet and dressing rooms and massage rooms shall be provided with at least 108 lux (10 footcandles) of light.
-	(g)	Smooth and cleanable containers shall be provided for soiled linens.
-	(h)	Adequate and suitable space shall be provided for storage of clean linens, including towels, apparel, etc.
-	(i)	All portions of the facility used by patrons shall be provided with adequate ventilation.
-(Added by Ord. 269-03, File No. 030995, App. 12/5/2003)
-SEC. 1912.  REFERRAL OF PERMIT APPLICATION TO OTHER DEPARTMENTS.
- New Ordinance Notice
-Publisher's Note: This Section has been affected by the substantial amendments described in the Publisher's Note at the beginning of this Article.
-	The Director, within 10 days of receiving an application for a permit to operate a massage establishment or solo practitioner massage establishment permit, shall refer the application to the City Department of Building Inspection and the City Police, Fire, and Planning Departments. Said departments shall inspect the premises proposed to be operated as a massage establishment or a solo practitioner massage establishment and shall make written findings to the Director concerning compliance with codes that they administer. 
+	(h)	Within 14 days following a hearing, or, if no hearing is held, within 60 business days following receipt of a completed application for a permit for a massage establishment that does not solely employ practitioners certified as a massage practitioner or therapist by the State of California pursuant to the California Business and Professions Code the Director shall either issue the permit or mail a written statement of his or her reasons for denial thereof to the applicant. If the Director takes neither action, the permit shall be deemed issued.
+	(i)	No massage establishment permit shall be issued if the Director finds:
+		(1)	The applicant has provided materially false documents or testimony; or
+		(2)	The applicant has not complied fully with the provisions of this Article; or
+		(3)	Within five years immediately prior to the date of application, the applicant has had any license or permit related to the operation of a massage establishment revoked by the City, another City or County, or by the CAMTC; or
+		(4)	The applicant has been convicted of any of the following offenses or convicted of an offense outside the State of California that would have constituted any of the following offenses if committed within the State of California, within the last five years: felony sexual assault; sexual battery (Cal. Penal Code 243.4), rape (Cal. Penal Code 261); statutory rape (Cal. Penal Code 261.5); prostitution offenses related to pimping (Cal. Penal Code 266 and applicable subsections); pandering (Cal. Penal Code 266i); sex crimes for which registration is required under the Sex Offender Registration Act (Cal Penal Code 290); keeping or residing in house of ill-fame (Cal. Penal Code 315); keeping disorderly house (Cal. Penal Code 316); supervision of a prostitute (Cal. Penal Code 652.23); human trafficking (Cal. Penal Code 236.1); convictions in any other state of any offense which, if committed or attempted in this state, would have been punishable as one or more of the referenced offenses of this subdivision; and, conspiracy or attempt to commit any such offense described in the subsections above; or,
+		(5)	A massage establishment permit at the same location was revoked within the prior 24 months.
+	(j)	If an application for a massage practitioner permit is denied, within 30 days of the date of receipt oft he notice of denial, the applicant may appeal the decision by notifying the Director in writing. The notice shall set forth in detail the ground or grounds for the appeal. Within 30 days of receipt of the notice of appeal, the Director shall conduct a hearing to consider the appeal. At least 10 days prior to the hearing, the Director shall notify; the applicant of the time and place of the hearing. The Director shall oversee the hearing, provide the applicant an opportunity to speak at the hearing, and issue a ruling within 30 days of its conclusion. The Director's ruling shall be final.
+(Added as Sec. 1909 by Ord. 269-03, File No. 030995, App. 12/5/2003; redesignated and amended by Ord. 262-13, File No. 130400, App. 11/27/2013, Eff. 12/27/2013; amended by Ord. 266-13, File No. 130789, App. 11/27/2013, Eff. 12/27/2013)
+SEC. 29.12.  OPERATING REQUIREMENTS FOR ALL MASSAGE ESTABLISHMENTS.
+	All massage establishments must comply with the following reasonable health and safety requirements:
+	(a)	Toilet rooms shall be provided for patrons in convenient locations.
+		(1)	Construction of rooms used for toilets, as well as rooms used for, tubs, steam baths, and showers shall be made waterproof with hard nonabsorbent materials which are easily cleaned and shall be installed in accordance with the San Francisco Building Code. 
+		(2)	Plumbing fixtures in toilet rooms as well as rooms used for, tubs, steam baths, and showers shall be installed in accordance with the San Francisco Plumbing Code.
+		(3)	Urinals may be substituted for toilets after one toilet has been provided.
+		(4)	Doors to toilet rooms shall open inward and be self-closing. 
+		(5)	Toilet rooms shall be designated as to the gender accommodated therein. 
+	(b)	Handwashing facilities shall be provided within or adjacent to the toilet rooms and shall be equipped with an adequate supply of hot and cold running water under pressure.
+		(1)	Lavatories or wash basins must have soap in a dispenser and sanitary towels.
+		(2)	Handwashing facilities shall be readily accessible to the massage practitioner.
+	(c)	All portions of the massage establishment shall be provided with adequate light and ventilation by means of windows or skylights with an area of not less than of the total floor area, or shall be provided with an approved artificial light and a mechanical operating ventilating system.
+		(1)	Toilet, dressing and massage rooms shall be provided with at least 108 lux (10 foot candles) of light.
+		(2)	All electrical equipment shall be installed in accordance with the requirements of the San Francisco Electrical Code.
+	(d)	A room, enclosure, or designated area shall be provided where patrons can change and store their clothes.
+	(e)	A room, enclosure, or designated area, which is separate from the toilet, massage room(s), steam room, or other common areas shared by the patrons shall be made available for each employee.
+	(f)	Every portion of a massage establishment, including appliances and apparatus, shall be kept clean and operated in a sanitary condition.
+		(1)	Adequate and suitable space shall be provided for storage of clean linens, including but not limited to, sheets, towels, apparel.
+		(2)	Every massage establishment shall provide clean laundered sheets and towels and shall launder them after each use and store them in a sanitary manner.
+		(3)	No towels or sheets shall be laundered or dried in any massage establishment unless such massage establishment is provided with laundry facilities for such laundering and drying.
+		(4)	The massage establishment shall provide smooth, cleanable appropriately labeled receptacles for the storage of soiled linens and paper towels.
+		(5)	The massage establishment shall appropriately bag and dispose of soiled refuse.
+		(6)	Every massage establishment shall thoroughly clean its wet and dry heat rooms, shower compartments, and toilet rooms each business day.
+		(7)	Bathtubs shall be thoroughly cleaned and sanitized after each use.
+	(g)	Any room in which a massage establishment provides massage services shall not be used for residential or sleeping purposes; provided, however, that the Director may allow such room to be used for residential or sleeping purposes if the Director finds that the health and safety of the patrons of the massage establishment will not be jeopardized.
+	(h)	Massage practitioners shall not engage in lewd or lascivious acts on the premises of a massage establishment during business hours, including but not limited to: the performance of acts, or simulated acts, of sexual intercourse, masturbation, sodomy, bestiality, copulation (oral, anal or vaginal), flagellation; the actual or simulated caressing or fondling by one adult human being of the anus or genitals of another adult human being; the actual or simulated displaying of the pubic hair, anus, vagina, penis, vulva, buttocks, areola, or any other external genitalia of the human body.
+	(i)	Massage practitioners shall be fully clothed in clean, non-transparent clothing at all times that shall not expose their genitals, pubic area, buttocks or chest, nor shall the operator of a massage business allow or permit any person providing services at the massage establishment to dress in non-conforming clothing.
+	(j)	Massage Establishment interior and exterior doors shall remain unlocked during business hours except in establishments where all practitioners are certified by the CAMTC, when there is no staff available to ensure security for clients and massage staff who are behind closed doors.
+	(k)	No alcoholic beverages or drugs may be sold, served, used, or possessed on the premises of any massage establishment during business hours. "Alcoholic beverage" includes a mixture of one or more alcoholic beverages ingested separately or as a mixture as defined in Section 23004 of the California Business and Professions Code. "Drug" shall include all narcotics, drugs, or controlled substances as defined in Chapter 2 (commencing with Section 11053) of Division 10 of the California Health and Safety Code.
+	(l)	Unless the massage establishment operator and all practitioners are CAMTC certified, the operator of the establishment must post a notice informing the public and victims of human trafficking of telephone hotline numbers to seek help or report unlawful activity in English, Spanish, Cantonese and Vietnamese, and other appropriate languages as determined by the Department in a conspicuous place near the public entrance of the massage establishment or in another conspicuous location in clear view of the public and employees where similar notices are customarily posted pursuant to Cal. Civil Code Section 52.6.
+(Added as Sec. 1910 by Ord. 269-03, File No. 030995, App. 12/5/2003; redesignated and amended by Ord. 262-13, File No. 130400, App. 11/27/2013, Eff. 12/27/2013; amended by Ord. 266-13, File No. 130789, App. 11/27/2013, Eff. 12/27/2013)
+SEC. 29.13.  REFERRAL OF PERMIT APPLICATION TO OTHER DEPARTMENTS, FOR PRACTITIONERS NOT CERTIFIED BY THE CAMTC.
+	The Director, within 10 days of receiving an application for a permit to operate a massage establishment or solo practitioner massage establishment permit where one or more practitioners are not certified as a massage practitioner or therapist by the CAMTC pursuant to the California Business and Professions Code, shall refer the application to the City Department of Building Inspection and the City Police, Fire, and Planning Departments. Said departments shall inspect the premises proposed to be operated as a massage establishment or a solo practitioner massage establishment and shall make written findings to the Director concerning compliance with codes that they administer. 
 	The Director shall notify the Police Department of all approved permit applications. 
-(Added by Ord. 269-03, File No. 030995, App. 12/5/2003)
-SEC. 1913.  ISSUANCE OF MASSAGE ESTABLISHMENT, SOLO PRACTITIONER MASSAGE ESTABLISHMENT, OR OUTCALL MASSAGE SERVICE PERMIT.
- New Ordinance Notice
-Publisher's Note: This Section has been affected by the substantial amendments described in the Publisher's Note at the beginning of this Article.
-	(a)	Within 14 days following a hearing, or, if no hearing is held, within 60 business days, following receipt of a completed application for a massage establishment, solo practitioner massage establishment, or outcall massage service permit, the Director shall either issue the permit or mail a written statement of his or her reasons for denial thereof to the applicant. If the Director takes neither action, the permit shall be deemed issued. 
+(Added as Sec. 1912 by Ord. 269-03, File No. 030995, App. 12/5/2003; redesignated and amended by Ord. 262-13, File No. 130400, App. 11/27/2013, Eff. 12/27/2013)
+SEC. 29.14.  ISSUANCE OF MASSAGE ESTABLISHMENT, SOLO PRACTITIONER MASSAGE ESTABLISHMENT, OR OUTCALL MASSAGE SERVICE PERMIT, FOR PRACTITIONERS NOT CERTIFIED BY THE CAMTC.
+	(a)	Within 14 days following a hearing, or, if no hearing is held, within 60 business days, following receipt of a completed application for a massage establishment, solo practitioner massage establishment, or outcall massage service permit where one or more practitioners are not certified as a massage practitioner or therapist by the CAMTC pursuant to the California Business and Professions Code, the Director shall either issue the permit or mail a written statement of his or her reasons for denial thereof to the applicant. If the Director takes neither action, the permit shall be deemed issued. 
 	(b)	No massage establishment, solo practitioner massage establishment, or outcall massage service permit shall be issued if the Director finds: 
 		(1)	The applicant has provided materially false documents or testimony; or
-		(2)	The operation as proposed by the applicant would not comply with all applicable laws including, but not limited to, the City Building, Planning. Housing, and Fire Codes or any rule or regulation adopted by the Director pursuant to this Article; or 
+		(2)	The operation as proposed by the applicant would not comply with all applicable laws including, but not limited to, the City Building, Planning, Housing, and Fire Codes or any rule or regulation adopted by the Director pursuant to this Article; or 
 		(3)	Within five years immediately prior to the date of application, the applicant has had any license or permit related to the practice of massage revoked; or 
 		(4)	The applicant and any other individual who will be directly engaged in the management and operation of the massage establishment, solo practitioner massage establishment, or outcall massage service has been convicted of any of the following offenses or convicted of an offense outside the State of California that would have constituted any of the following offenses if committed within the State of California: 
-			(i)	Any felony involving the use of coercion or force and violence upon another person; or
-			(ii)	Any misdemeanor sexual battery; or
-			(iii)	Any offense involving sexual misconduct with children;
-			(iv)	Pimping or pandering; or
-			(v)	Any offense requiring registration pursuant to Section 190 of the California Penal Code.
-	(c)	The Director may issue a permit authorized under this Section to any individual convicted of one of the offenses listed in Subsection (h)(4) of this Section if the Director finds that the offense was not violent, the conviction occurred at least five years prior to the date of application, and the applicant has not been convicted subsequently of one of those offenses. 
+			(A)	Any felony involving the use of coercion or force and violence upon another person; or
+			(B)	Any misdemeanor sexual battery; or
+			(C)	Any offense involving sexual misconduct with children;
+			(D)	Pimping or pandering; or
+			(E)	Any offense requiring registration pursuant to Section 190 of the California Penal Code.
+	(c)	The Director may issue a permit authorized under this Section to any individual convicted of one of the offenses listed in Subsection (b)(4) of this Section if the Director finds that the offense was not violent, the conviction occurred at least five years prior to the date of application, and the applicant has not been convicted subsequently of one of those offenses. 
 	(d)	The Director may refuse to issue any permit authorized under this Section in any case where there is reasonable grounds to determine that the premises or the business will be or are being managed, conducted, or maintained in such a manner as to endanger the health or safety of the employees or patrons thereof or to coerce any employee to engage in any illegal conduct. 
-	(e)	Notwithstanding the provisions of Section 1900(l), the Director may issue a solo practitioner massage establishment permit authorizing more than four solo massage practitioners to operate out of the same place of business if the Director finds good cause exists and the operation of the establishment will not have a negative impact on the neighborhood. 
+	(e)	Notwithstanding the provisions of Section 29.1, the Director may issue a solo practitioner massage establishment permit authorizing more than four solo massage practitioners to operate out of the same place of business if the Director finds good cause exists and the operation of the establishment will not have a negative impact on the neighborhood. 
 	(f)	If an application for a permit authorized under this Section is denied, within 30 days of the date of receipt of the notice of denial, the applicant may appeal the decision by notifying the Director in writing. The notice shall set forth in detail the ground or grounds for the appeal. Within 30 days of receipt of the notice of appeal, the Director shall conduct a hearing to consider the appeal. At least 10 days prior to the hearing, the Director shall notify the applicant of the time and place of the hearing. The Director shall oversee the hearing, provide the applicant an opportunity to speak at the hearing, and issue a ruling within 30 days of its conclusion. The Director's ruling shall be final. 
-(Added by Ord. 269-03, File No. 030995, App. 12/5/2003)
-SEC. 1914.  OPERATING REQUIREMENTS FOR MASSAGE ESTABLISHMENT.
- New Ordinance Notice
-Publisher's Note: This Section has been affected by the substantial amendments described in the Publisher's Note at the beginning of this Article.
-	(a)	Every portion of a massage establishment, including appliances and apparatus, shall be kept clean and operated in a sanitary condition. 
-	(b)	A room, enclosure, or designated area, which is separate from the toilet, massage room, steam room, or other common areas shared by the patrons shall be made available for each employee. Individual lockers within this room shall be made available to each employee. Doors to dressing rooms shall open inward and be self closing. 
-	(c)	Every massage establishment shall provide clean laundered sheets and towels and shall launder them after each use and store them in a sanitary manner. No towels or sheets shall be laundered or dried in any massage establishment unless such massage establishment is provided with laundry facilities for such laundering and drying. The massage establishment shall provide appropriately labeled receptacles for the storage of soiled linens and paper towels. The massage establishment shall appropriately bag and dispose of soiled refuse. 
-	(d)	Every massage establishment shall thoroughly clean its wet and dry heat rooms, shower compartments, and toilet rooms each business day. Bathtubs shall be thoroughly cleaned and sanitized after each use. 
-	(e)	Any room in which a massage establishment provides massage services shall not be used for residential sleeping purposes; provided, however, that the Director may allow such room to be used for residential or sleeping purposes if the Director finds that the health and safety of the patrons of the massage establishment will not be jeopardized. 
-(Added by Ord. 269-03, File No. 030995, App. 12/5/2003)
-SEC. 1915.  EMPLOYMENT OF MASSAGE PRACTITIONERS.
- New Ordinance Notice
-Publisher's Note: This Section has been affected by the substantial amendments described in the Publisher's Note at the beginning of this Article.
-	It shall be the responsibility of every permittee for a massage establishment or outcall massage service, or the employer of any individual purporting to act as a massage practitioner, to ensure that such individual has obtained a permit pursuant to this Article. 
-(Added by Ord. 269-03, File No. 030995, App. 12/5/2003)
-SEC. 1916.  REGISTER OF EMPLOYEES.
- New Ordinance Notice
-Publisher's Note: This Section has been affected by the substantial amendments described in the Publisher's Note at the beginning of this Article.
-	The operator of a massage establishment, solo practitioner massage establishment, or outcall massage service must maintain a register of all individuals employed as massage practitioners and their permit numbers. Such register shall be available for inspection by the Department of Public Health at all times during regular business hours. 
-(Added by Ord. 269-03, File No. 030995, App. 12/5/2003)
-SEC. 1917.  EMPLOYMENT OF PERSONS UNDER THE AGE OF 18 PROHIBITED.
- New Ordinance Notice
-Publisher's Note: This Section has been affected by the substantial amendments described in the Publisher's Note at the beginning of this Article.
+(Added as Sec. 1913 by Ord. 269-03, File No. 030995, App. 12/5/2003; redesignated and amended by Ord. 262-13, File No. 130400, App. 11/27/2013, Eff. 12/27/2013)
+SEC. 29.15.  EMPLOYMENT OF MASSAGE PRACTITIONERS.
+	It shall be the responsibility of every operator of a massage business or outcall massage service, or the employer of any individual purporting to act as a massage practitioner, to ensure that such individual is certified as a massage practitioner or therapist by the CAMTC pursuant to the California Business and Professions Code or has obtained a permit pursuant to this Article. 
+(Added as Sec. 1915 by Ord. 269-03, File No. 030995, App. 12/5/2003; redesignated and amended by Ord. 262-13, File No. 130400, App. 11/27/2013, Eff. 12/27/2013)
+SEC. 29.16.  REGISTER OF EMPLOYEES.
+	The operator of a massage establishment, solo practitioner massage establishment, or outcall massage service must maintain a register of all individuals employed as massage practitioners and their CAMTC certificate or Department permit numbers. Such register shall be available for inspection by the Department of Public Health at all times during regular business hours. 
+(Added as Sec. 1916 by Ord. 269-03, File No. 030995, App. 12/5/2003; redesignated and amended by Ord. 262-13, File No. 130400, App. 11/27/2013, Eff. 12/27/2013)
+SEC. 29.17.  EMPLOYMENT OF PERSONS UNDER THE AGE OF 18 PROHIBITED.
 	It shall be unlawful for any permittee to employ any individual who is not at least 18 years of age. 
-(Added by Ord. 269-03, File No. 030995, App. 12/5/2003)
-SEC. 1918.  DISPLAY OF PERMIT; HOURS OF OPERATION.
- New Ordinance Notice
-Publisher's Note: This Section has been affected by the substantial amendments described in the Publisher's Note at the beginning of this Article.
+(Added as Sec. 1917 by Ord. 269-03, File No. 030995, App. 12/5/2003; redesignated by Ord. 262-13, File No. 130400, App. 11/27/2013, Eff. 12/27/2013)
+SEC. 29.18.  DISPLAY OF PERMIT; HOURS OF OPERATION.
 	(a)	Every permit to operate a massage establishment or solo practitioner massage establishment shall be displayed in a conspicuous place within the establishment so that the permit may be readily seen by individuals entering the premises. Every permit to operate an outcall massage service must be made available for inspection by the Department of Public Health at all times while providing massage services. 
 	(b)	No massage establishment, solo practitioner massage establishment, or outcall massage service shall operate or provide massage services during the hours between 10:00 p.m. and 7:00 a.m. 
-(Added by Ord. 269-03, File No. 030995, App. 12/5/2003; Ord. 140-09, File No. 090403, App. 7/2/2009)
-SEC. 1919.  INSPECTION.
- New Ordinance Notice
-Publisher's Note: This Section has been affected by the substantial amendments described in the Publisher's Note at the beginning of this Article.
-	(a)	Any member of the Department of Public Health may make an inspection of any massage establishment or solo practitioner massage establishment in the City for the purpose of determining that the establishment is in compliance with the provisions of this Article or for the purpose of providing health and safety information to employees of the establishment. The Director shall adopt regulations under Section 1926 governing the use of double doors or other structural devices that interfere with reasonable inspections and do not have legitimate safety or security purposes. 
-	(b)	Nothing in this Section shall limit or restrict the authority of a police officer to enter premises licensed under this Article (i) pursuant to a search warrant signed by a magistrate and issued upon a showing of probable cause to believe that contraband is present or that a crime has been committed or attempted, (ii) without a warrant in the case of an emergency or other exigent circumstances, or (iii) as part of any other lawful entry in connection with a criminal investigation or enforcement action. 
-(Added by Ord. 269-03, File No. 030995, App. 12/5/2003)
-SEC. 1920.  MASSAGE ESTABLISHMENT, SOLO PRACTITIONER MASSAGE ESTABLISHMENT, OR OUTCALL MASSAGE SERVICE LICENSE FEE.
- New Ordinance Notice
-Publisher's Note: This Section has been affected by the substantial amendments described in the Publisher's Note at the beginning of this Article.
-	(a)	Every person holding a massage establishment, solo practitioner massage establishment, or outcall massage service permit shall pay to the Tax Collector an annual license fee, as set forth in Section 1927; provided, however, that the annual license fee shall be $10 for any person holding a massage establishment permit who is over 60 years old and does not employ others and whose gross receipts from the massage business operated under the authority of said permit for the previous year were less than $1,000. 
+(Added as Sec. 1918 by Ord. 269-03, File No. 030995, App. 12/5/2003; amended by Ord. 140-09, File No. 090403, App. 7/2/2009; redesignated by Ord. 262-13, File No. 130400, App. 11/27/2013, Eff. 12/27/2013)
+SEC. 29.19.  INSPECTION.
+	(a)	Any member of the Department of Public Health may make an inspection of any massage establishment or solo practitioner massage establishment in the City for the purpose of determining that the establishment is in compliance with the provisions of state law or this Article or for the purpose of providing health and safety information to employees of the establishment. The Director shall adopt regulations under Section 29.25 governing the use of double doors or other structural devices that interfere with reasonable inspections and do not have legitimate safety or security purposes. 
+	(b)	Nothing in this Section shall limit or restrict the authority of a police officer to enter premises licensed under this Article (1) pursuant to a search warrant signed by a magistrate and issued upon a showing of probable cause to believe that contraband is present or that a crime has been committed or attempted, (2) without a warrant in the case of an emergency or other exigent circumstances, or (3) as part of any other lawful entry in connection with a criminal investigation or enforcement action. 
+(Added as Sec. 1919 by Ord. 269-03, File No. 030995, App. 12/5/2003; redesignated and amended by Ord. 262-13, File No. 130400, App. 11/27/2013, Eff. 12/27/2013)
+SEC. 29.20.  MASSAGE ESTABLISHMENT, SOLO PRACTITIONER MASSAGE ESTABLISHMENT, OR OUTCALL MASSAGE SERVICE LICENSE FEE.
+	(a)	Every person holding a massage establishment, solo practitioner massage establishment, or outcall massage service permit shall pay to the Tax Collector an annual license fee, as set forth in Section 29.26; provided, however, that the annual license fee shall be $10 for any person holding a massage establishment permit who is over 60 years old and does not employ others and whose gross receipts from the massage business operated under the authority of said permit for the previous year were less than $1,000. 
 	(b)	An advanced massage practitioner holding a solo practitioner massage establishment permit shall not be required to pay any additional annual license fee for an outcall massage service permit. 
-(Added by Ord. 269-03, File No. 030995, App. 12/5/2003)
-SEC. 1921.  REVOCATION OF MASSAGE ESTABLISHMENT, SOLO PRACTITIONER MASSAGE ESTABLISHMENT, OR OUTCALL MASSAGE SERVICE PERMIT.
- New Ordinance Notice
-Publisher's Note: This Section has been affected by the substantial amendments described in the Publisher's Note at the beginning of this Article.
-	(a)	The Director may revoke or suspend any massage establishment, solo practitioner massage establishment, or outcall massage service permit, after a hearing, if the Director finds: 
+(Added as Sec. 1920 by Ord. 269-03, File No. 030995, App. 12/5/2003; redesignated and amended by Ord. 262-13, File No. 130400, App. 11/27/2013, Eff. 12/27/2013)
+SEC. 29.21.  REVOCATION OF MASSAGE ESTABLISHMENT, SOLO PRACTITIONER MASSAGE ESTABLISHMENT, OR OUTCALL MASSAGE SERVICE PERMIT FOR PRACTITIONERS NOT CERTIFIED BY THE CAMTC.
+	(a)	The Director may revoke or suspend any massage establishment, solo practitioner massage establishment, or outcall massage service permit issued to massage establishments where all of the practitioners are not certified as a massage practitioner or therapist by the CAMTC pursuant to the California Business and Professions Code, after a hearing, if the Director finds: 
 		(1)	The permittee has violated any of the provisions of this Article; or
 		(2)	The permittee has refused to permit any duly authorized City health inspector to inspect the premises or the operations therein; or 
 		(3)	The permittee has engaged in any conduct in connection with the operation of the business that violates any state or local laws, or, in the case of a massage establishment or outcall massage service permit, any employee of the permittee has engaged in any conduct that violates any state or local laws at permittee's place of business, and the permittee had or should have had actual or constructive knowledge by due diligence of the illegal conduct; or 
 		(4)	In the case of a solo practitioner massage permit, the permittee no longer holds a current, valid advanced massage practitioner permit issued by the Director; or 
 		(5)	The Director determines by clear and convincing evidence that such business is being managed, conducted, or maintained without regard for public health or the health of patrons, customers, or employees, or without due regard to proper sanitation and hygiene; or 
-		(6)	The permittee has violated a rule or regulation adopted by the Director pursuant to Section 1926.
+		(6)	The permittee has violated a rule or regulation adopted by the Director pursuant to Section 29.25.
 	(b)	Before any hearing is conducted under this Section, the Director shall provide the permittee at least 20 days' written notice. The notice shall include the time, place, and grounds for the hearing. If requested by permittee, the Director shall make available all documentary evidence against permittee no later than 15 days prior to the hearing. At the hearing, the permittee shall be provided an opportunity to refute all evidence against him or her. The Director shall oversee the hearing and issue a ruling within 20 days of its conclusion. The Director's ruling shall be final. 
-	(c)	The Director may suspend summarily any massage establishment, solo practitioner massage establishment, or outcall massage service permit issued under this Article pending a noticed hearing on revocation or suspension when in the opinion of the Director the public health or safety requires such summary suspension. Any affected permittee shall be given notice of such summary suspension in writing delivered to said permittee in person or by registered letter. 
-(Added by Ord. 269-03, File No. 030995, App. 12/5/2003)
-SEC. 1922.  HEARINGS.
- New Ordinance Notice
-Publisher's Note: This Section has been affected by the substantial amendments described in the Publisher's Note at the beginning of this Article.
-	The Director may fix a time and place for a hearing on any application for a permit under this Article, which shall not be held more than 45 days after the receipt of the completed application, or, in the case of a permit to operate a massage establishment or solo massage practitioner establishment, more than 30 days after receiving the findings required under Section 1912 of this Article. 
-(Added by Ord. 269-03, File No. 030995, App. 12/5/2003)
-SEC. 1923.  TRANSFER OF PERMIT.
- New Ordinance Notice
-Publisher's Note: This Section has been affected by the substantial amendments described in the Publisher's Note at the beginning of this Article.
-	No permit issued under this Article shall be transferable. 
-(Added by Ord. 269-03, File No. 030995, App. 12/5/2003)
-SEC. 1924.  EXISTING PERMITS.
- New Ordinance Notice
-Publisher's Note: This Section has been affected by the substantial amendments described in the Publisher's Note at the beginning of this Article.
-	(a)	All persons who possess outstanding massage establishment, outcall massage service, or masseur or masseuse permits on the effective date of this ordinance must surrender and exchange any such permits for new permits within 90 days of the effective date of this ordinance. Any such surrender and exchange shall be without fee to the permittee. From and after the 91st day after the effective date of this ordinance, all permits not surrendered and exchanged for new permits shall be void and continuance of operation under any such void permits shall be a violation of this Article. However, until issuance of the new permit, all existing permits are subject to the rules and regulations in effect at the time of the issuance of the permits. 
-		(1)	A person who possesses an outstanding masseur or masseuse permit on the effective date of this ordinance may exchange that permit for a general massage practitioner permit. He or she may seek an advanced massage practitioner permit upon submitting documentation for the additional 100 hours of instruction required under Section 1902(c). 
-		(2)	A person who possesses an outstanding massage establishment permit on the effective date of this ordinance may exchange that permit for a massage establishment permit under this Article. Only a person who has obtained an advanced massage practitioner permit may obtain a solo practitioner massage establishment permit. 
-	(b)	Any person practicing massage without a permit on the effective date of this ordinance, or who has done so prior to that date, shall be eligible to receive a general or advanced massage practitioner permit upon satisfying the requirements of Sections 1902 and 1903, or a massage establishment, solo practitioner massage establishment, or outcall massage service permit upon satisfying the requirements of Sections 1909 and 1913. Such applicants shall not be disadvantaged or penalized in the permitting process for having practiced massage without a permit prior to the effective date of this ordinance. 
-(Added by Ord. 269-03, File No. 030995, App. 12/5/2003)
-SEC. 1925.  BUSINESS TAX AND ZONING INFORMATION, RESOURCES FOR MASSAGE PRACTITIONERS.
- New Ordinance Notice
-Publisher's Note: This Section has been affected by the substantial amendments described in the Publisher's Note at the beginning of this Article.
-	(a)	Upon issuing or renewing any permit issued under this Article, the Director and the Tax Collector shall also provide the permit-holder with general information, including appropriate referrals to other City departments, regarding (1) the need and procedure for registering a business with the Tax Collector, and, (2) possible zoning restrictions on the operation of a massage practice. 
+	(c)	The Director may suspend summarily any massage establishment, solo practitioner massage establishment, or outcall massage service permit issued under this Article pending a noticed hearing on revocation or suspension when in the opinion of the Director the public health or safety requires such summary suspension. Any affected permittee shall be given notice of such summary suspension in writing delivered to said permittee in person or by registered letter.
+ (Added as Sec. 1921 by Ord. 269-03, File No. 030995, App. 12/5/2003; redesignated and amended by Ord. 262-13, File No. 130400, App. 11/27/2013, Eff. 12/27/2013)
+SEC. 29.22.  HEARINGS.
+	The Director may fix a time and place for a hearing on any application for a permit under this Article, which shall not be held more than 45 days after the receipt of the completed application, or, in the case of a permit to operate a massage establishment or solo massage practitioner establishment, more than 30 days after receiving the findings required under Section 29.13 of this Article. 
+(Added as Sec. 1922 by Ord. 269-03, File No. 030995, App. 12/5/2003; redesignated and amended by Ord. 262-13, File No. 130400, App. 11/27/2013, Eff. 12/27/2013)
+SEC. 29.23.  TRANSFER OF PERMIT.
+	No permit issued under this Article shall be transferable.
+(Added as Sec. 1923 by Ord. 269-03, File No. 030995, App. 12/5/2003; redesignated by Ord. 262-13, File No. 130400, App. 11/27/2013, Eff. 12/27/2013)
+SEC. 29.24.  BUSINESS TAX AND ZONING INFORMATION, RESOURCES FOR MASSAGE PRACTITIONERS.
+	(a)	Upon issuing or renewing any registration or permit issued under this Article, the Director and the Tax Collector shall also provide the permit-holder with general information, including appropriate referrals to other City departments, regarding (1) the need and procedure for registering a business with the Tax Collector, and, (2) possible zoning restrictions on the operation of a massage practice. 
 	(b)	The Director shall provide all persons receiving a massage practitioner permit with educational materials regarding their rights and informing them of available resources such as health services and victim assistance, as well as emergency numbers and hotlines to call for information and assistance. 
-(Added by Ord. 269-03, File No. 030995, App. 12/5/2003)
-SEC. 1926.  RULES AND REGULATIONS; COMPLAINT LINE.
- New Ordinance Notice
-Publisher's Note: This Section has been affected by the substantial amendments described in the Publisher's Note at the beginning of this Article.
-	(a)	The Director, after a noticed public hearing, may adopt rules and regulations to carry out the provisions of this Article. Such rules and regulations shall take effect 15 days after the meeting. Violation of any such rule or regulation may be grounds for administrative action against the permittee, including suspension or revocation of the permit as provided in Sections 1907 and 1921 or an administrative fine as provided in Section 1928, but the Director shall whenever possible give the permittee a reasonable opportunity to cure the violation before seeking penalties. 
+(Added as Sec. 1925 by Ord. 269-03, File No. 030995, App. 12/5/2003; redesignated and amended by Ord. 262-13, File No. 130400, App. 11/27/2013, Eff. 12/27/2013)
+SEC. 29.25.  RULES AND REGULATIONS; COMPLAINT LINE.
+	(a)	The Director, after a noticed public hearing, may adopt rules and regulations to carry out the provisions of this Article. Such rules and regulations shall take effect no sooner than 15 days after the public hearing. Violation of any such rule or regulation may be grounds for administrative action against the permittee, including suspension or revocation of the permit as provided in Sections 29.8 and 29.21 or an administrative fine as provided in Section 29.27, but the Director shall whenever possible give the permittee a reasonable opportunity to cure the violation before seeking penalties. 
 	(b)	The Director shall maintain a phone line for inquiries and complaints regarding massage businesses and practitioners.
-(Added by Ord. 269-03, File No. 030995, App. 12/5/2003)
-SEC. 1927.  FEES.
- New Ordinance Notice
-Publisher's Note: This Section has been affected by the substantial amendments described in the Publisher's Note at the beginning of this Article.
-	(a)	The application fee for a massage establishment, as provided in Section 1909, shall be $394. The annual license fee for a massage establishment, as provided in Section 1920, shall be $694. The Fee shall be due annually on March 31 of each year, pursuant to Section 76.1, Article 2 of the San Francisco Business and Tax Regulations Code.*
-	(b)	The application fee for a solo practitioner massage establishment, as provided in Section 1909, shall be $394. The annual license fee for a solo practitioner massage establishment, as provided in Section 1920, shall be $464. The Fee shall be due annually on March 31 of each year, pursuant to Section 76.1, Article 2 of the San Francisco Business and Tax Regulations Code.*
-	(c)	The application fee for an outcall massage services permit, as provided in Section 1909, shall be $278. The annual license fee for an outcall massage service, as provided in Section 1920, shall be $231. The Fee shall be due annually on March 31 of each year, pursuant to Section 76.1, Article 2 of the San Francisco Business and Tax Regulations Code.*
+(Added as Sec. 1926 by Ord. 269-03, File No. 030995, App. 12/5/2003; redesignated and amended by Ord. 262-13, File No. 130400, App. 11/27/2013, Eff. 12/27/2013)
+SEC. 29.26.  FEES.
+	(a)	The application fee for a massage establishment, as provided in Section 29.11, shall be $658. The annual license fee for a massage establishment, as provided in Section 29.20, shall be $1,173. The Fee shall be due annually on March 31 of each year, pursuant to Section 76.1, Article 2 of the San Francisco Business and Tax Regulations Code.*
+	(b)	The application fee for a solo practitioner massage establishment, as provided in Section 29.11, shall be $480. The annual license fee for a solo practitioner massage establishment, and for massage establishments shere all practitioners are certified by the CAMTC, as provided in Section 29.20, shall be $579. The Fee shall be due annually on March 31 of each year, pursuant to Section 76.1, Article 2 of the San Francisco Business and Tax Regulations Code.*
+	(c)	The application fee for an outcall massage services permit, as provided in Section 29.11, shall be $480. The annual license fee for an outcall massage service, as provided in Section 29.20, shall be $579. The Fee shall be due annually on March 31 of each year, pursuant to Section 76.1, Article 2 of the San Francisco Business and Tax Regulations Code.*
 	(d)	An advanced massage practitioner holding a solo practitioner massage establishment permit shall not be required to pay any additional permit or annual license fee for an outcall massage service permit. 
 	(e)	Beginning with fiscal year 2008-2009, fees set forth in this Article may be adjusted each year, without further action by the Board of Supervisors, asset forth in this Section. 
 		Not later than April 1, the Director shall report to the Controller the revenues generated by the fees for the prior fiscal year and the prior fiscal year's costs of operation, as well as any other information that the Controller determines appropriate to the performance of the duties set forth in this Section. 
 		Not later than May 15, the Controller shall determine whether the current fees have produced or are projected to produce revenues sufficient to support the costs of providing the services for which the fees are assessed and that the fees will not produce revenue which is significantly more than the costs of providing the services for which the fees are assessed. 
 		The Controller shall, if necessary, adjust the fees upward or downward for the upcoming fiscal year as appropriate to ensure that the program recovers the costs of operation without producing revenue which is significantly more than such costs. The adjusted rates shall become operative on July 1. 
-(Added by Ord. 269-03, File No. 030995, App. 12/5/2003; amended by Ord. 149-08, File No. 080744, App. 7/30/2008; Ord. 238-11, File No. 111101, App. 12/15/2011; Eff. 1/14/2012)
-SEC. 1928.  VIOLATIONS AND ADMINISTRATIVE PENAL TIES.
- New Ordinance Notice
-Publisher's Note: This Section has been affected by the substantial amendments described in the Publisher's Note at the beginning of this Article.
-	(a)	Any person who violates any provision of this Article or any rule or regulation adopted pursuant to Section 1926 may, after being provided notice and an opportunity to be heard, be subject to an administrative fine not to exceed $1,000 for the first violation of any provision of this Article or any rule or regulation in a 24 month period, $2,500 for the second violation of any provision of this Article or any rule or regulation in a 24-month period, and $5,000 for the third and subsequent violations of any provision of this Article or any rule or regulation in a 24-month period; provided, however, that the schedule of administrative fines for a massage practitioner shall be as follows: not to exceed $250 for the first violation of any provision of this Article or a rule or regulation in a 24-month period, $500 for the second violation of any provision of this Article or any rule or regulation in a 24-month period, and $1,000 for the third and subsequent violations of any provision of this Article or any rule or regulation in a 24-month period. 
-	(b)	Any permittee who knowingly employs a massage practitioner who is not in possession of a valid permit or who allows such a massage practitioner to perform, operate, or practice in the permittee's place of business may, after being provided notice and an opportunity to be heard, be subject to an administrative fine not to exceed $1,000 for the first violation in a 24-month period, $2,500 for the second violation in a 24-month period, and $5,000 for the third and subsequent violations in a 24-month period. 
-	(c)	In determining the amount of the administrative fine, the hearing officer shall consider any relevant circumstance presented by any of the parties, including but not limited to the nature and seriousness of the violation, the number of violations, the persistence of the violation, the length of time over which the violation occurred, the willfulness of the violation, and the impacts of the violation on the community. 
-	(d)	Administrative fines collected under this Section shall be used to support the Department of Public Health and its Health Code enforcement functions. 
-	(e)	Nothing in this Section shall preclude the prosecution of anyone under Health Code Section 1928.2, the laws of the State of California or the laws of the United States of America. 
-(Added by Ord. 269-03, File No. 030995, App. 12/5/2003; Ord. 140-09, File No. 090403, App. 7/2/2009)
-SEC. 1928.1.  COST RECOVERY.
- New Ordinance Notice
-Publisher's Note: This Section has been affected by the substantial amendments described in the Publisher's Note at the beginning of this Article.
+(Added as Sec. 1927 by Ord. 269-03, File No. 030995, App. 12/5/2003; amended by Ord. 149-08, File No. 080744, App. 7/30/2008; Ord. 238-11, File No. 111101, App. 12/15/2011; Eff. 1/14/2012; redesignated and amended by Ord. 262-13, File No. 130400, App. 11/27/2013, Eff. 12/27/2013)
+SEC. 29.27.  VIOLATIONS AND ADMINISTRATIVE PENALTIES.
+	(a)	Any person who violates any provision of this Article or any rule or regulation adopted pursuant to Section 29.25 may, after being provided notice and an opportunity to be heard, be subject to the following monetary penalties and/or permit penalties.
+		(1)	Establishment Operating Without a Permit from the San Francisco Department of Public Health.
+			(A)	Administrative fine: Up to $1,000 per day of operating without a permit; and
+			(B)	Permit penalty: Revocation, and Massage Establishment location and permittee are ineligible for a new permit from the San Francisco Department of Public Health for 180 days.
+			(C)	Repeat violations: Same penalties as (a)(1)(A) and (a)(1)(B).
+		(2)	Establishment Violating Conditions of California Business and Professions Code Sections 4600-4620 and all Implementing Regulations.
+			(A)	Administrative fine: Up to $1,000 per day of operating without a permit; and
+			(B)	Permit penalty: Massage Establishment location and permittee are ineligible for a permit from the San Francisco Department of Public Health for 180 days.
+			(C)	Repeat violations: Same penalties as (a)(3)(A) and (a)(3)(B).
+		(3)	Massage Establishment Employing Underage Practitioner as Defined in Section 29.17.
+			(A)	Administrative fine: None.
+			(B)	Permit penalty: Mandatory 60-120 days suspension of Massage Establishment permit.
+			(C)	Repeat violations: Revocation for second occurrence within 36 months of first occurrence and Massage Establishment location and permittee are ineligible for a new permit for 180 days.
+		(4)	Solicitation Charges or Convictions, as Defined by California Penal Code Section 647 And/or San Francisco Police Code Section 225, for Anyone Working at Massage Establishment.
+			(A)	Administrative fine: $5,000 to be paid by Massage Establishment permittee; and
+			(B)	Permit penalty: Mandatory 60-120 days suspension of Massage Establishment permit.
+			(C)	Repeat violations: Revocation; Permittee ineligible for a new Massage Establishment permit from the San Francisco Department of Public Health, at any location.
+		(5)	Trafficking Charges or Convictions, as Defined by California Penal Code Section 236.1, for Anyone Working at Massage Establishment.
+			(A)	Administrative fine: None.
+			(B)	Permit penalty: Revocation and Permittee ineligible for a new Massage Establishment permit, at any location.
+			(C)	Repeat violations: Same penalty as (a)(5)(B).
+		(6)	Establishment Knowingly Employing Unlicensed or Uncertified Massage Practitioner or Therapist.
+			(A)	Administrative fine: $1,000 to be paid by Massage Establishment permittee.
+			(B)	Permit penalty: None.
+			(C)	Repeat violations: 15-30 days suspension and up to $2,500 fine for 2nd occurrence within a 24 month period; 30-60 days suspension or permit revocation, and up to $5,000 fine for 3rd occurrence within 24 months.
+		(7)	Establishment Used or Residential Sleeping Purposes, Without Authorization by the City and County of San Francisco Director of Public Health.
+			(A)	Administrative fine: Up to $1,000.
+			(B)	Permit penalty: None.
+			(C)	Repeat violations: 15-30 days suspension and up to $2,500 fine and for 2nd occurrence within 24 months; 30-60 days suspension and up to $5,000 fine for 3rd occurrence within 24 months.
+		(8)	Presence of Beds Instead of Massage Tables.
+			(A)	Administrative fine: None.
+			(B)	Permit penalty: Notice of violation only.
+			(C)	Repeat violations: Up to $1,000 fine for 2nd occurrence within 24 months; 15-30 day suspension and up to $2,500 fine and for 3rd occurrence within 24 months.
+		(9)	Massage Practitioner Not Wearing Attire as Described in Section 29.12(i).
+			(A)	Administrative fine: Up to $250 per person to be paid by Massage Establishment permittee; and,
+			(B)	Permit penalty: Notice of violation.
+			(C)	Repeat violations: Up to $500 fine for 2nd and each subsequent occurrence and 60 day suspension for practitioner and 60 day suspension per person for Massage Establishment permit.
+		(10)	Sanitation Issues, Pursuant to Section 29.12(f).
+			(A)	Administrative fine: None.
+			(B)	Permit penalty: Notice of violation.
+			(C)	Repeat violations: Up to $250 fine and 60 days suspension for Massage Establishment permit.
+		(11)	Massage Establishment Operating Past 10 p.m.
+			(A)	Administrative fine: Up to $1,000.
+			(B)	Permit penalty: None.
+			(C)	Repeat violations: 15-30 days suspension and up to $2,500 for 2nd occurrence within 24 months; 30-60 days suspension and up to $5,000 fine for 3rd and each subsequent occurrence within 24 months.
+		(12)	Practicing Massage Without a Permit.
+			(A)	Administrative fine: $250 fine.
+			(B)	Permit penalty: None.
+			(C)	Repeat violations: $500 fine for 2nd occurrence within 24 months;  $1,000 fine for 3rd and each subsequent occurrence within 24 months, and Practitioner ineligible for San Francisco Department of Public Health permit for 180 days.
+		(13)	Anyone Performing Sex Acts as Defined in Section 29.12(h) on Massage Establishment Premises During Business Hours.
+			(A)	Administrative fine: $1,000 to be paid by Massage Establishment permittee, and
+			(B)	Permit penalty: 60 day permit suspension of Massage Establishment permit.
+			(C)	Repeat violations: Permit revocation of both practitioner and Massage Establishment permittee.
+		(14)	Failure to Post Notices as Required by Section 29.12(l).
+			(A)	Administrative fine: Written warning for first violation, $250 for second violation within 12 months.
+			(B)	Permit Penalty: 30 day suspension for third and subsequent violations within 24 months.
+		(15)	All Other Violations of San Francisco Health Code Article 29, and Any Massage Program Rules and Regulations.
+			(A)	Administrative fine: Up to $1,000; and
+			(B)	Permit penalty: suspension or revocation.
+			(C)	Repeat violations: $2,500 for the second violation in a 24-month period; $5,000 for the third and subsequent violations in a 24-month period; and suspension or revocation.
+	(b)	Written notice of each violation shall be provided to the owner(s) of the property upon which the Massage Establishment is located.
+	(c)	Administrative fines collected under this Section shall be used to support the Department of Public Health and its Health Code enforcement functions. 
+	(d)	Nothing in this Section shall preclude the prosecution of anyone under Health Code Section 29.29, the laws of the State of California or the laws of the United States of America. 
+(Added as Sec. 1928 by Ord. 269-03, File No. 030995, App. 12/5/2003; amended by Ord. 140-09, File No. 090403, App. 7/2/2009; redesignated and amended by Ord. 262-13, File No. 130400, App. 11/27/2013, Eff. 12/27/2013; amended by Ord. 266-13, File No. 130789, App. 11/27/2013, Eff. 12/27/2013)
+SEC. 29.28.  COST RECOVERY.
 	Any person who is assessed an administrative fine or whose permit is suspended or revoked under this Article, regardless of whether any fine, suspension or revocation is held in abeyance, shall be liable to the City for its costs incurred in enforcing this Article including but not limited to the costs of inspection, investigation, administration, hearing officer, administrative proceedings, court proceedings, monitoring and attorneys' fees. Within ten business days of the termination of the administrative hearing or other proceeding, the Department of Public Health shall calculate the amount of costs. 
-(Added by Ord. 140-09, File No. 090403, App. 7/2/2009) 
-SEC. 1928.2.  VIOLATIONS AND CRIMINAL PENALTIES.
- New Ordinance Notice
-Publisher's Note: This Section has been affected by the substantial amendments described in the Publisher's Note at the beginning of this Article.
-	(a)	Any permittee, as defined in Section 1900(i), of a massage establishment or outcall massage service or any employer of a massage practitioner who shall violate Health Code Section 1901 which requires a permit to engage in the practice of massage, Health Code Section 1905 which requires presentation of an identification card to any City health inspector, Health Code Section 1908 which requires a permit to operate a massage establishment, solo practitioner massage establishment, or outcall massage service, Health Code Section 1914(e) which prohibits the use of any room in which massage services are provided to be used as a sleeping room, Health Code Section 1915 which requires every permit holder or employer to ensure that a massage practitioner has obtained a permit, Health Code Section 1916 which requires a register of practitioners to be available for inspection, Health Code Section 1917 which prohibits the employment of any individual under the age of 18, Health Code Section 1918, which requires display of a permit and prohibits operation between the hours of 10 p.m. and 7 a.m., or any rule or regulation adopted pursuant to Section 1926, shall be guilty of a misdemeanor and upon conviction shall be punished by a fine not to exceed $1,000 or by imprisonment in the County Jail not to exceed six months, or by both. A person convicted of violating this Section shall be deemed guilty of a separate offense for every day such violation shall continue. 
+(Added as Sec. 1928.1 by Ord. 140-09, File No. 090403, App. 7/2/2009; redesignated by Ord. 262-13, File No. 130400, App. 11/27/2013, Eff. 12/27/2013) 
+SEC. 29.29.  VIOLATIONS AND CRIMINAL PENALTIES.
+	(a)	Any permittee, as defined in Section 29.1, of a massage establishment or outcall massage service or any employer of a massage practitioner who violateS Health Code Section 29.2 which requires a permit to engage in the practice of massage, Health Code Section 29.6 which requires presentation of an identification card to any City health inspector, Health Code Section 29.10 which requires practitioners not certified by the CAMTC pursuant to the California Business and Professions Code to obtain a permit to operate a massage establishment, solo practitioner massage establishment, or outcall massage service, Health Code Section 29.12(g) which prohibits the use of any room in which massage services are provided to be used as a sleeping room, Health Code Section 29.15 which requires every permit holder or employer to ensure that a massage practitioner, who is not certified by the CAMTC, has obtained a permit, Health Code Section 29.16 which requires a register of practitioners to be available for inspection, Health Code Section 29.17 which prohibits the employment of any individual under the age of 18, Health Code Section 29.18, which requires display of a permit and prohibits operation between the hours of 10 p.m. and 7 a.m., or any rule or regulation adopted pursuant to Section 29.25, shall be guilty of a misdemeanor and upon conviction shall be punished by a fine not to exceed $1,000 or by imprisonment in the County Jail not to exceed six months, or by both. A person convicted of violating this Section shall be deemed guilty of a separate offense for every day such violation shall continue. 
 	(b)	Nothing in this Section shall preclude the prosecution of anyone under the laws of the State of California or of the United States of America. 
-(Added by Ord. 140-09, File No. 090403, App. 7/2/2009)
-SEC. 1929.  COOPERATIVE EFFORTS WITH LAW ENFORCEMENT.
- New Ordinance Notice
-Publisher's Note: This Section has been affected by the substantial amendments described in the Publisher's Note at the beginning of this Article.
+(Added as Sec. 1928.2 by Ord. 140-09, File No. 090403, App. 7/2/2009; redesignated and amended by Ord. 262-13, File No. 130400, App. 11/27/2013, Eff. 12/27/2013)
+SEC. 29.30.  COOPERATIVE EFFORTS WITH LAW ENFORCEMENT.
 	The Director of Public Health shall work with the Chief of Police on issues of common concern affecting the massage industry, such as protections against violence in massage establishments, crimes against massage practitioners, forced labor, or trafficking. 
 	During the six-month period between adoption of this Article and its effective date, the Director of Public Health shall work with the Chief of Police to develop procedures to verify that permit applicants do not have prior criminal convictions that would disqualify the applicants from receiving a permit under this Article. 
-(Added by Ord. 269-03, File No. 030995, App. 12/5/2003)
-SEC. 1930.  DISCLAIMER.
- New Ordinance Notice
-Publisher's Note: This Section has been affected by the substantial amendments described in the Publisher's Note at the beginning of this Article.
+(Added as Sec. 1929 by Ord. 269-03, File No. 030995, App. 12/5/2003; redesignated by Ord. 262-13, File No. 130400, App. 11/27/2013, Eff. 12/27/2013)
+SEC. 29.31.  DISCLAIMER.
 	In regulating massage establishments and massage services as provided in this Article, the City is assuming an undertaking only to promote the general welfare. It is not assuming, nor is it imposing on its officers and employees, an obligation for breach of which it is liable in money damages to any person who claims that such breach proximately caused injury. 
-(Added by Ord. 269-03, File No. 030995, App. 12/5/2003)
-SEC. 1931.  SEVERABILITY.
- New Ordinance Notice
-Publisher's Note: This Section has been affected by the substantial amendments described in the Publisher's Note at the beginning of this Article.
+(Added as Sec. 1930 by Ord. 269-03, File No. 030995, App. 12/5/2003; redesignated by Ord. 262-13, File No. 130400, App. 11/27/2013, Eff. 12/27/2013)
+SEC. 29.32.  SEVERABILITY.
 	If any of the provisions of this Article or the application thereof to any person or circumstance is held invalid, the remainder of this Article, including the application of such part or provisions to persons or circumstances other than those to which it is held invalid, shall not be affected thereby and shall continue in full force and effect. To this end, the provisions of this Article are severable. 
-(Added by Ord. 269-03, File No. 030995, App. 12/5/2003)
+(Added as Sec. 1931 by Ord. 269-03, File No. 030995, App. 12/5/2003; redesignated by Ord. 262-13, File No. 130400, App. 11/27/2013, Eff. 12/27/2013)
+SEC. 1900.  [REDESIGNATED.]
+(Added by Ord. 269-03, File No. 030995, App. 12/5/2003; redesignated as Sec. 29.1 and amended by Ord. 262-13, File No. 130400, App. 11/27/2013, Eff. 12/27/2013)
+SEC. 1901.  [REDESIGNATED.]
+(Added by Ord. 269-03, File No. 030995, App. 12/5/2003; redesignated as Sec. 29.2 and amended by Ord. 262-13, File No. 130400, App. 11/27/2013, Eff. 12/27/2013)
+SEC. 1902.  [REDESIGNATED.]
+(Added by Ord. 269-03, File No. 030995, App. 12/5/2003; amended by Ord. 317-08, File No. 081250, App. 12/19/2008; redesignated as Sec. 29.3 and amended by Ord. 262-13, File No. 130400, App. 11/27/2013, Eff. 12/27/2013)
+SEC. 1903.  [REDESIGNATED.]
+(Added by Ord. 269-03, File No. 030995, App. 12/5/2003; redesignated as Sec. 29.4 and amended by Ord. 262-13, File No. 130400, App. 11/27/2013, Eff. 12/27/2013)
+SEC. 1904.  [REDESIGNATED.]
+(Added by Ord. 269-03, File No. 030995, App. 12/5/2003; redesignated as Sec. 29.5 and amended by Ord. 262-13, File No. 130400, App. 11/27/2013, Eff. 12/27/2013)
+SEC. 1905.  [REDESIGNATED.]
+(Added by Ord. 269-03, File No. 030995, App. 12/5/2003; redesignated as Sec. 29.6 and amended by Ord. 266-13, File No. 130789, App. 11/27/2013, Eff. 12/27/2013)
+SEC. 1906.  [REDESIGNATED.]
+(Added by Ord. 269-03, File No. 030995, App. 12/5/2003; redesignated as Sec. 29.7 and amended by Ord. 262-13, File No. 130400, App. 11/27/2013, Eff. 12/27/2013)
+SEC. 1907.  [REDESIGNATED.]
+(Added by Ord. 269-03, File No. 030995, App. 12/5/2003; redesignated as Sec. 29.8 and amended by Ord. 262-13, File No. 130400, App. 11/27/2013, Eff. 12/27/2013)
+SEC. 1908.  [REDESIGNATED.]
+(Added by Ord. 269-03, File No. 030995, App. 12/5/2003; redesignated as Sec. 29.10 and amended by Ord. 262-13, File No. 130400, App. 11/27/2013, Eff. 12/27/2013)
+SEC. 1909.  [REDESIGNATED.]
+(Added by Ord. 269-03, File No. 030995, App. 12/5/2003; redesignated as Sec. 29.11 and amended by Ord. 262-13, File No. 130400, App. 11/27/2013, Eff. 12/27/2013)
+SEC. 1910.  [REDESIGNATED.]
+(Added by Ord. 269-03, File No. 030995, App. 12/5/2003; redesignated as Sec. 29.12 and amended by Ord. 262-13, File No. 130400, App. 11/27/2013, Eff. 12/27/2013)
+SEC. 1911.  [REPEALED.]
+(Added by Ord. 269-03, File No. 030995, App. 12/5/2003; repealed by Ord. 262-13, File No. 130400, App. 11/27/2013, Eff. 12/27/2013)
+SEC. 1912.  [REDESIGNATED.]
+(Added by Ord. 269-03, File No. 030995, App. 12/5/2003; redesignated as Sec. 29.13 and amended by Ord. 262-13, File No. 130400, App. 11/27/2013, Eff. 12/27/2013)
+SEC. 1913.  [REDESIGNATED.]
+(Added by Ord. 269-03, File No. 030995, App. 12/5/2003; redesignated as Sec. 29.14 and amended by Ord. 262-13, File No. 130400, App. 11/27/2013, Eff. 12/27/2013)
+SEC. 1914.  [REPEALED.]
+(Added by Ord. 269-03, File No. 030995, App. 12/5/2003; repealed by Ord. 262-13, File No. 130400, App. 11/27/2013, Eff. 12/27/2013)
+SEC. 1915.  [REDESIGNATED.]
+(Added by Ord. 269-03, File No. 030995, App. 12/5/2003; redesignated as Sec. 29.15 and amended by Ord. 262-13, File No. 130400, App. 11/27/2013, Eff. 12/27/2013)
+SEC. 1916.  [REDESIGNATED.]
+(Added by Ord. 269-03, File No. 030995, App. 12/5/2003; redesignated as Sec. 29.16 and amended by Ord. 262-13, File No. 130400, App. 11/27/2013, Eff. 12/27/2013)
+SEC. 1917.  [REDESIGNATED.]
+(Added by Ord. 269-03, File No. 030995, App. 12/5/2003; redesignated as Sec. 29.17 by Ord. 262-13, File No. 130400, App. 11/27/2013, Eff. 12/27/2013)
+SEC. 1918.  [REDESIGNATED.]
+(Added by Ord. 269-03, File No. 030995, App. 12/5/2003; amended by Ord. 140-09, File No. 090403, App. 7/2/2009; redesignated as Sec. 29.18 by Ord. 262-13, File No. 130400, App. 11/27/2013, Eff. 12/27/2013)
+SEC. 1919.  [REDESIGNATED.]
+(Added by Ord. 269-03, File No. 030995, App. 12/5/2003; redesignated as Sec. 29.19 and amended by Ord. 262-13, File No. 130400, App. 11/27/2013, Eff. 12/27/2013)
+SEC. 1920.  [REDESIGNATED.]
+(Added by Ord. 269-03, File No. 030995, App. 12/5/2003; redesignated as Sec. 29.20 and amended by Ord. 262-13, File No. 130400, App. 11/27/2013, Eff. 12/27/2013)
+SEC. 1921.  [REDESIGNATED.]
+ (Added by Ord. 269-03, File No. 030995, App. 12/5/2003; redesignated as Sec. 29.21 and amended by Ord. 262-13, File No. 130400, App. 11/27/2013, Eff. 12/27/2013)
+SEC. 1922.  [REDESIGNATED.]
+(Added by Ord. 269-03, File No. 030995, App. 12/5/2003; redesignated as Sec. 29.22 and amended by Ord. 262-13, File No. 130400, App. 11/27/2013, Eff. 12/27/2013)
+SEC. 1923.  [REDESIGNATED.]
+(Added by Ord. 269-03, File No. 030995, App. 12/5/2003; redesignated as Sec. 29.23 by Ord. 262-13, File No. 130400, App. 11/27/2013, Eff. 12/27/2013)
+SEC. 1924.  [REPEALED.]
+(Added by Ord. 269-03, File No. 030995, App. 12/5/2003; repealed by Ord. 262-13, File No. 130400, App. 11/27/2013, Eff. 12/27/2013)
+SEC. 1925.  [REDESIGNATED.]
+(Added by Ord. 269-03, File No. 030995, App. 12/5/2003; redesignated as Sec. 29.24 and amended by Ord. 262-13, File No. 130400, App. 11/27/2013, Eff. 12/27/2013)
+SEC. 1926.  [REDESIGNATED.]
+(Added by Ord. 269-03, File No. 030995, App. 12/5/2003; redesignated as Sec. 29.25 and amended by Ord. 262-13, File No. 130400, App. 11/27/2013, Eff. 12/27/2013)
+SEC. 1927.  [REDESIGNATED.]
+(Added by Ord. 269-03, File No. 030995, App. 12/5/2003; amended by Ord. 149-08, File No. 080744, App. 7/30/2008; Ord. 238-11, File No. 111101, App. 12/15/2011; Eff. 1/14/2012; redesignated as Sec. 29.26 and amended by Ord. 262-13, File No. 130400, App. 11/27/2013, Eff. 12/27/2013)
+SEC. 1928.  [REDESIGNATED.]
+(Added by Ord. 269-03, File No. 030995, App. 12/5/2003; amended by Ord. 140-09, File No. 090403, App. 7/2/2009; redesignated as Sec. 29.27 and amended by Ord. 262-13, File No. 130400, App. 11/27/2013, Eff. 12/27/2013)
+SEC. 1928.1.  [REDESIGNATED.]
+(Added by Ord. 140-09, File No. 090403, App. 7/2/2009; redesignated as Sec. 29.28 by Ord. 262-13, File No. 130400, App. 11/27/2013, Eff. 12/27/2013) 
+SEC. 1928.2.  [REDESIGNATED.]
+(Added by Ord. 140-09, File No. 090403, App. 7/2/2009; redesignated as Sec. 29.29 and amended by Ord. 262-13, File No. 130400, App. 11/27/2013, Eff. 12/27/2013)
+SEC. 1929.  [REDESIGNATED.]
+(Added by Ord. 269-03, File No. 030995, App. 12/5/2003; redesignated as Sec. 29.30 by Ord. 262-13, File No. 130400, App. 11/27/2013, Eff. 12/27/2013)
+SEC. 1930.  [REDESIGNATED.]
+(Added by Ord. 269-03, File No. 030995, App. 12/5/2003; redesignated as Sec. 29.31 by Ord. 262-13, File No. 130400, App. 11/27/2013, Eff. 12/27/2013)
+SEC. 1931.  [REDESIGNATED.]
+(Added by Ord. 269-03, File No. 030995, App. 12/5/2003; redesignated as Sec. 29.32 by Ord. 262-13, File No. 130400, App. 11/27/2013, Eff. 12/27/2013)
 ARTICLE 30:
 REGULATION OF DIESEL BACKUP GENERATORS
 Sec. 2001.Findings and Purpose.Sec. 2002.Definitions.Sec. 2003.Certificate of Registration Required.Sec. 2004.Application for Certificate.Sec. 2005.Issuance of Certificate.Sec. 2006.Requirements.Sec. 2007.Notification to the Department.Sec. 2008.Renewals And Transfers.Sec. 2009.General Provisions and Disclaimer.Sec. 2010.Record Keeping.Sec. 2011.Violations.Sec. 2012.Director's Authority.Sec. 2013.Enforcement Actions.Sec. 2014.Penalties.Sec. 2015.Director's Hearing.Sec. 2016.Collection.Sec. 2017.Fee Schedule.Sec. 2018.Annual Fee Adjustment.Sec. 2019.Delinquent Fees.Sec. 2020.Refund of Fees.Sec. 2021.Regulations.Sec. 2022.Disclaimer of Liability.Sec. 2023.Duties Are Discretionary.Sec. 2024.Severability.Sec. 2025.Sunset Provision.
@@ -7018,20 +7089,20 @@ Sections Affected:
  452.1 (Added)155-1313036908/24/13Building, Health, Public Works Codes - Soil and/or Groundwater Testing Requirements 
 
 Sections Affected:
-22A.1, 22A.2, 22A.3, 22A.4, 22A.5, 22A.6, 22A.7, 22A.8, 22A.9, 22A.10, 22A.11, 22A.12, 22A.13, 22A.14, 22A.15, 22A.16, 22A.17, 22A.18, 22A.19 (Added); 1220, 1221, 1222, 1223, 1224, 1225, 1226, 1227, 1228, 1229, 1230, 1231, 1232, 1233, 1234, 1235, 1236, 1237 (Deleted)172-1313054709/01/13Health Code - Patient Rates - FYs 2013-14 and 2014-2015 
+22A.1, 22A.2, 22A.3, 22A.4, 22A.5, 22A.6, 22A.7, 22A.8, 22A.9, 22A.10, 22A.11, 22A.12, 22A.13, 22A.14, 22A.15, 22A.16, 22A.17, 22A.18, 22A.19 (Added); 1220, 1221, 1222, 1223, 1224, 1225, 1226, 1227, 1228, 1229, 1230, 1231, 1232, 1233, 1234, 1235, 1236, 1237 (Amended and/or Renumbered)172-1313054709/01/13Health Code - Patient Rates - FYs 2013-14 and 2014-2015 
 
 Sections Affected:
 128 (Amended)208-1313076511/10/13Health Code - Alternate Water Sources for Non-Potable Applications
 
 Sections Affected:
-851, 854, 855 (Amended)
+851, 854, 855 (Amended)262-1313040012/27/13Health Code - Massage Practitioners
+
+Sections Affected:
+29.1, 29.2, 29.3, 29.4, 29.5, 29.7, 29.8, 29.9, 29.10, 29.11, 29.12, 29.13, 29.14, 29.15, 29.16, 29.17, 29.18, 29.19, 29.20, 29.21, 29.22, 29.23, 29.24, 29.25, 29.26, 29.27, 29.28, 29.29, 29.30, 29.31, 29.32 (Added); 1900, 1901, 1902, 1903, 1904, 1906, 1907, 1908, 1909, 1910, 1912, 1913, 1915, 1916, 1917, 1918, 1919, 1920, 1921, 1922, 1923, 1925, 1926, 1927, 1928, 1928.1, 1928.2, 1929, 1930, 1931 (Amended and/or Renumbered); 1911, 1914, 1924 (Repealed)266-1313078912/27/13Health Code - Licensing and Regulations of Massage Establishments and Practitioners
+
+Sections Affected:
+29.6, 29.11, 29.12, 29.27 (Amended); 1905 (Amended and Renumbered)
 New Ordinances
 Publisher's Note:  The following table lists all ordinances affecting the Health Code that have been passed by the Board of Supervisors but that are not yet effective. The table includes links to the amending ordinances (as maintained in PDF format on the Board of Supervisors' web site) and to the code sections affected. For other legislation, including older ordinances and those affecting other codes, please refer to the Comprehensive Ordinance Table or the Board's "Legislation Passed" web site.
 
-Ord. No.File No.Eff. DateShort Title and Code Sections Affected262-1313040012/27/13Health Code - Massage Practitioners
-
-Sections Affected:
-29.1, 29.2, 29.3, 29.4, 29.5, 29.6, 29.7, 29.8, 29.9, 29.10, 29.11, 29.12, 29.13, 29.14, 29.15, 29.16, 29.17, 29.18, 29.19, 29.20, 29.21, 29.22, 29.23, 29.24, 29.25, 29.26, 29.27, 29.28, 29.29, 29.30, 29.31, 29.32 (Added); 1900, 1901, 1902, 1903, 1904, 1905, 1906, 1907, 1908, 1909, 1910, 1912, 1913, 1915, 1916, 1917, 1918, 1919, 1920, 1921, 1922, 1923, 1925, 1926, 1927, 1928, 1928.1, 1928.2, 1929, 1930, 1931 (Amended and/or Renumbered); 1911, 1914, 1924 (Repealed)266-1313078912/27/13Health Code - Licensing and Regulations of Massage Establishments and Practitioners
-
-Sections Affected:
-29.6, 29.11, 29.12, 29.27 (Amended)
+Ord. No.File No.Eff. DateShort Title and Code Sections Affected[None]

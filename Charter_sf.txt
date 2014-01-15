@@ -3,7 +3,7 @@ CITY AND COUNTY OF SAN FRANCISCO
 MUNICIPAL CODE
 
 1996 CHARTER 
-The San Francisco Municipal Code is current through Ordinance 209-13, File No. 130785, approved October 9, 2013, effective November 8, 2013, operative January 1, 2014.
+The San Francisco Municipal Code is current through Ordinance 271-13, File No. 131031, approved November 27, 2013, effective December 27, 2013, operative January 1, 2014.
 The 1996 Charter was last amended by provisions ratified by the voters at the election in November 2012.
 
 
@@ -34,9 +34,10 @@ Public Works Code
 Subdivision Code
 Transportation Code
 
-Building Industry Commission Codes:
+Building Inspection Commission Codes:
 Building Code
 Electrical Code
+Green Building Code
 Housing Code
 Mechanical Code
 Plumbing Code

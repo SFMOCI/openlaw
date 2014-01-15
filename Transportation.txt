@@ -5,9 +5,9 @@ MUNICIPAL CODE
 TRANSPORTATION CODE
  New Legislation Notice
 Publisher's Note: This Code includes sections affected by new legislation. Click here for a list of the new legislation and the affected sections.
-The San Francisco Municipal Code is current through Ordinance 268-13, File No. 130937, approved November 27, 2013, effective December 27, 2013.
+The San Francisco Municipal Code is current through Ordinance 271-13, File No. 131031, approved November 27, 2013, effective December 27, 2013, operative January 1, 2014.
 Division I of the Transportation Code was last amended by Ordinance 198-13, File No. 130672, approved October 3, 2013, effective November 2, 2013.
-Division II of the Transportation Code was last amended by SFMTA Board Resolution No. 13-230, adopted October 15, 2013, effective November 15, 2013.
+Division II of the Transportation Code was last amended by SFMTA Board Resolution No. 13-249, adopted November 19, 2013, effective December 20, 2013.
 
 
 AMERICAN LEGAL PUBLISHING CORPORATION
@@ -1281,62 +1281,62 @@ SEC. 503.  COMMERCIAL PASSENGER VEHICLES; RESTRICTED STREETS.
 		(6)	26th Avenue, between Geary Boulevard and California Street, except that tour buses of 6,000 pounds or less in weight may operate in this location. 
 		(7)	Area bounded by Chestnut Street to Baker Street, to Marina Boulevard to Laguna Street, to Bay Street, to Franklin Street and returning to Chestnut Street, and including the boundary streets of the area. 
 		(8)	Area bounded by southerly line of Bay Street and Columbus Avenue, westerly line of Taylor Street, northerly line of Union Street and easterly line of Polk Street. 
-		(9)	Baker Street between Richardson Avenue and Union Street.
-		(10)	Bay Street between Baker and Lyon Streets.
-		(11)	Beaumont Avenue between Anza and Turk Streets.
-		(12)	Broderick Street between O'Farrell and Turk Streets.
-		(13)	Broderick Street between Richardson Avenue and Union Street.
-		(14)	Chestnut Street between Lyon Street and Richardson Avenue.
-		(15)	Chestnut Street between Mason and Stockton Streets.
-		(16)	Corbett Avenue between 17th and 24th Streets.
-		(17)	Eddy Street between Divisadero Street and St. Joseph's Avenue.
-		(18)	El Camino Del Mar between 25th Avenue and Legion of Honor Drive.
-		(19)	El Camino Del Mar between the Presidio (approximately 290 feet east of 25th Avenue) and 25th Avenue.
-		(20)	Ellis Street between Divisadero Street and St. Joseph's Avenue.
-		(21)	Filbert Street between Lyon and Divisadero Streets.
-		(22)	Francisco Street between Mason and Stockton Streets.
-		(23)	Franklin Street between California and Lombard Streets.
-		(24)	Green Street between Grant Avenue and Montgomery Street.
-		(25)	Green Street between Polk and Mason Streets.
-		(26)	Greenwich Street between Lyon and Divisadero Streets.
-		(27)	Jones Street between Union Street and Pacific Avenue.
-		(28)	Larkin Street between Union Street and Pacific Avenue.
-		(29)	Leavenworth Street between Union Street and Pacific Avenue.
-		(30)	Lombard Street between Mason and Kearny Streets.
-		(31)	Lombard Street between Van Ness Avenue and Polk Street.
-		(32)	Lomita Avenue between 16th Avenue and Aloha Street.
-		(33)	Lyon Street between Francisco and Green Streets.
-		(34)	Mason Street between Lombard and Francisco Streets.
-		(35)	Montgomery Street between Green Street and Broadway.
-		(36)	Moraga Street between 16th and 17th Avenues.
-		(37)	Noriega Street between 14th Avenue and 16th Avenue.
-		(38)	Olympia Way between Clarendon Avenue and Panorama Drive.
-		(39)	Panorama Drive between Clarendon Avenue and Twin Peaks Boulevard.
-		(40)	Parker Avenue between Anza and Turk Streets.
-		(41)	Powell Street between Lombard and Francisco Streets.
-		(42)	Rossi Avenue between Anza and Turk Streets.
-		(43)	Seal Rock Drive between 45th Avenue and El Camino Del Mr.
-		(44)	St. Joseph's Avenue, between O'Farrell Street and Turk Street.
-		(45)	Stanyan Street between Anza and Turk Streets.
-		(46)	Stockton Street between Lombard and Francisco Streets.
-		(47)	Taylor Street between Columbus Avenue and Pacific Avenue.
-		(48)	Telegraph Hill Boulevard between Kearny Street and Coit Tower parking lot.
-		(49)	Twin Peaks Boulevard between Clayton Street and Burnett Drive.
-		(50)	Union Street between Steiner and Lyon Streets.
-		(51)	Vallejo Street between Montgomery and Sansome Streets.
-		(52)	Vallejo Street between Polk and Mason Streets.
+		(9)	Area bounded by the southerly line of Golden Gate Avenue, the westerly line of Webster Street, the northerly line of Fell Street and the easterly line of Divisadero Street, and excluding the boundary streets of the area, except that regularly-scheduled buses operated or chartered by an organization for the purpose of transporting its employees to or from their place of employment may operate in this location.
+		(10)	Baker Street between Richardson Avenue and Union Street.
+		(11)	Bay Street between Baker and Lyon Streets.
+		(12)	Beaumont Avenue between Anza and Turk Streets.
+		(13)	Broderick Street between O'Farrell and Turk Streets.
+		(14)	Broderick Street between Richardson Avenue and Union Street.
+		(15)	Chestnut Street between Lyon Street and Richardson Avenue.
+		(16)	Chestnut Street between Mason and Stockton Streets.
+		(17)	Corbett Avenue between 17th and 24th Streets.
+		(18)	Eddy Street between Divisadero Street and St. Joseph's Avenue.
+		(19)	El Camino Del Mar between 25th Avenue and Legion of Honor Drive.
+		(20)	El Camino Del Mar between the Presidio (approximately 290 feet east of 25th Avenue) and 25th Avenue.
+		(21)	Ellis Street between Divisadero Street and St. Joseph's Avenue.
+		(22)	Filbert Street between Lyon and Divisadero Streets.
+		(23)	Francisco Street between Mason and Stockton Streets.
+		(24)	Franklin Street between California and Lombard Streets.
+		(25)	Green Street between Grant Avenue and Montgomery Street.
+		(26)	Green Street between Polk and Mason Streets.
+		(27)	Greenwich Street between Lyon and Divisadero Streets.
+		(28)	Jones Street between Union Street and Pacific Avenue.
+		(29)	Larkin Street between Union Street and Pacific Avenue.
+		(30)	Leavenworth Street between Union Street and Pacific Avenue.
+		(31)	Lombard Street between Mason and Kearny Streets.
+		(32)	Lombard Street between Van Ness Avenue and Polk Street.
+		(33)	Lomita Avenue between 16th Avenue and Aloha Street.
+		(34)	Lyon Street between Francisco and Green Streets.
+		(35)	Mason Street between Lombard and Francisco Streets.
+		(36)	Montgomery Street between Green Street and Broadway.
+		(37)	Moraga Street between 16th and 17th Avenues.
+		(38)	Noriega Street between 14th Avenue and 16th Avenue.
+		(39)	Olympia Way between Clarendon Avenue and Panorama Drive.
+		(40)	Panorama Drive between Clarendon Avenue and Twin Peaks Boulevard.
+		(41)	Parker Avenue between Anza and Turk Streets.
+		(42)	Powell Street between Lombard and Francisco Streets.
+		(43)	Rossi Avenue between Anza and Turk Streets.
+		(44)	Seal Rock Drive between 45th Avenue and El Camino Del Mr.
+		(45)	St. Joseph's Avenue, between O'Farrell Street and Turk Street.
+		(46)	Stanyan Street between Anza and Turk Streets.
+		(47)	Stockton Street between Lombard and Francisco Streets.
+		(48)	Taylor Street between Columbus Avenue and Pacific Avenue.
+		(49)	Telegraph Hill Boulevard between Kearny Street and Coit Tower parking lot.
+		(50)	Twin Peaks Boulevard between Clayton Street and Burnett Drive.
+		(51)	Union Street between Steiner and Lyon Streets.
+		(52)	Vallejo Street between Montgomery and Sansome Streets.
+		(53)	Vallejo Street between Polk and Mason Streets.
 	(c)	Exceptions. The requirements of this Section shall not be applicable to: 
 		(1)	Any vehicle which is subject to the provisions of Sections 1031 to 1036, inclusive, of the California Public Utilities Code and which has received a certificate from the CPUC pursuant to those Sections declaring that the public necessity and convenience require the operation of the vehicle, provided that the certificate authorizes that vehicle to be operated within the City, and the vehicle is being operated for the purpose authorized in, and consistent with the terms of, the certificate. This exemption shall not apply to vehicles operated as round-trip sightseeing tour service as defined by the CPUC; 
-		(2)	Any commercial vehicle coming from an unrestricted Street having ingress and egress by direct route to and from that portion of the restricted Streets set forth below, when necessary for the purpose of making pickups or deliveries of passengers, goods, wares and merchandise from or to any building or structure located on such restricted Street; 
+		(2)	Any commercial vehicle coming from an unrestricted Street having ingress and egress by direct route to and from that portion of the restricted Streets set forth above, when necessary for the purpose of making pickups or deliveries of passengers, goods, wares and merchandise from or to any building or structure located on such restricted Street; 
 		(3)	Any vehicle owned by a public utility while in use in the construction, installation or repair of any public utility;
 		(4)	Transit vehicles operated by the SFMTA along a regularly scheduled route;
 		(5)	School buses when operated for the transportation of school pupils;
 		(6)	Any jitney bus operating pursuant to authority granted by a City permit;
 		(7)	Any vehicle owned by the City while being used in the course of official business;
 		(8)	Any private vehicle that is operating pursuant to a contract with the City of San Francisco for the purpose of providing services to the public; or 
-		(9)	Emergency vehicles;
-		(10)	Through September 30, 2011, School Pupil Activity Buses operating on Lyon Street between Francisco and Lombard Streets or Chestnut Street between Lyon Street and Richardson Avenue. This exemption shall sunset and be of no further effect after September 30, 2011, except that the Director of Transportation is authorized to terminate the exemption authorized by this paragraph prior to that date if he or she determines that due to completion of construction activity, this exemption is no longer required. 
-(Added by SFMTA Bd. Res. No. 10-139, App. 11/2/2010; amended by SFMTA Bd. Res. No. 11-004, App. 1/4/2011; SFMTA Bd. Res. No. 11-134, App. 10/18/2011, Eff. 11/18/2011)
+		(9)	Emergency vehicles. 
+(Added by SFMTA Bd. Res. No. 10-139, Ad. 11/2/2010; amended by SFMTA Bd. Res. No. 11-004, Ad. 1/4/2011; SFMTA Bd. Res. No. 11-134, Ad. 10/18/2011, Eff. 11/18/2011; SFMTA Bd. Res. No. 13-249, Ad. 11/19/2013, Eff. 12/20/2013)
 ARTICLE 600:
 TRANSIT-RELATED RESTRICTIONS
 Sec. 601. Designated Transit-Only Areas. 
@@ -2879,7 +2879,10 @@ Sections Affected:
 * The amendments to Sec. 1124(c)(1) are operative on 4/15/2014; see Sec. 5 of the Resolution.13-23010/15/1311/15/13Medallion Leases
 
 Sections Affected:
-1102, 1105, 1106, 1109, 1113 (Amended)
+1102, 1105, 1106, 1109, 1113 (Amended)13-24911/19/1312/20/13Transportation Code - Commercial Passenger Vehicle Restrictions around Alamo Square
+
+Sections Affected:
+503 (Amended)
 New Legislation
 Publisher's Note:  The following table lists all legislation affecting the Transportation Code that has been passed by the Board of Supervisors or the Municipal Transportation Agency Board of Directors but that is not yet effective. The table includes links to the amending legislation (in PDF format) and to the code sections affected. For other legislation, including older ordinances and those affecting other codes, please refer to the Comprehensive Ordinance Table or the Board of Supervisors' "Legislation Passed" web site.
 

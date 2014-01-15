@@ -3,7 +3,7 @@ CITY AND COUNTY OF SAN FRANCISCO
 MUNICIPAL CODE
 
 HEALTH CODE
-The San Francisco Municipal Code is current through Ordinance 268-13, File No. 130937, approved November 27, 2013, effective December 27, 2013.
+The San Francisco Municipal Code is current through Ordinance 271-13, File No. 131031, approved November 27, 2013, effective December 27, 2013, operative January 1, 2014.
 The Health Code was last amended by Ordinance 266-13, File No. 130789, approved November 27, 2013, effective December 27, 2013.
 
 
@@ -5789,7 +5789,7 @@ SEC. 29.10.  PERMIT REQUIRED FOR A MASSAGE ESTABLISHMENT, SOLO PRACTITIONER MASS
 SEC. 29.11.  APPLICATION FOR MASSAGE ESTABLISHMENT, SOLO PRACTITIONER MASSAGE ESTABLISHMENT, OR OUTCALL MASSAGE SERVICE PERMIT FOR PRACTITIONERS NOT CERTIFIED BY THE CAMTC.
 	(a)	Unless all massage practitioners or therapists providing services are certified as a massage practitioner or therapist by CAMTC pursuant to the California Business and Professions Code, every applicant for a massage establishment, solo practitioner massage establishment, or outcall massage service permit shall:
 		(1)	file an application with the Director upon a form provided by the Director,
-		(2)	provide a complete set of fingerprints, through the Live Scan process, or any comparable successor technology, for the purpose of a undergoing a criminal background check; and 
+		(2)	provide a complete set of fingerprints, through the Live Scan process, or any comparable successor technology, for the purpose of a undergoing a criminal background check; and1 
 		(3)	and pay a non-refundable application fee, as set forth in Section 29.26. 
 	(b)	The application shall set forth, under penalty of perjury, the following:
 		(1)	The exact nature of the services to be rendered;
@@ -5812,6 +5812,8 @@ SEC. 29.11.  APPLICATION FOR MASSAGE ESTABLISHMENT, SOLO PRACTITIONER MASSAGE ES
 		(5)	A massage establishment permit at the same location was revoked within the prior 24 months.
 	(j)	If an application for a massage practitioner permit is denied, within 30 days of the date of receipt oft he notice of denial, the applicant may appeal the decision by notifying the Director in writing. The notice shall set forth in detail the ground or grounds for the appeal. Within 30 days of receipt of the notice of appeal, the Director shall conduct a hearing to consider the appeal. At least 10 days prior to the hearing, the Director shall notify; the applicant of the time and place of the hearing. The Director shall oversee the hearing, provide the applicant an opportunity to speak at the hearing, and issue a ruling within 30 days of its conclusion. The Director's ruling shall be final.
 (Added as Sec. 1909 by Ord. 269-03, File No. 030995, App. 12/5/2003; redesignated and amended by Ord. 262-13, File No. 130400, App. 11/27/2013, Eff. 12/27/2013; amended by Ord. 266-13, File No. 130789, App. 11/27/2013, Eff. 12/27/2013)
+CODIFICATION NOTE
+1.	So in Ord. 266-13.
 SEC. 29.12.  OPERATING REQUIREMENTS FOR ALL MASSAGE ESTABLISHMENTS.
 	All massage establishments must comply with the following reasonable health and safety requirements:
 	(a)	Toilet rooms shall be provided for patrons in convenient locations.

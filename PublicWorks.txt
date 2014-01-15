@@ -3,10 +3,8 @@ CITY AND COUNTY OF SAN FRANCISCO
 MUNICIPAL CODE
 
 PUBLIC WORKS CODE
- New Ordinance Notice
-Publisher's Note: This Code includes sections affected by new ordinances. Click here for a list of the new ordinances and the affected sections.
-The San Francisco Municipal Code is current through Ordinance 250-13, File No. 130584, approved November 8, 2013, effective December 8, 2013.
-The Public Works Code was last amended by Ordinance 155-13, File No. 130369, approved July 25, 2013, effective August 24, 2013.
+The San Francisco Municipal Code is current through Ordinance 260-13, File No. 130814, approved November 14, 2013, effective December 14, 2013.
+The Public Works Code was last amended by Ordinance 260-13, File No. 130814, approved November 14, 2013, effective December 14, 2013.
 
 
 AMERICAN LEGAL PUBLISHING CORPORATION
@@ -840,13 +838,95 @@ SEC. 140.7.  MAINTENANCE AND OPERATIONS.
 	h.	Best Management Practices regarding maintenance and operations of grease capturing equipment, specified by the Department, shall be implemented by all Food Service Establishments. 
 (Added by Ord. 18-11, File No. 101147, App 2/16/2011)
 ARTICLE 4.2.
-SEWER SYSTEM MANAGEMENT *Editor's note:
-	Ord. 83-10, File No. 100192, § 2, repealed former Art. 4.2, §§ 140-149.4, which pertained to sewer service charge. Section 3 of said ordinance enacted provisions designated as a new Art. 4.2 to read as herein set out. *
-Sec. 146.Construction Site Runoff Control.Sec. 147.Stormwater Management.Sec. 147.1.Definitions.Sec. 147.2.Stormwater Control PlanSec. 147.3.Limitations and Prohibited Discharges.Sec. 147.4.Compliance with Maintenance and Inspection Requirements.Sec. 147.5.Enforcement and Cost Reimbursement.Sec. 147.6.Severability.
+SEWER SYSTEM MANAGEMENT
+[Construction Site Runoff]Sec. 146.Construction Site Runoff Control.Sec. 146.1.Definitions.Sec. 146.2.Emergency Action.Sec. 146.3.Land-disturbing Activities.Sec. 146.4.Erosion and Sediment Control Performance Standards.Sec. 146.5.Construction Site Runoff Control Permit.Sec. 146.6.Permit Process.Sec. 146.7.Erosion and Sediment Control Plan.Sec. 146.8.Maintenance and Inspection Requirements.Sec. 146.10.Enforcement.Sec. 146.11.Severability.[Stormwater]Sec. 147.Stormwater Management.Sec. 147.1.Definitions.Sec. 147.2.Stormwater Control PlanSec. 147.3.Limitations and Prohibited Discharges.Sec. 147.4.Compliance with Maintenance and Inspection Requirements.Sec. 147.5.Enforcement and Cost Reimbursement.Sec. 147.6.Severability.
+Editor's Notes:
+	The bracketed division headers in this Article have been provided by the editor for the convenience of the user and are not official parts of this Code.
+	Ordinance 83-10 repealed former Secs. 140-149.4 and enacted new material currently codified as Secs. 147-147.6.
+[Construction Site Runoff]
 SEC. 146.  CONSTRUCTION SITE RUNOFF CONTROL.
- New Ordinance Notice
-Publisher's Note: This section has been ADDED by a new ordinance (Ord. 260-13, approved 11/14/2013, effective 12/14/2013). The text of the section will be included below when the new ordinance is effective.
-
+	(a)	The purpose of Sections 146 through 146.11 of Article 4.2 and the City's construction site runoff control program is to protect water quality by controlling the discharge of sediment or other pollutants from construction sites and preventing erosion and sedimentation due to construction activities.
+	(b)	Construction sites can be significant sources of pollution. Materials from construction sites such as concrete, mortars, disturbed soil, sawdust, paint chips, and other debris can be easily transported off construction sites by runoff and wind, and eventually may be washed into storm drains during street cleaning and rainy weather. These sediments can damage infrastructure as well as cause many water quality concerns.
+	(c)	Construction sediment and debris can create local flood hazards by clogging the storm drains and sewer system and reduce the flow capacity, allowing wastewater to spill onto the streets. These sediments are abrasive, and can degrade the pump stations in the sewer system, causing increased maintenance costs, as well as carry toxic pollutants to the bay, local lakes, and the ocean. Also, construction runoff and debris can reduce the capacity and treatment efficiency of the City's collection and wastewater treatment facilities operating during wet weather.
+	(d)	Sections 146-146.11 of Article 4.2 set forth uniform requirements and prohibitions for dischargers and places of discharge to the City's Sewerage System necessary to provide for the protection of water quality and the City's Sewerage System. By implementing these controls, the City is protecting and promoting the public health, safety, and general welfare of its residents, businesses, and visitors.
+(Added by Ord. 260-13, File No. 130814, App. 11/14/2013, Eff. 12/14/2013)
+SEC. 146.1.  DEFINITIONS.
+	The definitions provided in Section 119 of Article 4.1 of this Code apply to Sections 146-146.11 of Article 4.2, in addition to the following defined terms:
+	Applicant. The Owner and any of the Owner's authorized representatives who submit an application to the General Manager for a Construction Site Runoff Control Permit pursuant to this Article.
+	Construction Project. Any construction or demolition activity disturbing 5,000 square feet or more of the ground surface, measured cumulatively, undertaken after January 1, 2014, including any Land-disturbing Activities.
+	Construction Site Best Management Practice or "BMP." Any program, technology, technique, process, operating method, measure or device which controls prevents, removes or reduces pollution, erosion and sediment transport in runoff from construction sites.
+	Construction Site Runoff Control Permit. Authorization issued by the General Manager for the commencement of a Construction Project in accordance with all applicable laws and regulations.
+	Construction Site Runoff Control Regulations. A compilation of technical standards and design specifications adopted by the General Manager for controlling construction related surface runoff, erosion and sedimentation.
+	Erosion. The washing or wearing away of ground surface as a result of the movement of wind, water, or Land-disturbing Activities.
+	Erosion and Sediment Control Plan. A plan or set of plans indicating the specific BMPs or equivalent measures and sequencing to be used to control Erosion and sediment on a Construction Project.
+	Erosion Control. A BMP that prevents Erosion. 
+	General Manager. The General Manager of the San Francisco Public Utilities Commission, or his or her designee.
+	Land-disturbing Activities. Any movement of earth or a change in the existing soil cover or existing topography that may result in soil erosion from wind, or water, and the movement of sediments into or upon waters, lands, or public rights-of-way within the City and County of San Francisco, including, but not limited to building demolition, clearing, grading, grubbing, filling, stockpiling, excavating and transporting of land.
+	Owner. Any Person with legal or equitable interest in the land for which a Construction Site Runoff Control Permit has been issued.
+	Permittee. The Applicant in whose name a valid permit is issued pursuant to Section 146.5, and his or her agents, employees, and others acting under his or her direction.
+	Runoff. Any water flowing over the ground surface that leaves the Site.
+	Sediment Control. A BMP that prevents eroded sediment from leaving the Site.
+	Site. The entire area ofland covered by the Construction Site Runoff Control Permit on which the land-disturbing activities are conducted.
+	Start of Construction. The first Land-disturbing Activities associated with a Construction Project.
+(Added by Ord. 260-13, File No. 130814, App. 11/14/2013, Eff. 12/14/2013)
+SEC. 146.2.  EMERGENCY ACTION.
+	Any emergency action immediately necessary tor the protection of life, health, or property is exempt from obtaining a Construction Site Runoff Control Permit. An emergency that warrants emergency action is a sudden, unforeseeable and unexpected occurrence involving a clear and imminent danger, demanding immediate action to prevent or mitigate loss of or damage to, life, health, or property. Any Land-disturbing Activities performed after the clear and imminent danger has been alleviated shall not constitute an emergency, and must be performed in compliance with Sections 146-146.11 of this Article.
+(Added by Ord. 260-13, File No. 130814, App. 11/14/2013, Eff. 12/14/2013)
+SEC. 146.3.  LAND-DISTURBING ACTIVITIES.
+	(a)	Any person performing Land-disturbing Activities shall implement and maintain BMPs to minimize surface Runoff Erosion, and sedimentation.
+	(b)	Whenever the General Manager determines that any Land-disturbing Activity has become a hazard to life and limb, or endangers the property of another, or adversely affects the safety, use, slope, or soil stability of a public right-of way, publicly controlled wetland, or Sewerage System, the Owner of the property upon which the Land-disturbing Activity is located, or other person or agent in control of said property, upon receipt of notice from the General Manager, shall within the period specified therein repair or eliminate such conditions.
+(Added by Ord. 260-13, File No. 130814, App. 11/14/2013, Eff. 12/14/2013)
+SEC. 146.4.  EROSION AND SEDIMENT CONTROL PERFORMANCE STANDARDS.
+	(a)	A Land-disturbing Activity shall be considered in violation of Sections 146-146.11 of Article 4.2 if eroded sediment has been deposited onto adjacent properties, a public right-of-way, a publicly controlled wetland, or the Sewerage System.
+	(b)	The design, testing, installation, and maintenance of erosion and sediment control operations and facilities shall adhere to the standards and specifications contained in the Construction Site Runoff Regulations.
+(Added by Ord. 260-13, File No. 130814, App. 11/14/2013, Eff. 12/14/2013)
+SEC. 146.5.  CONSTRUCTION SITE RUNOFF CONTROL PERMIT.
+	(a)	Any person proposing to undertake Land-disturbing Activities shall apply for a Construction Site Runoff Control Permit prior to commencing a Construction Project. Commencing Land-disturbing Activities or a Construction Project prior to issuance of the Construction Site Runoff Control Permit, or performing such activities in excess of or inconsistent with Construction Site Runoff Control Permit requirements is a violation of Sections 146-146.11 of Article 4.2.
+	(b)	Unless and until a Construction Site Runoff Control Permit has been issued by the General Manager, no City department shall approve or issue: 
+		(1)	a site or building permit;
+		(2)	a demolition permit;
+		(3)	a permit to grade, quarry, fill, or excavate;
+		(4)	a public right of way encroachment permit.
+	(c)	Permittees shall comply with all permit conditions authorized by the General Manager, including, but not limited to:
+		(1)	The granting (or securing from others) and the recording in City land records of easements for drainage facilities, including the acceptance of their discharge on the property of others, and for the maintenance of slopes or erosion controls,
+		(2)	Adequate control of dust by watering, or other control methods acceptable to the General Manager, and in conformance with applicable air pollution laws and regulations,
+		(3)	Improvements of any existing grading, ground surface, or drainage condition on the site (not to exceed the area as proposed for work or development in the application) to meet the standards required under this Article for new grading, drainage and erosion control, 
+		(4)	Payment of charges to defray increased costs to the City created by the Land-disturbing Activity, and
+		(5)	Any other conditions and terms deemed necessary by the General Manager to achieve the objectives of Sections 146-146.11 of Article 4.2.
+	(d)	Reimbursement. Each Permittee shall reimburse the City, in addition to any applicable sewer service fees, for the inspection and monitoring, administration, incidental expenses, and payment of penalties imposed on the City by enforcement agencies caused by any violation of the Construction Site Runoff Control Permit.
+(Added by Ord. 260-13, File No. 130814, App. 11/14/2013, Eff. 12/14/2013)
+SEC. 146.6.  PERMIT PROCESS.
+	(a)	Persons commencing Construction Projects after January 1, 2014, must obtain a Construction Site Runoff Control Permit prior to the commencement of Land-disturbing Activities.
+	(b)	A written application, in a format provided by the General Manager, from the Applicant shall be submitted to the General Manager for each Construction Site Runoff Control Permit.
+	(c)	An application for a Construction Site Runoff Control Permit shall include an Erosion and Sediment Control Plan for each Construction Project that conforms to the format and criteria provided by the General Manager.
+	(d)	The General Manager may grant or deny the Construction Site Runoff Control Permit, or require further information or analysis pertinent to compliance with this Article.
+	(e)	The Permittee shall maintain a copy of the Construction Site Runoff Control Permit and approved plans and reports required under the permit on the work site and available for public inspection during all working hours.
+(Added by Ord. 260-13, File No. 130814, App. 11/14/2013, Eff. 12/14/2013)
+SEC. 146.7.  EROSION AND SEDIMENT CONTROL PLAN.
+	(a)	The Erosion and Sediment Control Plan shall include a vicinity map showing the location of the site in relationship to the surrounding area's water courses, water bodies, and other significant geographic features; a site survey; suitable contours for the existing and proposed topography, area drainage, proposed construction and sequencing, proposed drainage channels; proposed erosion and sediment controls; dewatering controls where applicable; soil stabilization measures where applicable; maintenance controls; sampling, monitoring, and reporting schedules; and any other information deemed necessary by the General Manager.
+	(b)	Any Person performing Land-disturbing Activities at sites greater than or equal to one acre within a separate sewer system area may submit to the General Manager the Storm Water Pollution Prevention Plan (SWPPP) used to comply with the State of California's General Permit for Discharges of Storm Water Associated with Construction Activity in lieu of an Erosion and Sediment Control Plan.
+(Added by Ord. 260-13, File No. 130814, App. 11/14/2013, Eff. 12/14/2013)
+SEC. 146.8.  MAINTENANCE AND INSPECTION REQUIREMENTS.
+	(a)	Daily Maintenance. The Permittee shall daily inspect, maintain, and repair all graded surfaces and erosion and sediment controls, drainage structures, and other protective devices, plantings, and ground cover installed while construction is active.
+	(b)	Reporting. Every person who operates any erosion and sediment control or controls must provide inspection and maintenance information as set forth in the Construction Site Runoff Control Permit, and certify under penalty of perjury that such information is accurate and true.
+	(c)	Inspections. Permittees shall permit the General Manager to perform inspections as may be deemed necessary in the General Manager's sole discretion to carry out the intent of this Article.
+	(d)	Milestone Notification. The Permittee shall notify the General Manager at least two working days before the following milestones occur:
+		(1)	Start of construction.
+		(2)	Erosion and sediment control measures are completely installed and stabilized.
+		(3)	Final grading has been completed.
+		(4)	Project completion.
+	(e)	Authority to Sample and Establish Sampling Devices. Permittees shall provide devices or locations necessary to conduct sampling or metering operations, if requested by the General Manager.
+	(f)	Requirement to Test or Monitor. Permittees shall undertake such monitoring activities or analysis and furnish such reports as the General Manager may specify, if requested by the General Manager.
+	(g)	Notification of Spills. All Persons responsible for implementing BMPs shall provide immediate notification to the General Manager of any suspected, confirmed or unconfirmed release of Pollutants that creates a risk of non-stormwater discharge into any of the City's sewer systems. Such persons shall take all necessary steps to ensure the detection and containment and cleanup of such release.
+	(h)	Public Right-of-Ways. The Permittee shall be responsible for the prompt removal of, and the correction of damage resulting from any soil, miscellaneous debris or other materials washed, spilled, tracked dumped or otherwise deposited on public streets, highways, sidewalks or other public  thoroughfare, incident to the construction activity, or during transit to and tram the construction site.
+(Added by Ord. 260-13, File No. 130814, App. 11/14/2013, Eff. 12/14/2013)
+SEC. 146.10.  ENFORCEMENT.
+	Persons violating any provision of the Construction Site Runoff Control Permit or Sections 146-146.11 of this Article or applicable laws or regulations are subject to enforcement by the General Manager pursuant to Section 132 of Article 4.1 of this Code. Persons violating Sections 146-146.11 of Article 4.2 or applicable laws or regulations are subject to penalties and abatement in accordance with Sections 133 and 134 of Article 4.1 of this Code, and any other remedies allowed by law.
+(Added by Ord. 260-13, File No. 130814, App. 11/14/2013, Eff. 12/14/2013)
+SEC. 146.11.  SEVERABILITY.
+	If any section, subsection, subdivision, paragraph, sentence, clause, or phrase is for any reason held to be unconstitutional, invalid or ineffective by any court of competent jurisdiction, such decision shall not affect the validity or effectiveness of the remaining portions of this Article. The Board of Supervisors declares that it would have passed each section, subsection, subdivision, paragraph, sentence, clause, or phrase irrespective of the fact that any one or more sections, subsections, subdivisions, paragraphs, sentences, clauses, or phrases could be declared unconstitutional, invalid or ineffective.
+(Added by Ord. 260-13, File No. 130814, App. 11/14/2013, Eff. 12/14/2013)
+[Stormwater]
 SEC. 147.  STORMWATER MANAGEMENT.
 	(a)	The intent of Sections 147-147.6 is to protect and enhance the water quality in the City and County of San Francisco's sewer system, stormwater collection system and receiving waters pursuant to, and consistent with Federal and State laws, lawful standards and orders applicable to stormwater and urban runoff control, and the City's authority to manage and operate its drainage systems. 
 	(b)	Urban runoff is a significant cause of pollution throughout California. Pollutants of concern found in urban runoff include sediments, non-sediment solids, nutrients, pathogens, oxygen-demanding substances, petroleum hydrocarbons, heavy metals, floatables, polycyclic aromatic hydrocarbons (PAHs), trash, and pesticides and herbicides. 
@@ -5708,11 +5788,11 @@ Sections Affected:
 184.86.1 (Added); 184.80, 184.83, 184.84, 184.85, 184.88, 184.89, 184.93, 184.96, 184.97, 184.98 (Amended)155-1313036908/24/13Building, Health, Public Works Codes - Soil and/or Groundwater Testing Requirements 
 
 Sections Affected:
-Art. 20, Secs. 1000, 1001, 1004, 1006, 1012, 1014 (Repealed) 
+Art. 20, Secs. 1000, 1001, 1004, 1006, 1012, 1014 (Repealed)260-1313081412/14/13Public Works Code - Control of Construction Site Runoff
+
+Sections Affected:
+146, 146.1, 146.2, 146.3, 146.4, 146.5, 146.6, 146.7, 146.8, 146.10, 146.11 (Added) 
 New Ordinances
 Publisher's Note:  The following table lists all ordinances affecting the Public Works Code that have been passed by the Board of Supervisors but that are not yet effective. The table includes links to the amending ordinances (as maintained in PDF format on the Board of Supervisors' web site) and to the code sections affected. For other legislation, including older ordinances and those affecting other codes, please refer to the Comprehensive Ordinance Table or the Board's "Legislation Passed" web site.
 
-Ord. No.File No.Eff. DateShort Title and Code Sections Affected260-1313081412/14/13Public Works Code - Control of Construction Site Runoff
-
-Sections Affected:
-146, 146.1, 146.2, 146.3, 146.4, 146.5, 146.6, 146.7, 146.8, 146.9, 146.10, 146.11 (Added) 
+Ord. No.File No.Eff. DateShort Title and Code Sections Affected[None] 

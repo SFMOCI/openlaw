@@ -1075,10 +1075,22 @@ Sections Affected:
 Administrative Code:  10.100-106 (Amended)252-1313088212/14/13Park Code - Harding Park Golf Course Temporary Reduced Greens Fees
 
 Sections Affected:
-Park Code:  12.12.1 (Amended)253-1313067312/14/13Naming a Portion of the Carolina Street Stairway as Jack Balestreri Way - Carolina and 20th Street254-1313083612/14/13Building Code - Repeal of Existing 2010 Code and Enactment of 2013 Edition255-1313083712/14/13Building Code - Residential Building Requirements256-1313083812/14/13Electrical Code - Repeal of Existing 2010 Code and Enactment of 2013 Edition257-1313083912/14/13Mechanical Code - Repeal of Existing 2010 Code and Enactment of 2013 Edition258-1313084012/14/13Plumbing Code - Repeal of Existing 2010 Code and Enactment of 2013 Edition259-1313084112/14/13Green Building Code - Enactment of New Code260-1313081412/14/13Public Works Code - Control of Construction Site Runoff
+Park Code:  12.12.1 (Amended)253-1313067312/14/13Naming a Portion of the Carolina Street Stairway as Jack Balestreri Way - Carolina and 20th Street254-1313083612/14/13
+
+[Oper. 01/01/14]Building Code - Repeal of Existing 2010 Code and Enactment of 2013 Edition255-1313083712/14/13
+
+[Oper. 01/01/14]Building Code - Residential Building Requirements256-1313083812/14/13
+
+[Oper. 01/01/14]Electrical Code - Repeal of Existing 2010 Code and Enactment of 2013 Edition257-1313083912/14/13
+
+[Oper. 01/01/14]Mechanical Code - Repeal of Existing 2010 Code and Enactment of 2013 Edition258-1313084012/14/13
+
+[Oper. 01/01/14]Plumbing Code - Repeal of Existing 2010 Code and Enactment of 2013 Edition259-1313084112/14/13
+
+[Oper. 01/01/14]Green Building Code - Enactment of New Code260-1313081412/14/13Public Works Code - Control of Construction Site Runoff
 
 Sections Affected:
-Public Works Code:  146, 146.1, 146.2, 146.3, 146.4, 146.5, 146.6, 146.7, 146.8, 146.9, 146.10, 146.11 (Added)261-1313008412/27/13Planning Code, Zoning Map - Establishing the Excelsior Outer Mission Street Neighborhood Commercial District
+Public Works Code:  146, 146.1, 146.2, 146.3, 146.4, 146.5, 146.6, 146.7, 146.8, 146.10, 146.11 (Added)261-1313008412/27/13Planning Code, Zoning Map - Establishing the Excelsior Outer Mission Street Neighborhood Commercial District
 
 Sections Affected:
 Planning Code:  745.1 (Added); 201, 207.4, 249.35, 263.20, 607.1, 702.1, 702.3 (Amended); 785 (Repealed)

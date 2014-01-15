@@ -5,8 +5,8 @@ MUNICIPAL CODE
 PARK CODE
  New Ordinance Notice
 Publisher's Note: This Code includes sections affected by new ordinances. Click here for a list of the new ordinances and the affected sections.
-The San Francisco Municipal Code is current through Ordinance 250-13, File No. 130584, approved November 8, 2013, effective December 8, 2013.
-The Park Code was last amended by Ordinance 173-13, File No. 130548, approved August 2, 2013, effective September 1, 2013.
+The San Francisco Municipal Code is current through Ordinance 260-13, File No. 130814, approved November 14, 2013, effective December 14, 2013.
+The Park Code was last amended by Ordinance 252-13, File No. 130882, approved November 14, 2013, effective December 14, 2013.
 
 
 AMERICAN LEGAL PUBLISHING CORPORATION
@@ -825,11 +825,13 @@ CODIFICATION NOTE
 Editor's Note:
 	For current provisions relating to Harding Park and Fleming Golf Courses, see Secs. 12.12.1 and 12.12.2, respectively.
 SEC. 12.12.1.  HARDING PARK GOLF COURSE.
- New Ordinance Notice
-Publisher's Note: This section has been AMENDED by a new ordinance (Ord. 252-13, approved 11/14/2013, effective 12/14/2013). The text of the amendment will be incorporated below when the new ordinance is effective.
 	(a)	Greens Fees.
 
 Fee CategoryWeekday (6:00 a.m. Mon.-Fri. noon) WeekendStandard $155 $175Standard Twilight $85 $100Standard Junior $77 $88Bay Area $90 $100Bay Area Twilight $71 $80Bay Area Junior $45 $50Resident $52 $66Resident Twilight $41 $50Resident Junior $20 $25Resident Senior $37 $66Tournament $125 $135
+		Notwithstanding the greens fees specified in the chart above, during the greens renovation period (the period from December 2, 2013 through either May 31, 2014 or the date of completion of the 2013-14 greens renovation as certified in writing by the General Manager, whichever occurs earlier) the greens fees set forth in the chart below shall apply. At the end of the greens renovation period, this paragraph and the chart below shall expire by operation of law, and the City Attorney shall cause this paragraph and the chart below to be removed from the Park Code.
+
+Greens Fees During the Greens Renovation Period
+Fee CategoryWeekday (6:00 a.m. Mon.-Fri. noon) WeekendStandard $50$55Standard Twilight $50$55Standard Junior $15$20Bay Area $45$50Bay Area Twilight $45$50Bay Area Junior $15$20Resident $30$40Resident Twilight $30$40Resident Junior $15$20Resident Senior $25$40Tournament $70$80
 	(b)	Replay Rate. A same-day replay rate is available to golfers who complete an 18-hole round for the following fee categories only: Standard, Bay Area and Resident. The replay rate shall be 30 percent of the originally purchased round. The replay round must be used by the purchaser of the full price round. Replay rounds may not be reserved in advance.
 	(c)	Reservation Premiums. A $10.00 per person fee shall be charged for advance tee times scheduled eight days or more in advance of the tee time.
 	(d) 	Practice Range. The following fees shall be charged for a bucket of balls for use at the Driving Range:
@@ -839,7 +841,7 @@ Small bucket (25-30 balls) $7.00Medium bucket (45-50 balls) $9.00Large bucket (7
 		(1)	Weekday Shotgun (per player) - $10.00
 		(2)	Weekend Shotgun (per player) - $15.00
 	(f)	Accompanying Rider Rate. The fee for non-golfers riding in a motorized cart shall be $25.00 per person.
-(Added by Ord. 170-12, File No. 120608, App. 7/27/2012, Eff. 8/26/2012) 
+(Added by Ord. 170-12, File No. 120608, App. 7/27/2012, Eff. 8/26/2012; amended by Ord. 252-13, File No. 130882, App. 11/14/2013, Eff. 12/14/2013) 
 SEC. 12.12.2.  FLEMING GOLF COURSE.
 Fee CategoryWeekday (6:00 a.m. Mon.-Fri. noon) WeekendStandard $27$32Resident $22$24Resident Senior $16$21Resident Junior$12$15Tournament$32$43Replay$12$12
 (Added by Ord. 170-12, File No. 120608, App. 7/27/2012, Eff. 8/26/2012) 
@@ -1249,14 +1251,14 @@ Sections Affected:
 7.21 (Amended)173-1313054809/01/13Park Code - Various Fees 
 
 Sections Affected:
-12.11, 12.21, 12.46 (Amended); 12.26, 12.31 (Repealed)
+12.11, 12.21, 12.46 (Amended); 12.26, 12.31 (Repealed)252-1313088212/14/13Park Code - Harding Park Golf Course Temporary Reduced Greens Fees
+
+Sections Affected:
+12.12.1 (Amended)
 New Ordinances
 Publisher's Note:  The following table lists all ordinances affecting the Park Code that have been passed by the Board of Supervisors but that are not yet effective. The table includes links to the amending ordinances (as maintained in PDF format on the Board of Supervisors' web site) and to the code sections affected. For other legislation, including older ordinances and those affecting other codes, please refer to the Comprehensive Ordinance Table or the Board's "Legislation Passed" web site.
 
-Ord. No.File No.Eff. DateShort Title and Code Sections Affected252-1313088212/14/13Park Code - Harding Park Golf Course Temporary Reduced Greens Fees
-
-Sections Affected:
-12.12.1 (Amended)265-1313076612/27/13Park Code - Hours of Operation for City Parks
+Ord. No.File No.Eff. DateShort Title and Code Sections Affected265-1313076612/27/13Park Code - Hours of Operation for City Parks
 
 Sections Affected:
 3.21 (Added); 3.03 (Amended)

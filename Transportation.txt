@@ -5,8 +5,8 @@ MUNICIPAL CODE
 TRANSPORTATION CODE
  New Legislation Notice
 Publisher's Note: This Code includes sections affected by new legislation. Click here for a list of the new legislation and the affected sections.
-The San Francisco Municipal Code is current through Ordinance 271-13, File No. 131031, approved November 27, 2013, effective December 27, 2013, operative January 1, 2014.
-Division I of the Transportation Code was last amended by Ordinance 198-13, File No. 130672, approved October 3, 2013, effective November 2, 2013.
+The San Francisco Municipal Code is current through Ordinance 280-13, File No. 131119, approved December 18, 2013, effective January 17, 2014.
+Division I of the Transportation Code was last amended by Ordinance 280-13, File No. 131119, approved December 18, 2013, effective January 17, 2014.
 Division II of the Transportation Code was last amended by SFMTA Board Resolution No. 13-249, adopted November 19, 2013, effective December 20, 2013.
 
 
@@ -60,51 +60,46 @@ DIVISION I.
 
 ARTICLE 1:
 DEFINITIONS AND GENERAL PROVISIONS
- New Legislation Notice
-Publisher's Note: This Article includes sections affected by new Ordinances. Click here for a list of all new legislation affecting sections of this Code.
-
 Sec. 1.1.Definitions. Sec. 1.2.City Undertaking Limited to Promotion of General Welfare. Sec. 1.3.Applicability of Vehicle Code Sec. 1.4.Severability. 
 SEC. 1.1.  DEFINITIONS.
- New Legislation Notice
-Publisher's Note: This section has been AMENDED by new legislation (Ord. 280-13, approved 12/18/2013, effective 1/17/2014). The text of the amendment will be incorporated below when the new legislation is effective.
 	(a)	Whenever in this Transportation Code words or phrases are used that are not defined by the provisions of this Code, but are defined in the Vehicle Code, the definition and meaning shall be applied as set forth in the Vehicle Code. 
 	(b)	Any words or phrases that are not defined in the Vehicle Code or in Division II of this Code shall have the meanings set forth below. 
-		(1)	California Public Utilities Commission, CPUC. The Public Utilities Commission of the State of California. 
-		(2)	Chief of Police. The Chief of the San Francisco Police Department, or his or her designee(s). 
-		(3)	City. The City and County of San Francisco. 
-		(4)	Code. The Transportation Code of the City and County of San Francisco, consisting of Division I, under the jurisdiction of the San Francisco Board of Supervisors, and Division II, under the jurisdiction of the Board of Directors of the Municipal Transportation Agency. 
-		(5)	Director of Public Health. The Director of the San Francisco Department of Public Health or his or her designee(s). 
-		(6)	Director of Transportation. The Director of Transportation of the Municipal Transportation Agency or his or her designee(s). 
-		(7)	Division I. Division I of the Transportation Code, under the jurisdiction of the San Francisco Board of Supervisors. 
-		(8)	Division II. Division II of the Transportation Code, under the jurisdiction of the Municipal Transportation Agency Board of Directors. 
-		(9)	Final SFMTA Decision. A decision upon which the SFMTA has taken the last action according to procedures set forth in Division II, Section 203 (Final SFMTA Decision; Request for Review). 
-		(10)	Fire Chief. The Chief of the San Francisco Fire Department of the City and County of San Francisco, or his or her designee(s). 
-		(11)	Municipal Parking Facility. An off-street parking lot or off-street parking garage owned, leased or operated by the City or the Parking Authority of the City and County of San Francisco. 
-		(12)	Newsgathering Vehicle. A vehicle displaying a permit issued by the Police Department pursuant to Section 939.2 of the Police Code. 
-		(13)	Non-motorized User-propelled Vehicle, NUV. Any device of two or more wheels lacking a belt, chain, or gears that is powered by the rider through pedals or by pushing off of or kicking at the ground, including, but not limited to, in-line skates, roller-skates, kick or push scooters, skateboards, and toy vehicles. 
-		(14)	Park. To park or stop a vehicle, as defined in the Vehicle Code, or to cause or permit a vehicle to be parked or stopped, unless the context requires a different meaning. 
-		(15)	Parking Control Officer, PCO. A City employee authorized by the Municipal Transportation Agency to enforce state laws and the San Francisco Municipal Code related to Parking of vehicles. 
-		(16)	Parking Meter. Any device that, upon payment, registers the amount of time for which a vehicle is authorized to Park in a particular Parking Space. 
-		(17)	Parking Permit. A permit issued by the Municipal Transportation Agency to a person or a vehicle which, when current, valid and properly displayed, entitles the vehicle or a vehicle occupied by the person to specified exemptions from the Parking regulations of this Code. 
-		(18)	Parking Space. A space demarcated by painted lines or other indicators for the Parking of a single vehicle. 
-		(19)	Placard. A placard issued by a state agency to a person with disabilities pursuant to Vehicle Code Sections 22511.55 or 22511.59 that entitles the holder to Parking privileges as specified in Vehicle Code Sections 22511.5 et seq. 
-		(20)	Police Officer. An employee of the San Francisco Police Department authorized to enforce the criminal laws of the state and of the San Francisco Municipal Code. 
-		(21)	Port Commission. The Port Commission of the City and County of San Francisco. 
-		(22)	Port Regulations. With respect to any property under the jurisdiction of the San Francisco Port Commission, such Parking and traffic conditions and regulations as are imposed by and on file and available for public inspection at the office of the Port Commission. 
-		(23)	Proof of Payment or Proof of Payment Program. A fare collection system that requires transit passengers to possess a valid fare receipt or transit pass upon boarding a transit vehicle or while in a Proof of Payment Zone, and which subjects such passengers to inspections for proof of payment of fare by any authorized representative of the transit system or duly authorized peace officer. 
-		(24)	Proof of Payment Zone. The paid area of a subway or boarding platform of a transit system within which any person is required to show proof of payment of fare for use of the transit system. 
-		(25)	Public Property. Property owned or controlled by a public agency that is not within the public right-of-way. 
-		(26)	Request for Review. A form submitted to the Clerk of the Board of Supervisors that seeks Board of Supervisors' review of a Final MTA Decision. 
-		(27)	San Francisco Municipal Transportation Agency or SFMTA. The Municipal Transportation Agency of the City and County of San Francisco. 
-		(28)	Sidewalk Bicycle. Any bicycle with wheel diameter of less than 21 inches overall, including tires. 
-		(29)	Special License Plate. A license plate issued by a state agency to the vehicle of a person with disabilities pursuant to Vehicle Code Section 5007 that entitles the holder to Parking privileges as specified in Vehicle Code Sections 22511.5 et seq. 
-		(30)	Special Traffic Permit. A permit issued by the Municipal Transportation Agency required for any obstruction of traffic upon a street or sidewalk area by any construction, excavation or other activity, to the extent that such activity will not be conducted in accordance with City contract specifications or with the Municipal Transportation Agency's "Regulations for Working in San Francisco Streets" (otherwise known as the "Bluebook"). 
-		(31)	Stand. A zone established by the Municipal Transportation Agency for the exclusive use of a class or classes of vehicles identified by signs posted at such Stand. 
-		(32)	State. The State of California. 
-		(33)	Truck. A commercial motor vehicle with six or more wheels that is designed, used, or maintained primarily for the transportation of goods. 
-		(34)	Truck Loading Zone. A zone for the exclusive use of Trucks while loading or unloading freight, subject to any posted time limits. 
-		(35)	Vehicle Code. The Vehicle Code of the State of California. 
-(Amended by Ord. 287-08, File No. 081340, App. 12/5/2008)
+		California Public Utilities Commission, CPUC. The Public Utilities Commission of the State of California. 
+		Chief of Police. The Chief of the San Francisco Police Department, or his or her designee(s). 
+		City. The City and County of San Francisco. 
+		Code. The Transportation Code of the City and County of San Francisco, consisting of Division I, under the jurisdiction of the San Francisco Board of Supervisors, and Division II, under the jurisdiction of the Board of Directors of the Municipal Transportation Agency. 
+		Director of Public Health. The Director of the San Francisco Department of Public Health or his or her designee(s). 
+		Director of Transportation. The Director of Transportation of the Municipal Transportation Agency or his or her designee(s). 
+		Division I. Division I of the Transportation Code, under the jurisdiction of the San Francisco Board of Supervisors. 
+		Division II. Division II of the Transportation Code, under the jurisdiction of the Municipal Transportation Agency Board of Directors. 
+		Final SFMTA Decision. A decision upon which the SFMTA has taken the last action according to procedures set forth in Division II, Section 203 (Final SFMTA Decision; Request for Review). 
+		Fire Chief. The Chief of the San Francisco Fire Department of the City and County of San Francisco, or his or her designee(s). 
+		Municipal Parking Facility. An off-street parking lot or off-street parking garage owned, leased or operated by the City or the Parking Authority of the City and County of San Francisco. 
+		Newsgathering Vehicle. A vehicle displaying a permit issued by the Police Department pursuant to Section 939.2 of the Police Code. 
+		Non-motorized User-propelled Vehicle, NUV. Any device of two or more wheels lacking a belt, chain, or gears that is powered by the rider through pedals or by pushing off of or kicking at the ground, including, but not limited to, in-line skates, roller-skates, kick or push scooters, skateboards, and toy vehicles. 
+		Park. To park or stop a vehicle, as defined in the Vehicle Code, or to cause or permit a vehicle to be parked or stopped, unless the context requires a different meaning. 
+		Parking Control Officer, PCO. A City employee authorized by the Municipal Transportation Agency to enforce state laws and the San Francisco Municipal Code related to Parking of vehicles. 
+		Parking Meter. Any device, including any electronic pay station, that, upon payment, registers the amount of time for which a vehicle is authorized to Park in a particular Parking Space. 
+		Parking Permit. A permit issued by the Municipal Transportation Agency to a person or a vehicle which, when current, valid and properly displayed, entitles the vehicle or a vehicle occupied by the person to specified exemptions from the Parking regulations of this Code. 
+		Parking Space. A space demarcated by painted lines or other indicators for the Parking of a single vehicle. 
+		Placard. A placard issued by a state agency to a person with disabilities pursuant to Vehicle Code Sections 22511.55 or 22511.59 that entitles the holder to Parking privileges as specified in Vehicle Code Sections 22511.5 et seq. 
+		Police Officer. An employee of the San Francisco Police Department authorized to enforce the criminal laws of the state and of the San Francisco Municipal Code. 
+		Port Commission. The Port Commission of the City and County of San Francisco. 
+		Port Regulations. With respect to any property under the jurisdiction of the San Francisco Port Commission, such Parking and traffic conditions and regulations as are imposed by and on file and available for public inspection at the office of the Port Commission. 
+		Proof of Payment or Proof of Payment Program. A fare collection system that requires transit passengers to possess a valid fare receipt or transit pass upon boarding a transit vehicle or while in a Proof of Payment Zone, and which subjects such passengers to inspections for proof of payment of fare by any authorized representative of the transit system or duly authorized peace officer. 
+		Proof of Payment Zone. The paid area of a subway or boarding platform of a transit system within which any person is required to show proof of payment of fare for use of the transit system. 
+		Public Property. Property owned or controlled by a public agency that is not within the public right-of-way. 
+		Request for Review. A form submitted to the Clerk of the Board of Supervisors that seeks Board of Supervisors' review of a Final MTA Decision. 
+		San Francisco Municipal Transportation Agency or SFMTA. The Municipal Transportation Agency of the City and County of San Francisco. 
+		Sidewalk Bicycle. Any bicycle with wheel diameter of less than 21 inches overall, including tires. 
+		Special License Plate. A license plate issued by a state agency to the vehicle of a person with disabilities pursuant to Vehicle Code Section 5007 that entitles the holder to Parking privileges as specified in Vehicle Code Sections 22511.5 et seq. 
+		Special Traffic Permit. A permit issued by the Municipal Transportation Agency required for any obstruction of traffic upon a street or sidewalk area by any construction, excavation or other activity, to the extent that such activity will not be conducted in accordance with City contract specifications or with the Municipal Transportation Agency's "Regulations for Working in San Francisco Streets" (otherwise known as the "Bluebook"). 
+		Stand. A zone established by the Municipal Transportation Agency for the exclusive use of a class or classes of vehicles identified by signs posted at such Stand. 
+		State. The State of California. 
+		Truck. A commercial motor vehicle with six or more wheels that is designed, used, or maintained primarily for the transportation of goods. 
+		Truck Loading Zone. A zone for the exclusive use of Trucks while loading or unloading freight, subject to any posted time limits. 
+		Vehicle Code. The Vehicle Code of the State of California. 
+(Amended by Ord. 287-08, File No. 081340, App. 12/5/2008; Ord. 280-13, File No. 131119, App. 12/18/2013, Eff. 1/17/2014)
 SEC. 1.2.  CITY UNDERTAKING LIMITED TO PROMOTION OF GENERAL WELFARE.
 	In undertaking the adoption and enforcement of this Division I, the City is assuming an undertaking only to promote the general welfare. It is not assuming, nor is it imposing on its officers or employees, an obligation for breach of which the City is liable in money damages to any person who claims that such breach proximately caused injury. 
 (Amended by Ord. 287-08, File No. 081340, App. 12/5/2008)
@@ -399,9 +394,6 @@ SEC. 6.15.  MONITORED BICYCLE PARKING AT PUBLIC EVENTS.
 (Amended by Ord. 287-08, File No. 081340, App. 12/5/2008)
 ARTICLE 7:
 VIOLATIONS
- New Legislation Notice
-Publisher's Note: This Article includes sections affected by new Ordinances. Click here for a list of all new legislation affecting sections of this Code.
-
 Sec. 7.1.Traffic Code Section Numbering. Sec. 7.2.Infractions. Pedestrians and Sidewalks Sec. 7.2.10.Pedestrian Crossings. Sec. 7.2.11.Electric Personal Assistive Mobility Devices. Sec. 7.2.12.Bicycle Riding Restricted. Sec. 7.2.13.Non-Motorized User-Propelled Vehicles (NUV). On-Street ParkingSec. 7.2.20.Residential/Carpool Parking. Sec. 7.2.22.Street Cleaning Parking Restrictions. Sec. 7.2.23.Payment of Parking Meter. Sec. 7.2.24.Parking in Driveways. Sec. 7.2.25.Curb Parking – Red Zones.Sec. 7.2.26.Curb Parking – Yellow Zones.Sec. 7.2.27.Curb Parking – White Zones.Sec. 7.2.28.Curb Parking – Green Zones.Sec. 7.2.29.Parking Prohibited for More Than 72 Hours. Sec. 7.2.30.Overtime Parking.Sec. 7.2.32.Perpendicular or Angled Parking. Sec. 7.2.33.Blocking Residential Door.Sec. 7.2.34.Parking Adjacent to or on Median Dividers or Traffic Islands. Sec. 7.2.35.Parking on Grades. Sec. 7.2.36.Parking Oversized Vehicles Within 100 Feet of an Intersection. Sec. 7.2.37.Motorcycle Parking. Sec. 7.2.38.Parking in Stands. Sec. 7.2.39.Parking Within Transit-Only Lanes.Sec. 7.2.40.Parking Prohibitions – Downtown Core. Sec. 7.2.41.Parking Prohibitions – Outside the Downtown Core. Sec. 7.2.42.Parking Restrictions. Sec. 7.2.43.Parking on Public Property. Sec. 7.2.44.Disabled Parking Placard and Special License Plate Restrictions.Sec. 7.2.45.Diverting of Traffic and Temporary Parking Restrictions. Sec. 7.2.46.Temporary Parking and Traffic Restrictions.Sec. 7.2.47.Removal of Chalk Marks. Sec. 7.2.48.Construction or Repairing of Vehicles. Sec. 7.2.49.Displaying Permit on Other Vehicles. Sec. 7.2.50.Displaying Fraudulent Parking Permit or Submitting False, Misleading or Fraudulent Information on a Residential Parking Permit Application.Sec. 7.2.51.Parking Within Parking Spaces. Sec. 7.2.52.Car Share Vehicle Parking Restrictions.Sec. 7.2.54.Large Vehicle Parking Restrictions.Off-Street ParkingSec. 7.2.60.Payment of Parking Facility Charges; Proof of Payment.Sec. 7.2.61.Use of Entrance and Exit of Municipal Parking Facility.Sec. 7.2.62.Blocking Parking Spaces.Sec. 7.2.63.Speed of Vehicles.Sec. 7.2.64.Blocking an Electric Charging Bay.Sec. 7.2.65.Overtime Parking.Sec. 7.2.66.Disabled Parking Placard and Special License Plate Restrictions.Traffic RegulationsSec. 7.2.70.Obstructing Traffic – Vehicle.Sec. 7.2.71.Obstructing Traffic – Without Permit; Violation of Terms of Permit; Violation of Division II, Section 903.Sec. 7.2.72.Driving In Transit-Only Area.Sec. 7.2.73.Driving Through Parades.Sec. 7.2.74.Streetcar Right-of-Way – Vehicles Prohibited. Sec. 7.2.75.Passing Safety Zones. Sec. 7.2.77.Weight Restricted Streets. Sec. 7.2.78.Parking or Driving of Vehicles in Port Area. Commercial VehiclesSec. 7.2.80.Vehicles for Hire and Taxis; Parking prohibited in Certain Use Districts. Sec. 7.2.81.Parking of Vehicles for Commercial Advertising Purposes. Sec. 7.2.82.Selling From a Vehicle Restricted. Sec. 7.2.83.Truck Loading Zone. Sec. 7.2.84.Commercial Vehicle Parking in Certain Districts. Sec. 7.2.85.Commercial Vehicle Double Parking. Sec. 7.2.86.Idling Engine While Parked. Sec. 7.2.87.Commercial Passenger Vehicle Restrictions. Sec. 7.2.88.On Street Sales Restrictions. Transit ViolationsSec. 7.2.101.Fare Evasion Regulations. Sec. 7.2.102.Passenger Conduct Regulations. Sec. 7.2.103.Conversing with Operating Personnel Prohibited. Sec. 7.2.104.Clipper Card Regulations.Sec. 7.3.Misdemeanors. Sec. 7.3.1.Other Fare Evasion and Passenger Conduct Regulations. Sec. 7.3.2.Fraudulent Payment Prohibited. Sec. 7.3.3.Obstructing Traffic. Sec. 7.3.4.Failure to Surrender a Revoked Parking Permit. Sec. 7.3.5.Operating Without a Permit. Sec. 7.3.6.Solicitation and Paid Passenger Referrals Prohibited.Sec. 7.3.7.Gifts or Gratuities. Sec. 7.3.8.False Statements Prohibited. Sec. 7.3.9.Refusal to Pay Fare. Sec. 7.3.10.Excessive and Unauthorized Charges. Sec. 7.3.11.False Statements on Residential Parking Permit Application.Sec. 7.4.Report on Improved Taxi Service. 
 SEC. 7.1.  TRAFFIC CODE SECTION NUMBERING.
 	Police Officers and Parking Control Officers shall have the authority to issue citations for violations of this Code by citing either the former Traffic Code section number applicable to the violation that appears in parenthesis at the end of a section or subsection of the Transportation Code, the current Transportation Code section, or the applicable Vehicle Code section number without affecting the validity of the citation. 
@@ -466,15 +458,13 @@ SEC. 7.2.29.  PARKING PROHIBITED FOR MORE THAN 72 HOURS.
 	No person shall park or leave standing any vehicle on any public street or highway for more than 72 consecutive hours. 
 (Amended by Ord. 287-08, File No. 081340, App. 12/5/2008; Ord. 231-09, File No. 090780, App. 11/10/2009)
 SEC. 7.2.30.  OVERTIME PARKING.
- New Legislation Notice
-Publisher's Note: This section has been AMENDED by new legislation (Ord. 280-13, approved 12/18/2013, effective 1/17/2014). The text of the amendment will be incorporated below when the new legislation is effective.
 	For the operator of any vehicle Parked on the street: 
-	(a)	To Park a vehicle for longer than posted time restrictions within the Downtown Core; (32(c)(1))*
-	(b)	To Park a vehicle for longer than applicable posted time restrictions on the street outside the Downtown Core; (32(c)(2))* or 
-	(c)	To permit any vehicle to remain Parked at a Parking Meter beyond the maximum time permitted for Parking at that Parking Meter within the Downtown Core. Any vehicle Parked at an inoperable or broken Parking Meter for which Parking is permitted in excess of two hours shall be permitted to Park for a maximum time period of two hours.
-	(d)	To permit any vehicle to remain Parked at a Parking Meter beyond the maximum time permitted for Parking at that Parking Meter outside the Downtown Core. Any vehicle Parked at an inoperable or broken Parking Meter for which Parking is permitted in excess of two hours shall be permitted to Park for a maximum time period of two hours.
-	(e)	Each hour or portion thereof that a vehicle is Parked in violation of this Section shall be a separate and distinct offense, except that in a yellow zone indicated by yellow paint on the curb, any non-commercial vehicle may be issued no more than one citation per one-half hour for violations of time restrictions, and no vehicle may be issued more than two citations within a 12-hour period. (32, 38.G)* 
-(Amended by Ord. 287-08, File No. 081340, App. 12/5/2008; Ord. 104-11, File No. 110334, App. 6/20/2011, Eff. 7/20/2011)
+	(a)	To Park a vehicle for longer than posted time restrictions within the Downtown Core; (32(c)(1)).*
+	(b)	To Park a vehicle for longer than applicable posted time restrictions on the street outside the Downtown Core; (32(c)(2)).* or 
+	(c)	To permit any vehicle to remain Parked at a Parking Meter beyond the maximum time permitted for Parking at that Parking Meter within the Downtown Core. Any vehicle Parked at an inoperable or broken Parking Meter shall be permitted to Park for the maximum time period permitted for that Parking Meter.
+	(d)	To permit any vehicle to remain Parked at a Parking Meter beyond the maximum time permitted for Parking at that Parking Meter outside the Downtown Core. Any vehicle Parked at an inoperable or broken Parking Meter shall be permitted to Park for the maximum time period permitted for that Parking Meter.
+	(e)	Each hour or portion thereof that a vehicle is Parked in violation of this Section shall be a separate and distinct offense, except that in a yellow zone indicated by yellow paint on the curb, any non-commercial vehicle may be issued no more than one citation per one-half hour for violations of time restrictions, and no vehicle may be issued more than two citations within a 12-hour period; (32, 38.G).* 
+(Amended by Ord. 287-08, File No. 081340, App. 12/5/2008; Ord. 104-11, File No. 110334, App. 6/20/2011, Eff. 7/20/2011; Ord. 280-13, File No. 131119, App. 12/18/2013, Eff. 1/17/2014)
 SEC. 7.2.31.  [RESERVED.]
 SEC. 7.2.32.  PERPENDICULAR OR ANGLED PARKING.
 	To Park a vehicle in any orientation other than at the angle to the curb or edge of the roadway indicated by signs or markings, or in any Parking Space equipped with a Parking Meter in any orientation other than with the front of the vehicle closest to the Parking Meter, unless the space is expressly designated for "back in only" Parking. (32.13, 55)* 
@@ -605,13 +595,11 @@ SEC. 7.2.64.  BLOCKING AN ELECTRIC CHARGING BAY.
 	To Park any vehicle other than an electric vehicle, in a Parking Space in a Municipal Parking Facility that is equipped with an electric vehicle charging bay in a manner that blocks or occupies the electric vehicle charging bay. (32.21A(a))*
 (Amended by Ord. 287-08, File No. 081340, App. 12/5/2008)
 SEC. 7.2.65.  OVERTIME PARKING.
- New Legislation Notice
-Publisher's Note: This section has been AMENDED by new legislation (Ord. 280-13, approved 12/18/2013, effective 1/17/2014). The text of the amendment will be incorporated below when the new legislation is effective.
 	For the operator of any vehicle Parked in a Municipal Parking Facility:
 	(a)	To Park a vehicle for longer than posted time restrictions; or
-	(b)	To permit any vehicle to remain Parked at a Parking Meter beyond the maximum time permitted for Parking at that Parking Meter. Any vehicle Parked at an inoperable or broken Parking Meter for which Parking is permitted in excess of two hours shall be permitted to Park for a maximum time period of two hours.
+	(b)	To permit any vehicle to remain Parked at a Parking Meter beyond the maximum time permitted for Parking at that Parking Meter. Any vehicle Parked at an inoperable or broken Parking Meter shall be permitted to Park for the maximum time period permitted for that Parking Meter.
 	(c)	Each hour or portion thereof that a vehicle is Parked in violation of this Section shall be a separate and distinct offense, but no vehicle may be issued more than two citations within a 12-hour period.
-(Added by Ord. 104-11, File No. 110334, App. 6/20/2011, Eff. 7/20/2011)
+(Added by Ord. 104-11, File No. 110334, App. 6/20/2011, Eff. 7/20/2011; amended by Ord. 280-13, File No. 131119, App. 12/18/2013, Eff. 1/17/2014)
 SEC. 7.2.66.  DISABLED PARKING PLACARD AND SPECIAL LICENSE PLATE RESTRICTIONS.
 	To Park in any Municipal Parking Facility, or privately owned parking facility, a vehicle that displays a disabled parking placard or special license plate, in order to obtain special parking privileges, that:
 	(a)	Has been reported as lost, stolen, surrendered, canceled, revoked, or expired, or issued to a person who has been reported as deceased for a period exceeding sixty (60) days;
@@ -1586,8 +1574,13 @@ SEC. 801.  PARKING RESTRICTIONS BY LOCATION.
 (SFMTA Bd. Res. No. 08-151, 8/19/2008; SFMTA Bd. Res. No. 09-172, 9/15/2009; SFMTA Bd. Res. No. 10-053, 4/20/2010; SFMTA Bd. Res. No. 12-144, Ad. 11/20/2012, Eff. 12/21/2012)
 ARTICLE 900:
 PERMITS
+ New Resolution Notice
+Publisher's Note: This Article includes sections affected by new resolutions. Click here for a list of all new legislation affecting sections of this Code.
+
 Sec. 901.Definitions. Sec. 902.General Permit Conditions. Sec. 903.Temporary Obstruction to Traffic Permit. Sec. 904.Temporary Exclusive Use of Parking Meters. Sec. 905.Residential Parking Permit. Sec. 906.Contractor Permits. Sec. 907.Vanpool Parking Permit. Sec. 908.Carpool Vehicle Permits. Sec. 909.Bicycle Rack Permits. Sec. 910.SFMTA Parking Permit. Sec. 911.On-Street Car Share Vehicle Parking Permit.Sec. 912.Vehicle Press Permits.Sec. 913.Mobile Food Facility Permits.
 SEC. 901.  DEFINITIONS.
+ New Resolution Notice
+Publisher's Note: This section has been AMENDED by a new resolution (SFMTA Bd. Res. No. 14-004, adopted 1/7/2014, effective 2/7/2014). The text of the amendment will be incorporated below when the new resolution is effective.
 	As used in this Article, the following words and phrases shall have the following meanings: 
 	(a)	Contractor Permit. A permit issued by the SFMTA that authorizes specified vehicles to Park at Parking Meters without making payment, and exempts such vehicles from certain Parking time restrictions. 
 	(b)	Carpool Group. A group of at least three and no more than six individuals who certify that they commute by motor vehicle to their work at the Institution from which they have requested a Carpool Permit. 
@@ -1611,6 +1604,8 @@ SEC. 901.  DEFINITIONS.
 	(t)	Vanpool Vehicle. Any motor vehicle, other than a motor truck or truck tractor, designed for carrying more than six but not more than 15 Persons including the driver, which is maintained and used primarily for the non-profit work-related transportation of adults for the purpose of ride-sharing. 
 (SFMTA Bd. Res. No. 08-151, 8/19/2008; SFMTA Bd. Res. No. 10-053, 4/20/2010; SFMTA Bd. Res. No. 11-108, Ad. 8/2/2011, Eff. 9/2/2011; SFMTA Bd. Res. No. 13-185, Ad. 7/16/2013, Eff. 8/16/2013)
 SEC. 902.  GENERAL PERMIT CONDITIONS.
+ New Resolution Notice
+Publisher's Note: This section has been AMENDED by a new resolution (SFMTA Bd. Res. No. 14-004, adopted 1/7/2014, effective 2/7/2014). The text of the amendment will be incorporated below when the new resolution is effective.
 	The following general provisions apply to all permits issued under this Article. 
 	(a)	Application and Renewal. Permit applications must be submitted on a form supplied by the SFMTA. All required application and any other fees must be paid and all permit requirements satisfied before a permit may be issued. The SFMTA may require any information of the applicant which it deems necessary to carry out the purposes of this Article. Permits may be renewed annually in compliance with any renewal procedures established by the SFMTA. 
 	(b)	Display of Permit. Permittees must maintain the permit at the site of the permitted activity and available for inspection in accordance with any requirements for permit display as may be established by the SFMTA, and shall make all permits available for inspection upon request by an employee of the Police Department or SFMTA. 
@@ -1648,6 +1643,8 @@ SEC. 904.  TEMPORARY EXCLUSIVE USE OF PARKING METERS.
 	(b)	Permit Privileges. Display of a Temporary Exclusive Use Parking Meter Permit shall entitle the holder to take the Parking Meters within the permitted area out of service for the duration of the permit in order to allow the Permittee to conduct construction activities. The permitted area shall be exempt from restrictions related to street cleaning, provided that the Permittee maintains the permitted area in a clean condition as determined by the City Traffic Engineer. 
 (SFMTA Bd. Res. No. 08-151, 8/19/2008)
 SEC. 905.  RESIDENTIAL PARKING PERMIT.
+ New Resolution Notice
+Publisher's Note: This section has been AMENDED by a new resolution (SFMTA Bd. Res. No. 14-004, adopted 1/7/2014, effective 2/7/2014). The text of the amendment will be incorporated below when the new resolution is effective.
 	(a)	General Permit Requirements.
 		(1)	The Director of Transportation shall issue a Residential Parking Permit for use by a specified vehicle upon receipt of a written application from a qualifying property resident. No more than one Parking permit shall be issued to each vehicle for which application is made. 
 		(2)	The Parking privileges of a Residential Parking Permit do not extend to any trailer, trailer coach, utility trailer, or any other type of vehicle as defined in the California Vehicle Code, whether separate from or attached to a motor vehicle displaying a Residential Parking Permit. 
@@ -1718,6 +1715,8 @@ SEC. 907.  VANPOOL PARKING PERMIT.
 	(c)	Permit Privileges. Notwithstanding Sections 7.2.30 (Overtime Parking) and 7.2.23 (Payment of Parking Meter) of Division I, any Vanpool Vehicle displaying a valid Vanpool Permit shall be allowed to Park for unlimited periods and without payment for any Parking Meter at which Parking is allowed for 60 minutes or longer. This Section does not exempt Vanpool Vehicles from enforcement of green, white, blue or yellow zone regulations or any other posted Parking restriction. 
 (SFMTA Bd. Res. No. 08-151, 8/19/2008; SFMTA Bd. Res. No. 09-172, 9/15/2009)
 SEC. 908.  CARPOOL VEHICLE PERMITS.
+ New Legislation Notice
+Publisher's Note: This section has been REPEALED by new legislation (SFMTA Bd. Res. No. 14-004, adopted 1/7/2014, effective 2/7/2014). The text of the section will be included below until the repealing legislation is effective.
 	(a)	Designation of Carpool Permit Parking Area. The SFMTA may designate an area directly abutting an Institution as a Carpool Permit Parking Area in which vehicles of the employees of the Institution that display a valid permit may Park. For the purpose of a Carpool Permit, an Educational Institution must have at least 25 employees to be eligible for a Carpool Permit Parking Area. 
 	(b)	Designation Criteria. The City Traffic Engineer shall conduct appropriate surveys and studies to develop information on the proposed Carpool Permit Parking Area, including but not limited to: 
 		(1)	The extent of the desire and need of the Institution's management for Carpool Permit Parking.
@@ -1882,6 +1881,8 @@ SEC. 1101.  SCOPE AND PURPOSE OF REGULATIONS.
 	(e)	Severability. If any section, subsection, subdivision, paragraph, sentence, clause or phrase of this Article or any part thereof, is for any reason held to be invalid or ineffective, such decision shall not affect the validity or effectiveness of the remaining portions of this Article or any part thereof. The SFMTA Board hereby declares that it would have adopted and promulgated each section, subsection, subdivision, paragraph, sentence, clause or phrase thereof irrespective of the fact that any one or more sections, subsections, subdivisions, paragraphs, sentences, clauses or phrases be declared invalid or ineffective. 
 (Added by SFMTA Bd. Res. No. 09-23, 2/23/2009; SFMTA Bd. Res. No. 09-077, 5/19/2009)
 SEC. 1102.  DEFINITIONS.
+ New Resolution Notice
+Publisher's Note: This section has been AMENDED by a new resolution (SFMTA Bd. Res. No. 14-005, adopted 1/7/2014, effective 2/7/2014). The text of the amendment will be incorporated below when the new resolution is effective.
 	For purposes of this Article the following words and phrases shall have the meanings set forth below: 
 	"A-Card" or "Driver Permit" shall mean a permit issued by the SFMTA to operate a Taxi or Ramp Taxi in the City. 
 	"A-Card Seniority" shall mean the seniority status of each Driver Permit Holder based on the original issuance date of the Driver Permit, or the issuance date of the most recent Driver Permit in accordance with the terms of Section 1103(c)(3)(B).
@@ -1965,6 +1966,8 @@ SEC. 1102.  DEFINITIONS.
 	"Waiting List" shall mean a list of applicants for Taxi or Ramp Taxi Medallions for whom such Medallions are not yet available, maintained in the order of receipt of complete applications from qualified applicants. 
 (Added by SFMTA Bd. Res. No. 09-23, 2/23/2009; amended by SFMTA Bd. Res. No. 09-077, 5/19/2009; SFMTA Bd. Res. No. 09-183, 10/20/2009; SFMTA Bd. Res. No. 10-029, 2/26/2010; SFMTA Bd. Res. No. 10-055, 4/20/2010; SFMTA Bd. Res. No. 10-149, 11/16/2010; SFMTA Bd. Res. No. 11-017, 2/1/2011; SFMTA Bd. Res. No. 11-155, Ad. 12/6/2011, Eff. 1/6/2012; SFMTA Bd. Res. No. 12-110, Ad. 8/21/2012, Eff. 9/21/2012; SFMTA Bd. Res. No. 12-111, Ad. 8/21/2012, Eff. 9/21/2012; SFMTA Bd. Res. No. 12-146, Ad. 11/20/2012, Eff. 12/21/2012; SFMTA Bd. Res. No. 13-033, Ad. 3/19/2013, Eff. 4/19/2013; SFMTA Bd. Res. No. 13-048, Ad. 4/16/2013, Eff. 5/17/2013; SFMTA Bd. Res. No. 13-174, Ad. 6/18/2013, Eff.7/19/2013; SFMTA Bd. Res. No. 13-199, Ad. 8/20/2013, Eff. 9/19/2013; SFMTA Bd. Res. No. 13-218, Ad. 9/17/2013, Eff. 10/17/2013; SFMTA Bd. Res. No. 13-230, Ad. 10/15/2013, Eff. 11/15/2013) 
 SEC. 1103.  PERMIT APPLICATIONS AND RENEWAL.
+ New Resolution Notice
+Publisher's Note: This section has been AMENDED by a new resolution (SFMTA Bd. Res. No. 14-005, adopted 1/7/2014, effective 2/7/2014). The text of the amendment will be incorporated below when the new resolution is effective.
 	(a)	Application Forms. Application for any permit issued pursuant to this Article shall be made to the SFMTA on a form provided by the SFMTA. The applicant shall provide such information and documents as the SFMTA requires, which may include a physical examination, a practical examination and/or background check of the applicant. All applications for permits shall be accompanied by the relevant Application Fee; provided, however, that an applicant for an Electric Vehicle Taxi Medallion that was approved prior to December 6, 2011 shall not be required to pay an Application Fee. The SFMTA shall record the date and time that a complete application, including the Application Fee, is received.
 	(b)	Applications Deemed Active. Every application for a permit shall be deemed to remain active and shall be considered until the earliest of the following events: 
 		(1)	The applicant withdraws the application in writing;
@@ -2032,6 +2035,8 @@ SEC. 1103.  PERMIT APPLICATIONS AND RENEWAL.
 	(i)	Moratorium on Issuance of Permits. The Director of Transportation may impose a moratorium on the issuance of new Color Scheme Permits or Dispatch Service Permits upon his or her determination that the issuance of such permits will not serve the public interest. The Director of Transportation shall notify the Board of Directors immediately upon making such a determination. The notification, which shall be posted in accordance with Section 1123(a), shall include the reasons for the Director's determination that issuance of new permits will not serve the public interest, and the expected duration of the moratorium. In no event shall such a moratorium last for more than a year without the approval of the Board of Directors.
 (Added by SFMTA Bd. Res. No. 09-23, 2/23/2009; amended by SFMTA Bd. Res. No. 09-077, 5/19/2009; SFMTA Bd. Res. No. 09-183, 10/20/2009; SFMTA Bd. Res. No. 10-029, 2/26/2010; SFMTA Bd. Res. No. 10-055, 4/20/2010; SFMTA Bd. Res. No. 10-066, 5/4/2010; SFMTA Bd. Res. No. 11-017, 2/1/2011; SFMTA Bd. Res. No. 11-155, Ad. 12/6/2011, Eff. 1/6/2012; SFMTA Bd. Res. No. 12-111, Ad. 8/21/2012, Eff. 9/21/2012; SFMTA Bd. Res. No. 13-174, Ad. 6/18/2013, Eff.7/19/2013; SFMTA Bd. Res. No. 13-199, Ad. 8/20/2013, Eff. 9/19/2013; SFMTA Bd. Res. No. 13-218, Ad. 9/17/2013, Eff. 10/17/2013) 
 SEC. 1104.  ELIGIBILITY.
+ New Resolution Notice
+Publisher's Note: This section has been AMENDED by a new resolution (SFMTA Bd. Res. No. 14-005, adopted 1/7/2014, effective 2/7/2014). The text of the amendment will be incorporated below when the new resolution is effective.
 	(a)	Determination of Eligibility. Each application shall be investigated by the SFMTA to determine the applicant's eligibility pursuant to the factors listed herein. The SFMTA, in determining whether the permit should be granted, may consider such facts as it deems pertinent, but shall at least consider the following factors: 
 		(1)	The applicant's compliance with all applicable statutes, ordinances and regulations. If, during the five years prior to application, an applicant has violated any statute, ordinance or regulation which would be a basis for revocation of the permit, the SFMTA may, in its discretion, refuse to issue the permit. 
 		(2)	The record of the applicant for the preceding five years with regard to any other permits issued for the commercial operation of a motor vehicle for the transport of passengers, either in the City or elsewhere. 
@@ -2052,6 +2057,8 @@ SEC. 1104.  ELIGIBILITY.
 	(e)	Eligibility for a Single Operator Part-time Taxi Medallion. The applicant must receive a passing score on a test administered by the SFMTA in accordance with Section 1103(e).
 (Added by SFMTA Bd. Res. No. 09-23, 2/23/2009; amended SFMTA Bd. Res. No. 09-077, 5/19/2009; SFMTA Bd. Res. No. 09-183, 10/20/2009; SFMTA Bd. Res. No. 10-029, 2/26/2010; SFMTA Bd. Res. No. 10-149, 11/16/2010; SFMTA Bd. Res. No. 11-155, Ad. 12/6/2011, Eff. 1/6/2012; SFMTA Bd. Res. No. 12-079, Ad. 6/5/2012, Eff. 7/6/2012) 
 SEC. 1105.  GENERAL PERMIT CONDITIONS.
+ New Resolution Notice
+Publisher's Note: This section has been AMENDED by a new resolution (SFMTA Bd. Res. No. 14-005, adopted 1/7/2014, effective 2/7/2014). The text of the amendment will be incorporated below when the new resolution is effective.
 	(a)	Conditions Applicable to All Permits.
 		(1)	Permits Required. No person, business, firm, partnership, association or corporation shall drive, or operate or cause to be operated any Motor Vehicle For Hire within the City, nor shall any person, business, firm, partnership, association or corporation operate any Dispatch Service or Color Scheme, without a permit issued by the SFMTA authorizing such driving or operation in accordance with this Article. 
 		(2)	Permits Held By Businesses; Taxi Medallions Held by Individuals.
@@ -2089,6 +2096,8 @@ SEC. 1105.  GENERAL PERMIT CONDITIONS.
 		(6)	No Permit Holder may disconnect or disable any equipment or software that is required by the SFMTA for the Electronic Taxi Access System. The failure of any Permit Holder to cooperate with the SFMTA or the Electronic Taxi Access System Provider to implement the Electronic Taxi Access System shall be grounds for suspension of the permit until the Permit Holder complies with the requirements of this Section.
 (Added by SFMTA Bd. Res. No. 09-23, 2/23/2009; amended by SFMTA Bd. Res. No. 09-077, 5/19/2009; SFMTA Bd. Res. No. 09-183, 10/20/2009; SFMTA Bd. Res. No. 10-029, 2/26/2010; SFMTA Bd. Res. No. 10-056, 4/20/2010; SFMTA Bd. Res. No. 11-155, Ad. 12/6/2011, Eff. 1/6/2012; SFMTA Bd. Res. No. 12-111, Ad. 8/21/2012, Eff. 9/21/2012; SFMTA Bd. Res. No. 13-033, Ad. 3/19/2013, Eff. 4/19/2013; SFMTA Bd. Res. No. 13-230, Ad. 10/15/2013, Eff. 11/15/2013) 
 SEC. 1106.  CONDITIONS APPLICABLE TO COLOR SCHEME PERMITS.
+ New Resolution Notice
+Publisher's Note: This section has been AMENDED by a new resolution (SFMTA Bd. Res. No. 14-005, adopted 1/7/2014, effective 2/7/2014). The text of the amendment will be incorporated below when the new resolution is effective.
 	In addition to all other conditions applicable to a Color Scheme Permit, each Color Scheme Permit Holder shall meet the following requirements and performance standards: 
 	(a)	Rights of Color Scheme Permit Holder; Permit Required. A Color Scheme Permit entitles the Permit Holder to operate a business that provides taxi service using vehicles painted with trade dress authorized by the permit and unique to that business. Any major change in trade dress colors of a Color Scheme Permit Holder shall require a permit application requesting the issuance of a new Color Scheme Permit. Minor changes in trade dress may be approved by SFMTA without a new permit application. SFMTA shall determine, in its sole discretion, whether a requested change of trade dress is major or minor. No person shall operate a Color Scheme business without a valid permit from the SFMTA. 
 	(b)	Color Scheme Trade Dress. Upon request, the Color Scheme Permit Holder shall provide to SFMTA electronic, high-resolution copies of color photographs of the front, sides and rear of each make and model of Taxi and Ramp Taxi vehicle affiliated with the Color Scheme. 
@@ -2252,6 +2261,8 @@ SEC. 1108.  CONDITIONS APPLICABLE TO DRIVER PERMITS.
 	(g)	Controlled Substance Testing Program. Reserved. 
 (Added by SFMTA Bd. Res. No. 09-23, 2/23/2009; amended by SFMTA Bd. Res. No. 09-077, 5/19/2009; SFMTA Bd. Res. No. 09-104, 6/16/2009; SFMTA Bd. Res. No. 09-183, 10/20/2009; SFMTA Bd. Res. No. 10-029, 2/26/2010; SFMTA Bd. Res. No. 11-155, Ad. 12/6/2011, Eff. 1/6/2012; SFMTA Bd. Res. No. 12-078, Ad. 6/5/2012, Eff. 7/6/2012; SFMTA Bd. Res. No. 12-079, Ad. 6/5/2012, Eff. 7/6/2012; SFMTA Bd. Res. No. 12-111, Ad. 8/21/2012, Eff. 9/21/2012; SFMTA Bd. Res. No. 12-148, Ad. 11/20/2012, Eff. 12/21/2012; SFMTA Bd. Res. No. 13-033, Ad. 3/19/2013, Eff. 4/19/2013) 
 SEC. 1109.  CONDITIONS APPLICABLE TO TAXI AND RAMP TAXI MEDALLIONS.
+ New Resolution Notice
+Publisher's Note: This section has been AMENDED by a new resolution (SFMTA Bd. Res. No. 14-005, adopted 1/7/2014, effective 2/7/2014). The text of the amendment will be incorporated below when the new resolution is effective.
 	(a)	Affiliation With Color Scheme Required; Color Scheme Change.
 		(1)	A Medallion Holder must affiliate with a single Color Scheme Permit Holder. A Medallion Holder shall be deemed affiliated with a particular Color Scheme when the SFMTA approves his or her application pursuant to this Article, and shall entitle the Medallion Holder to the right to the use of that Color Scheme's trade dress and place of business. 
 		(2)	Affiliation with a Color Scheme and/or the failure of a Color Scheme to comply with this Article does not relieve the Medallion Holder of his or her responsibility to comply with all requirements of this Article applicable to the Medallion Holder. 
@@ -2301,6 +2312,8 @@ SEC. 1109.  CONDITIONS APPLICABLE TO TAXI AND RAMP TAXI MEDALLIONS.
 CODIFICATION NOTE
 1.	So in Res. No. 12-148 and previously.
 SEC. 1110.  CONDITIONS APPLICABLE TO RAMP TAXI MEDALLIONS.
+ New Resolution Notice
+Publisher's Note: This section has been AMENDED by a new resolution (SFMTA Bd. Res. No. 14-005, adopted 1/7/2014, effective 2/7/2014). The text of the amendment will be incorporated below when the new resolution is effective.
 	In addition to the conditions specified in Section 1105, the following conditions are applicable to Ramp Taxi Medallion Holders: 
 	(a)	Serving Passengers Who Use Wheelchairs.
 		(1)	Ramp Taxi Medallion Holders shall grant priority to requests for service from passengers who use wheelchairs, and may not accept any other service request while en route to a dispatched call from a person who uses a wheelchair. In the absence of a request for service to a passenger who uses a wheelchair, a Ramp Taxi may transport any person.
@@ -2723,7 +2736,10 @@ Sections Affected:
 7.2.82 (Amended)198-1313067211/02/13Transportation Code - Disabled Parking Placard or License Plate Restrictions
 
 Sections Affected:
-7.2.44, 7.2.66 (Added)
+7.2.44, 7.2.66 (Added)280-1313111901/17/14Transportation Code - Inoperable/Broken Parking Meter Time Limits
+
+Sections Affected:
+1.1, 7.2.30, 7.2.65 (Amended)
 SFMTA Board of Directors Resolutions
 Publisher's Note:  The following table lists all resolutions affecting the Transportation Code passed by the San Francisco Municipal Transportation Agency Board of Directors from April 5, 2011. The table includes links to the resolutions (in PDF format) and to the code sections affected. For ordinances passed by the Board of Supervisors affecting the Transportation Code, see the table above. For other legislation, including older ordinances and those affecting other codes, please refer to the Comprehensive Ordinance Table or the Board of Supervisors' "Legislation Passed" web site.
 Jump to:
@@ -2886,14 +2902,17 @@ Sections Affected:
 New Legislation
 Publisher's Note:  The following table lists all legislation affecting the Transportation Code that has been passed by the Board of Supervisors or the Municipal Transportation Agency Board of Directors but that is not yet effective. The table includes links to the amending legislation (in PDF format) and to the code sections affected. For other legislation, including older ordinances and those affecting other codes, please refer to the Comprehensive Ordinance Table or the Board of Supervisors' "Legislation Passed" web site.
 
-No.File No.Eff. DateShort Title and Code Sections Affected280-1313111901/17/14Transportation Code - Inoperable/Broken Parking Meter Time Limits
-
-Sections Affected:
-1.1, 7.2.30, 7.2.65 (Amended)Res. 13-229N/A11/14/13
+No.File No.Eff. DateShort Title and Code Sections AffectedRes. 13-229N/A11/14/13
 
 Oper. 04/15/14*Taxi Rates and Fees
 
 Sections Affected:
 1124 (Amended)
 
-* The amendments to Sec. 1124(c)(1) are operative on 4/15/2014; see Sec. 5 of the Resolution. 
+* The amendments to Sec. 1124(c)(1) are operative on 4/15/2014; see Sec. 5 of the Resolution.Res. 14-004N/A02/07/14Transportation Code - Various Parking Related Fees and Residential Parking Permit Requirements
+
+Sections Affected:
+901, 902, 905 (Amended); 908 (Repealed)Res. 14-005N/A02/07/14Ramp Taxi Program
+
+Sections Affected:
+1102, 1103, 1104, 1105, 1106, 1109, 1110 (Amended) 

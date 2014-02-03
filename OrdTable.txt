@@ -1,4 +1,3 @@
-
 CITY AND COUNTY OF SAN FRANCISCO
 MUNICIPAL CODE
 
@@ -1048,7 +1047,7 @@ Administrative Code:  43.10.26, 43.10.27 (Added); 43.10.15 (Amended)206-13130784
 Sections Affected:
 Business and Tax Regulations Code:  6.6-1, 6.8-1, 6.9-1*, 6.9-3*, 6.9-4, 6.9-5, 6.9-6, 6.11-1, 6.11-2, 6.11-3, 6.17-2, 6.17-3, 6.21-1, 607, 859, 860, 905-A*, 906.3, 2219.6 (Amended)
 
-* Amendments to these sections are operative on 1/1/2014; see § 7(b) of the ordinance207-1313086110/11/13Appropriation - Municipal Transportation Agency 2013 Series Revenue Bond Proceeds - Transportation Capital Projects and Equipment - $165,000,000 - FY2013-2014208-1313076511/10/13Health Code - Alternate Water Sources for Non-Potable Applications
+* Amendments to these sections were operative on 1/1/2014.207-1313086110/11/13Appropriation - Municipal Transportation Agency 2013 Series Revenue Bond Proceeds - Transportation Capital Projects and Equipment - $165,000,000 - FY2013-2014208-1313076511/10/13Health Code - Alternate Water Sources for Non-Potable Applications
 
 Sections Affected:
 Health Code:  851, 854, 855 (Amended)209-1313078511/08/13
@@ -1128,5 +1127,20 @@ Administrative Code:  10.100-110, 10.100-370, 24.8, 37.6, 43.3.4 (Amended)
 Planning Code:  413.10, 415.5, 415.6, 415.7 (Amended)278-13131083Accept and Expend Private Grant - Mission Bay South Plan First Source Hiring Program, and Amendment to the Annual Salary Ordinance - FYs 2013-2014 and 2014-2015 - $500,000279-13131084Appropriation - General Hospital Improvement General Obligation Bonds - FY2013-2014 - $209,955,000280-1313111901/17/14Transportation Code - Inoperable/Broken Parking Meter Time Limits
 
 Sections Affected:
-Transportation Code:  1.1, 7.2.30, 7.2.65 (Amended)
+Transportation Code:  1.1, 7.2.30, 7.2.65 (Amended)281-1313107812/26/13Settlement of Lawsuit - Yekaterina Gayza - $50,000282-1313069512/26/13Settlement of Lawsuit - Larry Jacobs - $175,000283-1313103201/25/14Police Code - Litter Enforcement
+
+Sections Affected:
+Police Code:  38 (Amended)284-1313100001/25/14Street Acceptance for Lee Avenue (North of Ocean); Approval of a Sidewalk Easement for Brighton Avenue (North of Ocean)285-1313078701/25/14Administrative Code - Timelines and Procedures for Releasing Open Data
+
+Sections Affected:
+Administrative Code:  22D.1, 22D.2, 22D.3 (Amended)286-1313078301/25/14Planning Code - Nonconforming Uses: Enlargement, Alteration or Reconstruction
+
+Sections Affected:
+Planning Code:  181 (Amended)287-1313004101/25/14Planning Code - Conversion, Demolition, Merger, and Conformity of Residential Uses
+
+Sections Affected:
+Planning Code:  180, 212, 317, 703.2, 710.1, 711.1, 712.1, 713.1, 714.1, 715.1, 716.1, 717.1, 718.1, 719.1, 720.1, 721.1, 722.1, 723.1, 724.1, 725.1, 726.1, 727.1, 728.1, 729.1, 730.1, 731.1, 732.1, 733.1, 733A.1, 734.1, 735.1, 736.1, 737.1, 738.1, 739.1, 740.1, 741.1, 742.1, 803.2, 803.8, 810.1, 811.1, 812.1, 813, 814, 815, 816, 817, 818, 827 (Amended); 207.7, 790.84, 790.86, 890.84, 890.86 (Repealed)288-1313099801/25/14Planning Code - Cottage Food Operation Controls
+
+Sections Affected:
+Planning Code:  102.37 (Added); 204.1 (Amended)289-1313112312/26/13Appropriation - Transit Center District Funds and Transportation Development Impact Fees - FY2013-2014 - $4,388,000
 Ordinances that amend the Municipal Code and are not yet effective have their identifiying information highlighted in yellow. Changes made by those ordinances are not incorporated into the text of the Code until the amending ordinances are effective.

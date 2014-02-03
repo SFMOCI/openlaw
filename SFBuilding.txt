@@ -6166,7 +6166,7 @@ SEC. 206.  RETROACTIVE PROVISIONS.
 		Section 912. Self-Closing Doors
 	1001: Section 1001. Substandard Buildings, Definitions
 	1002: Section 1002(f)
-	1102: Section 1102. Apartment House/Hotel License
+	1002: Section 1002. Apartment House/Hotel License
 	1103: Section 1103. Records
 	1201 to 1212 inclusive:
 		Section 1201. Residential Energy Conservation, Title
@@ -6189,7 +6189,7 @@ SEC. 206.  RETROACTIVE PROVISIONS.
 		Section 1218. Interim Rules
 		Section 1219. Ordinance Review
 	12A01 to 12A13 inclusive:
-		Section 12A1. Title
+		Section 12A01. Title
 		Section 12A02. Findings
 		Section 12A03. Intent
 		Section 12A04. Definitions
@@ -7068,7 +7068,7 @@ SEC. 1217.  RULES.
 (Added by Ord. 399-89, App. 11/6/89; amended by Ord. 161-92, App. 6/4/92; Ord. 350-95, App. 11/3/95; Ord. 256-07, App. 11/6/2007)
 SEC. 1218.  INTERIM RULES.
 	The Board of Supervisors finds that, currently, the information available as to what additional energy-conservation measures are cost-effective in buildings containing three or more dwelling units is incomplete. The Board of Supervisors therefore authorizes the Director of the Department of Building Inspection to adopt additional interim requirements for the installation of energy conservation measures in residential buildings containing three or more dwelling units in the following manner:
-	(a)	The Director shall hold a public hearing at which testimony may be given regarding the proposed interim requirement, prior to making a determination. Notice of the hearing shall be sent as provided in Section 1217a).
+	(a)	The Director shall hold a public hearing at which testimony may be given regarding the proposed interim requirement, prior to making a determination. Notice of the hearing shall be sent as provided in Section 1217(a).
 	(b)	The Director shall then adopt the proposed interim requirement if he or she determines that the measure is cost-effective within the meaning of this chapter and has a simple economic payback not exceeding five years, according to the best information available. In developing such requirements, the Director shall closely coordinate with ongoing utility programs and the California Energy Commission.
 	(c)	Within two years of adoption of any interim requirement, the Director shall make a final determination as to whether the interim requirement is cost-effective. If the Director determines that the interim requirement is not cost-effective, then the requirement shall be canceled. If the Director determines that the interim requirement is cost-effective, the Director shall present a report on the interim requirement and proposed legislation to implement the requirement to the Board of Supervisors prior to the expiration of the two-year period. A public hearing shall be held on the proposed legislation and the Board of Supervisors shall give notice in the same manner as provided in Section 1217(a).
 	(d)	The interim requirement shall remain in effect for 90 days beyond the expiration of the two-year period. If the Board of Supervisors does not pass the proposed legislation, the interim requirement will expire at the end of the 90-day period.

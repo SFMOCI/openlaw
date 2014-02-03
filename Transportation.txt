@@ -1577,7 +1577,7 @@ PERMITS
  New Resolution Notice
 Publisher's Note: This Article includes sections affected by new resolutions. Click here for a list of all new legislation affecting sections of this Code.
 
-Sec. 901.Definitions. Sec. 902.General Permit Conditions. Sec. 903.Temporary Obstruction to Traffic Permit. Sec. 904.Temporary Exclusive Use of Parking Meters. Sec. 905.Residential Parking Permit. Sec. 906.Contractor Permits. Sec. 907.Vanpool Parking Permit. Sec. 908.Carpool Vehicle Permits. Sec. 909.Bicycle Rack Permits. Sec. 910.SFMTA Parking Permit. Sec. 911.On-Street Car Share Vehicle Parking Permit.Sec. 912.Vehicle Press Permits.Sec. 913.Mobile Food Facility Permits.
+Sec. 901.Definitions. Sec. 902.General Permit Conditions. Sec. 903.Temporary Obstruction to Traffic Permit. Sec. 904.Temporary Exclusive Use of Parking Meters. Sec. 905.Residential Parking Permit. Sec. 906.Contractor Permits. Sec. 907.Vanpool Parking Permit. Sec. 908.Carpool Vehicle Permits. Sec. 909.Bicycle Rack Permits. Sec. 910.SFMTA Parking Permit. Sec. 911.On-Street Car Share Vehicle Parking Permit.Sec. 912.Vehicle Press Permits.Sec. 913.Mobile Food Facility Permits.Sec. 914.Shuttle Stop Permits.
 SEC. 901.  DEFINITIONS.
  New Resolution Notice
 Publisher's Note: This section has been AMENDED by a new resolution (SFMTA Bd. Res. No. 14-004, adopted 1/7/2014, effective 2/7/2014). The text of the amendment will be incorporated below when the new resolution is effective.
@@ -1802,6 +1802,10 @@ SEC. 913.  MOBILE FOOD FACILITY PERMITS.
 		(3)	A Mobile Food Facility permit does not exempt a vehicle from payment at Parking Meters (Div. I, Section 7.2.23).
 		(4)	A Mobile Food Facility permit does not exempt the vehicle from any other Parking restriction.
 (Added by SFMTA Bd. Res. No. 13-004, Ad. 1/15/2013, Eff. 2/15/2013)
+SEC. 914.  SHUTTLE STOP PERMITS.
+ New Resolution Notice
+Publisher's Note: This section has been ADDED by new legislation (SFMTA Bd. Res. No. 14-023, adopted 1/21/2014, effective 2/21/2014). The text of the section will be included below when the new legislation is effective.
+
 ARTICLE 1000:
 MISCELLANEOUS PARKING AND TRAFFIC REGULATIONS
 Sec. 1001.Signage Required.Sec. 1002.Shifting of Parked Vehicles.Sec. 1003.Parking at "T" Intersections.Sec. 1004.Parking of Vehicles Across Private Driveways.Sec. 1005.Taxicabs Stopping in Driveways and Crosswalks. Sec. 1006.White Zones.Sec. 1007.Bicycle Riding on Sidewalks.Sec. 1008.Notice Requirements for Removal of Vehicles Parked for More Than 72 Hours. Sec. 1009.Parking Restrictions on SFMTA Property. 
@@ -2915,4 +2919,7 @@ Sections Affected:
 901, 902, 905 (Amended); 908 (Repealed)Res. 14-005N/A02/07/14Ramp Taxi Program
 
 Sections Affected:
-1102, 1103, 1104, 1105, 1106, 1109, 1110 (Amended) 
+1102, 1103, 1104, 1105, 1106, 1109, 1110 (Amended)Res. 14-023N/A02/21/14Transportation Code – Pilot Permit Program For Shuttle Buses Using Designated Muni Stops
+
+Sections Affected:
+914 (Added) 

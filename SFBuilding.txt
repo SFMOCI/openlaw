@@ -859,7 +859,6 @@ SCHEDULE OF FEE TABLES:
 		5.	Exceeding the Scope of the Approved Permit
 		6.	Access Appeals Commission Filing Fee
 		7.	Lien Recordation Charges
-	1A-K	Penalties, Hearings, Code Enforcement Assessments (Continued)
 		8.	Work without Permit: Investigation Fee; Penalty
 		9.	Building Commission Hearing Fees
 		10.	Additional Hearings Required by Code
@@ -2070,7 +2069,7 @@ Chapter 29
 PLUMBING SYSTEMS
 2902  Add the following section:
 SECTION 2902 – MINIMUM PLUMBING FIXTURES
-2902.1  Minimum Plumbing Fixtures. For new construction and changes of occupancy. plumbing fixtures shall be provided for the type of occupancy and in the minimum number shown in Table 2902.1. The minimum number of fixtures shown in Table 2902.1 is assumed to be based on 50 percent male and 50 percent female.
+2902.1  Minimum Plumbing Fixtures. For new construction and changes of occupancy, plumbing fixtures shall be provided for the type of occupancy and in the minimum number shown in Table 2902.1. The minimum number of fixtures shown in Table 2902.1 is assumed to be based on 50 percent male and 50 percent female.
 	Exception: Where circumstances dictate that a different ratio is needed, the adjustment shall be approved by the Building Official.
 	The minimum number of plumbing fixtures required to serve existing occupancies shall be the number of fixtures required at the time of original construction or at the time of work previously performed under properly issued permits.
 	A drinking fountain need not be provided in a drinking or dining establishment.
@@ -5759,7 +5758,7 @@ No San Francisco Electrical Code Amendments
 
 GREEN BUILDING CODE
 2013 Edition
-The San Francisco Electrical Code is current through Ordinances approved through December 31, 2013.
+The San Francisco Green Building Code is current through Ordinances approved through December 31, 2013.
 
 
 
@@ -7572,9 +7571,9 @@ SECTION 422.0 – MINIMUM NUMBER OF REQUIRED FIXTURES
 Table 422.1  Add a note under the title as follows:
 TABLE 422.1
 Minimum Plumbing Facilities
-NOTE : This Table is not applicable in San Francisco. Refer to Table 2902.1 of the Building code.
+NOTE : This Table is not applicable in San Francisco. Refer to Table 2902.1 of the Building Code.
 EXCERPT FROM THE 2013 SAN FRANCISCO BUILDING CODE
-Table 2902.1 of the San Francisco Building code has been inserted below for your convenience.
+Table 2902.1 of the San Francisco Building Code has been inserted below for your convenience.
 TABLE 2902.1 – MINIMUM PLUMBING FIXTURES 1, 2, 3
 TYPE OF BUILDING OR OCCUPANCY4WATER CLOSETS5
 (Fixtures per person)LAVATORIES5

@@ -7,7 +7,7 @@ TRANSPORTATION CODE
 Publisher's Note: This Code includes sections affected by new legislation. Click here for a list of the new legislation and the affected sections.
 The San Francisco Municipal Code is current through Ordinance 3-14, File No. 131191, approved January 14, 2014, effective February 13, 2014.
 Division I of the Transportation Code was last amended by Ordinance 280-13, File No. 131119, approved December 18, 2013, effective January 17, 2014.
-Division II of the Transportation Code was last amended by SFMTA Board Resolution No. 14-005, adopted January 7, 2014, effective February 7, 2014.
+Division II of the Transportation Code was last amended by SFMTA Board Resolution No. 14-023, adopted January 21, 2014, effective February 21, 2014.
 
 
 AMERICAN LEGAL PUBLISHING CORPORATION
@@ -1574,9 +1574,6 @@ SEC. 801.  PARKING RESTRICTIONS BY LOCATION.
 (SFMTA Bd. Res. No. 08-151, 8/19/2008; SFMTA Bd. Res. No. 09-172, 9/15/2009; SFMTA Bd. Res. No. 10-053, 4/20/2010; SFMTA Bd. Res. No. 12-144, Ad. 11/20/2012, Eff. 12/21/2012)
 ARTICLE 900:
 PERMITS
- New Resolution Notice
-Publisher's Note: This Article includes sections affected by new resolutions. Click here for a list of all new legislation affecting sections of this Code.
-
 Sec. 901.Definitions. Sec. 902.General Permit Conditions. Sec. 903.Temporary Obstruction to Traffic Permit. Sec. 904.Temporary Exclusive Use of Parking Meters. Sec. 905.Residential Parking Permit. Sec. 906.Contractor Permits. Sec. 907.Vanpool Parking Permit. Sec. 908.Carpool Vehicle Permits. Sec. 909.Bicycle Rack Permits. Sec. 910.SFMTA Parking Permit. Sec. 911.On-Street Car Share Vehicle Parking Permit.Sec. 912.Vehicle Press Permits.Sec. 913.Mobile Food Facility Permits.Sec. 914.Shuttle Stop Permits.
 SEC. 901.  DEFINITIONS.
 	As used in this Article, the following words and phrases shall have the following meanings: 
@@ -1770,9 +1767,103 @@ SEC. 913.  MOBILE FOOD FACILITY PERMITS.
 		(4)	A Mobile Food Facility permit does not exempt the vehicle from any other Parking restriction.
 (Added by SFMTA Bd. Res. No. 13-004, Ad. 1/15/2013, Eff. 2/15/2013)
 SEC. 914.  SHUTTLE STOP PERMITS.
- New Resolution Notice
-Publisher's Note: This section has been ADDED by new legislation (SFMTA Bd. Res. No. 14-023, adopted 1/21/2014, effective 2/21/2014). The text of the section will be included below when the new legislation is effective.
-
+	(a)	Definitions. As used in this Section 914, the following words and phrases shall have the following meanings:
+		Designated Stop. An SFMTA bus stop designated by SFMTA as a stop available for loading and/or unloading of passengers by Shuttle Service Providers that have been issued a Shuttle Permit under this Section 914.
+		Director. The Director of Transportation or his or her designee.
+		Shuttle Bus. A motor vehicle designed, used or maintained by or for a charter-party carrier of passengers, a passenger stage corporation, or any highway carrier of passengers required to register with the California Public Utilities Commission that is being operated in Shuttle Service.
+		Shuttle Permit. A permit issued by the SFMTA that authorizes a Shuttle Service Provider to load and/or unload passengers at specified Designated Stops in one or more Shuttle Buses.
+		Shuttle Placard. A placard issued by SFMTA that is visible from outside the Shuttle Bus at front and rear locations as specified by the SFMTA and that identifies the Shuttle Permit authorizing the Shuttle Bus to use Designated Stops.
+		Shuttle Service. Transportation by Private Buses offered for the exclusive or primary use of a discrete group or groups, such as clients, patients, students, paid or unpaid staff, visitors, and/or residents, between an organization or entity's facilities or between the organization or entity's facilities and other locations, on a regularly-scheduled basis.
+		Shuttle Service Provider. Any Person using Shuttle Buses to provide Shuttle Service within the City.
+		Stop Event. An instance of stopping by a Shuttle Bus at a Designated Stop for the purpose of loading and/or unloading passengers.
+	(b)	Findings.
+		(1)	The use of Shuttle Buses for the purpose of providing Shuttle Service is a growing means of transportation in San Francisco and the greater Bay Area.
+		(2)	Shuttle Service provides significant benefits to the community by replacing single occupant trips with more efficient transportation, contributing to a reduction in parking demand, and supporting the City's goal of having of 50 percent of all trips made by sustainable modes by 2018.
+		(3)	Shuttle Service currently operating in San Francisco reduces vehicle miles traveled (VMT) in the City by at least 45 million miles annually, and reduces greenhouse gas emissions from trips originating or ending in the City by 11,000 metric tons annually.
+		(4)	Unregulated use of Muni stops by Shuttle Service Providers has resulted in unintended adverse impacts, including delaying transit bus service, increasing traffic congestion, diverting bicyclists from bicycle lanes into mixed-flow lanes, and diverting motor vehicle traffic into adjacent travel lanes, and preventing transit buses from being able to access the curb in order to load and unload passengers.
+		(5)	The SFMTA's lack of complete information about Shuttle Service operations, including routes, frequency of service and stops has been a barrier to resolving and preventing conflicts with Shuttle Service Providers' operations, including adverse impacts on Muni service and increased traffic congestion.
+		(6)	Inconsistent or inaccurate identification of, and lack of contact information for, Shuttle Service Providers has made it difficult for the SFMTA to effectively and timely communicate with Shuttle Service Providers to prevent or resolve conflicts and makes enforcement of traffic and parking regulations difficult.
+		(7)	Regulation by the SFMTA of stop use by Shuttle Services to provide safe loading and unloading zones for Shuttle Services, whose cumulative ridership is equivalent to that of a small transit system, is consistent with City's Transit First policy.
+		(8)	The pilot program established under this Section 914 is intended to enable SFMTA to evaluate whether shared use of Muni stops by Shuttle Buses is consistent with efficient operation of the City's public transit system.
+	(c)	General Permit Program Requirements.
+		(1)	The Director is authorized to implement a pilot program for the issuance of Shuttle Permits beginning on a date designated by the Director. The duration of the pilot program shall not exceed 18 months from the date of commencement designated by the Director.
+		(2)	The Director may issue a Shuttle Permit for the use of Designated Stops upon receipt of an application from a Shuttle Service Provider on a form prescribed by the SFMTA which application meets the requirements of this Section 914.
+		(3)	The Shuttle Permit shall authorize the Shuttle Service Provider to receive a specified number of Shuttle Placards issued by SFMTA.
+		(4)	The Director is authorized to establish up to 200 Designated Stops for the purposes of this pilot program. The Director may establish additional Designated Stops following a public hearing.
+	(d)	Application Requirements. Each application for a permit or renewal of a permit shall contain the following information:
+		(1)	The name, business location, telephone number, fax number and email address of the Shuttle Service Provider;
+		(2)	The name, title and contact information of one or more persons representing the Shuttle Service Provider to be notified by SFMTA in the event of a problem or permit violation relating to the Permittee's Shuttle Service;
+		(3)	The total number of Shuttle Buses the Shuttle Service Provider intends to use to deliver Shuttle Service using Designated Stops, and the make, passenger capacity and license plate number of each of its Shuttle Buses that would be authorized, when bearing a Shuttle Placard, to use one or more Designated Stops;
+		(4)	The total number of Shuttle Placards requested;
+		(5)	The number of shuttle routes for which the permit applicant is proposing to provide Shuttle Service, including the frequency of service on each route, the neighborhoods served by each route, the origin and terminus of each route, and the frequency of Shuttle Service on each route. In lieu of a map, the permit applicant may provide a narrative statement describing the routes. The applicant need only identify the route to the extent that it lies within the City. Where the point of origin or termination is outside of the City, the applicant need only provide the county in which the point of origin or termination is located;
+		(6)	A list of the Designated Stops the permit applicant proposes to use on each shuttle route, along with the proposed frequency of use of each Designated Stop per day, resulting in a calculation of the total number of Stop Events per day at Designated Stops; and
+		(7)	Documentation of the Applicant's registration status with the California Public Utilities Commission ("CPUC"), including any Charter Party Carrier ("TCP") authorization or permits, or registration as a private carrier of passengers, and documentation that the Applicant maintains insurance in compliance with the applicable requirements imposed by the CPUC.
+	(e)	Permit Issuance. After evaluating an applicant's permit application, the Director shall grant the Permit as requested, or grant the Permit with modifications, or deny the Permit. Where the Permit is granted with modifications or denied, the notice shall explain the basis for the Director's decision. The Director may issue procedures for reviewing the Director's decision upon request of the permit applicant.
+	(f)	Permit Terms and Conditions. The Director shall establish terms and conditions for Permits. In addition to any other requirements imposed by the Director, Permits shall include the following terms:
+		(1)	Any Shuttle Bus being operated in Shuttle Service shall be listed on the permit application and shall display a valid SFMTA-issued Shuttle Placard visible from outside the Shuttle Bus at front and rear locations on the Shuttle Bus as specified by the SFMTA, at all times such vehicle is being operated in Shuttle Service in the City. Shuttle Placards may be transferred between any Shuttle Buses in the Shuttle Service Provider's fleet that are listed on the Permit.
+		(2)	A Shuttle Bus bearing valid Shuttle Placards shall be allowed to stop at any Designated Stop subject to the following conditions:
+			(A)	The Shuttle Bus shall give priority to any transit buses that are approaching or departing a Designated Stop;
+			(B)	The Shuttle Bus shall not stop at any Muni stops other than Designated Stops;
+			(C)	The Shuttle Bus shall use Designated Stops only for active loading or unloading of passengers, and such loading and unloading shall be conducted as quickly as possible without compromising the safety of passengers, pedestrians, bicyclists or other motorists;
+			(D)	Loading and unloading of passengers shall not take place in, or impede travel in, a lane of traffic or bicycle lane.
+		(3)	A Shuttle Permit and Shuttle Placard shall not exempt a Shuttle Bus from any other Parking restrictions or traffic regulations except as authorized by this Section 914, and a Shuttle Bus stopping or parking at any Muni stop, including a Designated Stop, in violation of the terms and conditions set forth in this Subsection (f) may be cited for violation of California Vehicle Code Section 22500(i).
+		(4)	The Permittee shall comply with all applicable federal, state and local laws, including this Code, the California Vehicle Code and CPUC requirements, including those for registration, insurance, vehicle inspection and regulation of drivers;
+		(5)	The Permittee shall equip each Shuttle Bus with an on-board device capable of providing real-time location data to the SFMTA in accordance with specifications issued by the Director, and shall maintain a continuous feed of the specified data at all times when the Shuttle Bus is being used to provide Shuttle Service within the City. The Permittee shall begin providing a continuous feed of such data to the SFMTA on the first day that the Permittee begins providing Shuttle Service under the Permit unless the Director establishes an alternate date. Notwithstanding the foregoing requirements stated in this subsection (f)(5), if the Permittee is unable to provide the required data in accordance with specifications issued by the Director, the Permittee shall install an on-board device (OBD) prescribed by the SFMTA in each Shuttle Bus. The SFMTA shall not be responsible for any equipment, or for the failure of any equipment, installed inside any Shuttle Bus for any reason, including for the purpose of complying with this Section 914. If a Shuttle Bus becomes unable to provide the required data for any reason, Permittee shall not operate that Shuttle Bus in Shuttle Service without first notifying SFMTA of the identity of the bus, the route affected and the time at which Permittee expects the data transmission to be restored. To facilitate SFMTA's monitoring of Shuttle Bus operations, the Director may issue regulations limiting the duration that a Shuttle Bus may operate in Shuttle Service without being able to provide the required data.
+		(6)	The Permittee shall, in a timely manner and as otherwise required by law, pay all traffic and parking citations issued to its Shuttle Buses in the course of providing Shuttle Service, subject to the Permittee's right under applicable law to contest such citations.
+		(7)	Where the Director determines that the continued use of a particular Shuttle Bus listed on a Shuttle Provider's permit application would constitute a risk to public safety, the Director shall notify the Shuttle Provider in writing, and said Shuttle Bus shall immediately be ineligible to use any Designated Stops unless and until the Shuttle Provider has proven to the satisfaction of the Director that the Shuttle Bus no longer constitutes a risk to public safety.
+	(g)	Duration of Shuttle Permit. Shuttle Permits initially issued under this Section shall expire six months from the date of commencement of the pilot program designated by the Director pursuant to subsection (c)(1), unless a shorter term is requested by the Permittee, the Permit is revoked, or the Director for good cause finds a shorter term is warranted. Permits issued or renewed on or after that six months' date shall expire 18 months from the date of program commencement, unless a shorter term is requested by the Permittee, the Permit is revoked or the Director for good cause finds a shorter term is required.
+	(h)	Fees.
+		(1)	Shuttle Service Providers shall pay a Designated Stop use and permit fee as set forth below. The fee is intended to cover the cost to SFMTA of permit program implementation, administration enforcement and evaluation. The Designated Stop use fee component shall be determined by multiplying the total number of anticipated daily Stop Events stated in the permit application by the per stop fee set forth below. The Director is authorized, in his or her discretion, to impose pro-rated Designated Stop use fees where a Shuttle Service Provider applies for a permit or permit modification following date of commencement of the pilot program.
+		(2)	The Designated Stop use and permit fees shall be $1 per Stop Event.
+		(3)	Permittees shall be billed for the Designated Stop use and permit fee upon issuance or renewal of the Permit. The Designated Stop use and permit fee shall be due and payable within 30 days from the date of invoice. Fees remaining unpaid 30 days after the date of invoice shall be subject to a 10 percent penalty plus interest at the rate of one percent per month on the outstanding balance, which shall be added to the fee amount from the date that payment is due.
+		(4)	SFMTA shall reconcile the number of Stop Events for each Shuttle Service Provider against the actual stop data provided to the SFMTA on a semi-annual basis, but reserves the right to conduct such reconciliation on a more frequent basis if necessary. Where the SFMTA determines that a Shuttle Service Provider has used Designated Stops more frequently than authorized under the Provider's Permit, the Provider shall pay the additional Designated Stop use fee due. Where SFMTA determines that the Permittee's use of Designated Stops exceeds the authorized number of daily Stop Events by 10 percent or more, the Provider shall pay the additional Designated Stop use fee due, plus a 10 percent penalty. All such fees shall be due within 30 days from the date of invoice. Fees remaining unpaid after that date shall be subject to interest at the rate of one percent per month on the outstanding balance, which shall be added to the fee amount from the date that payment is due.
+	(i)	Grounds for Suspension or Revocation.
+		(1)	The Director may suspend or revoke a permit issued under this Section 914 upon written notice of revocation and opportunity for hearing. The Director is authorized to promulgate hearing and review procedures for permit suspension and revocation proceedings. Upon revocation or suspension, the Shuttle Service Provider shall surrender such Permit and the Shuttle Placards authorized under the Permit in accordance with the instructions in the notice of suspension or revocation.
+		(2)	Where the Director determines that public safety is at risk, or where the Permittee's continued operation as a Shuttle Service Provider would be in violation of the California Public Utilities Code or the California Vehicle Code, the Director is authorized to suspend a permit issued under this Section 914 immediately upon written notice of suspension to the Permittee, provided that the Director shall provide the Permittee with the opportunity for a hearing on the suspension within five business days of the date of notice of suspension.
+		(3)	A permit issued under this Section 914 may be suspended or revoked under this paragraph following the Director's determination after an opportunity for hearing that:
+			(A)	the Permittee has failed to abide by any permit condition;
+			(B)	the Permittee knowingly or intentionally provided false or inaccurate information on a permit application;
+			(C)	one or more of Permittee's Shuttle Buses have, in the course of providing Shuttle Service, repeatedly and egregiously violated parking or traffic laws;
+			(D)	the Permittee's continued operation as a Shuttle Service Provider would constitute a public safety risk; or	
+			(E)	the Permittee's continued operation as a Shuttle Service Provider would be in violation of the California Public Utilities Code or the California Vehicle Code.
+	(j)	Administrative Penalties.
+		(1)	This Section shall govern the imposition, assessment and collection of administrative penalties imposed for violations of permit conditions set forth under Subsection 914(f).
+		(2)	The SFMTA Board of Directors finds:
+			(A)	That it is in the best interest of the City, its residents, visitors and those who travel on City streets to provide an administrative penalty mechanism for enforcement of Shuttle Bus permit conditions; and
+			(B)	That the administrative penalty scheme established by this section is intended to compensate the public for the injury or damage caused by Shuttle Buses being operated in violation of the permit conditions set forth under Subsection 914(f). The administrative penalties authorized under this section are intended to be reasonable and not disproportionate to the damage or injury to the City and the public caused by the prohibited conduct.
+			(C)	The procedures set forth in this Section are adopted pursuant to Government Code Section 53069.4 which governs the imposition, enforcement, collection, and administrative review of administrative citations and fines by local agencies, and pursuant to the City's home rule power over its municipal affairs.
+		(3)	Any Service Provider that is operating a Shuttle Bus in violation of the permit conditions set forth under Subsection 914(f) may be subject to the issuance of a citation and imposition of an administrative penalty under this Subsection 914(j).
+		(4)	Administrative penalties may not exceed $250 for each violation. In determining the amount of the penalty, the officer or employee who issued the citation may take any or all of the following factors into consideration:
+			(A)	The duration of the violation;
+			(B)	The frequency, recurrence and number of violations by the same violator;
+			(C)	The seriousness of the violation;
+			(D)	The good faith efforts of the violator to correct the violation;
+			(E)	The economic impact of the fine on the violator;
+			(F)	The injury or damage, if any, suffered by any member of the public;
+			(G)	The impact of the violation on the community;
+			(H)	The amount of City staff time expended investigating or addressing the violation;
+			(I)	The amount of fines imposed by the charging official in similar situations;
+			(J)	Such other factors as justice may require.
+		(5)	The Director of Transportation is authorized to designate officers or employees of the Municipal Transportation Agency to issue citations imposing administrative penalties for violations of the permit conditions set forth in Subsection 914(f), hereafter referred to as the "Charging Official."
+		(6)	Administrative Citation. A Charging Official who determines that there has been a violation of the permit conditions set forth in Subsection 914(f), may issue an administrative citation to the Shuttle Service Provider permitted under this Section 914. The Charging Official shall either serve the citation personally on the Shuttle Service Provider or serve it by certified U.S. mail sent to the address indicated on the Shuttle Service Provider's permit application.
+		(7)	The citation shall contain the following information: the name of the person or entity cited; the date, time, address or location and nature of the violation; the date the citation is issued; the name and signature of the Charging Official; the amount of the administrative penalty, acceptable forms of payment of the penalty; and that the penalty is due and payable to the SFMTA within 15 business days from (A) the date of issuance of the citation if served personally, or (B) the date of receipt of the citation if served by certified U.S. Mail. The citation shall also state that the person or entity cited that it has the right to appeal the citation, as provided in Subsection 914(j).
+		(8)	Request for Hearing; Hearing.
+			(A)	A person or entity may appeal the issuance of a citation by filing a written request with the SFMTA Hearing Division within 15 business days from (i) the date of the issuance of a citation that is served personally or (ii) the date of receipt if the citation is served by certified U.S. Mail. The failure of the person or entity cited to appeal the citation shall constitute a failure to exhaust administrative remedies and shall preclude the person or entity cited from obtaining judicial review of the validity of the citation.
+			(B)	At the time that the appeal is filed, the appellant must deposit with the SFMTA Hearing Division the full amount of the penalty required under the citation.
+			(C)	The SFMTA Hearing Division shall take the following actions within 10 days of receiving an appeal: appoint a hearing officer, set a date for the hearing, which date shall be no less than 10 and no more than 60 days from the date that the appeal was filed, and send written notice of the hearing date to the appellant and the Charging Official.
+			(D)	Upon receiving notice that the SFMTA Hearing Division has scheduled a hearing on an appeal, the Charging Official shall, within three City business days, serve the hearing officer with records, materials, photographs, and other evidence supporting the citation. The hearing officer may grant a request to allow later service and may find good cause to continue the hearing because of the delay.
+			(E)	The hearing officer shall conduct all appeal hearings under this Chapter and shall be responsible for deciding all matters relating to the hearing procedures not otherwise specified in this Section. The Charging Official shall have the burden of proof in the hearing. The hearing officer may continue the hearing at his or her own initiative or at the request of either party, and may request additional information from either party to the proceeding. The hearing need not be conducted according to technical rules of evidence and witnesses. Any relevant evidence is admissible if it is the sort of evidence on which responsible persons are accustomed to rely in the conduct of serious affairs.
+			(F)	The following provisions shall also apply to the appeal procedure:
+				(i)	A citation that complies with the requirements of Section 914(j)(7) and any additional evidence submitted by the Charging Official shall be prima facie evidence of the facts contained therein;
+				(ii)	The appellant shall be given the opportunity to present evidence concerning the citation; and
+				(iii)	The hearing officer may accept testimony by declaration under penalty of perjury relating to the citation from any party if he or she determines it appropriate to do so.
+				(iv)	After considering all of the testimony and evidence submitted by the parties, the hearing officer shall issue a written decision upholding, modifying or vacating the citation and shall set forth the reasons for the determination. This shall be a final administrative determination.
+				(v)	If the hearing officer upholds the citation, the hearing officer shall inform the appellant of its right to seek judicial review pursuant to California Government Code Section 53069.4. If the citation is upheld the City shall retain the amount of the fine that the appellant deposited with the City.
+				(vi)	If the hearing officer vacates the citation, the City shall promptly refund the deposit. If the hearing officer partially vacates the citation, the City shall promptly refund that amount of the deposit that corresponds to the hearing officer's determination. The refund shall include interest at the average rate earned on the City's portfolio for the period of time that the City held the deposit as determined by the Controller.
+			(G)	Any person aggrieved by the action of the hearing officer taken pursuant to this Chapter may obtain review of the administrative decision by filing a petition for review in accordance with the timelines and provisions set forth in California Government Code Section 53069.4.
+			(H)	If a final order of a court of competent jurisdiction determines that the SFMTA has not properly imposed a fine pursuant to the provisions of this Section, and if the fine has been deposited with the SFMTA as required by Section 914(j)(8)(B), the SFMTA shall promptly refund the amount of the deposited fine, consistent with the court's determination, together with interest at the average rate earned on the City's portfolio.
+		(9)	Administrative penalties shall be deposited in the Municipal Transportation Fund and may be expended only by the SFMTA.
+(Added by SFMTA Bd. Res. No. 14-023, Ad. 1/21/2014, Eff. 2/21/2014)
 ARTICLE 1000:
 MISCELLANEOUS PARKING AND TRAFFIC REGULATIONS
 Sec. 1001.Signage Required.Sec. 1002.Shifting of Parked Vehicles.Sec. 1003.Parking at "T" Intersections.Sec. 1004.Parking of Vehicles Across Private Driveways.Sec. 1005.Taxicabs Stopping in Driveways and Crosswalks. Sec. 1006.White Zones.Sec. 1007.Bicycle Riding on Sidewalks.Sec. 1008.Notice Requirements for Removal of Vehicles Parked for More Than 72 Hours. Sec. 1009.Parking Restrictions on SFMTA Property. 
@@ -2871,14 +2962,14 @@ Sections Affected:
 901, 902, 905 (Amended); 908 (Repealed)14-00501/07/1402/07/14Ramp Taxi Program
 
 Sections Affected:
-1102, 1103, 1104, 1105, 1106, 1109, 1110 (Amended)
+1102, 1103, 1104, 1105, 1106, 1109, 1110 (Amended)14-02301/21/1402/21/14Transportation Code – Pilot Permit Program For Shuttle Buses Using Designated Muni Stops
+
+Sections Affected:
+914 (Added)
 New Legislation
 Publisher's Note:  The following table lists all legislation affecting the Transportation Code that has been passed by the Board of Supervisors or the Municipal Transportation Agency Board of Directors but that is not yet effective. The table includes links to the amending legislation (in PDF format) and to the code sections affected. For other legislation, including older ordinances and those affecting other codes, please refer to the Comprehensive Ordinance Table or the Board of Supervisors' "Legislation Passed" web site.
 
-No.File No.Eff. DateShort Title and Code Sections AffectedRes. 14-023N/A02/21/14Transportation Code – Pilot Permit Program For Shuttle Buses Using Designated Muni Stops
-
-Sections Affected:
-914 (Added)Res. 13-229N/A11/14/13
+No.File No.Eff. DateShort Title and Code Sections AffectedRes. 13-229N/A11/14/13
 
 Oper. 04/15/14*Taxi Rates and Fees
 

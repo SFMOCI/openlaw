@@ -7572,8 +7572,10 @@ Table 422.1  Add a note under the title as follows:
 TABLE 422.1
 Minimum Plumbing Facilities
 NOTE : This Table is not applicable in San Francisco. Refer to Table 2902.1 of the Building Code.
+
 EXCERPT FROM THE 2013 SAN FRANCISCO BUILDING CODE
 Table 2902.1 of the San Francisco Building Code has been inserted below for your convenience.
+
 TABLE 2902.1 – MINIMUM PLUMBING FIXTURES 1, 2, 3
 TYPE OF BUILDING OR OCCUPANCY4WATER CLOSETS5
 (Fixtures per person)LAVATORIES5

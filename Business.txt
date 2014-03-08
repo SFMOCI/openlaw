@@ -3,7 +3,9 @@ CITY AND COUNTY OF SAN FRANCISCO
 MUNICIPAL CODE
 
 BUSINESS AND TAX REGULATIONS CODE
-The San Francisco Municipal Code is current through Ordinance 3-14, File No. 131191, approved January 14, 2014, effective February 13, 2014.
+ New Ordinance Notice
+Publisher's Note: This Code includes sections affected by new legislation. Click here for a list of the new legislation and the affected sections.
+The San Francisco Municipal Code is current through Ordinance 5-14, File No. 130864, approved February 7, 2014, effective March 9, 2014.
 The Business and Tax Regulations Code was last amended by Ordinance 271-13, File No. 131031, approved November 27, 2013, effective December 27, 2013, operative January 1, 2014.
 
 
@@ -49,12 +51,13 @@ BUSINESS AND TAX REGULATIONS CODE
 	Beginning with ordinances passed in 2011, all ordinances affecting this Code are summarized in a table that lists the identifying information (ordinance and file numbers), effective date, short title, and sections affected for each such ordinance. Users should note that the operative date of an ordinance may be later than the effective date of the ordinance. A delayed operative date will be noted in the ordinance.
 	This Code may contain various Editor's Notes (explaining the disposition of or cross referencing various provisions), and/or Codification Notes (documenting scrivener's errors and the like found in the underlying ordinances). Such notes have been inserted by the publisher for the convenience of the user or as historical references. They have not been approved or adopted by the City and County of San Francisco, and are of no legal force or effect.
 Article
-1.PERMIT PROCEDURES2.LICENSE FEES3.TRANSIENT MERCHANTS 5.ELECTRICAL MUSICAL DEVICES6.COMMON ADMINISTRATIVE PROVISIONS 7.TAX ON TRANSIENT OCCUPANCY OF HOTEL ROOMS9.TAX ON OCCUPANCY OF PARKING SPACE IN PARKING STATIONS10.UTILITY USERS TAX10B.ACCESS LINE TAX 11.STADIUM OPERATOR ADMISSION TAX12.BUSINESS REGISTRATION 12-A.PAYROLL EXPENSE TAX ORDINANCE 12-B.BUSINESS TAX REFUND12B-1.NEIGHBORHOOD BEAUTIFICATION AND GRAFFITI CLEAN-UP FUND TAX OPTION12-C.REAL PROPERTY TRANSFER TAX12-D.UNIFORM LOCAL SALES AND USE TAX13.CONNECTIONS TO THE POLICE DEPARTMENT TERMINAL ALARM PANEL14.TRANSPORTATION AUTHORITY15.BUSINESS IMPROVEMENT DISTRICTS PROCEDURE CODE17.BUSINESS TAX PENALTY AMNESTY PROGRAM20.FINANCIAL INFORMATION PRIVACY ORDINANCE22.PARKING STATIONS; REVENUE CONTROL EQUIPMENT23.VEHICLE REGISTRATION FEE EXPENDITURE PLAN
+1.PERMIT PROCEDURES2.LICENSE FEES3.TRANSIENT MERCHANTS 5.ELECTRICAL MUSICAL DEVICES6.COMMON ADMINISTRATIVE PROVISIONS 7.TAX ON TRANSIENT OCCUPANCY OF HOTEL ROOMS9.TAX ON OCCUPANCY OF PARKING SPACE IN PARKING STATIONS10.UTILITY USERS TAX10B.ACCESS LINE TAX 11.STADIUM OPERATOR ADMISSION TAX12.BUSINESS REGISTRATION 12-A.PAYROLL EXPENSE TAX ORDINANCE 12-A-1.GROSS RECEIPTS TAX ORDINANCE12-B.BUSINESS TAX REFUND12B-1.NEIGHBORHOOD BEAUTIFICATION AND GRAFFITI CLEAN-UP FUND TAX OPTION12-C.REAL PROPERTY TRANSFER TAX12-D.UNIFORM LOCAL SALES AND USE TAX13.CONNECTIONS TO THE POLICE DEPARTMENT TERMINAL ALARM PANEL14.TRANSPORTATION AUTHORITY15.BUSINESS IMPROVEMENT DISTRICTS PROCEDURE CODE15A.PUBLIC REALM LANDSCAPING, IMPROVEMENT AND MAINTENANCE ASSESSMENT DISTRICTS ("GREEN BENEFIT DISTRICTS")17.BUSINESS TAX PENALTY AMNESTY PROGRAM20.FINANCIAL INFORMATION PRIVACY ORDINANCE22.PARKING STATIONS; REVENUE CONTROL EQUIPMENT23.VEHICLE REGISTRATION FEE EXPENDITURE PLAN
 ARTICLE 1:
 PERMIT PROCEDURES
-Sec. 1.Designating Departments for Issuance of Permits. Sec. 1.1.Amusement Parks. Sec. 1.2.Masquerade Balls. Sec. 1.3.Circuses or Wild West Shows. Sec. 1.4.Balloon Advertising. Sec. 1.5.Street Cars for Displaying Advertising Signs. Sec. 1.6.Discharge of Firearms. Sec. 1.7.Secondhand Dealer. Sec. 1.8.Shooting Galleries. Sec. 1.9.Miniature and Practice Golf Courses. Sec. 1.10.Vehicles for Hire. Sec. 1.15.Public Display of Fireworks. Sec. 1.16.Open Outdoor Fires. Sec. 1.17.Service Stations. Sec. 1.19.Acetylene Generator. Sec. 1.20.Public Repair Garages, Public Storage Garages, Commercial and Truck Garages, and Automobile Sales Garages. Sec. 1.20.1. Automobile Repair Shops. Sec. 1.21.Removing Paint from Buildings by Burning. Sec. 1.22.Oil Burning Apparatus. Sec. 1.23.Storage of Calcium Carbide. Sec. 1.24.Dog Hospitals or Kennels or Hospitals for Sick Animals. Sec. 1.25.Laundries.Sec. 1.26.Stables.Sec. 1.27.Medical Colleges.Sec. 1.28.Use of City and County Property for Decoration Purposes.Sec. 1.29.Billboards.Sec. 1.30.Rock Crushing Machines.Sec. 1.31.Temporary Buildings.Sec. 1.32.Blasting Operations.Sec. 1.33.Boilers, Engines, and Cupola Furnaces.Sec. 1.34.Gas Works.Sec. 1.35.Employment Offices.Sec. 1.36.Peddling.Sec. 1.37.Pawnbroker Establishments.Sec. 1.38.Combustible Fibres.Sec. 1.39.Explosives.Sec. 1.40.Importing and/or Exporting Fireworks.Sec. 1.41.Transporting of Fireworks.Sec. 1.42.Wholesaling of Fireworks.Sec. 1.43.Application of Flammable Finishes.Sec. 1.44.Flammable Liquids.Sec. 1.45.Flammable Fumigants and Fogs.Sec. 1.46.Hazardous Chemicals.Sec. 1.47.Waste Material Handling Plants.Sec. 1.48.Liquefied Petroleum Gases.Sec. 1.49.Storage of Lumber and Readily Combustible Materials.Sec. 1.50.Magnesium and Titanium Processing.Sec. 1.51.Motion Picture Theaters, Theaters, Public Assembly Units, and Open-Air Assembly Units.Sec. 1.52.Nitrocellulose Motion Picture Film.Sec. 1.53.Nitrocellulose Plastics.Sec. 1.54.Industrial Baking and Drying Ovens.Sec. 1.55.Standing Room, Candy Counters, and Vending Machine Spaces.Sec. 1.56.Compressed Gases.Sec. 1.57.Tents.Sec. 1.58.Tire Rebuilding Plants.Sec. 1.59.Welding and Cutting Operations.Sec. 1.60.Flammable Liquid Tank Vehicles.Sec. 1.61.Establishment, Maintenance and Operation of Food Products and Marketing Establishments.Sec. 1.62.Maintenance and Operation of Meat and Meat Food Product Vehicles.Sec. 1.64.Establishment, Maintenance and Operation of Food Preparation and Service Establishments.Sec. 1.65.Establishment, Maintenance and Operation of Salvage Goods and Merchandise Dealers.Sec. 1.66.Establishment, Maintenance and Operation of Cigar and Mattress Factories.Sec. 1.67.Establishment, Maintenance and Operation of Pet Shops.Sec. 1.68.Maintenance and Operation of Garbage Vehicles.Sec. 1.69.Establishment, Maintenance and Operation of Swimming Pools.Sec. 1.70.Maintenance and Operation of Private Ambulances.Sec. 1.71.Use of Hydrocyanic Gas, etc.Sec. 1.72.Business of Retail Firearms Dealer, Operation and Maintenance of.Sec. 1.73.Food Vending Machines.Sec. 1.74.Mobile Catering Vehicles.Sec. 1.75.Wells and Well Water.Sec. 1.76.Testers of Backflow Prevention or Cross-Connection Control Devices.Sec. 1.77.Medical Cannabis Dispensaries.Sec. 2.Approval of City Planning Commission.Sec. 3.Certain Permits to be Delivered to Tax Collector.Sec. 5.Notice of Issuance of Permits.Sec. 6.Notice to be Attached to Copy Posted – Cost of Posting.*Sec. 7.Interference with Posting or Tampering with Notice Prohibited – Penalty.Sec. 8.Method of Appeal to the Board of Appeals.Sec. 8(a).Effective Date for Collection of Filing Fee.Sec. 9.Information to be Furnished to Board of Appeals.Sec. 10.Record Forwarded to Board of Appeals.Sec. 11.Court Reporter – Fees; Videotape of Proceedings as Administrative Record.Sec. 11(a).City attorney – Representation of Planning and Building Department staff.Sec. 12.Mailing Notice of Hearing.Sec. 13.Filing Request for Notice of Hearing.Sec. 14.Hearing and Decision.Sec. 15.Seal.Sec. 16.Rehearings.Sec. 17.Permitting Substitutes for Metal Badges.Sec. 22.Providing for Posting and Form of Notice of Hearing, Applications for Certain Permits.Sec. 23.Action on Other Applications.Sec. 24.Inspection by Department –  Revocation of Permits.Sec. 25.Advisory Board.Sec. 26.Facts to be Considered by Departments.Sec. 27.Fees.Sec. 28.Publication, Certain Applications.Sec. 29.Posting Notice of Issuance of Permits.Sec. 30.Appeals to Board of Appeals. Sec. 31.Applications Barred for One Year.Sec. 35.Fee for Inspection by the Health Department.Sec. 36.Fees, Penalty for Nonpayment.Sec. 37.Inspections, How Made.Sec. 38.Display of Certificate.Sec. 39.Duties of Police Officers.Sec. 40.Penalty.
-Editor’s Note:
-	* Sections 6.1-1 through 6.23-1 are located in Article 6 of this Code.
+Sec. 1.Designating Departments for Issuance of Permits. Sec. 1.1.Amusement Parks. Sec. 1.2.Masquerade Balls. Sec. 1.3.Circuses or Wild West Shows. Sec. 1.4.Balloon Advertising. Sec. 1.5.Street Cars for Displaying Advertising Signs. Sec. 1.6.Discharge of Firearms. Sec. 1.7.Secondhand Dealer. Sec. 1.8.Shooting Galleries. Sec. 1.9.Miniature and Practice Golf Courses. Sec. 1.10.Vehicles for Hire. Sec. 1.15.Public Display of Fireworks. Sec. 1.16.Open Outdoor Fires. Sec. 1.17.Service Stations. Sec. 1.19.Acetylene Generator. Sec. 1.20.Public Repair Garages, Public Storage Garages, Commercial and Truck Garages, and Automobile Sales Garages. Sec. 1.20.1. Automobile Repair Shops. Sec. 1.21.Removing Paint from Buildings by Burning. Sec. 1.22.Oil Burning Apparatus. Sec. 1.23.Storage of Calcium Carbide. Sec. 1.24.Dog Hospitals or Kennels or Hospitals for Sick Animals. Sec. 1.25.Laundries.Sec. 1.26.Stables.Sec. 1.27.Medical Colleges.Sec. 1.28.Use of City and County Property for Decoration Purposes.Sec. 1.29.Billboards.Sec. 1.30.Rock Crushing Machines.Sec. 1.31.Temporary Buildings.Sec. 1.32.Blasting Operations.Sec. 1.33.Boilers, Engines, and Cupola Furnaces.Sec. 1.34.Gas Works.Sec. 1.35.Employment Offices.Sec. 1.36.Peddling.Sec. 1.37.Pawnbroker Establishments.Sec. 1.38.Combustible Fibres.Sec. 1.39.Explosives.Sec. 1.40.Importing and/or Exporting Fireworks.Sec. 1.41.Transporting of Fireworks.Sec. 1.42.Wholesaling of Fireworks.Sec. 1.43.Application of Flammable Finishes.Sec. 1.44.Flammable Liquids.Sec. 1.45.Flammable Fumigants and Fogs.Sec. 1.46.Hazardous Chemicals.Sec. 1.47.Waste Material Handling Plants.Sec. 1.48.Liquefied Petroleum Gases.Sec. 1.49.Storage of Lumber and Readily Combustible Materials.Sec. 1.50.Magnesium and Titanium Processing.Sec. 1.51.Motion Picture Theaters, Theaters, Public Assembly Units, and Open-Air Assembly Units.Sec. 1.52.Nitrocellulose Motion Picture Film.Sec. 1.53.Nitrocellulose Plastics.Sec. 1.54.Industrial Baking and Drying Ovens.Sec. 1.55.Standing Room, Candy Counters, and Vending Machine Spaces.Sec. 1.56.Compressed Gases.Sec. 1.57.Tents.Sec. 1.58.Tire Rebuilding Plants.Sec. 1.59.Welding and Cutting Operations.Sec. 1.60.Flammable Liquid Tank Vehicles.Sec. 1.61.Establishment, Maintenance and Operation of Food Products and Marketing Establishments.Sec. 1.62.Maintenance and Operation of Meat and Meat Food Product Vehicles.Sec. 1.64.Establishment, Maintenance and Operation of Food Preparation and Service Establishments.Sec. 1.65.Establishment, Maintenance and Operation of Salvage Goods and Merchandise Dealers.Sec. 1.66.Establishment, Maintenance and Operation of Cigar and Mattress Factories.Sec. 1.67.Establishment, Maintenance and Operation of Pet Shops.Sec. 1.68.Maintenance and Operation of Garbage Vehicles.Sec. 1.69.Establishment, Maintenance and Operation of Swimming Pools.Sec. 1.70.Maintenance and Operation of Private Ambulances.Sec. 1.71.Use of Hydrocyanic Gas, etc.Sec. 1.72.Business of Retail Firearms Dealer, Operation and Maintenance of.Sec. 1.73.Food Vending Machines.Sec. 1.74.Mobile Catering Vehicles.Sec. 1.75.Wells and Well Water.Sec. 1.76.Testers of Backflow Prevention or Cross-Connection Control Devices.Sec. 1.77.Medical Cannabis Dispensaries.Sec. 2.Approval of City Planning Commission.Sec. 3.Certain Permits to be Delivered to Tax Collector.Sec. 5.Notice of Issuance of Permits.Sec. 6.Notice to be Attached to Copy Posted – Cost of Posting.Sec. 7.Interference with Posting or Tampering with Notice Prohibited – Penalty.Sec. 8.Method of Appeal to the Board of Appeals.Sec. 8(a).Effective Date for Collection of Filing Fee.Sec. 9.Information to be Furnished to Board of Appeals.Sec. 10.Record Forwarded to Board of Appeals.Sec. 11.Court Reporter – Fees; Videotape of Proceedings as Administrative Record.Sec. 11(a).City attorney – Representation of Planning and Building Department staff.Sec. 12.Mailing Notice of Hearing.Sec. 13.Filing Request for Notice of Hearing.Sec. 14.Hearing and Decision.Sec. 15.Seal.Sec. 16.Rehearings.Sec. 17.Permitting Substitutes for Metal Badges.Sec. 22.Providing for Posting and Form of Notice of Hearing, Applications for Certain Permits.Sec. 23.Action on Other Applications.Sec. 24.Inspection by Department –  Revocation of Permits.Sec. 25.Advisory Board.Sec. 26.Facts to be Considered by Departments.Sec. 27.Fees.Sec. 28.Publication, Certain Applications.Sec. 29.Posting Notice of Issuance of Permits.Sec. 30.Appeals to Board of Appeals. Sec. 31.Applications Barred for One Year.Sec. 35.Fee for Inspection by the Health Department.Sec. 36.Fees, Penalty for Nonpayment.Sec. 37.Inspections, How Made.Sec. 38.Display of Certificate.Sec. 39.Duties of Police Officers.Sec. 40.Penalty.
+Editor’s Notes:
+	Sections designated 6.1-1 through 6.24-1 are codified in Article 6.
+	Sections designated 15A.1 et seq. are codified in Article 15A.
 SEC. 1.  DESIGNATING DEPARTMENTS FOR ISSUANCE OF PERMITS.
 	Permits shall be issued for the location and conduct of the businesses, enterprises or activities, enumerated hereinafter in Sections 1.1 to 1.76, inclusive, by the department or office authorized by Sections 1.1 to 1.76, inclusive, and Section 2 of this Article to issue each such class of permit, and subject to the approval of other departments and offices of the City and County, where specifically designated in any such case; provided that permit or license fees as required by ordinance shall be collected by the Tax Collector as provided in Section 3 of this Article.
 (Amended by Ord. 242-69, App. 7/29/69; Ord. 443-86, App. 11/13/86; Ord. 367-88, App. 8/5/88)
@@ -89,19 +92,19 @@ SEC. 1.10.  VEHICLES FOR HIRE.
 	For the operation of vehicles for hire – by the Police Department. 
 (Added by Ord. 274-64, App. 10/16/64)
 SEC. 1.11.  RESERVED.
-(Amended by Ord. 348-77, App. 7/22/77; Repealed by Ord. 287-08, File No. 081340, App. 12/5/2008)
+(Amended by Ord. 348-77, App. 7/22/77; repealed by Ord. 287-08, File No. 081340, App. 12/5/2008)
 SEC. 1.11.1.  RESERVED.
-(Added by Ord. 379-79, App. 7/13/79; Repealed by Ord. 287-08, File No. 081340, App. 12/5/2008)
+(Added by Ord. 379-79, App. 7/13/79; repealed by Ord. 287-08, File No. 081340, App. 12/5/2008)
 SEC. 1.12.  RESERVED.
 (Repealed by Ord. 287-08, File No. 081340, App. 12/5/2008)
 SEC. 1.13.  RESERVED.
-(Amended by Ord. 394-81, App. 7/3/81; Repealed by Ord. 287-08, File No. 081340, App. 12/5/2008)
+(Amended by Ord. 394-81, App. 7/3/81; repealed by Ord. 287-08, File No. 081340, App. 12/5/2008)
 SEC. 1.13.1.  RESERVED.
-(Amended by Ord. 394-81, App. 7/3/81; Repealed by Ord. 287-08, File No. 081340, App. 12/5/2008)
+(Amended by Ord. 394-81, App. 7/3/81; repealed by Ord. 287-08, File No. 081340, App. 12/5/2008)
 SEC. 1.13.2.  RESERVED.
-(Amended by Ord. 394-81, App. 7/3/81; Repealed by Ord. 287-08, File No. 081340, App. 12/5/2008)
+(Amended by Ord. 394-81, App. 7/3/81; repealed by Ord. 287-08, File No. 081340, App. 12/5/2008)
 SEC. 1.14.  RESERVED.
-(Added by Ord. 274-64, App. 10/16/64; Repealed by Ord. 287-08, File No. 081340, App. 12/5/2008)
+(Added by Ord. 274-64, App. 10/16/64; repealed by Ord. 287-08, File No. 081340, App. 12/5/2008)
 SEC. 1.15.  PUBLIC DISPLAY OF FIREWORKS.
 	For the conducting of a public display of fireworks – by the Fire Department; subject to approval of the Police Department insofar as matters of traffic control are involved. 
 (Added by Ord. 274-64, App. 10/16/64)
@@ -112,7 +115,7 @@ SEC. 1.17.  SERVICE STATIONS.
 	For the establishment, maintenance and operation of service stations – by the Fire Department; subject to the approval of the Department of Public Works insofar as traffic control is involved. 
 (Added by Ord. 274-64, App. 10/16/64)
 SEC. 1.18.  RESERVED.
-(Added by Ord. 274-64, App. 10/16/64; Repealed by Ord. 219-10, File No. 100639, App. 8/12/2010)
+(Added by Ord. 274-64, App. 10/16/64; repealed by Ord. 219-10, File No. 100639, App. 8/12/2010)
 SEC. 1.19.  ACETYLENE GENERATOR.
 	For the operation and use of an acetylene generator – by the Fire Department. 
 (Added by Ord. 274-64, App. 10/16/64)
@@ -3355,6 +3358,34 @@ SECS. 1580. - 1588.
 (Added by Ord. 157-95, App. 5/12/95; repealed by Ord. 32-04; File No. 031609, App. 3/5/2004)
 SECS. 1590. - 1591. 
 (Added by Ord. 157-95, App. 5/12/95; repealed by Ord. 32-04; File No. 031609, App. 3/5/2004)
+ARTICLE 15A:
+PUBLIC REALM LANDSCAPING, IMPROVEMENT AND MAINTENANCE ASSESSMENT DISTRICTS ("GREEN BENEFIT DISTRICTS")
+ New Ordinance Notice
+Publisher's Note: This Article has been ADDED by new legislation (Ord. 14-14, approved 2/14/2014, effective 3/16/2014). The text of the Article's constituent sections will be included below when the enacting legislation is effective.
+
+Sec. 15A.1.Purpose.Sec. 15A.2.Augmentation and Modification of State Law Requirements Governing Property and Business Improvement Districts.Sec. 15A.3.Severability.Sec. 15A.4.City Planning Referral.Sec. 15A.5.Assessment Limitation.
+Editor's Note:
+	The sections of this Article are numbered out of sequence with the rest of this Code. Section 15 of this Code is codified in Article 1 above. The preceding Article 15 comprises sections numbered through 1515. The following Article 17 comprises sections beginning with 1700.
+SEC. 15A.1.  PURPOSE.
+ New Ordinance Notice
+Publisher's Note: This section has been ADDED by new legislation (Ord. 14-14, approved 2/14/2014, effective 3/16/2014). The text of the section will be included below when the enacting legislation is effective.
+
+SEC. 15A.2.  AUGMENTATION AND MODIFICATION OF STATE LAW REQUIREMENTS GOVERNING PROPERTY AND BUSINESS IMPROVEMENT DISTRICTS.
+ New Ordinance Notice
+Publisher's Note: This section has been ADDED by new legislation (Ord. 14-14, approved 2/14/2014, effective 3/16/2014). The text of the section will be included below when the enacting legislation is effective.
+
+SEC. 15A.3.  SEVERABILITY.
+ New Ordinance Notice
+Publisher's Note: This section has been ADDED by new legislation (Ord. 14-14, approved 2/14/2014, effective 3/16/2014). The text of the section will be included below when the enacting legislation is effective.
+
+SEC. 15A.4.  CITY PLANNING REFERRAL.
+ New Ordinance Notice
+Publisher's Note: This section has been ADDED by new legislation (Ord. 14-14, approved 2/14/2014, effective 3/16/2014). The text of the section will be included below when the enacting legislation is effective.
+
+SEC. 15A.5.  ASSESSMENT LIMITATION.
+ New Ordinance Notice
+Publisher's Note: This section has been ADDED by new legislation (Ord. 14-14, approved 2/14/2014, effective 3/16/2014). The text of the section will be included below when the enacting legislation is effective.
+
 ARTICLE 16:
 [RESERVED]
 	Ordinance 305-93, App. 09/24/1993, which added sections 1601—1616 of the S.F. Business and Tax Regulations Code, is not operational. Entitled "San Francisco County Transactions and Use Tax," the ordinance established and implemented a tax in the event that CA Senate Constitutional Amendment No. 1 ("SCA 1") failed to be approved at the November 2, 1993 state special election. In the November 1993 California election, the voters passed Proposition 172 ("SCA 1"), the Local Public Safety Protection and Improvement Act of 1993.
@@ -3899,4 +3930,7 @@ Sections Affected:
 New Ordinances
 Publisher's Note:  The following table lists all ordinances affecting the Business and Tax Regulations Code that have been passed by the Board of Supervisors but that are not yet effective. The table includes links to the amending ordinances (as maintained in PDF format on the Board of Supervisors' web site) and to the code sections affected. For other legislation, including older ordinances and those affecting other codes, please refer to the Comprehensive Ordinance Table or the Board's "Legislation Passed" web site.
 
-Ord. No.File No.Eff. DateShort Title and Code Sections Affected[None]
+Ord. No.File No.Eff. DateShort Title and Code Sections Affected14-1413046203/16/14Business and Tax Regulations Code - Public Realm Landscaping, Improvement, and Maintenance Assessment Districts
+
+Sections Affected:
+Art. 15A, Secs. 15A.1, 15A.2, 15A.3, 15A.4, 15A.5 (Added)

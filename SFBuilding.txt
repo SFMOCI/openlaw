@@ -2,7 +2,8 @@
 SAN FRANCISCO 
 BUILDING INSPECTION COMMISSION CODES
 
-The San Francisco Building Inspection Commission (BIC) Codes is current through:
+The San Francisco Building Inspection Commission (BIC) Codes are current through:
+
 Ordinances approved through December 31, 2013 and
 Administrative Bulletins approved through November 12, 2013.
 
@@ -448,8 +449,8 @@ SECTION 106A – PERMITS
 106A.1.12  Permit and fees for change in occupancy or use. Whenever a change in occupancy or use is made, a building permit shall be required to legalize the changed use or occupancy. The fee shall be the minimum fee required for filing for a permit and must be secured prior to the change of occupancy.
 	In the event any alteration work is required, the alteration permit shall be considered sufficient for this requirement and no additional permit will be required or additional fee required for the change in use or occupancy except as set forth in Section 109A.8.
 106A.1.13  Permits and fees for construction of an impervious surface in a front yard setback.
-	1.	General. It shall be unlawful for any person, firm or corporation to commence or proceed with the construction of an impervious surface in a front yard setback area, other than a driveway as defined in the Planning Code Section 136(c) (30), unless a permit is first obtained. See Section 110A, Table 1A-F – Specialty Permit Fees – for applicable fee.
-	2.	Referral to Planning Department. The Department shall refer all applications for a permit pursuant to this section to the Planning Department for a determination regarding the proposed construction's compliance with Sections 132(g) and 136(c) (30) of the Planning Code. The Department may not issue the permit unless Planning determines the proposed construction to be compliant.
+	1.	General. It shall be unlawful for any person, firm or corporation to commence or proceed with the construction of an impervious surface in a front yard setback area, other than a driveway as defined in the Planning Code Section 136(c)(30), unless a permit is first obtained. See Section 110A, Table 1A-F – Specialty Permit Fees – for applicable fee.
+	2.	Referral to Planning Department. The Department shall refer all applications for a permit pursuant to this section to the Planning Department for a determination regarding the proposed construction's compliance with Sections 132(g) and 136(c)(30) of the Planning Code. The Department may not issue the permit unless Planning determines the proposed construction to be compliant.
 	3.	Penalty for violation. Any person, firm or corporation violating the provisions of this Section shall be guilty of an infraction. Every violation determined to be an infraction is punishable by (1) a fine not exceeding $100 for a first violation, (2) a fine not exceeding $200 for a second violation within one year, and (3) a fine not exceeding $500 for a third violation within one year.
 106A.2  Work exempt from permit. Exemptions from the permit requirements of this code shall not be deemed to grant authorization for any work to be done in any manner in violation of the provisions of this code or any other laws or ordinances of this jurisdiction. A building permit shall not be required for the following:
 	1.	One-story detached accessory buildings or structures used as tool and storage sheds, playhouses and similar uses, provided the projected roof area does not exceed 100 square feet (9.29 m2).
@@ -535,7 +536,7 @@ EXCEPTION:
 106A.3.2.6  Construction dust control.
 106A.3.2.6.1  Dust control required. All applicants for a building, demolition, excavation, grading, foundation, or other permit required by this Code to construct a new building, to demolish a building, to substantially alter or to add to an existing building shall comply with the requirements for dust control and, in addition, for projects over a half acre the applicant will be required to submit a Dust Control Plan for approval by the San Francisco Health Department as set forth in Article 22B of the San Francisco Health Code.
 106A.3.2.6.2  Permit approval. For projects of over one half acre in size, no building or other permit application subject to the requirements of this section shall be approved until the Department of Building Inspection receives either
-	(a)	written notification from the Director of Public Health that the applicant either has a site- specific dust control plan for the project approved by the Director of Public Health or the Director of Public Health has waived the requirement or
+	(a)	written notification from the Director of Public Health that the applicant either has a site-specific dust control plan for the project approved by the Director of Public Health or the Director of Public Health has waived the requirement or
 	(b)	the applicant qualifies as an interior only tenant improvement project that will not produce exterior visible dust and therefore is exempt from complying with Article 22B of the San Francisco Health Code.
 	EXCEPTION: The Director may issue a site permit pursuant to Section 106A.3.4.2 prior to the time an applicant complies with this section.
 106A.3.2.6.3  General dust control requirements.
@@ -1076,10 +1077,10 @@ SECTION 202 – DEFINITIONS
 KITCHEN. That portion in a residential dwelling unit that is a room or area used for cooking, food storage and preparation and washing dishes, including associated counter tops and cabinets, refrigerator, stove, ovens and floor area.
 202   Revise the first sentence of the following two definitions under STANDPIPE SYSTEM:
 STANDPIPE SYSTEM, CLASSES OF. Standpipe classes are as follows:
-	Class I system. A system providing 3" (76.2 mm) hose connections to supply water for use by fire departments and those trained in handling heavy fire streams.
-	Class III system. A system providing 1-1/2-inch (38 mm) hose stations to supply water for use by building occupants and 3" (76.2 mm) hose connections to supply a larger volume of water for use by fire departments and those trained in handling heavy fire streams.
+	Class I system. A system providing 3" (76.2 mm) [ß] hose connections to supply water for use by fire departments and those trained in handling heavy fire streams.
+	Class III system. A system providing 1-1/2-inch (38 mm) hose stations to supply water for use by building occupants and 3" (76.2 mm) [ß] hose connections to supply a larger volume of water for use by fire departments and those trained in handling heavy fire streams.
 202  Revise this definition as follows:
-STORY, FIRST. For Large family day care, the first story shall be the floor used for residential occupancy nearest to the street level which provides primary access to the building.  
+STORY, FIRST. For Large family day care, the first story shall be the floor used for residential occupancy nearest to the street level which provides primary access to the building. [ß]
 Chapter 3
 USE AND OCCUPANCY CLASSIFICATION
 	No San Francisco Building Code Amendments.
@@ -1132,12 +1133,12 @@ ADDITIONAL REQUIRED SUPPRESSION SYSTEMS
 SECTIONSUBJECT3202.3.4Pedestrian Walkways over Public Streets
 SECTION 905 – STANDPIPE SYSTEMS
 905.3.4  Revise this section as follows:
-905.3.4  Stages. Stages greater than 1,000 square feet in area (93 m2) shall be equipped with a Class III wet standpipe system with 1-1/2-inch and 3-inch (38 mm and 76.2 mm) hose connections on each side of the stage.
+905.3.4  Stages. Stages greater than 1,000 square feet in area (93 m2) shall be equipped with a Class III wet standpipe system with 1-1/2-inch and 3-inch (38 mm and 76.2 mm) [ß] hose connections on each side of the stage.
 SECTION 907 – FIRE ALARM AND DETECTION SYSTEMS
 907.2.9.1  Revise Item 3 as follows:
-	3.	The building contains more than 6 dwelling units or sleeping units.
+	3.	The building contains more than 6 [ß] dwelling units or sleeping units.
 907.2.9.1  Revise Item 4 as follows:
-	4.	Congregate living facilities or congregate residences three or more stories in height or having an occupant load of 11 or more.
+	4.	Congregate living facilities or congregate residences three or more stories in height or having an occupant load of 11 or more.[ß]
 907.2.9.5  Add the following section:
 907.2.9.5  Automatic smoke detection system. An automatic smoke detection system that activates the occupant notification system in accordance with Section 907.6 shall be installed throughout all interior corridors serving sleeping units.
 Exceptions:
@@ -1448,14 +1449,14 @@ SECTION 1503 – WEATHER PROTECTION
 	All storm- or casual water from roof areas which total more than 200 square feet (18.58 m2) shall drain or be conveyed directly to the building drain or storm drain or to an approved alternate location based on approved geotechnical and engineering design. Such drainage shall not be directed to flow onto adjacent property or over public sidewalks. Building projections not exceeding 12 inches (305 mm) in width are exempt from drainage requirements without area limitations.
 SECTION 1505 – FIRE CLASSIFICATION
 1505.1  Revise the first sentence as follows:
-1505.1  General. Roof assemblies shall be divided into the classes defined below. Class A or B roof assemblies and roof coverings required to be listed by this section shall be tested in accordance with ASTM E 108 or UL 790.
+1505.1  General. Roof assemblies shall be divided into the classes defined below. Class A or B roof assemblies and roof coverings required to be listed by this section shall be tested in accordance with ASTM E 108 or UL 790. [ß]
 1505.1  Add the following at the end of the first paragraph:
 Class B or better roof coverings shall be used on all buildings.
 1505.1  Add the following second exception:
 	2.	Detached accessory structures with a roof of less than 200 square feet (18.58 m2) may have roof coverings of Class A, B or C.
 Table 1505.1  Revise the table as follows:
 TABLE 1505.1 – MINIMUM ROOF COVERING CLASSIFICATION FOR TYPES OF CONSTRUCTION
-IAIBIIAIIBIIIAIIIBIVVAVBBBBB BBBBB
+IAIBIIAIIBIIIAIIIBIVVAVBBBBB BBBBB[ß]
 SECTION 1507 – REQUIREMENTS FOR ROOF COVERINGS
 1507.8  Add the following sentence at the end of the paragraph:
 Untreated wood shingles shall not be permitted.
@@ -1967,7 +1968,7 @@ SECTION 1704 – SPECIAL INSPECTIONS
 1704.1  General.
 Replace Exception 2 as follows:
 	2.	The special inspections and verifications for foundation concrete, other than cast-in-place drilled piles or caissons, are not required for occupancies in Group R-3 and occupancies in Group U that are accessory to a residential occupancy, but not limited to, those listed in Section 312.1.
-	This exception shall not apply to foundations serving as retaining walls of soil over 5 feet (1829 mm) in height measured from the base of the foundation, or the structural design of the footing based on a specified compressive strength, f'c, greater than 2,500 pounds per square inch (psi) (17.2 MPa), regardless of the compressive strength specified in the construction documents or used in the footing construction. 
+	This exception shall not apply to foundations serving as retaining walls of soil over 5 feet (1829 mm) in height measured from the base of the foundation, or the structural design of the footing based on a specified compressive strength, f'c, greater than 2,500 pounds per square inch (psi) (17.2 MPa), regardless of the compressive strength specified in the construction documents or used in the footing construction. [ß]
 SECTION 1705 – STATEMENT OF SPECIAL INSPECTIONS
 Add the following sections:
 1705.4.3  Exterior facing. Special inspection is required during fastening of all exterior veneer and ornamentation facing units constructed of concrete, masonry, stone or similar materials, and all curtain walls weighing more than 15 pounds per square foot (73.23 kg/m2) of wall.
@@ -2054,11 +2055,11 @@ Chapter 26
 PLASTIC
 SECTION 2603 – FOAM PLASTIC INSULATION
 2603.3  Revise the first sentence of Exception 3 as follows:
-	3.	Foam plastic insulation that is part of a Class A, or B, roof-covering assembly provided the assembly with the foam plastic insulation satisfactorily passes FM 4450 or UL 1256.
+	3.	Foam plastic insulation that is part of a Class A, or B, [ß] roof-covering assembly provided the assembly with the foam plastic insulation satisfactorily passes FM 4450 or UL 1256.
 2603.4.1.5  Revise this section as follows:
-2603.4.1.5  Roofing. Foam plastic insulation under a roof assembly or roof covering that is installed in accordance with the code and the manufacturer's instructions shall be separated from the interior of the building by wood structural panel sheathing not less than 0.47 inch (11.9mm) in thickness bonded with exterior glue, and identified as Exposure 1 with edges supported by blocking, tongue-and-groove joints or other approved type of edge support, or an equivalent material. A thermal barrier is not required for foam plastic insulation that is a part of a Class A, or B, roof-covering assembly, provided the assembly with the foam plastic insulation satisfactorily passes FM 4450 or UL 1256.
+2603.4.1.5  Roofing. Foam plastic insulation under a roof assembly or roof covering that is installed in accordance with the code and the manufacturer's instructions shall be separated from the interior of the building by wood structural panel sheathing not less than 0.47 inch (11.9mm) in thickness bonded with exterior glue, and identified as Exposure 1 with edges supported by blocking, tongue-and-groove joints or other approved type of edge support, or an equivalent material. A thermal barrier is not required for foam plastic insulation that is a part of a Class A, or B, [ß] roof-covering assembly, provided the assembly with the foam plastic insulation satisfactorily passes FM 4450 or UL 1256.
 2603.6  Revise this section as follows:
-2603.6  Roofing. Foam plastic insulation meeting the requirements of Sections 2603.2, 2603.3 and 2603.4 shall be permitted as a part of a roof-covering assembly, provided the assembly with the foam plastic insulation is a Class A, or B, roofing assembly where tested in accordance with ASTM E 108 or UL 790.
+2603.6  Roofing. Foam plastic insulation meeting the requirements of Sections 2603.2, 2603.3 and 2603.4 shall be permitted as a part of a roof-covering assembly, provided the assembly with the foam plastic insulation is a Class A, or B, [ß] roofing assembly where tested in accordance with ASTM E 108 or UL 790.
 Chapter 27
 ELECTRICAL
 	No San Francisco Building Code Amendments.
@@ -2108,7 +2109,7 @@ SECTION 3103 – TEMPORARY STRUCTURES
 See Section 106A.1.7 for permit requirements.
 SECTION 3107 – SIGNS
 Replace this section with the following sections:
-3107.1  General. Except as otherwise provided herein, all signs placed upon or attached to any building, structure or property shall comply with this chapter and shall be installed under a valid sign permit.
+3107.1  General. [ß] Except as otherwise provided herein, all signs placed upon or attached to any building, structure or property shall comply with this chapter and shall be installed under a valid sign permit.
 	The electrical portion of the sign shall be constructed in accordance with the requirements of the Electrical Code, and an electrical permit shall be obtained in accordance with that code.
 	Plans shall be filed with the application for a permit for any sign. When required, computations shall be provided.
 3107.1.1  Exempt signs. The following signs are exempt from the requirements of this code:
@@ -2226,13 +2227,13 @@ SECTION 3201 – GENERAL
 3201.4  Drainage. Drainage water collected from a roof, awning, canopy, or marquee, and condensate from mechanical equipment shall be conducted to the building drain or building sewer, and shall not flow over a public walking surface.
 SECTION 3202 – ENCROACHMENTS
 3202.3.1  Replace this section as follows:
-3202.3.1  Awnings, canopies, marquees and signs. Awnings, canopies, marquees and signs shall be constructed so as to support applicable loads as specified in Chapter 16. Canopies shall be allowed only over entrance doorways and only for Occupancy Groups A, B, F-1, M, S-1, S-2 and R. Canopies may be constructed as awnings and with the same limitations except that:
+3202.3.1  Awnings, canopies, marquees and signs. Awnings, canopies, marquees and signs shall be constructed so as to support applicable loads as specified in Chapter 16. [ß] Canopies shall be allowed only over entrance doorways and only for Occupancy Groups A, B, F-1, M, S-1, S-2 and R. Canopies may be constructed as awnings and with the same limitations except that:
 	1.	The maximum width shall be 10 feet (3.048 m); and
 	2.	The maximum extension over public sidewalk may be to a point 2 feet (0.61 m) from the curb; and
 	3.	The outer column support shall be located in the outer one-third of the sidewalk.
 3202.3.2  Replace this section as follows:
 3202.3.2  Windows, balconies, architectural features and mechanical equipment.
-	A 3-foot (0.914 m) projection shall be permitted for bay and oriel windows when the clearance above grade is at least 10 feet (3.048 m) and the width of the sidewalk is greater than 9 feet (2.74 m). Where the sidewalk width is 9 feet (2.74 m) or less, the projection shall not exceed 2 feet (0.61 m).
+	[ß] A 3-foot (0.914 m) projection shall be permitted for bay and oriel windows when the clearance above grade is at least 10 feet (3.048 m) and the width of the sidewalk is greater than 9 feet (2.74 m). Where the sidewalk width is 9 feet (2.74 m) or less, the projection shall not exceed 2 feet (0.61 m).
 	For all other appendages, a 2-foot (0.61 m) projection is permitted when the clearance above grade is at least 10 feet (3.048 m). The projection may be increased 1 inch (25.4 mm) for each additional foot of clearance over 10 feet (3.048 m), to a maximum of 4 feet (1.219 m).
 3202.3.4  Add the following after the first paragraph as follows:
 	A covered pedestrian walkway may be constructed over a street between buildings of only Types I-A and I-B construction. Permission from the Board of Supervisors and approval of the Department of Public Works and Planning Commission is required. The pedestrian walkway shall comply with the following conditions:
@@ -2267,7 +2268,7 @@ SECTION 3303 – DEMOLITION
 	6.	Any floor or wall left standing.
 	7.	The schedule of the days when the demolition will be done, i.e., on weekdays or on Sundays.
 3303.4  Replace this section with the following:
-3303.4  Vacant Lot. When a building is demolished, the permittee must remove all debris and remove all parts of the structure above grade except those parts that are necessary to provide support for the adjoining property. 
+3303.4  Vacant Lot.  [ß] When a building is demolished, the permittee must remove all debris and remove all parts of the structure above grade except those parts that are necessary to provide support for the adjoining property. 
 3303.8  Add a new section as follows:
 3303.8  Special Inspection. A registered civil engineer or licensed architect shall supervise the demolition work in accordance with rules and regulations adopted by the Building Official pursuant to Section 104A.2.1 to assure the work is proceeding in a safe manner and shall submit written progress reports to the Department in accordance with Section 1704.2.4.
 SECTION 3304 – SITE WORK
@@ -2296,7 +2297,7 @@ SECTION 3307 – PROTECTION OF ADJOINING PROPERTY
 		4.	If the excavation is intended to be or is deeper than the standard depth of foundations, which depth is defined to be a depth of nine feet below the adjacent curb level, at the point where the joint property line intersects the curb and if on the land of the coterminous owner there is any building or other structure the wall or foundation of which goes to standard depth or deeper then the owner of the land on which the excavation is being made shall, if given the necessary license to enter on the adjoining land, protect the said adjoining land and any such building or other structure thereon without cost to the owner thereof, from any damage by reason of the excavation, and shall be liable to the owner of such property for any such damage, excepting only for minor settlement cracks in buildings or other structures.
 SECTION 3311 – STANDPIPES
 3311.2  Replace this section with the following:
-3311.2  Fire Safety During Demolition. All existing dry standpipes shall be maintained in an operative condition and with all inlets and outlets accessible for use within two floors of the highest remaining portion of a floor of the building. The inlets shall be so identified at the street level as to be easily located by the Fire Department. They shall be removed in place with floor removal and the upper ends capped above the highest remaining valve. The remaining system on the lower floors shall continue operative until all construction above the third floor has been removed.
+[ß]3311.2  Fire Safety During Demolition. All existing dry standpipes shall be maintained in an operative condition and with all inlets and outlets accessible for use within two floors of the highest remaining portion of a floor of the building. The inlets shall be so identified at the street level as to be easily located by the Fire Department. They shall be removed in place with floor removal and the upper ends capped above the highest remaining valve. The remaining system on the lower floors shall continue operative until all construction above the third floor has been removed.
 Chapter 34
 EXISTING STRUCTURES
 SECTION 3401 – GENERAL
@@ -2350,7 +2351,7 @@ SECTION 3405 – REPAIRS
 	Wind loads for this evaluation shall be those prescribed in Section 1609. Earthquake loads for this evaluation, if required, shall be permitted to be 75 percent of those prescribed in Section 1613. Values of R, Wo and Cd for the existing seismic force-resisting system shall be those specified by this code for an ordinary system unless it is demonstrated that the existing system will provide performance equivalent to that of an intermediate or special system.
 3405.4  Replace this section as follows:
 3405.4  Less Than Substantial Structural Damage.
-3405.4.1  Disproportionate damage. Buildings with disproportionate damage shall be subject to the requirements of Section 3405.2 for earthquake evaluation and rehabilitation as if they had substantial structural damage to vertical elements of the lateral-force-resisting system.
+[ß]3405.4.1  Disproportionate damage. Buildings with disproportionate damage shall be subject to the requirements of Section 3405.2 for earthquake evaluation and rehabilitation as if they had substantial structural damage to vertical elements of the lateral-force-resisting system.
 	Permit applications for required rehabilitation work shall be submitted to the Department within one (1) year after the earthquake, and the work shall be completed as specified in Table B of Section 106A.4.4.
 3405.4.2  Other damage. For damage less than substantial structural damage that is not disproportionate damage, repairs shall be allowed that restore the building to its predamage state, based on material properties and design strengths applicable at the time of original construction. New structural members and connections used for this repair shall comply with the detailing provisions of this code for new buildings of similar structure, purpose and location.
 SECTION 3408 – CHANGE OF OCCUPANCY
@@ -2365,7 +2366,7 @@ SECTION 3410 – MOVED STRUCTURES
 SECTION 3414 – EXISTING HIGH-RISE BUILDINGS [SFM]
 3414.27  Replace this section with the following sections:
 3414.27  Automatic Sprinkler System – Existing High-Rise Buildings.
-3414.27.1  General. Regardless of any other provisions of this code, every existing high-rise building as defined in Section 403.11.1 shall be provided with an approved automatic fire sprinkler system conforming to NFPA 13. Existing high-rise buildings that are also qualified historical buildings as defined in California Health and Safety Code Section 18950 shall be provided with an approved automatic fire sprinkler system when and as required by the State Historical Building Code.
+[ß]3414.27.1  General. Regardless of any other provisions of this code, every existing high-rise building as defined in Section 403.11.1 shall be provided with an approved automatic fire sprinkler system conforming to NFPA 13. Existing high-rise buildings that are also qualified historical buildings as defined in California Health and Safety Code Section 18950 shall be provided with an approved automatic fire sprinkler system when and as required by the State Historical Building Code.
 EXCEPTIONS:
 	1.	An apartment house, condominium or other building used as a Group R, Division 2 Occupancy as defined in this code excluding tourist hotels as defined in Section 41.4(r) of the San Francisco Administrative Code.
 	2.	A mixed-use occupancy building containing a Group R, Division 1 or Group R, Division 2 Occupancy.
@@ -2812,7 +2813,7 @@ JI03.2  Add the following five exemptions:
 	12.	Grading operations which in the opinion of the Director are of such a minor nature that the proposed work will not affect the adjoining land, or any existing structures, either those on the same or adjoining land. For such grading operations, the requirements of this chapter may be waived in whole or in part.
 SECTION J104 – PERMIT APPLICATION AND SUBMITTALS
 J104.3  Replace the exception as follows:
-	Exception: Grading conforming to all of the following requirements:
+[ß]	Exception: Grading conforming to all of the following requirements:
 	1.	No cut section is greater than 10 feet (3.048 m) in vertical height.
 	2.	No cut slope is steeper than 2 horizontal to 1 vertical.
 	3.	The tops of cut banks are separated from any structure or major improvement by a distance, measured horizontally, equal to not less than the height of the bank.
@@ -2971,7 +2972,7 @@ Acting Director
 Department of Building Inspection
 Approved by Building Inspection Commission October 15, 2008
 Attachment A:	Documentation of Priority Permit Processing
-Attachment B:	SF Campaign and Governmental Conduct Code, Section 3.400
+Attachment B:	SF Campaign and Government Conduct Code, Section 3.400
 Attachment C:	Permit Processing Code of Conduct
 Attachment D:	Planning Director Bulletin No. 2
 Attachment E:	DPW Director’s Order #175,487
@@ -5407,7 +5408,7 @@ Article 89
 GENERAL CODE PROVISIONS
 89.101.1  Replace the first sentence of this section with the following:
 89.101.1  Title. 
-The provisions contained in this Code shall be known as the 2010 San Francisco Electrical Code, and may be cited as such and will be referred to as "this code." . . . 
+[ß]The provisions contained in this Code shall be known as the 2010 San Francisco Electrical Code, and may be cited as such and will be referred to as "this code." . . . 
 89.115  Add the following new section:
 89.115  Suppression. 
 This code shall supersede all previous Electrical Codes and ordinances in the City and County of San Francisco. Nothing herein shall require the revision of electrical installation plans submitted prior to the adoption date of this code. Electrical permits obtained prior to the effective date of this code shall comply with the provisions of the Electrical Code, ordinances, regulations and rulings in effect when the permit was granted.
@@ -5527,13 +5528,13 @@ General
 ARTICLE 110 – REQUIREMENTS FOR ELECTRICAL INSTALLATIONS
 110.15  Revise this section as follows:
 110.15  High-Leg Marking. 
-On a 4-wire, delta-connected system where the midpoint of one phase winding is grounded, only the conductor or busbar having the higher phase voltage to ground shall be durably and permanently marked by an outer finish that is purple in color or by other effective means. Such identification shall be placed at each point on the system where a connection is made if the grounded conductor is also present. Identification of ungrounded feeder conductors shall comply with Section 210-5(C).
+On a 4-wire, delta-connected system where the midpoint of one phase winding is grounded, only the conductor or busbar having the higher phase voltage to ground shall be durably and permanently marked by an outer finish that is purple [ß] in color or by other effective means. Such identification shall be placed at each point on the system where a connection is made if the grounded conductor is also present. Identification of ungrounded feeder conductors shall comply with Section 210-5(C).
 110.26  Spaces About Electrical Equipment. 
 . . .
 	(A)	Working Space. . . . 
 110.26(A)(3)  Revise this section as follows:
 		(3)	Height of Working Space. The work space shall be clear and extend from the grade, floor, or platform to a height of 2.0 m (6½ ft) or the height of the equipment, whichever is greater. Within the height requirements of this section, other equipment that is associated with the electrical installation and is located above or below the electrical equipment shall be permitted to extend not more than 150 mm (6 in.) beyond the front of the electrical equipment. 
-Exception No. 1:  [Editor's Note: Exception No. 1 is deleted by local amendment.]
+Exception No. 1:  [ß][Editor's Note: Exception No. 1 is deleted by local amendment.]
 Exception No. 2:  Meters that are installed in meter sockets shall be allowed to extend beyond the other equipment. The meter socket shall be required to follow the rules of this section. 
 110.26(B)  Revise this section as follows:
 	(B)	Clear Spaces. Working space required by this section shall not be used for storage. When normally enclosed live parts are exposed for inspection or servicing, the working space, if in a passageway or general open space, shall be suitably guarded. The standing area of the workspace shall not contain obstructions, abrupt changes in grade, or irregularities.
@@ -5544,7 +5545,7 @@ ARTICLE 210 – BRANCH CIRCUITS
  . . .
 	(C)	Identification of Ungrounded Conductors.
 210.5(C )(1)  Revise this section as follows:
-		(1)	 Application. Each ungrounded conductor of a branch circuit shall be identified by phase or line and system at all termination, connection, and splice points.
+		(1)	 Application. [ß] Each ungrounded conductor of a branch circuit shall be identified by phase or line and system at all termination, connection, and splice points.
 210.5(C)(2)  Revise this section as follows:
 		(2)	Means of Identification. The means of identification for conductors #8 AWG or larger shall be permitted to be by separate color coding, marking tape, tagging, or other approved means. Conductors of any size in cable assemblies may be suitably identified at all termination, connection and splice points. Conductor insulation in raceways shall contain continuous color pigment for circuit wire sizes # 10 AWG and smaller. 
 Phase identification colors shall be: 
@@ -5556,27 +5557,27 @@ Informational Note: See Section 200.7 for limitations on re-identification of wh
 ARTICLE 215 – FEEDERS
 215.12  Identification for Feeders.
 215.12(C)  Revise this section as follows: 
-	(C)	Ungrounded Conductors. Each ungrounded conductor of a feeder shall be identified by phase or line and system at all termination, connection and splice points. The means of identification shall be permitted to be by separate color coding, marking tape, tagging, or other approved means. The method utilized for conductors originating within each feeder panelboard or similar feeder distribution equipment shall be documented in a manner that is readily available or shall be permanently posted at each feeder panelboard or similar feeder distribution equipment.
+	(C)	Ungrounded Conductors. Each [ß] ungrounded conductor of a feeder shall be identified by phase or line and system at all termination, connection and splice points. The means of identification shall be permitted to be by separate color coding, marking tape, tagging, or other approved means. The method utilized for conductors originating within each feeder panelboard or similar feeder distribution equipment shall be documented in a manner that is readily available or shall be permanently posted at each feeder panelboard or similar feeder distribution equipment.
 ARTICLE 230 – SERVICES	
 230.43  Revise this section as follows: 
 230.43  Wiring Methods for 600 Volts, Nominal, or Less. 
-	(A)	General. Service-entrance conductors shall be installed in accordance with the applicable requirements of this Code covering the type of wiring method used and shall be limited to the following methods: 
-		(1)	Reserved;
-		(2)	Reserved;
+	(A)	General. [ß]Service-entrance conductors shall be installed in accordance with the applicable requirements of this Code covering the type of wiring method used and shall be limited to the following methods: 
+		(1)	Reserved; [ß]
+		(2)	Reserved; [ß]
 		(3)	Rigid metal conduit;
 		(4)	Intermediate metal conduit;
-		(5)	Reserved;
-		(6)	Reserved;
-		(7)	Reserved;
-		(8)	Reserved;
+		(5)	Reserved; [ß]
+		(6)	Reserved; [ß]
+		(7)	Reserved; [ß]
+		(8)	Reserved; [ß]
 		(9)	Busways;
 		(10)	Auxiliary gutters;
 		(11)	Rigid polyvinyl chloride conduit (PVC);
-		(12)	Reserved;
-		(13)	Reserved;
+		(12)	Reserved; [ß]
+		(13)	Reserved; [ß]
 		(14)	Mineral-insulated, metal sheathed cable;
-		(15)	Reserved;
-		(16)	Reserved;
+		(15)	Reserved; [ß]
+		(16)	Reserved; [ß]
 		(17)	High Density Polyethylene Conduit (HDPE);
 		(18)	Non-metallic Underground Conduit with Conductors (NUCC);
 		(19)	Reinforced Thermosetting Resin Conduit (RTRC).
@@ -5588,10 +5589,10 @@ Exception: New service entrance conductors may be repulled in previously approve
 Informational Note: Refer to electric utility service requirements for raceway sizes.
 230.56  Revise this section as follows:
 230.56  Service Conductor with the Higher Voltage to Ground. 
-On a four-wire delta-connected service where the midpoint of one phase winding is grounded, the service conductor having the higher phase voltage to ground shall be durably and permanently marked by an outer finish that is purple in color, or by other effective means, at each termination or junction point.
+On a four-wire delta-connected service where the midpoint of one phase winding is grounded, the service conductor having the higher phase voltage to ground shall be durably and permanently marked by an outer finish that is purple [ß] in color, or by other effective means, at each termination or junction point.
 230.71(A)  Revise this section and add an exception as follows:
 230.71  Maximum Number of Disconnects. 
-	(A)	General. The service disconnecting means for each service permitted by 230.2, or for each set of service-entrance conductors permitted by 230.40, Exception Nos. 1, 3, 4, or 5, shall consist of a single circuit breaker or switch and set of fuses. For the purpose of this section, disconnecting means installed as part of listed equipment and used solely for the following shall not be considered a service disconnecting means:
+	(A)	General. The service disconnecting means for each service permitted by 230.2, or for each set of service-entrance conductors permitted by 230.40, Exception Nos. 1, 3, 4, or 5, shall consist of a single circuit breaker or switch and set of fuses. [ß] For the purpose of this section, disconnecting means installed as part of listed equipment and used solely for the following shall not be considered a service disconnecting means:
 		(1)	Power monitoring equipment
 		(2)	Surge-protective device(s)
 		(3)	Control circuit of the ground-fault protection system
@@ -5606,7 +5607,7 @@ Exception: Concrete-encased electrodes of existing buildings or structures shall
 	. . . 
 250.64  Grounding Electrode Condusctor Installation.
 250.64(A)  Revise this section as follows:
-	(A)	Aluminum or Copper-Clad Aluminum Conductors. Bare aluminum or copper-clad aluminum grounding conductors shall not be used where in direct contact with masonry or the earth or where subject to corrosive conditions. Aluminum or copper-clad aluminum grounding conductors shall not be installed on the outside of a building or structure.
+	(A)	Aluminum or Copper-Clad Aluminum Conductors. Bare aluminum or copper-clad aluminum grounding conductors shall not be used where in direct contact with masonry or the earth or where subject to corrosive conditions. Aluminum or copper-clad aluminum grounding conductors shall not be [ß]installed on the outside of a building or structure.
 250.64(B)  Revise this section as follows:
 	(B)	Securing and Protection Against Physical Damage. Where exposed, a grounding electrode conductor or its enclosure shall be securely fastened to the surface on which it is carried. Grounding electrode conductors shall be permitted to be installed on or through framing members. A 4 AWG or larger copper or aluminum grounding electrode conductor shall be protected if exposed to physical damage. A 6 AWG grounding electrode conductor that is free from exposure to physical damage shall be permitted to be run along the surface of the building construction without metal covering or protection if it is securely fastened to the construction; otherwise, it shall be protected in rigid metal conduit (RMC), intermediate metal conduit (IMC), rigid polyvinyl chloride conduit (PVC), reinforced thermosetting resin conduit (RTRC), electrical metallic tubing (EMT), or cable armor. Grounding electrode conductors smaller than 6 AWG shall be protected in RMC, IMC, PVC, RTRC, EMT or cable armor. Exposed grounding electrode conductors that are accessible to the general public shall be installed in approved metallic raceway. 6 AWG or smaller grounding electrode conductors shall not be installed exposed below 5 feet.
 Chapter 3.
@@ -5616,7 +5617,7 @@ ARTICLE 300 – WIRING METHODS
  . . .
 	(C)	Conductors of Different Systems.
 300.3(C)(1)  Revise this section as follows:
-		(1)	600 Volts, Nominal or Less. Conductors of ac and dc circuits, rated from separately derived systems, from separate services, or from separate utility meters shall not be permitted to occupy the same equipment wiring enclosure, cable or raceway with conductors from other systems, services, or meters. All conductors shall have an insulation rating equal to at least the maximum circuit voltage applied to any conductor within the enclosure, cable, or raceway. 
+		(1)	600 Volts, Nominal or Less. Conductors of ac and dc circuits, rated [ß] from separately derived systems, from separate services, or from separate utility meters shall not be permitted to occupy the same equipment wiring enclosure, cable or raceway with conductors from other systems, services, or meters. All conductors shall have an insulation rating equal to at least the maximum circuit voltage applied to any conductor within the enclosure, cable, or raceway. 
 Informational Note No. 1: See 725.136(A) for Class 2 and 3 circuit conductors 
 Informational Note No. 2: See 690.4(B) for photovoltaic source and output circuits 
 Exception No 1:	For solar photovoltaic systems in accordance with Section 690.4(B) 
@@ -5654,7 +5655,7 @@ FMC shall be permitted to be used in concealed locations and where necessary for
 ARTICLE 350 – LIQUIDTIGHT FLEXIBLE METAL CONDUIT: TYPE LFMC
 350.10  Revise the first sentence as follows:
 350.10  Uses Permitted. 
-LFMC shall be permitted to be used exposed where necessary for flexibility in lengths not to exceed 1.829 m (6 feet) locations or concealed locations as follows: . . .
+LFMC shall be permitted to be used exposed [ß] where necessary for flexibility in lengths not to exceed 1.829 m (6 feet) locations or concealed locations as follows: . . .
 ARTICLE 352 – RIGID POLYVINYL CHLORIDE CONDUIT: TYPE PVC
 352.10  Uses Permitted.
 352.10  Revise Item (A) as follows:
@@ -5669,7 +5670,7 @@ ARTICLE 356 – LIQUIDTIGHT FLEXIBLE NONMETALLIC CONDUIT: TYPE LFNC
 LFNC shall be permitted to be used in exposed or concealed locations for systems not exceeding 50 volts for the following purposes: . . .
 356.12  Uses Not Permitted.
 356.12  Revise item 4 of this section as follows:
-	(4)	Where the operating voltage of the contained conductors is in excess of 50 volts, nominal, except as permitted in 600.32(A).
+	(4)	Where the operating voltage of the contained conductors is in excess of 50 [ß] volts, nominal, except as permitted in 600.32(A).
 ARTICLE 358 – ELECTRICAL METALLIC TUBING: TYPE EMT
 358.10  Uses Permitted.
 358.10(B)  Add a second paragraph as follows:
@@ -5681,14 +5682,14 @@ ARTICLE 358 – ELECTRICAL METALLIC TUBING: TYPE EMT
 ARTICLE 362 – ELECTRICAL NONMETALLIC TUBING: TYPE ENT
 362.10  Uses Permitted.
 362.10  Revise Item 6 and delete Items 1,2,4,5,7, and 8 as follows:
-	(1)	Reserved.
-	(2)	Reserved.
+	(1)	Reserved. [ß]
+	(2)	Reserved. [ß]
 	. . .
-	(4)	Reserved.
-	(5)	Reserved.
+	(4)	Reserved. [ß]
+	(5)	Reserved. [ß]
 	(6)	Encased in poured concrete, or embedded in a concrete slab on grade where ENT is placed on sand or approved screenings, provided fittings identified for this purpose are used for connections. Metal raceways shall be provided where emerging from the concrete.
-	(7)	Reserved.
-	(8)	Reserved.
+	(7)	Reserved. [ß]
+	(8)	Reserved. [ß]
 ARTICLE 378 – NONMETALLIC WIREWAYS
 378.12  Uses Not Permitted. 
 378.12  Add Item (6) as follows: 
@@ -5702,7 +5703,7 @@ ARTICLE 410 – LUMINAIRES (LIGHTING FIXTURES), LAMPHOLDERS, AND LAMPS
 Exception: Supplemental support wires shall not be required when listed clips identified to be used without supplemental ceiling wires in compliance with IBC Section 808.1.1.1 are installed.
 ARTICLE 411 – LIGHTING SYSTEMS OPERATING AT 30 VOLTS OR LESS
 411.4  Revise Section Title and Item (A) as follows: 
-411.4  Locations not Permitted.
+411.4  Locations not Permitted. [ß]
 	(A)	Walls, Floors, and Ceilings. Conductors concealed or extended through a wall, floor ceiling, or suspended ceiling, shall be in accordance with (1) or (2):
 		(1)	Installed using any of the wiring methods specified in Chapter 3
 		(2)	Installed using wiring supplied by a listed Class 2 power source and installed in accordance with 725.130
@@ -5716,14 +5717,14 @@ ARTICLE 645 – INFORMATION TECHNOLOGY EQUIPMENT
 645.5(E)  Revise Item (2) as follows:
 645.5  Supply Circuits and Interconnecting Cables.
 	(E)	Under Raised Floors.
-		(2)	The branch-circuit supply conductors to receptacles or field-wired equipment are in rigid metal conduit, intermediate metal conduit, electrical metallic tubing, metal wireway, nonmetallic wireway, surface metal raceway with metal cover, nonmetallic surface raceway, flexible metal conduit, liquidtight flexible metal conduit, or liquidtight flexible nonmetallic conduit, Type MI cable, Type MC cable, or Type AC cable and associated metallic and nonmetallic boxes or enclosures. These supply conductors shall be installed in accordance with the requirements of Section 300.11.
+		(2)	The branch-circuit supply conductors to receptacles or field-wired equipment are in rigid metal conduit, [ß] intermediate metal conduit, electrical metallic tubing, [ß] metal wireway, nonmetallic wireway, surface metal raceway with metal cover, nonmetallic surface raceway, flexible metal conduit, liquidtight flexible metal conduit, or liquidtight flexible nonmetallic conduit, Type MI cable, Type MC cable, or Type AC cable and associated metallic and nonmetallic boxes or enclosures. These supply conductors shall be installed in accordance with the requirements of Section 300.11.
 Chapter 7.
 Special Conditions
 ARTICLE 700 – EMERGENCY SYSTEMS
 700.12  General Requirements.
 700.12(F)  Revise the last paragraph of this section as follows: 
 	(F)	Unit Equipment. . . . 
-	Unit equipment shall be permanently fixed in place (i.e., not portable) and shall have all wiring to each unit installed in accordance with the requirements of any of the wiring methods in Chapter 3. Flexible cord-and-plug connection shall not be permitted. The branch circuit feeding the unit equipment shall be the same branch circuit as that serving the normal lighting in the area and connected ahead of any local switches. The branch circuit that feeds unit equipment shall be clearly identified at the distribution panel. Emergency luminaires (illumination fixtures) that obtain power from a unit equipment and are not part of the unit equipment shall be wired to the unit equipment as required by 700.10 and by one of the wiring methods of Chapter 3.
+	Unit equipment shall be permanently fixed in place (i.e., not portable) and shall have all wiring to each unit installed in accordance with the requirements of any of the wiring methods in Chapter 3. Flexible cord-and-plug connection shall not be permitted. [ß] The branch circuit feeding the unit equipment shall be the same branch circuit as that serving the normal lighting in the area and connected ahead of any local switches. The branch circuit that feeds unit equipment shall be clearly identified at the distribution panel. Emergency luminaires (illumination fixtures) that obtain power from a unit equipment and are not part of the unit equipment shall be wired to the unit equipment as required by 700.10 and by one of the wiring methods of Chapter 3.
 700.16  Revise the first paragraph of this section as follows: 
 700.16  Emergency Illumination. 
 Emergency illumination shall include all required means of egress lighting, illuminated exit signs, and all other lights specified as necessary to provide required illumination. Emergency illumination shall be provided at the location of transfer switches, switchboards and panelboards that supply emergency and legally required stand-by loads.
@@ -5731,14 +5732,14 @@ Emergency illumination shall include all required means of egress lighting, illu
 ARTICLE 760 – FIRE ALARM SYSTEMS
 760.46  Revise this section as follows:
 760.46  NPLFA Circuit Wiring. 
-Installation of non-power-limited fire alarm circuits shall be in accordance with 110.3(B), 300.11, 300.15, 300.17, 300.19(B) and other appropriate articles of Chapter 3. Conductors shall be installed in metallic raceways or concrete-encased nonmetallic raceways. 
+Installation of non-power-limited fire alarm circuits shall be in accordance with 110.3(B), [ß] 300.11, 300.15, 300.17, 300.19(B) and other appropriate articles of Chapter 3. Conductors shall be installed in metallic raceways or concrete-encased nonmetallic raceways. 
 Exception No. 1: As provided in Sections 760.48 through 760.53. 
-Exception No. 2: [Editor's Note: Exception 2 is deleted by local amendment.]
+Exception No. 2: [ß] [Editor's Note: Exception 2 is deleted by local amendment.]
 760.130  Wiring Methods and Materials on Load Side of the PLFA Power Source.
 760.130(A)  Revise this section as follows: 
 	(A)	NPLFA Wiring Methods and Materials. Installation shall be in accordance with 760.46, and conductors shall be solid or stranded copper. 
 Exception No. 1: The ampacity adjustment factors given in 310.15(B)(3)(a) shall not apply. 
-Exception No. 2: Conductors and multiconductor cables described in and installed in accordance with 760.49 shall be permitted. 
+Exception No. 2: Conductors and multiconductor cables described in and installed in accordance with 760.49 [ß] shall be permitted. 
 Exception No. 3: Power-limited circuits shall be permitted to be reclassified and installed as non-power-limited circuits if the power-limited fire alarm circuit markings required by 760.124 are eliminated and the entire circuit is installed using the wiring methods and materials in accordance with Part II, Non-Power-Limited Fire Alarm Circuits. 
 Informational Note: Power-limited circuits reclassified and installed as non-power-limited circuits are no longer power-limited circuits, regardless of the continued connection to a power-limited source.
 760.130(B)  Revise this section as follows:
@@ -5803,16 +5804,16 @@ Chapter 1
 GENERAL
 SECTION 101 – GENERAL
 Revise this section as follows:
-101.1  Title. These regulations shall be known as the San Francisco Green Building Code and may be cited as such and will be referred to herein as "this code." The San Francisco Green Building Code consists of the combination of Part 11 of the official compilation and publication of the adoption, amendment and repeal of building regulations to the California Code of Regulations, Title 24, and Chapter 13C of San Francisco Building Inspection Commission Amendments to the California Building Standards Code.
-101.2  Purpose. The purpose of this chapter is to promote the health, safety and welfare of San Francisco residents, workers, and visitors by minimizing waste of energy, water, and other resources in the construction and operation of buildings in the City and County of San Francisco and by providing a healthy indoor environment. The green building practices required by this chapter will also further the goal of reducing the greenhouse gas emissions in the City and County of San Francisco to 25 percent below 1990 levels by the year 2017, as stated in Board of Supervisors Resolution No. 158-02 and San Francisco Environment Code Chapter 9.
-101.3  Scope. The provisions of this code shall apply to the planning, design, operation, construction, use and occupancy of every newly constructed building or structure, unless otherwise indicated in this code, as well as alterations to existing buildings throughout the City and County of San Francisco.
-	While this code references green building programs, the City and County of San Francisco does not confer certification under any green building program.
-101.3.1  Regulated buildings, structures and applications. Provisions of this code shall apply to the following buildings, structures, and applications regulated by state agencies as specified in Sections 103 through 106 of California Green Building Standards Code Title 24 Part 11, modified by local ordinance with supplemental requirements applicable to occupancy types A, B, I, M, and R as defined by California Building Code Title 24 Section 302 (2013) as amended pursuant to Section 101.7. When adopted by a state agency, the provisions of this code shall be enforced by the appropriate enforcing agency, but only to the extent of authority granted to such agency by statute.
-101.4  Appendices. [Reserved]
-101.6.1  Differences. In the event of any differences between these building standards and the standard reference documents, the text of this Chapter shall govern.
-101.6.3  Conflicts. When the requirements of this code conflict with the requirements of any other part of the California Building Standards Code, Title 24, any provision contained elsewhere in the San Francisco Municipal Code, or any regulation or requirement adopted by the Public Utilities Commission or other City agency under its Charter authority, the most restrictive requirement shall prevail.
-101.7  City and County Amendments, Additions and Deletions. This code includes the amendments, deletions, and additions to California green building requirements which maintain stricter local green building standards.
-101.10  Equivalency. Wherever reference is made to the LEED® or GreenPoint Rated systems, a comparable equivalent rating system may be used if approved by the Director. The applicable LEED®, GreenPoint Rated or equivalent versions of performance standards for applications subject to this chapter are:
+101.1  Title. These regulations shall be known as the San Francisco [ß] Green Building Code and may be cited as such and will be referred to herein as "this code." The San Francisco [ß] Green Building Code consists of the combination of Part 11 of the official compilation and publication of the adoption, amendment and repeal of building regulations to the California Code of Regulations, Title 24, and Chapter 13C of San Francisco Building Inspection Commission Amendments to the California Building Standards Code.
+101.2  Purpose. The purpose of this chapter is to promote the health, safety and welfare [ß] of San Francisco residents, workers, and visitors by minimizing waste of energy, water, and other resources in the construction and operation of buildings in the City and County of San Francisco and by providing a healthy indoor environment. The green building practices required by this chapter will also further the goal of reducing the greenhouse gas emissions in the City and County of San Francisco to 25 percent below 1990 levels by the year 2017, as stated in Board of Supervisors Resolution No. 158-02 and San Francisco Environment Code Chapter 9.
+101.3  Scope. The provisions of this code shall apply to the planning, design, operation, construction, use and occupancy of every newly constructed building or structure, unless otherwise indicated in this code, as well as alterations to existing buildings throughout the [ß] City and County of San Francisco.
+	While this code [ß] references green building programs, the City and County of San Francisco does not confer certification under any green building program.
+101.3.1  Regulated [ß] buildings, structures and applications. Provisions of this code shall apply to the following buildings, structures, and applications regulated by state agencies as specified in Sections 103 through 106 of California Green Building Standards Code Title 24 Part 11, modified by local ordinance [ß] with supplemental requirements applicable to occupancy types A, B, I, M, and R as defined by California Building Code Title 24 Section 302 (2013) as amended pursuant to Section 101.7. When adopted by a state agency, the provisions of this code shall be enforced by the appropriate enforcing agency, but only to the extent of authority granted to such agency by statute.
+101.4  Appendices. [Reserved] [ß]
+101.6.1  Differences. In the event of any differences between these building standards and the standard reference documents, the text of this Chapter [ß] shall govern.
+101.6.3  Conflicts. When the requirements of this code conflict with the requirements of any other part of the California Building Standards Code, Title 24, [ß] any provision contained elsewhere in the San Francisco Municipal Code, or any regulation or requirement adopted by the Public Utilities Commission or other City agency under its Charter authority, the most restrictive requirement shall prevail.
+101.7  City and County Amendments, Additions and Deletions. [ß] This code includes the amendments, deletions, and additions to California green building requirements which maintain stricter local green building standards.
+101.10  [ß]Equivalency. Wherever reference is made to the LEED® or GreenPoint Rated systems, a comparable equivalent rating system may be used if approved by the Director. The applicable LEED®, GreenPoint Rated or equivalent versions of performance standards for applications subject to this chapter are:
 	LEED® for Green Interior Design and Construction v2009
 	LEED® for Building Design and Construction v2009
 	LEED® for Homes v2008 
@@ -5824,19 +5825,19 @@ Revise this section as follows:
 	Compliance with any of these requirements may be verified and/or certified by any means, including third-party review, as approved by the Director.
 101.11  Effective use of this code. The following steps may be used to establish which provisions of this code are applicable to a specific occupancy:
 	1.	Establish the type of occupancy.
-	2.	Find the section which covers the established occupancy.
-	3.	Identify the minimum requirements of this code for the established occupancy in Sections 4 and 5.
-	4.	Administrative Bulletin 93, provided by the Department of Building Inspection, summarizes how the requirements of San Francisco Green Building Code and relevant local requirements may be met. Appendices to Administrative Bulletin 93 include tabular summaries of required measures, and provide submittal forms.
+	2.	Find [ß] the section which covers the established occupancy.
+	3.	Identify [ß] the minimum requirements of this code for the established occupancy in Sections 4 and 5.
+	4.	[ß]Administrative Bulletin 93, provided by the Department of Building Inspection, summarizes how the requirements of San Francisco Green Building Code and relevant local requirements may be met. Appendices to Administrative Bulletin 93 include tabular summaries of required measures, and provide submittal forms.
 Chapter 2
 DEFINITIONS
 SECTION 202 – DEFINITIONS
 Add and amend the following definitions:
 	GREENPOINT RATED, GREENPOINTS and GREENPOINTS CHECKLIST. The residential green building rating system and checklist and certification methodology of the non-profit organization Build It Green.
-	HIGH-RISE RESIDENTIAL BUILDING. For the purposes of this code, a building that is of Occupancy Group R and is four stories or greater.
+	HIGH-RISE RESIDENTIAL BUILDING. For the purposes of this code [ß], a building that is of Occupancy Group R and is four stories or greater.
 	HISTORICAL RESOURCE. A property that meets the terms of the definitions in Section 21084.1 of the CEQA Statute (The California Environmental Quality Act [Public Resources Code Section 21084.1]) and Section 15064.5 of the CEQA Guidelines, as determined by the San Francisco Planning Department.
 	LARGE COMMERCIAL BUILDING. A commercial building or addition of Group B, M, A, or I occupancy that is 25,000 gross square feet or more.
 	LEED® and LEED® CHECKLIST. The Leadership in Energy and Environment Design rating system, certification methodology, and checklist of the United States Green Building Council (USGBC).
-	LOW-RISE RESIDENTIAL BUILDING. For the purposes of this code, a building that is of Occupancy Group R and is three stories or less or that is a one or two family dwelling or townhouse.
+	LOW-RISE RESIDENTIAL BUILDING. For the purposes of this code, [ß] a building that is of Occupancy Group R and is three stories or less or that is a one or two family dwelling or townhouse.
 	MAJOR ALTERATIONS. Alterations where interior finishes are removed and significant upgrades to structural and mechanical, electrical and/or plumbing systems are proposed where areas of such construction are 25,000 gross square feet or more in Group B, M or R occupancies of existing buildings.
 	MID-SIZE COMMERCIAL BUILDING. A commercial building of Group B or M occupancy that is 5,000 or more and less than 25,000 gross square feet, and is not a high-rise building. 
 	NEWLY CONSTRUCTED (or NEW CONSTRUCTION). A newly constructed building (or new construction) is a building that has never before been used or occupied for any purpose and does not include additions, alterations or repairs. 
@@ -5845,7 +5846,7 @@ Chapter 3
 GREEN BUILDING
 SECTION 301 – GENERAL
 Revise this section as follows:
-301.1  Scope. Buildings in the City and County of San Francisco shall be designed to include the green building measures specified as mandatory under the California Green Building Standards Code (CalGreen). 
+301.1  Scope. Buildings in the City and County of San Francisco [ß] shall be designed to include the green building measures specified as mandatory under the California Green Building Standards Code (CalGreen). 
 	Additional green building requirements established by the City and County of San Francisco are mandatory for:
 	(1)	Newly constructed Group R occupancy buildings, 
 	(2)	Newly constructed buildings of Group B, M, A, and I occupancies that are 25,000 gross square feet or more, 
@@ -5856,26 +5857,26 @@ Revise this section as follows:
 	(2)	Any building undergoing renovation in which the area of renovation will be primarily for laboratory use of any occupancy classification.
 SECTION 302 – MIXED OCCUPANCY BUILDINGS
 Revise this section as follows:
-302.1  Mixed Occupancy Buildings. In mixed occupancy buildings, each portion of a building shall comply with the specific California Title 24 Part 11 required measures applicable to each specific occupancy. However, to fulfill any additional local green building requirements, the project sponsor may apply a single required green building standard to the entire building.
+302.1  Mixed Occupancy Buildings. In mixed occupancy buildings, each portion of a building shall comply with the specific California Title 24 Part 11 required [ß] measures applicable to each specific occupancy. However, to fulfill any additional local green building requirements, the project sponsor may apply a single required green building standard to the entire building.
 SECTION 303 – PHASED PROJECTS
 Add the following section:
 303.1.1.1  Maintenance of required features. Any structure subject to this chapter shall maintain the green building features required herein, or equivalent, regardless of subsequent alterations, additions, or changes of use, unless subject to subsequent or more stringent requirements.
 SECTION 304 – VOLUNTARY TIERS
 Revise this section as follows:
-	This section not applicable in San Francisco.
+	[ß]This section not applicable in San Francisco.
 SECTION 305 [OSHPD 1] – CALGREEN TIER 1 AND CALGREEN TIER 2
 Revise this section as follows:
-	This section not applicable in San Francisco.
+	[ß]This section not applicable in San Francisco.
 SECTION 306 – VOLUNTARY MEASURES
 Revise this section as follows:
-	This section not applicable in San Francisco.
+	[ß]This section not applicable in San Francisco.
 Chapter 4
 RESIDENTIAL REQUIREMENTS
 Division 4.1
 PLANNING AND DESIGN
 SECTION 4.101 – GENERAL
 Revise this section as follows:
-4.101.1  Scope. The provisions of this division outline planning, design and development methods that include environmentally responsible site selection, building design, building siting and development to protect, restore, enhance the environmental quality of the site, respect the integrity of adjacent properties, and promote the health, safety and welfare of San Francisco residents.
+4.101.1  Scope. The provisions of this division outline planning, design and development methods that include environmentally responsible site selection, building design, building siting and development to protect, restore, enhance the environmental quality of the site, respect the integrity of adjacent properties, and promote the health, safety and welfare of San Francisco residents. [ß]
 Add the following section:
 SECTION 4.103 – REQUIREMENTS FOR GROUP R OCCUPANCY BUILDINGS
 4.103.1  New Low-rise Residential Buildings.
@@ -5922,7 +5923,7 @@ Division 5.1
 PLANNING AND DESIGN
 SECTION 5.101 – GENERAL
 Revise this section as follows:
-5.101  Scope. The provisions of this chapter outline planning, design and development methods that include environmentally responsible site selection, building design, building siting and development to protect, restore, and enhance the environmental quality of the site, respect the integrity of adjacent properties, and promote the health, safety and welfare of San Francisco residents.
+5.101  Scope. The provisions of this chapter outline planning, design and development methods that include environmentally responsible site selection, building design, building siting and development to protect, restore, and enhance the environmental quality of the site, respect the integrity of adjacent properties, and promote the health, safety and welfare of San Francisco residents. [ß]
 Add the following section:
 SECTION 5.103 – REQUIREMENTS FOR GROUP A, B, I, AND M BUILDINGS
 5.103.1  New Large Commercial Buildings.
@@ -5986,12 +5987,12 @@ Add the following section:
 SECTION 702 – QUALIFICATIONS
 Modify the following section:
 702.2  Special Inspection. …
-	2.	Certification by a statewide energy consulting or verification organization, such as HERS raters, building performance contractors, home energy auditors, and ICC Certified CALGreen Inspectors.
+	2.	Certification by a statewide energy consulting or verification organization, such as HERS raters, building performance contractors, home energy auditors, [ß] and ICC Certified CALGreen Inspectors.
 Add the following section:
 702.3  Special Inspection. The Director of the Department of Building Inspection may require special inspection to verify compliance with this code or other laws that are enforced by the agency. The special inspector shall be a qualified person who shall demonstrate competence, to the satisfaction of the Director of the Department of Building Inspection, for inspection of the particular type of construction or operation requiring special inspection. In addition, the special inspector shall have a certification from a recognized state, national, or international association, as determined by the Director of the Department of Building Inspection. The area of certification shall be closely related to the primary job function, as determined by the local agency.
 SECTION 7.703 – VERIFICATIONS
 Modify the section as follows:
-7.703.1  Documentation. Documentation used to show compliance with this code shall include but is not limited to, construction documents, plans, specifications, builder or installer certification, inspection reports, or other methods acceptable to the Director of the Department of Building Inspection which demonstrate substantial conformance. When specific documentation or special inspection is necessary to verify compliance, that method of compliance will be specified in Administrative Bulletin 93.
+7.703.1  Documentation. Documentation used to show compliance with this code shall include but is not limited to, construction documents, plans, specifications, builder or installer certification, inspection reports, or other methods acceptable to the Director of the Department of Building Inspection [ß] which demonstrate substantial conformance. When specific documentation or special inspection is necessary to verify compliance, that method of compliance will be specified in [ß] Administrative Bulletin 93.
 
 HOUSING CODE
 2013 Edition

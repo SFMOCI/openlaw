@@ -3,7 +3,9 @@ CITY AND COUNTY OF SAN FRANCISCO
 MUNICIPAL CODE
 
 HEALTH CODE
-The San Francisco Municipal Code is current through Ordinance 5-14, File No. 130864, approved February 7, 2014, effective March 9, 2014.
+ New Ordinance Notice
+Publisher's Note: This Code includes sections affected by new legislation. Click here for a list of the new legislation and the affected sections.
+The San Francisco Municipal Code is current through Ordinance 18-14, File No. 130938, approved March 5, 2014, effective April 4, 2014.
 The Health Code was last amended by Ordinance 266-13, File No. 130789, approved November 27, 2013, effective December 27, 2013.
 
 
@@ -47,7 +49,7 @@ PREFACE TO THE HEALTH CODE
 	This electronic version of the City and County of San Francisco Municipal Code is updated as amending legislation is approved. New Ordinance Notices are inserted where applicable to call the user's attention to material that has been affected by legislation that has been passed but is not yet effective. Any references to such legislation are also compiled in a table at the end of this Code. The amendments are then incorporated into the Code when they become effective.
 	Beginning with ordinances passed in 2011, all ordinances affecting this Code are summarized in a table that lists the identifying information (ordinance and file numbers), effective date, short title, and sections affected for each such ordinance. Users should note that the operative date of an ordinance may be later than the effective date of the ordinance. A delayed operative date will be noted in the ordinance.
 	This Code may contain various Editor's Notes (explaining the disposition of or cross referencing various provisions), and/or Codification Notes (documenting scrivener's errors and the like found in the underlying ordinances). Such notes have been inserted by the publisher for the convenience of the user or as historical references. They have not been approved or adopted by the City and County of San Francisco, and are of no legal force or effect.
-Article1.ANIMALS1A. ANIMAL SACRIFICE2.COMMUNICABLE DISEASES3.HOSPITALS4.DECEASED PERSONS5.PUBLIC HEALTH-GENERAL6.GARBAGE AND REFUSE7.LAUNDRIES8.FOOD AND FOOD PRODUCTS9.DAIRY AND MILK CODE10.MEAT AND MEAT PRODUCTS11.NUISANCES11A.BEDBUG INFESTATION PREVENTION, TREATMENT, DISCLOSURE, AND REPORTING12.SANITATION—GENERAL12A.BACKFLOW PREVENTION12B.SOIL BORING AND WELL REGULATIONS12C.[ALTERNATE WATER SOURCES FOR NON-POTABLE APPLICATIONS]14.AMBULANCES AND ROUTINE MEDICAL TRANSPORT VEHICLES15.PUBLIC SWIMMING POOLS16.REGULATING THE USE OF "ECONOMIC POISONS"17.DISPOSAL OF UNCLAIMED PERSONAL PROPERTY AT SAN FRANCISCO GENERAL HOSPITAL18.PROVIDING FOR ISSUANCE OF CITATIONS TO VIOLATORS19.SMOKING POLLUTION CONTROL19A.REGULATING SMOKING IN EATING ESTABLISHMENTS [SUSPENDED]19B.REGULATING SMOKING IN SHARED OFFICE WORKPLACE [SUSPENDED]19C.REGULATING SMOKING IN PUBLIC PLACES AND IN HEALTH, EDUCATIONAL AND CHILD CARE FACILITIES [SUSPENDED]19D.PROHIBITING CIGARETTE VENDING MACHINES19E.PROHIBITING SMOKING IN PLACES OF EMPLOYMENT AND CERTAIN SPORTS ARENAS [SUSPENDED]19F.PROHIBITING SMOKING IN ENCLOSED AREAS, CERTAIN UNENCLOSED AREAS, AND SPORTS STADIUMS19G.ENFORCEMENT OF SMOKING PROHIBITIONS19H.PERMITS FOR THE SALE OF TOBACCO19I.PROHIBITING SMOKING IN CITY PARK AND RECREATIONAL AREAS AND FARMERS' MARKETS19J.PROHIBITING PHARMACIES FROM SELLING TOBACCO PRODUCTS19K.PROHIBITING SALES OF TOBACCO PRODUCTS ON PROPERTY OWNED BY OR UNDER THE CONTROL OF THE CITY AND COUNTY OF SAN FRANCISCO19L.PROHIBITING SMOKING AT CERTAIN OUTDOOR EVENTS19M.DISCLOSURE TO PROSPECTIVE RESIDENTIAL TENANTS OF WHETHER A UNIT IS SMOKE FREE OR SMOKING OPTIONAL, AND INFORMING EXISTING RESIDENTIAL TENANTS WHERE SMOKING IS OPTIONAL20.ALKYL NITRITES21.HAZARDOUS MATERIALS21A.RISK MANAGEMENT PROGRAM22.HAZARDOUS WASTE MANAGEMENT22A.HAZARDOUS SUBSTANCES IN SOIL AND GROUNDWATER22B.CONSTRUCTION DUST CONTROL REQUIREMENTS23.VIDEO DISPLAY TERMINAL WORKER SAFETY24.CHLOROFLUOROCARBON RECOVERY AND RECYCLING25.MEDICAL WASTE GENERATOR REGISTRATION, PERMITTING, INSPECTIONS AND FEES26.COMPREHENSIVE ENVIRONMENTAL LEAD POISONING INVESTIGATION, MANAGEMENT AND ENFORCEMENT PROGRAM27.HEALTH SERVICE SYSTEM AGREEMENT28.MEDICAL CANNABIS USER AND PRIMARY CAREGIVER IDENTIFICATION CARDS29.LICENSING AND REGULATION OF MASSAGE PRACTITIONERS30.REGULATION OF DIESEL BACKUP GENERATORS31.HUNTERS POINT SHIPYARD32.DISEASE PREVENTION DEMONSTRATION PROJECT33.MEDICAL CANNABIS ACT34.HEALTHY PRODUCTS, HEALTHY CHILDREN ORDINANCE35.BIOLOGICAL AGENT DETECTORS36.CHILD COUGH AND COLD MEDICINE WARNING ORDINANCE37.TRANS FAT FREE RESTAURANT PROGRAM ORDINANCE38.AIR QUALITY ASSESSMENT AND VENTILATION REQUIREMENT FOR URBAN INFILL RESIDENTIAL DEVELOPMENTS39.COMMERCIAL DOG WALKING
+Article1.ANIMALS1A. ANIMAL SACRIFICE2.COMMUNICABLE DISEASES3.HOSPITALS4.DECEASED PERSONS5.PUBLIC HEALTH-GENERAL6.GARBAGE AND REFUSE7.LAUNDRIES8.FOOD AND FOOD PRODUCTS9.DAIRY AND MILK CODE10.MEAT AND MEAT PRODUCTS11.NUISANCES11A.BEDBUG INFESTATION PREVENTION, TREATMENT, DISCLOSURE, AND REPORTING12.SANITATION—GENERAL12A.BACKFLOW PREVENTION12B.SOIL BORING AND WELL REGULATIONS12C.[ALTERNATE WATER SOURCES FOR NON-POTABLE APPLICATIONS]14.AMBULANCES AND ROUTINE MEDICAL TRANSPORT VEHICLES15.PUBLIC SWIMMING POOLS16.REGULATING THE USE OF "ECONOMIC POISONS"17.DISPOSAL OF UNCLAIMED PERSONAL PROPERTY AT SAN FRANCISCO GENERAL HOSPITAL18.PROVIDING FOR ISSUANCE OF CITATIONS TO VIOLATORS19.SMOKING POLLUTION CONTROL19A.REGULATING SMOKING IN EATING ESTABLISHMENTS [SUSPENDED]19B.REGULATING SMOKING IN SHARED OFFICE WORKPLACE [SUSPENDED]19C.REGULATING SMOKING IN PUBLIC PLACES AND IN HEALTH, EDUCATIONAL AND CHILD CARE FACILITIES [SUSPENDED]19D.PROHIBITING CIGARETTE VENDING MACHINES19E.PROHIBITING SMOKING IN PLACES OF EMPLOYMENT AND CERTAIN SPORTS ARENAS [SUSPENDED]19F.PROHIBITING SMOKING IN ENCLOSED AREAS, CERTAIN UNENCLOSED AREAS, AND SPORTS STADIUMS19G.ENFORCEMENT OF SMOKING PROHIBITIONS19H.PERMITS FOR THE SALE OF TOBACCO19I.PROHIBITING SMOKING IN CITY PARK AND RECREATIONAL AREAS AND FARMERS' MARKETS19J.PROHIBITING PHARMACIES FROM SELLING TOBACCO PRODUCTS19K.PROHIBITING SALES OF TOBACCO PRODUCTS ON PROPERTY OWNED BY OR UNDER THE CONTROL OF THE CITY AND COUNTY OF SAN FRANCISCO19L.PROHIBITING SMOKING AT CERTAIN OUTDOOR EVENTS19M.DISCLOSURE TO PROSPECTIVE RESIDENTIAL TENANTS OF WHETHER A UNIT IS SMOKE FREE OR SMOKING OPTIONAL, AND INFORMING EXISTING RESIDENTIAL TENANTS WHERE SMOKING IS OPTIONAL19N.ELECTRONIC CIGARETTES – RESTRICTIONS ON SALE AND USE20.ALKYL NITRITES21.HAZARDOUS MATERIALS21A.RISK MANAGEMENT PROGRAM22.HAZARDOUS WASTE MANAGEMENT22A.HAZARDOUS SUBSTANCES IN SOIL AND GROUNDWATER22B.CONSTRUCTION DUST CONTROL REQUIREMENTS23.VIDEO DISPLAY TERMINAL WORKER SAFETY24.CHLOROFLUOROCARBON RECOVERY AND RECYCLING25.MEDICAL WASTE GENERATOR REGISTRATION, PERMITTING, INSPECTIONS AND FEES26.COMPREHENSIVE ENVIRONMENTAL LEAD POISONING INVESTIGATION, MANAGEMENT AND ENFORCEMENT PROGRAM27.HEALTH SERVICE SYSTEM AGREEMENT28.MEDICAL CANNABIS USER AND PRIMARY CAREGIVER IDENTIFICATION CARDS29.LICENSING AND REGULATION OF MASSAGE PRACTITIONERS30.REGULATION OF DIESEL BACKUP GENERATORS31.HUNTERS POINT SHIPYARD32.DISEASE PREVENTION DEMONSTRATION PROJECT33.MEDICAL CANNABIS ACT34.HEALTHY PRODUCTS, HEALTHY CHILDREN ORDINANCE35.BIOLOGICAL AGENT DETECTORS36.CHILD COUGH AND COLD MEDICINE WARNING ORDINANCE37.TRANS FAT FREE RESTAURANT PROGRAM ORDINANCE38.AIR QUALITY ASSESSMENT AND VENTILATION REQUIREMENT FOR URBAN INFILL RESIDENTIAL DEVELOPMENTS39.COMMERCIAL DOG WALKING40.SAFE BODY ART
 ARTICLE 1:
 ANIMALS
 Sec. 1.Report of Diseases of Animals Required.Sec. 2.Penalty.Sec. 7.Contagious Diseases of Animals.Sec. 12.Keeping of Cows.Sec. 17.Dog Hospitals, Kennels, etc.Sec. 27.Stable Permits.Sec. 32.Keeping of Beef Cattle.Sec. 37.Keeping and Feeding of Small Animals, Poultry and Game Birds.Sec. 38.Penalty.Sec. 39.Reporting of dog bites.Sec. 40.Dog to be Controlled so as Not to Commit Nuisances.Sec. 40.5.Protection for Dogs in Motor Vehicles.Sec. 40.6.Enclosure of Animals in Motor Vehicles.Sec. 41.Definitions.Sec. 41.1.Commission of Animal Control and Welfare; Membership; Appointment; Term.Sec. 41.2.Powers and Duties.Sec. 41.3.Reports.Sec. 41.4.Animal Care and Control Department; Establishment; Appointment of Animal Control Officer; Powers and Duties of Animal Care and Control Department.Sec. 41.5.Animal Control Officer; Powers and Duties; Badges.Sec. 41.5.1.Biting Dogs.Sec. 41.6.Impoundment.Sec. 41.7.Periods of Impoundment.Sec. 41.8.Redemption.Sec. 41.9.Disposition of Animals.Sec. 41.10.Charges and Fees.Sec. 41.11.Quarantine; Delivery of Carcass.Sec. 41.12.Duties of Owners or Guardians.Sec. 41.13.Penalties.Sec. 41.14.Enforcement Against Violations on Property Under Jurisdiction of Recreation and Park Commission; Designated Officers and Employees.Sec. 41.15.Dogs: Dog License Fee Licensing Requirement; Fees; Term of License.Sec. 41.16.Reduction in Fee – Special Circumstances.Sec. 41.17.Fees – Late Payment Penalty.Sec. 41.18.Vaccination Required for License.Sec. 41.19.Young Dog Certificate.Sec. 41.20.Certificate to Owner or Guardian.Sec. 41.21.Removal of Tag Prohibited.Sec. 41.22.Duplicate License or Registration Tag Issued.Sec. 41.23.Exceptions.Sec. 41.24.Enforcement.Sec. 41.25.Penalties; Administrative Citations.Sec. 41.26.Annual Adjustment of Fees.Sec. 42.Definitions.Sec. 42.1.Fight Training Prohibited.Sec. 42.2.Registration.Sec. 42.3.Seizure of Dog: Hearings.Sec. 42.4.Penalty; Misdemeanor or Infraction.Sec. 42.5.Enforcement.Sec. 42.6.Rewards.Sec. 42.7.Severability.Sec. 43.Definition of Pit Bull.Sec. 43.1.Mandatory Spaying and Neutering of Pit Bulls; Exceptions.Sec. 43.2.Penalties for Failure to Spay or Neuter Pit Bull.Sec. 43.3.Allocation of Fees and Fines Collected.Sec. 43.4.Operative Date.Sec. 44.Requiring a Permit for the Breeding and Transferring of Pit Bull Puppies.Sec. 44.1.Granting or Denying a Permit.Sec. 44.2.Relocation of Permit.Sec. 44.3.Transference and Sale of Pit Bull Puppies.Sec. 44.4.Fines for Failure to Comply with Permit Requirements.Sec. 44.5.Allocation of Fees and Fines Collected.Sec. 44.6.Exceptions to Permit Posting Requirements.Sec. 44.7.Operative Date.Sec. 45.Onychectomy (Declawing) and Tendonectomy Prohibited; Penalties.Sec. 48.Unlawful to Sell Fowl or Rabbits as Pets or Novelties.Sec. 49.Sale of Certain Animals Prohibited.Sec. 50.Prohibition.Sec. 50.1.Sale of Wild and Potentially Dangerous Animals Prohibited.Sec. 51.Definition of "Wild and Potentially Dangerous Animal."Sec. 52.Animals Eligible for Permits.Sec. 53.Application and Fee for Permit.Sec. 54.Confinement Regulations.Sec. 55.Other Laws.Sec. 56.Review of Application for Permit.Sec. 57.Permit Restrictions.Sec. 58.Term and Renewal of Permits.Sec. 59.Revocation of Permits.Sec. 60.Exceptions.Sec. 61.Exception – For Transportation of Animals Through City and County.Sec. 62.Notice of Escape.Sec. 63.Impoundment.Sec. 64.Notice of Removal.Sec. 65.Disposition of Wild and Potentially Dangerous Animals.Sec. 66.Penalty.
@@ -1029,6 +1031,9 @@ SEC. 226.  EFFECTIVE DATE.
 (Added by Ord. 120-05, File No. 050825, App. 6/23/2005)
 ARTICLE 5:
 PUBLIC HEALTH – GENERAL
+ New Ordinance Notice
+Publisher's Note: This Article includes sections affected by new legislation. Click here for a list of all new legislation affecting sections of this Code.
+
 Sec. 230.Homes for Children, Establishment, Etc.Sec. 231.Penalty.Sec. 254.Establishment, Etc., of Medical Colleges.[Tattooing.]Sec. 255.Tattooing.Sec. 256.Permit.Sec. 257.Investigation and Inspection.Sec. 258.License Fees.Sec. 259.Qualifications of Operator.Sec. 260.Suspension or Revocation of Operator's Permit.Sec. 261.Expiration Date of Permit.Sec. 262.Permits and Operator's Cards – Posting of.Sec. 263.Violations – Penalty.[Smokeless Tobacco Warnings.]Sec. 264.Policy.Sec. 264.1.Findings.Sec. 264.2.Definitions.Sec. 264.3.Smokeless Tobacco Warnings.Sec. 264.4.Penalties and Enforcement.[Alcohol Consumption Warnings.]Sec. 265.Policy.Sec. 265.1.Findings.Sec. 265.2.Alcohol Consumption Warnings.Sec. 265.3.Penalties and Enforcement.—Sec. 266.Registry for Senior and Disabled Persons Who Wish to be Contacted in the Event of a Disaster.[Natural Membrane (Lambskin) Condom Warning.]Sec. 267.Policy.Sec. 267.1.Findings.Sec. 267.2.Duty to Post.Sec. 267.3.Violations and Penalties.Sec. 267.4.Enforcement.Sec. 267.5.City Undertaking Limited to Promotion of General Welfare.Sec. 267.6.Severability.[Personal Lubricants Intended to Be Used with Condoms Warning.]Sec. 267.7.Policy.Sec. 267.8.Findings.Sec. 267.9.Duty to Post.Sec. 267.10.Violations and Penalties.Sec. 267.11.Enforcement.Sec. 267.12.City Undertaking Limited to Promotion of General Welfare.Sec. 267.13.Severability.
 Editor's Note:
 	The bracketed division headers in this Article have been provided by the editor as an aid for the user and are not official parts of the Code.
@@ -1043,16 +1048,24 @@ SEC. 254.  ESTABLISHMENT, ETC., OF MEDICAL COLLEGES.
 	It shall be unlawful for any person, corporation or association to erect, establish or maintain any medical college or building or place of the dissection of human bodies without permission from the Department of Public Health. 
 [Tattooing.]
 SEC. 255.  TATTOOING.
+ New Ordinance Notice
+Publisher's Note: This section has been REPEALED by new legislation (Ord. 19-14, approved 3/14/2014, effective 4/13/2014). The text of the section will be included below until the repealing legislation is effective.
 	Definitions. For the purpose of this ordinance certain words and phrases shall be construed as hereafter defined. Words in the singular include the plural, and words in the plural shall include the singular. Words in the present tense shall include the future. 
 	(a)	Director of Public Health. The term "Director of Public Health" shall include the Director of Public Health, his assistant, or any regularly qualified employee or inspector of the Department of Public Health in the City and County of San Francisco. 
 	(b)	Tattooing. Tattooing shall mean any method of placing designs, letters, scrolls, figures, symbols, or any other marks upon or under the skin with ink or colors, by the aid of needles or instruments. 
 	(c)	Person. Person shall mean any individual, firm or corporation, owner or operator of a tattooing establishment. 
 SEC. 256.  PERMIT.
+ New Ordinance Notice
+Publisher's Note: This section has been REPEALED by new legislation (Ord. 19-14, approved 3/14/2014, effective 4/13/2014). The text of the section will be included below until the repealing legislation is effective.
 	It shall be unlawful for any person, firm or corporation, owning, controlling and leasing, acting as agent for, conducting, managing or operating any establishment to practice the art of tattooing or to engage in the practice of tattooing, without first applying for and receiving a permit from the Director of Public Health of the City and County of San Francisco in the manner hereinafter provided. 
 	Every applicant for such permit shall file with the Department of Public Health of the City and County of San Francisco a written application, which shall state the name and address of the applicant, a description of the property by street and number, wherein and whereon it is proposed to conduct the tattooing establishment, the number of persons to be employed in such establishment, together with a description of the experience and qualifications of each person engaged in the practice of tattooing, and such other pertinent information as the Department of Public Health may require. 
 SEC. 257.  INVESTIGATION AND INSPECTION.
+ New Ordinance Notice
+Publisher's Note: This section has been REPEALED by new legislation (Ord. 19-14, approved 3/14/2014, effective 4/13/2014). The text of the section will be included below until the repealing legislation is effective.
 	It shall be the duty of the Director of Public Health of the City and County of San Francisco to investigate the statements made in the application, and the premises where it is proposed to practice the business of tattooing, and if it shall appear to the Director of Public Health that the statements contained in the application are true and that the sanitary conditions prevailing upon the premises comply with the provisions of this ordinance and State laws and conform to the rules and regulations of the Director of Public Health of the City and County of San Francisco, a permit therefor shall be granted for the establishment. Such permit shall be granted only upon the express condition that it shall be subject to suspension or revocation by the Director of Public Health upon a showing satisfactory to said Director of a violation by the holder of such permit, or person or employee, acting with his consent or under this authority, of any provision of this ordinance or any law of the State of California, or any rule or regulation of the Director of Public Health of the City and County of San Francisco regulating tattooing establishments, which rules or regulations the Director of Public Health is hereby authorized to make. 
 SEC. 258.  LICENSE FEES.
+ New Ordinance Notice
+Publisher's Note: This section has been REPEALED by new legislation (Ord. 19-14, approved 3/14/2014, effective 4/13/2014). The text of the section will be included below until the repealing legislation is effective.
 	(a)	Upon approval of an application for a permit to engage in the practice of tattooing, the Director of Public Health shall forward the permit therefor to the Tax Collector, who, upon payment of the license fee hereinafter provided shall issue the permit to the designated permittee. 
 		Every person engaged in the business of conducting, managing or operating any establishment for the practice of the art of tattooing shall pay a license fee of $1,372 per year, or for any portion of a year. The Fee shall be due annually on March 31 of each year, pursuant to Section 76.1, Article 2 of the San Francisco Business and Tax Regulations Code.*
 	(b)	Beginning with fiscal year 2008-2009, the fee set forth in the Section may be adjusted each year, without further action by the Board of Supervisors, as set forth in this Section. 
@@ -1061,14 +1074,24 @@ SEC. 258.  LICENSE FEES.
 		The Controller shall, if necessary, adjust the fee upward or downward for the upcoming fiscal year as appropriate to ensure that the program recovers the costs of operation without producing revenue which is significantly more than such costs. The adjusted fee shall become operative on July 1. 
 (Amended by Ord. 206-93, App. 6/25/93; Ord. 121-97, App. 4/9/97; Ord. 37-05, File No. 0401733, App. 2/11/2005; Ord. 149-08, File No. 080744, 7/30/2008; Ord. 238-11, File No. 111101, App. 12/15/2011; Eff. 1/14/2012) 
 SEC. 259.  QUALIFICATIONS OF OPERATOR.
+ New Ordinance Notice
+Publisher's Note: This section has been REPEALED by new legislation (Ord. 19-14, approved 3/14/2014, effective 4/13/2014). The text of the section will be included below until the repealing legislation is effective.
 	It shall be unlawful for any person to employ an operator in the practice of tattooing without such operator having first secured an operator's card. The issuance of the operator's card herein provided shall be subject to the applicant's compliance with the regulations and passage of the physical examination required by the rules and regulations of the Director of Public Health. An operator's card shall be granted only on the express condition that it shall be subject to suspension or revocation by the Director of Public Health upon a showing satisfactory to the Director of Public Health of a violation by the holder of said operator's card of any rule of the Director or provision of this ordinance or of State law or upon a satisfactory showing that the operator does not possess sufficient skill or that he is negligent and has been responsible for communication of infections. 
 SEC. 260.  SUSPENSION OR REVOCATION OF OPERATOR'S PERMIT.
+ New Ordinance Notice
+Publisher's Note: This section has been REPEALED by new legislation (Ord. 19-14, approved 3/14/2014, effective 4/13/2014). The text of the section will be included below until the repealing legislation is effective.
 	Suspension or revocation of a permit for an operator's card shall automatically suspend or revoke any license issued to such person under the provisions of this or any other ordinance of the City and County of San Francisco. Upon the making of any order of suspension or revocation, the Director of Public Health shall in writing notify the Tax Collector and the Police Department. 
 SEC. 261.  EXPIRATION DATE OF PERMIT.
+ New Ordinance Notice
+Publisher's Note: This section has been REPEALED by new legislation (Ord. 19-14, approved 3/14/2014, effective 4/13/2014). The text of the section will be included below until the repealing legislation is effective.
 	A permit for a tattooing establishment or an operator's card under the provisions of this ordinance may be granted at any time during the year, but all permits and operators' cards issued hereunder shall expire on the thirtieth day of the next succeeding June. Said permit or operator's card shall not be transferable. 
 SEC. 262.  PERMITS AND OPERATOR'S CARDS – POSTING OF.
+ New Ordinance Notice
+Publisher's Note: This section has been REPEALED by new legislation (Ord. 19-14, approved 3/14/2014, effective 4/13/2014). The text of the section will be included below until the repealing legislation is effective.
 	All permits, operators' cards and regulations of the Director of Public Health shall be posted at all times in a conspicuous place in the establishment. 
 SEC. 263.  VIOLATIONS – PENALTY.
+ New Ordinance Notice
+Publisher's Note: This section has been REPEALED by new legislation (Ord. 19-14, approved 3/14/2014, effective 4/13/2014). The text of the section will be included below until the repealing legislation is effective.
 	Any person, firm or corporation who shall violate any of the provisions of this ordinance or fail to comply with any order or regulation made thereunder shall be deemed guilty of a misdemeanor, and upon conviction thereof shall be punished by a fine of not less than $50 nor more than $500, or by imprisonment in the County Jail for a period of not less than 10 days or more than six months or by both such fine and imprisonment. 
 [Smokeless Tobacco Warnings.]
 SEC. 264.  POLICY.
@@ -3790,6 +3813,11 @@ SEC. 19M.5.  INTENT, LIMITATIONS.
 	(c)	The provisions of this Article 19M do not create any right of action, or create any remedies or defenses or other means of legal redress.
 	(d)	The provisions of this Article 19M are in addition to any other rights of action or remedies or defenses or other means of legal redress that may be available to the tenant or the City.
 (Added by Ord. 12-13, File No. 121107, App. 2/5/2013, Eff. 3/7/2013)
+ARTICLE 19N:
+ELECTRONIC CIGARETTES – RESTRICTIONS ON SALE AND USE
+ New Ordinance Notice
+Publisher's Note: This Article has been ADDED by new legislation (Ord. 30-14, approved 3/27/2014, effective 4/26/2014). The text of the Article and its constituent sections will be included below when the new ordinance is effective.
+
 ARTICLE 20:
 ALKYL NITRITES
 Sec. 1010.Purpose and Findings.Sec. 1011.Definitions.Sec. 1012.Sale and Display of Alkyl Nitrite Products to Minors Prohibited.Sec. 1013.Warning Required at Point of Sale.Sec. 1013.1.Exemption.Sec. 1014.Use Prohibited in Public Places.Sec. 1015.Misdemeanor Penalty.Sec. 1016.Severability.
@@ -3838,6 +3866,9 @@ SEC. 1016.  SEVERABILITY.
 (Amended by Ord. 200-86, App. 6/6/86)
 ARTICLE 21:
 HAZARDOUS MATERIALS
+ New Ordinance Notice
+Publisher's Note: This Article includes sections affected by new legislation. Click here for a list of all new legislation affecting sections of this Code.
+
 DIVISION I
 GENERAL PROVISIONSSec. 1101.Findings and Purpose.Sec. 1102.Definitions.Sec. 1103.3.Director to Report.Sec. 1104.Department to Provide Public Information.Sec. 1105.Director to Maintain List of Materials Regulated.Sec. 1106.Unified Program Implementation.DIVISION II
 CERTIFICATE OF REGISTRATIONSec. 1110.Registration Required.Sec. 1110.1.Hazardous Materials Plans and Application for Certificate of Registration.Sec. 1111.Temporary Certificate of Registration.Sec. 1112.Businesses on Leased or Rented Property.Sec. 1113.Review of Applications.Sec. 1114.Contents of Certificate of Registration and Posting.Sec. 1115.Terms, Renewals and Transfers.Sec. 1116.Handling of Hazardous Materials.Sec. 1117.Labeling of Hazardous Materials.DIVISION III
@@ -3846,7 +3877,7 @@ ENFORCEMENTSec. 1130.Violations.Sec. 1131.Emergency Powers.Sec. 1132.Authority o
 PUBLIC DISCLOSURE AND TRADE SECRETSSec. 1140.Maintenance of Files.Sec. 1141.Public Disclosure.Sec. 1142.Trade Secrets.Sec. 1143.Public Notice and Participation Procedures For Underground Storage Tank Releases.DIVISION VI
 UNAUTHORIZED RELEASES AND CLOSURES OF ESTABLISHMENTS OR UNDERGROUND STORAGE TANKSSec. 1150.Unauthorized Releases of Hazardous Materials Prohibited.Sec. 1151.Reporting Unauthorized Release of Hazardous Materials.Sec. 1152.Periodic Inspection After Unauthorized Release.Sec. 1153.Abandoned Establishments or Underground Storage Tanks.Sec. 1154.Closure of Establishments or Underground Storage Tanks.Sec. 1155.Obligations of Responsible Parties for Closure and Cleanup.DIVISION VII
 INSPECTIONS AND RECORDSSec. 1160.Inspections by Director of Health.Sec. 1161.Inspections by Registrant or Permittee.Sec. 1161.1.Special Inspections.Sec. 1161.2.Substituted Inspections.Sec. 1162.Maintenance of Records By Person or Business.DIVISION VIII
-MISCELLANEOUSSec. 1170.Regulations.Sec. 1171.Disclaimer of Liability.Sec. 1172.Duties are Discretionary.Sec. 1173.Conflict with Other Laws.Sec. 1174.Severability.Sec. 1175.Fees.Sec. 1175.1.Delinquent Fees.Sec. 1175.2.Refund of Fees.Sec. 1175.3.Not Exempted From Paying Other Fees.Sec. 1175.4.Review of Fees.Sec. 1175.5.Determination of Percentage of Fees Credited to Other Departments.Sec. 1176.Hazardous Materials Fee Schedule.
+MISCELLANEOUSSec. 1170.Regulations.Sec. 1171.Disclaimer of Liability.Sec. 1172.Duties are Discretionary.Sec. 1173.Conflict with Other Laws.Sec. 1174.Severability.Sec. 1175.Fees.Sec. 1175.1.Delinquent Fees.Sec. 1175.2.Refund of Fees.Sec. 1175.3.Not Exempted From Paying Other Fees.Sec. 1175.4.Review of Fees.Sec. 1175.5.Determination of Percentage of Fees Credited to Other Departments.Sec. 1176.Hazardous Materials Fee Schedule.Sec. 1176.1.Fee Adjustment.
 DIVISION I
 GENERAL PROVISIONS
 SEC. 1101.  FINDINGS AND PURPOSE.
@@ -3966,6 +3997,8 @@ SEC. 1110.  REGISTRATION REQUIRED.
 		(3)	Any handling of a previously undisclosed hazardous material subject to the inventory requirements of this Article.
 (Added by Ord. 164-92, App. 6/10/92; amended by Ord. 399-97, App. 10/17/97)
 SEC. 1110.1.  HAZARDOUS MATERIALS PLANS AND APPLICATION FOR CERTIFICATE OF REGISTRATION.
+ New Ordinance Notice
+Publisher's Note: This section has been AMENDED by new legislation (Ord. 26-14, approved 3/21/2014, effective 4/20/2014). The text of the amendment will be incorporated below when the amending legislation is effective.
 	Every business, or owner of real property upon which an establishment is located, that is required by this Article to register and implement a hazardous materials plan shall obtain a certificate of registration by filing a written application with the Director of Health upon forms furnished for that purpose, certifying that the hazardous materials plan as described in the application meets the requirements of this Article, and paying the required fees. A complete application shall include, without limitation, all of the following: 
 	(a)	Part 1. General business information, which shall include, but not be limited to: 
 		(1)	The name and address of the establishment and business phone number of applicant, the name and titles and 24-hour emergency phone numbers of the primary response person and an alternate, the number of employees, number of shifts, hours of operation, and principal business activity and its SIC Code number; 
@@ -4029,10 +4062,14 @@ SEC. 1117.  LABELING OF HAZARDOUS MATERIALS.
 DIVISION III
 UNDERGROUND STORAGE TANK PERMITS
 SEC. 1120.  PERMIT TO OPERATE AN UNDERGROUND STORAGE TANK.
+ New Ordinance Notice
+Publisher's Note: This section has been AMENDED by new legislation (Ord. 26-14, approved 3/21/2014, effective 4/20/2014). The text of the amendment will be incorporated below when the amending legislation is effective.
 	(a)	Except as otherwise authorized by this Article, Chapter 6.7 of the California Health and Safety Code, commencing with Section 25280, and any implementing regulations, no person shall own or operate an underground storage tank ("UST") unless a permit for its operation has been issued by the Department as required by this Article, Chapters 6.7 and 6.75 of the California Health and Safety Code, commencing with Section 25280, and any implementing regulations. 
 	(b)	Any person required to obtain a UST permit pursuant to this Article shall submit an application and any required information and fees upon notification by the Department. Any person so notified by the Department who fails to submit the required information and fees within the time specified in the notice shall be assessed an additional fee and a site investigation fee, if a site investigation is required, as a penalty. The amount of the additional fee and site investigation fee is specified in Section 1176. A person assessed such fees may appeal the amount of the fee levied by requesting a Director's hearing pursuant to Section 1137. 
 (Added by Ord. 164-92, App. 6/10/92; amended by Ord. 399-97, App. 10/17/97)
 SEC. 1120.1.  APPLICATION FOR PERMIT.
+ New Ordinance Notice
+Publisher's Note: This section has been AMENDED by new legislation (Ord. 26-14, approved 3/21/2014, effective 4/20/2014). The text of the amendment will be incorporated below when the amending legislation is effective.
 	(a)	Any person that is required to obtain one or more UST permits shall obtain the permits by filing application forms required by the Department, paying the required permit fee and demonstrating compliance with this Article and Article 31 if the permit is for a site located in Hunters Point Shipyard Parcel A as determined by inspection of the UST by the Department. For permits in the area of San Francisco subject to the requirements of Article 31, such permit application shall not be deemed complete until the department receives written notification from the Director that the applicant has complied with all provisions of Article 31 that are required to be met prior to permit issuance. 
 	(b)	Any person required to obtain a UST permit shall submit the information required by the Department, Article 31 and Chapters 6.7 and 6.75 of the California Health and Safety Code (commencing with Section 25280) and implementing regulations adopted by the State Water Resources Control Board and the Health Commission. No permit shall be granted to the owner or operator of a UST unless the applicant demonstrates compliance with this Article and its implementing regulations, Article 31 and all applicable provisions of Chapters 6.7 and 6.75 of the California Health and Safety Code (commencing with Section 25280) and implementing regulations, as the law and regulations may be amended. 
 	(c)	All modifications, repairs, closures and removals of USTs shall require approval of the Department, compliance with this Article and its implementing regulations, compliance with Article 31 if the approval is for a site in Hunters Point Shipyard Parcel A, compliance with applicable provisions of Chapters 6.7 and 6.75 of the California Health and Safety Code (commencing with Section 25280) and its implementing regulations, and payment of applicable fees. Any person who performs unauthorized modifications, repairs, removals or closures, or fails to schedule a site inspection with the Department prior to performing such work shall be assessed additional fees and a site investigation fee, if a site investigation is required, as a penalty. The amount of the additional fees and site investigation fee is specified in Section 1176. A person assessed such fees may appeal the amount of the fee levied by requesting a Director's hearing pursuant to Section 1137. 
@@ -4341,7 +4378,12 @@ TYPE OF FEEAMOUNTFiscal Year
 	(h)	Application Fee for New Certificate of Registration. Registrants and permittees shall pay an application fee for a new Certificate of Registration $172. 
 	(i)	Hazardous Materials and Hazardous Waste Base Fee. Any business that is subject to requirements of Articles 21, 21A and/or 22 shall pay an annual base fee $172; this subsection shall not apply to Minimal Quantity Generator as defined in Section 1204(b) of Article 22 of this Code. 
 	(j)	Beginning with fiscal year 2007-2008, no later than April 15 of each year, the Controller shall adjust the fees provided in this Article to reflect changes in the relevant Consumer Price Index, without further action by the Board of Supervisors. In adjusting the fees, the Controller may round these fees up or down to the nearest dollar, half-dollar or quarter-dollar. The Director shall perform an annual review of the fees scheduled to be assessed for the following fiscal year and shall file a report with the Controller no later than May 1st of each year, proposing, if necessary, an adjustment to the fees to ensure that costs are fully recovered and that fees do not produce significantly more revenue than required to cover the costs of operating the program. The Controller shall adjust fees when necessary in either case. 
-(Added by Ord. 164-92, App. 6/10/92; amended by Ord. 168-95, App. 5/26/95; Ord. 399-97, App. 10/17/97; Ord. 158-99, File No. 990761, App. 6/11/99; Ord. 184-04, File No. 040747, App. 7/22/2004; Ord. 152-08, File No. 080741, App. 7/30/2008; Ord. 179-10, File no. 100721, App. 7/23/2010) 
+(Added by Ord. 164-92, App. 6/10/92; amended by Ord. 168-95, App. 5/26/95; Ord. 399-97, App. 10/17/97; Ord. 158-99, File No. 990761, App. 6/11/99; Ord. 184-04, File No. 040747, App. 7/22/2004; Ord. 152-08, File No. 080741, App. 7/30/2008; Ord. 179-10, File No. 100721, App. 7/23/2010) 
+SEC. 1176.1.  FEE ADJUSTMENT.
+ New Ordinance Notice
+Publisher's Note: This section has been ADDED by new legislation (Ord. 26-14, approved 3/21/2014, effective 4/20/2014). The text of the section will be included below when the new ordinance is effective.
+
+
 ARTICLE 21A:
 RISK MANAGEMENT PROGRAM
 Sec. 1180.Scope and Intent.Sec. 1181.Definitions.Sec. 1182.Submission of RMP.Sec. 1183.Notice of Deficiency and Submission of Corrected RMP.Sec. 1184.Public Review and Comment on RMPs.Sec. 1185.Terms, Renewals and Implementation.Sec. 1186.Modification of Facility or Regulated Substance Handling.Sec. 1187.RMP Prior to Approval of a Development Project or Issuance of a Building Permit.Sec. 1188.Inspections and Access to Information.Sec. 1189.Stationary Sources Subject to Hazardous Materials Program.Sec. 1190.Penalties.Sec. 1191.Fees and Charges.Sec. 1192.Collection, Administration and Review of Fees.Sec. 1193.Trade Secrets.Sec. 1194.Authority to Adopt Rules, Regulations and Guidelines.Sec. 1195.Severability.Sec. 1196.Disclaimer of Liability.Sec. 1197.Duties are Discretionary.Sec. 1198.Conflict with Other Laws.
@@ -6921,7 +6963,7 @@ ARTICLE 39:
 COMMERCIAL DOG WALKING
 Sec. 3901.Definitions.Sec. 3902.Permit Required.Sec. 3903.Applications for Permit.Sec. 3904.Permit Fee.Sec. 3905.Issuance of Permit.Sec. 3906.Training.Sec. 3907.Rules for Commercial Dog Walking.Sec. 3908.Administrative Inspections.Sec. 3909.Director's Regulations.Sec. 3910.License Fees.Sec. 3911.Suspension and Revocation of Permit.Sec. 3912.Enforcement and Penalties.Sec. 3913.Operative Date; Public Education.
 Editor's Note:
-	The sections of this Article were numbered 39.01 through 39.13 when enacted by Ord. 23-12. Subsequently, Ord. 49-13 corrected the section numbers as shown below.
+	The sections of this Article were numbered 39.01 through 39.13 when enacted by Ord. 23-12. Subsequently, Ord. 49-13 renumbered the sections as shown below.
 SEC. 3901.  DEFINITIONS.
 	For the purpose of this Article 39, the following words and phrases shall mean and include:
 	(a)	"City." The City and County of San Francisco.
@@ -6980,7 +7022,7 @@ SEC. 3906.  TRAINING.
 SEC. 3907.  RULES FOR COMMERCIAL DOG WALKING.
 	The following restrictions shall apply to a permittee while walking four or more dogs at any one time for consideration on Park Property:
 	(a)	The permittee may not walk at one time more than 8 dogs.
-	(b)	Once a year, the permittee must distribute to all his or her current clients written informational materials to be prepared by the Department regarding how the clients may license their dogs under Health Code Section 41.15 and the importance of doing so. The permittee may distribute the informational materials in printed form, or by facsimile, email or other electronic transmission. The Department shall maintain a current copy of the materials on its website. At the same time the permittee distributes the informational materials on licensing, the permittee must ask all of her or his clients for the license numbers for any of their dogs that have been licensed under Health Code Section 41.15, and the permittee shall keep a record of those numbers, provided, however, that the permittee shall not be liable or penalized for failing to record any license number if the client refuses to provide such information to the permittee or if the client has not licensed his or her dogs..
+	(b)	Once a year, the permittee must distribute to all his or her current clients written informational materials to be prepared by the Department regarding how the clients may license their dogs under Health Code Section 41.15 and the importance of doing so. The permittee may distribute the informational materials in printed form, or by facsimile, email or other electronic transmission. The Department shall maintain a current copy of the materials on its website. At the same time the permittee distributes the informational materials on licensing, the permittee must ask all of her or his clients for the license numbers for any of their dogs that have been licensed under Health Code Section 41.15, and the permittee shall keep a record of those numbers, provided, however, that the permittee shall not be liable or penalized for failing to record any license number if the client refuses to provide such information to the permittee or if the client has not licensed his or her dogs.
 	(c)	The permittee must carry a leash not more than 8 feet in length for each dog, and follow all applicable on-leash rules.
 	(d)	The permittee must clean up after any dogs he or she is walking and properly dispose of any canine waste, as required by Health Code Section 40 and all applicable Recreation and Park Department rules and regulations.
 	(e)	The permittee must have appropriate dog walking safety equipment, either upon his or her person or at a nearby location, including in a vehicle, that is readily accessible. The Director shall adopt regulations addressing what constitutes appropriate dog walking safety equipment.
@@ -7021,6 +7063,80 @@ SEC. 3912.  ENFORCEMENT AND PENALTIES.
 SEC. 3913.  OPERATIVE DATE; PUBLIC EDUCATION.
 	The provisions of this Article 39 shall become operative and enforceable on January 1, 2013. The Director may postpone the operative date, not beyond July 1, 2013, by posting a notice on the Department's website, if the Director determines that the City needs additional time to successfully implement the provisions of this Article. During the period between the effective date of the ordinance adopting these provisions and the operative date, the Director and the Department shall conduct a public outreach and education campaign to alert dog walkers and the public about the requirements of this Article.
 (Added by Ord. 23-12, File No. 111104, App. 2/9/2012, Eff. 3/10/2012, Oper. 1/1/2013; amended by Ord. 49-13, 130146, App. 3/22/2013, Eff. 4/21/2013)
+ARTICLE 40:
+SAFE BODY ART
+ New Ordinance Notice
+Publisher's Note: This Article has been ADDED by new legislation (Ord. 19-14, approved 3/14/2014, effective 4/13/2014). The text of the Article and its constituent sections will be included below when the new ordinance is effective.
+Sec. 4001.Purpose.Sec. 4002.Definitions.Sec. 4003.Permit Required for Body Art Facility.Sec. 4004.Investigation and Inspection.Sec. 4005.Registration Card Required for Body Art Practitioner.Sec. 4006.Expiration Date of Permit and Registration Card.Sec. 4007.Nontransferability of Permit and Registration Card.Sec. 4008.Body Art Temporary Demonstration Booth.Sec. 4009.Mechanical Stud and Clasp Ear Piercing.Sec. 4010.Permit and Registration Fees.Sec. 4011.Body Art Facility Permits and Practitioner's Registration Cards – Notice to Clients and Prospective Clients.Sec. 4012.Suspension or Revocation of Permit or Registration Card.Sec. 4013.Imminent Health Hazard.Sec. 4014.Violations – Penalties.Sec. 4015.Rules and Regulations.Sec. 4016.Undertaking for the General Welfare.Sec. 4017.Severability.
+SEC. 4001.  PURPOSE.
+ New Ordinance Notice
+Publisher's Note:  See the Publisher's Note at the beginning of this Article. 
+
+SEC. 4002.  DEFINITIONS.
+ New Ordinance Notice
+Publisher's Note:  See the Publisher's Note at the beginning of this Article. 
+
+SEC. 4003.  PERMIT REQUIRED FOR BODY ART FACILITY.
+ New Ordinance Notice
+Publisher's Note:  See the Publisher's Note at the beginning of this Article. 
+
+SEC. 4004.  INVESTIGATION AND INSPECTION.
+ New Ordinance Notice
+Publisher's Note:  See the Publisher's Note at the beginning of this Article. 
+
+SEC. 4005.  REGISTRATION CARD REQUIRED FOR BODY ART PRACTITIONER.
+ New Ordinance Notice
+Publisher's Note:  See the Publisher's Note at the beginning of this Article. 
+
+SEC. 4006.  EXPIRATION DATE OF PERMIT AND REGISTRATION CARD.
+ New Ordinance Notice
+Publisher's Note:  See the Publisher's Note at the beginning of this Article. 
+
+SEC. 4007.  NONTRANSFERABILITY OF PERMIT AND REGISTRATION CARD.
+ New Ordinance Notice
+Publisher's Note:  See the Publisher's Note at the beginning of this Article. 
+
+SEC. 4008.  BODY ART TEMPORARY DEMONSTRATION BOOTH.
+ New Ordinance Notice
+Publisher's Note:  See the Publisher's Note at the beginning of this Article. 
+
+SEC. 4009.  MECHANICAL STUD AND CLASP EAR PIERCING.
+ New Ordinance Notice
+Publisher's Note:  See the Publisher's Note at the beginning of this Article. 
+
+SEC. 4010.  PERMIT AND REGISTRATION FEES.
+ New Ordinance Notice
+Publisher's Note:  See the Publisher's Note at the beginning of this Article. 
+
+SEC. 4011.  BODY ART FACILITY PERMITS AND PRACTITIONER'S REGISTRATION CARDS – NOTICE TO CLIENTS AND PROSPECTIVE CLIENTS.
+ New Ordinance Notice
+Publisher's Note:  See the Publisher's Note at the beginning of this Article. 
+
+SEC. 4012.  SUSPENSION OR REVOCATION OF PERMIT OR REGISTRATION CARD.
+ New Ordinance Notice
+Publisher's Note:  See the Publisher's Note at the beginning of this Article. 
+
+SEC. 4013.  IMMINENT HEALTH HAZARD.
+ New Ordinance Notice
+Publisher's Note:  See the Publisher's Note at the beginning of this Article. 
+
+SEC. 4014.  VIOLATIONS – PENALTIES.
+ New Ordinance Notice
+Publisher's Note:  See the Publisher's Note at the beginning of this Article. 
+
+SEC. 4015.  RULES AND REGULATIONS.
+ New Ordinance Notice
+Publisher's Note:  See the Publisher's Note at the beginning of this Article. 
+
+SEC. 4016.  UNDERTAKING FOR THE GENERAL WELFARE.
+ New Ordinance Notice
+Publisher's Note:  See the Publisher's Note at the beginning of this Article. 
+
+SEC. 4017.  SEVERABILITY.
+ New Ordinance Notice
+Publisher's Note:  See the Publisher's Note at the beginning of this Article. 
+
+
 References to Ordinances
 Ordinances Affecting the Health Code
 Publisher's Note:  The following table lists all ordinances affecting the Health Code passed by the Board of Supervisors beginning in 2011. The table includes links to the ordinances (as maintained in PDF format on the Board of Supervisors' web site) and to the code sections affected. For other legislation, including older ordinances and those affecting other codes, please refer to the Comprehensive Ordinance Table or the Board's "Legislation Passed" web site.
@@ -7107,4 +7223,13 @@ Sections Affected:
 New Ordinances
 Publisher's Note:  The following table lists all ordinances affecting the Health Code that have been passed by the Board of Supervisors but that are not yet effective. The table includes links to the amending ordinances (as maintained in PDF format on the Board of Supervisors' web site) and to the code sections affected. For other legislation, including older ordinances and those affecting other codes, please refer to the Comprehensive Ordinance Table or the Board's "Legislation Passed" web site.
 
-Ord. No.File No.Eff. DateShort Title and Code Sections Affected[None]
+Ord. No.File No.Eff. DateShort Title and Code Sections Affected19-1413040204/13/14Health, Business and Tax Regulations Codes - Safe Body Art
+
+Sections Affected:
+Art. 40, Secs. 4001, 4002, 4003, 4004, 4005, 4006, 4007, 4008, 4009, 4010, 4011, 4012, 4013, 4014, 4015, 4016, 4017 (Added); 255, 256, 257, 258, 259, 260, 261, 262, 263 (Repealed)26-1413040104/20/14Health Code - Hazardous Materials
+
+Sections Affected:
+1176.1 (Added); 1110.1, 1120, 1120.1 (Amended)30-1413120804/26/14Health Code - Restrictions on Sale and Use of Electronic Cigarettes
+
+Sections Affected:
+Art. 19N (Added)

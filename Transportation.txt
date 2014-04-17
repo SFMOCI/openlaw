@@ -5,7 +5,7 @@ MUNICIPAL CODE
 TRANSPORTATION CODE
  New Legislation Notice
 Publisher's Note: This Code includes sections affected by new legislation. Click here for a list of the new legislation and the affected sections.
-The San Francisco Municipal Code is current through Ordinance 18-14, File No. 130938, approved March 5, 2014, effective April 4, 2014.
+The San Francisco Municipal Code is current through Ordinance 5-14, File No. 130864, approved February 7, 2014, effective March 9, 2014.
 Division I of the Transportation Code was last amended by Ordinance 280-13, File No. 131119, approved December 18, 2013, effective January 17, 2014.
 Division II of the Transportation Code was last amended by SFMTA Board Resolution No. 14-023, adopted January 21, 2014, effective February 21, 2014.
 
@@ -1327,21 +1327,15 @@ SEC. 503.  COMMERCIAL PASSENGER VEHICLES; RESTRICTED STREETS.
 (Added by SFMTA Bd. Res. No. 10-139, Ad. 11/2/2010; amended by SFMTA Bd. Res. No. 11-004, Ad. 1/4/2011; SFMTA Bd. Res. No. 11-134, Ad. 10/18/2011, Eff. 11/18/2011; SFMTA Bd. Res. No. 13-249, Ad. 11/19/2013, Eff. 12/20/2013)
 ARTICLE 600:
 TRANSIT-RELATED RESTRICTIONS
- New Legislation Notice
-Publisher's Note: This Article includes sections affected by new legislation. Click here for a list of all new legislation affecting sections of this Code.
-
 Sec. 601. Designated Transit-Only Areas. 
 SEC. 601.  DESIGNATED TRANSIT-ONLY AREAS.
- New Legislation Notice
-Publisher's Note: This section has been AMENDED by new legislation (SFMTA Bd. Res. No. 14-043, adopted 3/28/2014, effective 4/28/2014). The text of the amendment will be incorporated below when the new legislation is effective.
 	(a)	The locations listed in this Section 601 are designated as Transit-only Areas. Any vehicle operating within a Transit-only Area during times that the Transit-only Area is enforced is in violation of Transportation Code, Division I, Section 7.2.72 (Driving in Transit-only Area). 
 		(1)	Cable Car Lanes On Powell Street Between California Street and Sutter Street. Except as to cable cars, Municipal Railway vehicles, and authorized emergency vehicles, no vehicle may operate within, over, upon or across the cable car lanes, or make any left or U-turn on the exclusive cable car lanes on Powell Street between California and Sutter Streets except to pass a disabled vehicle. 
 		(2)	West Portal Avenue Between 15th Avenue and Sloat Boulevard. Except as to streetcars and Municipal Railway vehicles, no vehicle may operate within Transit-only Areas on West Portal Avenue between 15th Avenue and Sloat Boulevard. 
 		(3)	Exclusive Commercial Vehicle/Transit Area on Sansome Street. Except as to buses, taxis, authorized emergency vehicles, and commercial vehicles, no vehicle may operate within the Transit-only Area running southbound on Sansome Street between Washington Street and Bush Street. 
 		(4)	Judah Street, from 9th Avenue to 20th Avenue. Except as to streetcars and Municipal Railway vehicles, no vehicle may operate within Transit-only Areas on Judah Street from 9th Avenue to 20th Avenue. 
 		(5)	Other Transit-Only Areas. Except for buses, taxicabs, vehicles preparing to make a turn, vehicles entering into or existing from a stopped position at the curb, and vehicles entering into or exiting from a driveway, no vehicle may operate in the following Transit-only Areas during the times indicated: 
-
-Hours of OperationStreetFromToAll Times1st St.Market St.Howard St.3rd St.Townsend St.Market St.4th St.Harrison St.Townsend St.4th St.Market St.Howard St.Clay St.Sansome St.Davis St.Fremont St.Mission St.Market St.Geary St.Market St.Powell St.Geary St.Mason St.Gough St.Judah St.20th Ave.La Playa St.Market St. (Inbound)12th St.5th St.Market St. (Outbound)So. Van Ness Ave.8th St.O'Farrell St.Gough St.Hyde St.O'Farrell St.Jones St.Powell St.Post St.Gough St.Grant St.Potrero Ave. (NB)24th St.22nd St.Stockton St.Bush St.Geary St.Sutter St.Gough St.Kearny St.7:00 AM-7:00 PM, Monday-FridaySacramento St.Drumm St.Kearny St.7:00 AM-7:00 PM, Monday-SaturdayStockton St.Geary St.O'Farrell St.7:00 AM-6:00 PM, Monday-FridayMission St. (Inbound)5th St.Beale St.Mission St. (Outbound)Main St.4th St.7:00 AM-9:00 PM, Monday-FridayMission St. (Inbound)11th St.5th St.O'Farrell St.Hyde St.Jones St.Clay St.Powell St.Battery St.4:00 PM-6:00 PM, Monday-FridayMission St. (Inbound)11th St.5th St.Mission St. (Outbound)4th St.11th St.Geary St.Mason St.Powell St.Sacramento St.Kearny St.Larkin St.3:00 PM-6:00 PM, Monday-FridaySutter St.Sansome St.Kearny St.3:00 PM-7:00 PM, Monday-FridayBush St.Montgomery St.Battery St.4th St.Howard St.Clementina
+Hours of Operation;Street;From;ToAll Times1st St.Market St.Howard St.3rd St.Townsend St.Market St.4th St.Harrison St.Townsend St.4th St.Market St.Howard St.Clay St.Sansome St.Davis St.Fremont St.Mission St.Market St.Geary St.Market St.Powell St.Geary St.Mason St.Gough St.Judah St.20th Ave.La Playa St.Market St. (Inbound)12th St.5th St.Market St. (Outbound)So. Van Ness Ave.8th St.O'Farrell St.Gough St.Hyde St.O'Farrell St.Jones St.Powell St.Post St.Gough St.Grant St.Potrero Ave. (NB)24th St.22nd St.Stockton St.Bush St.Geary St.Sutter St.Gough St.Kearny St.7:00 AM-7:00 PM, Monday-FridaySacramento St.Drumm St.Kearny St.7:00 AM-7:00 PM, Monday-SaturdayStockton St.Geary St.O'Farrell St.7:00 AM-6:00 PM, Monday-FridayMission St. (Inbound)5th St.Beale St.Mission St. (Outbound)Main St.4th St.7:00 AM-9:00 PM, Monday-FridayMission St. (Inbound)11th St.5th St.O'Farrell St.Hyde St.Jones St.Clay St.Powell St.Battery St.4:00 PM-6:00 PM, Monday-FridayMission St. (Inbound)11th St.5th St.Mission St. (Outbound)4th St.11th St.Geary St.Mason St.Powell St.Sacramento St.Kearny St.Larkin St.3:00 PM-6:00 PM, Monday-FridaySutter St.Sansome St.Kearny St.3:00 PM-7:00 PM, Monday-FridayBush St.Montgomery St.Battery St.4th St.Howard St.Clementina
 (SFMTA Bd. Res. No. 08-151, 8/19/2008; SFMTA Bd. Res. No. 09-172, 9/15/2009)
 ARTICLE 700:
 SPEED LIMITS
@@ -2982,7 +2976,4 @@ No.File No.Eff. DateShort Title and Code Sections AffectedRes. 13-229N/A11/14/13
 Sections Affected:
 1124 (Amended)
 
-* The amendments to Sec. 1124(c)(1) are operative on 4/15/2014; see Sec. 5 of the Resolution.Res. 14-043N/A04/28/14Transportation Code – Potrero Avenue Transit Only Lane
-
-Sections Affected
-601 (Amended) 
+* The amendments to Sec. 1124(c)(1) are operative on 4/15/2014; see Sec. 5 of the Resolution. 
